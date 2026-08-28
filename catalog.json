@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-08-28T20:34:02.8865698Z",
+    "generatedAt":  "2026-08-28T20:40:18.5303908Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -69,7 +69,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  40,
+                       "stock":  39,
                        "stockLinked":  true,
                        "stockMatch":  "ruta relativa"
                    },
@@ -173,7 +173,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  189,
+                       "stock":  188,
                        "stockLinked":  true,
                        "stockMatch":  "ruta relativa"
                    },
@@ -181,7 +181,7 @@
                        "name":  "ASTAXANTINA AMERICANA",
                        "folder":  "General",
                        "src":  "images/ASTAXANTINA AMERICANA.jpg",
-                       "stock":  4,
+                       "stock":  3,
                        "stockLinked":  true,
                        "stockMatch":  "ruta relativa"
                    },
@@ -261,7 +261,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  797,
+                       "stock":  796,
                        "stockLinked":  true,
                        "stockMatch":  "ruta relativa"
                    },
@@ -517,7 +517,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  724,
+                       "stock":  723,
                        "stockLinked":  true,
                        "stockMatch":  "ruta relativa"
                    },
