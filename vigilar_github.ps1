@@ -6,7 +6,7 @@ $ExcelPath = "C:\Users\Natural Point Progra\OneDrive\PUNTO DE VENTA NATURAL POIN
 $SheetName = "Base"
 $StartRow = 3
 $StockColumn = 15
-$PathColumn = 17
+$PathColumn = 16
 
 $Source = Get-ChildItem $Parent -Directory |
   Where-Object { $_.Name -like "CAT*LOGO DE PRODUCTOS" } |
@@ -221,7 +221,7 @@ function Publish-GitHub {
 Write-Host ""
 Write-Host "CATALOGO PRODUCTOS + EXISTENCIAS (RUTAS FLEXIBLES)" -ForegroundColor Cyan
 Write-Host "Ignora el usuario de Windows y la extension de imagen cuando es necesario." -ForegroundColor Yellow
-Write-Host "Base: O = existencia | Q = ruta | desde fila 3" -ForegroundColor Yellow
+Write-Host "Base: O = existencia | P = ruta | desde fila 3" -ForegroundColor Yellow
 Write-Host "Revisa Excel cada 15 segundos y publica 60 segundos despues del ultimo cambio." -ForegroundColor Yellow
 Write-Host ""
 
