@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-08-28T20:25:44.0208502Z",
+    "generatedAt":  "2026-08-28T20:34:02.8865698Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -261,7 +261,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  798,
+                       "stock":  797,
                        "stockLinked":  true,
                        "stockMatch":  "ruta relativa"
                    },
@@ -477,7 +477,7 @@
                        "name":  "COLÁGENO EN POLVO CON BIOTINA",
                        "folder":  "General",
                        "src":  "images/COLÁGENO EN POLVO CON BIOTINA.jpg",
-                       "stock":  10,
+                       "stock":  9,
                        "stockLinked":  true,
                        "stockMatch":  "ruta relativa"
                    },
