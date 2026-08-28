@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-08-28T19:55:04.5962014Z",
+    "generatedAt":  "2026-08-28T20:25:44.0208502Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -261,7 +261,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  800,
+                       "stock":  798,
                        "stockLinked":  true,
                        "stockMatch":  "ruta relativa"
                    },
@@ -469,7 +469,7 @@
                        "name":  "COLAGENO POLVO",
                        "folder":  "General",
                        "src":  "images/COLAGENO POLVO.jpeg",
-                       "stock":  8,
+                       "stock":  7,
                        "stockLinked":  true,
                        "stockMatch":  "ruta relativa"
                    },
