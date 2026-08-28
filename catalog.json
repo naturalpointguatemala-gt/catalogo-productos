@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-08-28T20:40:18.5303908Z",
+    "generatedAt":  "2026-08-28T20:57:46.8037107Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -957,7 +957,7 @@
                        "name":  "MAGNESIO COMPLEX",
                        "folder":  "General",
                        "src":  "images/MAGNESIO COMPLEX.jpeg",
-                       "stock":  55,
+                       "stock":  54,
                        "stockLinked":  true,
                        "stockMatch":  "ruta relativa"
                    },
