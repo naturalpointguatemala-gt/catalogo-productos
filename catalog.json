@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-08-28T19:18:13.8460040Z",
+    "generatedAt":  "2026-08-28T19:19:42.6166041Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -13,9 +13,9 @@
                        "name":  "ACEITE DE COCO EXTRA VIRGEN NATURES WAY",
                        "folder":  "General",
                        "src":  "images/ACEITE DE COCO EXTRA VIRGEN NATURES WAY.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  3,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "ACEITE DE COCO",
@@ -69,9 +69,9 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  40,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "AGUAJE GOMITAS BBP",
@@ -111,7 +111,7 @@
                        "src":  "images/AJO SIN OLOR.jpeg",
                        "stock":  21,
                        "stockLinked":  true,
-                       "stockMatch":  "nombre sin extension"
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "ALA",
@@ -125,17 +125,17 @@
                        "name":  "ALCACHOFA",
                        "folder":  "General",
                        "src":  "images/ALCACHOFA.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  39,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "ALOE VERA",
                        "folder":  "General",
                        "src":  "images/ALOE VERA.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  6,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "ARCILLA IMPORTADA",
@@ -221,9 +221,9 @@
                        "name":  "CALCIO CON VITAMINA D3 GNC",
                        "folder":  "General",
                        "src":  "images/CALCIO CON VITAMINA D3 GNC.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  2,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "CALLO DERMA COMBO",
@@ -237,9 +237,9 @@
                        "name":  "CALOSTRO",
                        "folder":  "General",
                        "src":  "images/CALOSTRO.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  3,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "CANELA",
@@ -285,9 +285,9 @@
                        "name":  "CENTRUM ADULTOS",
                        "folder":  "General",
                        "src":  "images/CENTRUM ADULTOS.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  3,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "CENTRUM MEN + 50",
@@ -301,9 +301,9 @@
                        "name":  "CENTRUM MEN 170 GOMITAS AZUL",
                        "folder":  "General",
                        "src":  "images/CENTRUM MEN 170 GOMITAS AZUL.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  5,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "CENTRUM MEN SILVER X 100 TABLETAS",
@@ -319,7 +319,7 @@
                        "src":  "images/CENTRUM MEN.jpeg",
                        "stock":  6,
                        "stockLinked":  true,
-                       "stockMatch":  "nombre sin extension"
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "CENTRUM PARA NIÑOS GOMITAS",
@@ -389,17 +389,17 @@
                        "name":  "CITRULINA 600GRAMOS KIWI FRESA",
                        "folder":  "General",
                        "src":  "images/CITRULINA 600GRAMOS KIWI FRESA.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  2,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "CITRULINA 600GRAMOS",
                        "folder":  "General",
                        "src":  "images/CITRULINA 600GRAMOS.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  1,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "CLORELLA ORGANICA",
@@ -461,9 +461,9 @@
                        "name":  "COLAGENO CON BIOTINA GOMITAS FLAMZY",
                        "folder":  "General",
                        "src":  "images/COLAGENO CON BIOTINA GOMITAS FLAMZY.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  1,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "COLAGENO POLVO",
@@ -509,9 +509,9 @@
                        "name":  "CÁSCARA SAGRADA",
                        "folder":  "General",
                        "src":  "images/CÁSCARA SAGRADA.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  35,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "CÚRCUMA CÁPSULAS",
@@ -597,9 +597,9 @@
                        "name":  "GABA 750MG  240 CAPS NUTRICOST",
                        "folder":  "General",
                        "src":  "images/GABA 750MG  240 CAPS NUTRICOST.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  2,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "GARCINIA CAMBOGIA",
@@ -661,9 +661,9 @@
                        "name":  "GLUCOSAMINA CONDROITINA MSM Y VITAMINA D3 PURITANS PRIDE 80 CAPS",
                        "folder":  "General",
                        "src":  "images/GLUCOSAMINA CONDROITINA MSM Y VITAMINA D3 PURITANS PRIDE 80 CAPS.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  3,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "GLUCOSAMINA Y CONDROITINA NUTRAMEDIX",
@@ -749,9 +749,9 @@
                        "name":  "HAIR, SKIN AND NAILS CON BIOTINA  200 GOMITAS. NARANJA NATURE´S BOUNTY",
                        "folder":  "General",
                        "src":  "images/HAIR, SKIN AND NAILS CON BIOTINA  200 GOMITAS. NARANJA NATURE´S BOUNTY.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  6,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "HEPA REVIVE ",
@@ -797,9 +797,9 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  243,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "ISOFLAVONAS",
@@ -853,9 +853,9 @@
                        "name":  "KIT A CHAMPIONS APPROACH RONNIE COLEMAN   2 FRASCOS DE 120 CAPS (OMEGA 3 \u0026 VITAMÍNICO)",
                        "folder":  "General",
                        "src":  "images/KIT A CHAMPIONS APPROACH RONNIE COLEMAN   2 FRASCOS DE 120 CAPS (OMEGA 3 \u0026 VITAMÍNICO).jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  5,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "L-CARNITINA BEBIBLE",
@@ -941,9 +941,9 @@
                        "name":  "LUTEIN LUTIGOLD 40MG",
                        "folder":  "General",
                        "src":  "images/LUTEIN LUTIGOLD 40MG.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  5,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "MACA",
@@ -973,9 +973,9 @@
                        "name":  "MAGNESIO NIÑOS GOMITAS NATROL",
                        "folder":  "General",
                        "src":  "images/MAGNESIO NIÑOS GOMITAS NATROL.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  6,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "MAGNESIO SUPER",
@@ -997,17 +997,17 @@
                        "name":  "MEGA MEN GNC",
                        "folder":  "General",
                        "src":  "images/MEGA MEN GNC.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  2,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "MELATONINA ADULTOS CARLYLE",
                        "folder":  "General",
                        "src":  "images/MELATONINA ADULTOS CARLYLE.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  2,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "MELATONINA ADULTOS NATROL",
@@ -1061,17 +1061,17 @@
                        "name":  "MULTIVITAMÍNICO NUTRICOST CON PROBIÓTICOS",
                        "folder":  "General",
                        "src":  "images/MULTIVITAMÍNICO NUTRICOST CON PROBIÓTICOS.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  3,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "MULTIVITAMÍNICO PARA NIÑOS OLLY  70 GUSANITOS DE GOMA",
                        "folder":  "General",
                        "src":  "images/MULTIVITAMÍNICO PARA NIÑOS OLLY  70 GUSANITOS DE GOMA.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  4,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "NAC",
@@ -1085,9 +1085,9 @@
                        "name":  "NIACIN VITAMINA B3 NUTRICOST",
                        "folder":  "General",
                        "src":  "images/NIACIN VITAMINA B3 NUTRICOST.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  3,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "NOPAL",
@@ -1117,9 +1117,9 @@
                        "name":  "OMEGA 3 GNC LIMÓN X 90 CAPS",
                        "folder":  "General",
                        "src":  "images/OMEGA 3 GNC LIMÓN X 90 CAPS.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  2,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "OMEGA 3 KIDS VEVISS",
@@ -1173,25 +1173,25 @@
                        "name":  "ONE A DAY MENS 200 TABS",
                        "folder":  "General",
                        "src":  "images/ONE A DAY MENS 200 TABS.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  3,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "ONE A DAY PRENATAL ADVANCED",
                        "folder":  "General",
                        "src":  "images/ONE A DAY PRENATAL ADVANCED.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  3,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "ONE A DAY WOMEN 200 TABS",
                        "folder":  "General",
                        "src":  "images/ONE A DAY WOMEN 200 TABS.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  3,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "ORTIGA",
@@ -1245,9 +1245,9 @@
                        "name":  "PROBIOTICOS PARA NIÑOS NATURES WAY",
                        "folder":  "General",
                        "src":  "images/PROBIOTICOS PARA NIÑOS NATURES WAY.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  2,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "PROBIOTICOS WOMENS",
@@ -1277,9 +1277,9 @@
                        "name":  "PROBIÓTICOS Y PREBIÓTICOS FORTIFY",
                        "folder":  "General",
                        "src":  "images/PROBIÓTICOS Y PREBIÓTICOS FORTIFY.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  6,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "PROGESTERONA CREMA",
@@ -1325,9 +1325,9 @@
                        "name":  "SAW PALMETTO",
                        "folder":  "General",
                        "src":  "images/SAW PALMETTO.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  14,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "SELENIO",
@@ -1413,9 +1413,9 @@
                        "name":  "ULTRA OMEGA 3 NOW X 90",
                        "folder":  "General",
                        "src":  "images/ULTRA OMEGA 3 NOW X 90.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  11,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "URO PROBIOTICOS VAGINALES",
@@ -1445,9 +1445,9 @@
                        "name":  "VINAGRE DE MANZANA GOLÍ",
                        "folder":  "General",
                        "src":  "images/VINAGRE DE MANZANA GOLÍ.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  2,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "VINAGRE DE MANZANA",
@@ -1533,17 +1533,17 @@
                        "name":  "VITAMINA C",
                        "folder":  "General",
                        "src":  "images/VITAMINA C.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  11,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "VITAMINA D3 CON K2",
                        "folder":  "General",
                        "src":  "images/VITAMINA D3 CON K2.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  17,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "VITAMINA E 1000 UI",
@@ -1573,9 +1573,9 @@
                        "name":  "VITAMINAS ADOLESCENTES HOMBRES",
                        "folder":  "General",
                        "src":  "images/VITAMINAS ADOLESCENTES HOMBRES.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  1,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "VITAMINAS ALIVE DAILY ENERGY",
@@ -1589,9 +1589,9 @@
                        "name":  "VITAMINAS SMARTY PANTS",
                        "folder":  "General",
                        "src":  "images/VITAMINAS SMARTY PANTS.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  3,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "VITEX",
@@ -1621,9 +1621,9 @@
                        "name":  "YOHIMBE POLVO",
                        "folder":  "General",
                        "src":  "images/YOHIMBE POLVO.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  12,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "YOHIMBINA EXTRACTO",
@@ -1653,25 +1653,25 @@
                        "name":  "ZINC 50MG GNC",
                        "folder":  "General",
                        "src":  "images/ZINC 50MG GNC.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  3,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "ZINC PARA HOMBRES 11 INGREDIENTES",
                        "folder":  "General",
                        "src":  "images/ZINC PARA HOMBRES 11 INGREDIENTES.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  2,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "ZINC",
                        "folder":  "General",
                        "src":  "images/ZINC.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  12,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "AMINO ENERGY FRESA",
@@ -1717,17 +1717,17 @@
                        "name":  "CREATINA DRAGON 30 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 30 SERVIDAS.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  4,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  29,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "CREATINA DRAGON PHARMA 200 SERVIDAS",
@@ -1749,25 +1749,25 @@
                        "name":  "CREATINA MASTICABLE FRUTOS ROJOS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MASTICABLE FRUTOS ROJOS.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  5,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "CREATINA META NUTRITION 100 SERVIDAS SIN SABOR",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA META NUTRITION 100 SERVIDAS SIN SABOR.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  2,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "CREATINA MONOHIDRATADA  100 SERVIDAS SIN SABOR NUTRICOST",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MONOHIDRATADA  100 SERVIDAS SIN SABOR NUTRICOST.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  5,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "CREATINA MUSCLETECH 80 SERVIDAS 400GR",
@@ -1797,9 +1797,9 @@
                        "name":  "CREATINA OPTIMUM NUTRITION SIN SABOR 300G",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA OPTIMUM NUTRITION SIN SABOR 300G.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  3,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "CREATINA RAW SIN SABOR 100 SERVIDAS",
@@ -1837,9 +1837,9 @@
                        "name":  "GANADOR DE PESO BULK MUSCLE XL CHOCOLATE",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/GANADOR DE PESO BULK MUSCLE XL CHOCOLATE.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  1,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "GLUTAMINA",
@@ -1853,41 +1853,41 @@
                        "name":  "ISO PHORM 5LB CONO DE VAINILLA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/ISO PHORM 5LB CONO DE VAINILLA.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  4,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "KING WHEY RONNIE COLEMAN CHOCOLATE CON LECHE",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/KING WHEY RONNIE COLEMAN CHOCOLATE CON LECHE.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  1,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "KING WHEY RONNIE COLEMAN VAINILLA ICE CREAM",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/KING WHEY RONNIE COLEMAN VAINILLA ICE CREAM.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  1,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "PRE ENTRENO VENOM INFERNO LYCHEE",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE ENTRENO VENOM INFERNO LYCHEE.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  2,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "PREENTRENO MR VEINZ NARANJA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PREENTRENO MR VEINZ NARANJA.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  2,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "PREENTRENO PSYCHOTIC ROJO 30 SERVIDAS GUMMY CANDY",
@@ -1901,33 +1901,33 @@
                        "name":  "PREENTRENO VENOM ESSENTIAL FRESA KIWI",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PREENTRENO VENOM ESSENTIAL FRESA KIWI.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  1,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "PROTEIN PHORM 28 SERVIDAS SABOR CHURRO",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEIN PHORM 28 SERVIDAS SABOR CHURRO.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  2,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "PROTEINA MUTANT WHEY 5LIBRAS VAINILLA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEINA MUTANT WHEY 5LIBRAS VAINILLA.png",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  1,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    },
                    {
                        "name":  "PROTEINA WHEY PHORM VAINILLA Y CHOCOLATE BLANCO  25 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEINA WHEY PHORM VAINILLA Y CHOCOLATE BLANCO  25 SERVIDAS.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stock":  2,
+                       "stockLinked":  true,
+                       "stockMatch":  "ruta relativa"
                    }
                ]
 }
