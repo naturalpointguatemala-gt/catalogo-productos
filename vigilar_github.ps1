@@ -270,40 +270,32 @@ function Get-ExcelRows {
     }
 }
 
-function Get-ExcelSignature {
-    $rows = Get-ExcelRows
-    $parts = @()
+function Get-ExcelState {
+    $rows = @(Get-ExcelRows)
+    $parts = New-Object System.Collections.Generic.List[string]
 
     foreach ($r in $rows) {
-        $parts += "$($r.Row)|$($r.Stock)|$($r.Path)"
+        $stockText = if ($null -eq $r.Stock) { "" } else { [string]$r.Stock }
+        $pathText  = if ($null -eq $r.Path)  { "" } else { [string]$r.Path }
+        [void]$parts.Add(("{0}|{1}|{2}" -f $r.Row, $stockText, $pathText))
     }
 
-    $sha = [Security.Cryptography.SHA256]::Create()
-    try {
-        return ([BitConverter]::ToString(
-            $sha.ComputeHash([Text.Encoding]::UTF8.GetBytes(($parts -join "`n")))
-        ) -replace "-","")
-    }
-    finally { $sha.Dispose() }
+    # No usamos SHA ni ComputeHash. La comparación se hace directamente.
+    return [string]::Join("`n", $parts.ToArray())
 }
 
-function Get-ImageSignature {
-    $parts = @()
+function Get-ImageState {
+    $parts = New-Object System.Collections.Generic.List[string]
 
-    Get-ChildItem $SourceFolder -File -Recurse -ErrorAction SilentlyContinue |
-        Where-Object { $Ext -contains $_.Extension.ToLower() } |
-        Sort-Object FullName |
-        ForEach-Object {
-            $parts += "$($_.FullName)|$($_.Length)|$($_.LastWriteTimeUtc.Ticks)"
-        }
+    $files = @(Get-ChildItem $SourceFolder -File -Recurse -ErrorAction SilentlyContinue |
+        Where-Object { $Ext -contains $_.Extension.ToLowerInvariant() } |
+        Sort-Object FullName)
 
-    $sha = [Security.Cryptography.SHA256]::Create()
-    try {
-        return ([BitConverter]::ToString(
-            $sha.ComputeHash([Text.Encoding]::UTF8.GetBytes(($parts -join "`n")))
-        ) -replace "-","")
+    foreach ($f in $files) {
+        [void]$parts.Add(("{0}|{1}|{2}" -f $f.FullName, $f.Length, $f.LastWriteTimeUtc.Ticks))
     }
-    finally { $sha.Dispose() }
+
+    return [string]::Join("`n", $parts.ToArray())
 }
 
 function Read-StockMap {
@@ -423,9 +415,10 @@ function Publish-GitHub {
 }
 
 Write-Host ""
-Write-Host "CATALOGO PRODUCTOS + EXISTENCIAS (CONEXION PERSISTENTE)" -ForegroundColor Cyan
+Write-Host "CATALOGO PRODUCTOS + EXISTENCIAS (SIN SHA / NULL FIX)" -ForegroundColor Cyan
 Write-Host "Base: O = existencia | P = ruta | desde fila 3" -ForegroundColor Yellow
 Write-Host "Lee directamente el Excel abierto cada 15 segundos." -ForegroundColor Yellow
+Write-Host "Comparacion directa: protegida contra valores NULL." -ForegroundColor Yellow
 Write-Host "Publica 60 segundos despues del ultimo cambio." -ForegroundColor Yellow
 Write-Host ""
 
@@ -434,8 +427,8 @@ Connect-LiveWorkbook
 $excelRows = Get-ExcelRows
 Write-Host ("Filas con ruta detectadas: " + $excelRows.Count) -ForegroundColor Cyan
 
-$excelSig = Get-ExcelSignature
-$imageSig = Get-ImageSignature
+$excelSig = Get-ExcelState
+$imageSig = Get-ImageState
 $pending = $false
 $lastChange = Get-Date
 
@@ -443,8 +436,8 @@ while ($true) {
     Start-Sleep -Seconds 15
 
     try {
-        $newExcelSig = Get-ExcelSignature
-        $newImageSig = Get-ImageSignature
+        $newExcelSig = Get-ExcelState
+        $newImageSig = Get-ImageState
         $changed = $false
 
         if ($newExcelSig -ne $excelSig) {
