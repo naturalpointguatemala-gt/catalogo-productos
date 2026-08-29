@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-08-29T17:24:06.7683058Z",
+    "generatedAt":  "2026-08-29T17:28:27.6954285Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -1400,13 +1400,6 @@
                        "src":  "images/VITEX.png",
                        "stock":  28,
                        "stockLinked":  true
-                   },
-                   {
-                       "name":  "WhatsApp Image 2026-08-15 at 8.45.06 AM",
-                       "folder":  "General",
-                       "src":  "images/WhatsApp Image 2026-08-15 at 8.45.06 AM.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false
                    },
                    {
                        "name":  "YODO",
