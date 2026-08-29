@@ -1,11 +1,11 @@
 ﻿{
-    "generatedAt":  "2026-08-29T16:30:40.7297484Z",
+    "generatedAt":  "2026-08-29T16:35:24.6554358Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
                        "folder":  "General",
                        "src":  "images/ABEDUL.png",
-                       "stock":  67,
+                       "stock":  66,
                        "stockLinked":  true
                    },
                    {
