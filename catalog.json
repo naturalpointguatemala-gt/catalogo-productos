@@ -1,12 +1,12 @@
 ﻿{
-    "generatedAt":  "2026-08-29T18:47:55.1457091Z",
+    "generatedAt":  "2026-08-29T18:51:42.9936767Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
                        "folder":  "General",
                        "src":  "images/ABEDUL.png",
-                       "stock":  null,
-                       "stockLinked":  false
+                       "stock":  66,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ACEITE DE COCO EXTRA VIRGEN NATURES WAY",
@@ -334,7 +334,7 @@
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
-                       "stock":  143,
+                       "stock":  142,
                        "stockLinked":  true
                    },
                    {
