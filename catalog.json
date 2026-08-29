@@ -1,1933 +1,1692 @@
 ﻿{
-    "generatedAt":  "2026-08-29T16:02:05.4334102Z",
+    "generatedAt":  "2026-08-29T16:30:40.7297484Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
                        "folder":  "General",
                        "src":  "images/ABEDUL.png",
-                       "stock":  66,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stock":  67,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ACEITE DE COCO EXTRA VIRGEN NATURES WAY",
                        "folder":  "General",
                        "src":  "images/ACEITE DE COCO EXTRA VIRGEN NATURES WAY.jpeg",
                        "stock":  3,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ACEITE DE COCO",
                        "folder":  "General",
                        "src":  "images/ACEITE DE COCO.jpeg",
                        "stock":  6,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ACEITE DE OREGANO",
                        "folder":  "General",
                        "src":  "images/ACEITE DE OREGANO.jpeg",
                        "stock":  25,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ACEITE DE SALMON",
                        "folder":  "General",
                        "src":  "images/ACEITE DE SALMON.jpeg",
                        "stock":  2,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ACEITE DE TIBURÓN",
                        "folder":  "General",
                        "src":  "images/ACEITE DE TIBURÓN.jpeg",
                        "stock":  12,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ACIDO HIALURONICO",
                        "folder":  "General",
                        "src":  "images/ACIDO HIALURONICO.jpeg",
                        "stock":  7,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "AGUAJE AMERICANO",
                        "folder":  "General",
                        "src":  "images/AGUAJE AMERICANO.png",
                        "stock":  1,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
                        "stock":  38,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "AGUAJE GOMITAS BBP",
                        "folder":  "General",
                        "src":  "images/AGUAJE GOMITAS BBP.jpeg",
                        "stock":  4,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "AGUAJE PERUANO",
                        "folder":  "General",
                        "src":  "images/AGUAJE PERUANO.png",
                        "stock":  21,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "AJO NEGRO",
                        "folder":  "General",
                        "src":  "images/AJO NEGRO.png",
                        "stock":  30,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "AJO SIN OLOR AMERICANO",
                        "folder":  "General",
                        "src":  "images/AJO SIN OLOR AMERICANO.jpeg",
                        "stock":  4,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "AJO SIN OLOR",
                        "folder":  "General",
                        "src":  "images/AJO SIN OLOR.jpeg",
                        "stock":  21,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ALA",
                        "folder":  "General",
                        "src":  "images/ALA.jpeg",
                        "stock":  15,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ALCACHOFA",
                        "folder":  "General",
                        "src":  "images/ALCACHOFA.jpeg",
                        "stock":  39,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ALOE VERA",
                        "folder":  "General",
                        "src":  "images/ALOE VERA.jpeg",
                        "stock":  6,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ARCILLA IMPORTADA",
                        "folder":  "General",
                        "src":  "images/ARCILLA IMPORTADA.jpeg",
                        "stock":  9,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ARGININA",
                        "folder":  "General",
                        "src":  "images/ARGININA.png",
                        "stock":  27,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ASHWAGANDHA AMERICANA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA AMERICANA.jpeg",
                        "stock":  49,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ASHWAGANDHA GOTAS",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA GOTAS.jpeg",
                        "stock":  1,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  183,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stock":  181,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ASTAXANTINA AMERICANA",
                        "folder":  "General",
                        "src":  "images/ASTAXANTINA AMERICANA.jpg",
                        "stock":  3,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ASTAXANTINA",
                        "folder":  "General",
                        "src":  "images/ASTAXANTINA.jpeg",
                        "stock":  11,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
                        "stock":  94,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "BOLDO",
                        "folder":  "General",
                        "src":  "images/BOLDO.png",
                        "stock":  12,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CALCIO CITRATO",
                        "folder":  "General",
                        "src":  "images/CALCIO CITRATO.png",
                        "stock":  16,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CALCIO CON VITAMINA D3 GNC",
                        "folder":  "General",
                        "src":  "images/CALCIO CON VITAMINA D3 GNC.jpeg",
                        "stock":  2,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
                        "stock":  -1326,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CALOSTRO",
                        "folder":  "General",
                        "src":  "images/CALOSTRO.jpeg",
                        "stock":  3,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CANELA",
                        "folder":  "General",
                        "src":  "images/CANELA.png",
                        "stock":  12,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CARBÓN ACTIVADO",
                        "folder":  "General",
                        "src":  "images/CARBÓN ACTIVADO.png",
                        "stock":  20,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  787,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stock":  825,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CARTÍLAGO DE TIBURÓN",
                        "folder":  "General",
                        "src":  "images/CARTÍLAGO DE TIBURÓN.png",
                        "stock":  10,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CASTAÑA DE INDIAS",
                        "folder":  "General",
                        "src":  "images/CASTAÑA DE INDIAS.png",
                        "stock":  41,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CENTRUM ADULTOS",
                        "folder":  "General",
                        "src":  "images/CENTRUM ADULTOS.jpeg",
                        "stock":  3,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CENTRUM MEN + 50",
                        "folder":  "General",
                        "src":  "images/CENTRUM MEN + 50.jpeg",
                        "stock":  5,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CENTRUM MEN 170 GOMITAS AZUL",
                        "folder":  "General",
                        "src":  "images/CENTRUM MEN 170 GOMITAS AZUL.jpeg",
                        "stock":  5,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CENTRUM MEN SILVER X 100 TABLETAS",
                        "folder":  "General",
                        "src":  "images/CENTRUM MEN SILVER X 100 TABLETAS.jpeg",
                        "stock":  5,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CENTRUM MEN",
                        "folder":  "General",
                        "src":  "images/CENTRUM MEN.jpeg",
                        "stock":  6,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CENTRUM PARA NIÑOS GOMITAS",
                        "folder":  "General",
                        "src":  "images/CENTRUM PARA NIÑOS GOMITAS.jpeg",
                        "stock":  9,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CENTRUM WOMEN +50",
                        "folder":  "General",
                        "src":  "images/CENTRUM WOMEN +50.jpeg",
                        "stock":  3,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CENTRUM WOMEN 170 GOMITAS",
                        "folder":  "General",
                        "src":  "images/CENTRUM WOMEN 170 GOMITAS.jpeg",
                        "stock":  4,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CENTRUM WOMEN 200 TABS",
                        "folder":  "General",
                        "src":  "images/CENTRUM WOMEN 200 TABS.jpeg",
                        "stock":  11,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CENTRUM WOMEN",
                        "folder":  "General",
                        "src":  "images/CENTRUM WOMEN.jpeg",
                        "stock":  3,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CHANCAPIEDRA",
                        "folder":  "General",
                        "src":  "images/CHANCAPIEDRA.jpeg",
                        "stock":  26,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
                        "stock":  215,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
                        "stock":  143,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CITRULINA 600GRAMOS KIWI FRESA",
                        "folder":  "General",
                        "src":  "images/CITRULINA 600GRAMOS KIWI FRESA.jpeg",
                        "stock":  2,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CITRULINA 600GRAMOS",
                        "folder":  "General",
                        "src":  "images/CITRULINA 600GRAMOS.jpeg",
                        "stock":  1,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CLORELLA ORGANICA",
                        "folder":  "General",
                        "src":  "images/CLORELLA ORGANICA.jpeg",
                        "stock":  15,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CLOROFILA",
                        "folder":  "General",
                        "src":  "images/CLOROFILA.jpeg",
                        "stock":  3,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CLORURO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CLORURO DE MAGNESIO.jpeg",
                        "stock":  5,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "COENZIMA 400MG",
                        "folder":  "General",
                        "src":  "images/COENZIMA 400MG.jpeg",
                        "stock":  4,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "COENZIMA Q10 AMERICANA",
                        "folder":  "General",
                        "src":  "images/COENZIMA Q10 AMERICANA.jpeg",
                        "stock":  5,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "COENZIMA Q10 NATURAL POINT",
                        "folder":  "General",
                        "src":  "images/COENZIMA Q10 NATURAL POINT.jpeg",
                        "stock":  12,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "COLA DE CABALLO",
                        "folder":  "General",
                        "src":  "images/COLA DE CABALLO.png",
                        "stock":  11,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "COLAGENO CON BIOTINA GOMITAS FLAMZY",
                        "folder":  "General",
                        "src":  "images/COLAGENO CON BIOTINA GOMITAS FLAMZY.jpeg",
                        "stock":  1,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "COLAGENO POLVO",
                        "folder":  "General",
                        "src":  "images/COLAGENO POLVO.jpeg",
                        "stock":  7,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "COLÁGENO EN POLVO CON BIOTINA",
                        "folder":  "General",
                        "src":  "images/COLÁGENO EN POLVO CON BIOTINA.jpg",
                        "stock":  9,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "COLÁGENO HIDROLIZADO CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/COLÁGENO HIDROLIZADO CÁPSULAS.jpeg",
                        "stock":  11,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CRANBERRY EXTRACTO CON VITAMINA C",
                        "folder":  "General",
                        "src":  "images/CRANBERRY EXTRACTO CON VITAMINA C.jpeg",
                        "stock":  21,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CREATINA GAT",
                        "folder":  "General",
                        "src":  "images/CREATINA GAT.jpeg",
                        "stock":  3,
-                       "stockLinked":  true,
-                       "stockMatch":  "nombre sin extension"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CÁSCARA SAGRADA",
                        "folder":  "General",
                        "src":  "images/CÁSCARA SAGRADA.jpeg",
                        "stock":  35,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  718,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stock":  760,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CÚRCUMA PURA",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA PURA.png",
                        "stock":  21,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "DHEA 25MG LIFE EX",
                        "folder":  "General",
                        "src":  "images/DHEA 25MG LIFE EX.png",
                        "stock":  1,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
                        "stock":  43,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ELECTROLITROS LIMON",
                        "folder":  "General",
                        "src":  "images/ELECTROLITROS LIMON.png",
                        "stock":  1,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ENZIMAS DE PAPAYA",
                        "folder":  "General",
                        "src":  "images/ENZIMAS DE PAPAYA.png",
                        "stock":  11,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "EQUINÁCEA",
                        "folder":  "General",
                        "src":  "images/EQUINÁCEA.png",
                        "stock":  25,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ESPIRULINA",
                        "folder":  "General",
                        "src":  "images/ESPIRULINA.jpeg",
                        "stock":  26,
-                       "stockLinked":  true,
-                       "stockMatch":  "nombre sin extension"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "FENOGRECO",
                        "folder":  "General",
                        "src":  "images/FENOGRECO.png",
                        "stock":  24,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "FIBRA",
                        "folder":  "General",
                        "src":  "images/FIBRA.jpeg",
                        "stock":  2,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "GABA 750MG  240 CAPS NUTRICOST",
                        "folder":  "General",
                        "src":  "images/GABA 750MG  240 CAPS NUTRICOST.jpeg",
                        "stock":  2,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "GARCINIA CAMBOGIA",
                        "folder":  "General",
                        "src":  "images/GARCINIA CAMBOGIA.jpeg",
                        "stock":  18,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "GINKGO BILOBA",
                        "folder":  "General",
                        "src":  "images/GINKGO BILOBA.png",
                        "stock":  24,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "GINSENG COREANO",
                        "folder":  "General",
                        "src":  "images/GINSENG COREANO.png",
                        "stock":  9,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "GLICEROL LÍQUIDO SANDIA MANZANA VERDE",
                        "folder":  "General",
                        "src":  "images/GLICEROL LÍQUIDO SANDIA MANZANA VERDE.png",
                        "stock":  2,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "GLICINATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/GLICINATO DE MAGNESIO.jpeg",
                        "stock":  8,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "GLUCOSAMINA + CODROITINA + MSM + CURCUMA NATURAL P",
                        "folder":  "General",
                        "src":  "images/GLUCOSAMINA + CODROITINA + MSM + CURCUMA NATURAL P.jpeg",
                        "stock":  1,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "GLUCOSAMINA + CONDROITINA NATURE MADE",
                        "folder":  "General",
                        "src":  "images/GLUCOSAMINA + CONDROITINA NATURE MADE.jpeg",
                        "stock":  3,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "GLUCOSAMINA CONDROITINA MSM Y VITAMINA D3 PURITANS PRIDE 80 CAPS",
                        "folder":  "General",
                        "src":  "images/GLUCOSAMINA CONDROITINA MSM Y VITAMINA D3 PURITANS PRIDE 80 CAPS.jpeg",
                        "stock":  3,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "GLUCOSAMINA Y CONDROITINA NUTRAMEDIX",
                        "folder":  "General",
                        "src":  "images/GLUCOSAMINA Y CONDROITINA NUTRAMEDIX.jpeg",
                        "stock":  4,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "GLUTATION LIPOSOMAL NP",
                        "folder":  "General",
                        "src":  "images/GLUTATION LIPOSOMAL NP.jpeg",
                        "stock":  42,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "GLUTATION NOW 60 CAPS",
                        "folder":  "General",
                        "src":  "images/GLUTATION NOW 60 CAPS.jpeg",
                        "stock":  3,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "GOLDEN SEAL",
                        "folder":  "General",
                        "src":  "images/GOLDEN SEAL.png",
                        "stock":  19,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "GOLI MELATONINA",
                        "folder":  "General",
                        "src":  "images/GOLI MELATONINA.jpeg",
                        "stock":  2,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "GOTAS CALLO DERMA",
                        "folder":  "General",
                        "src":  "images/GOTAS CALLO DERMA.png",
                        "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stockLinked":  false
                    },
                    {
                        "name":  "GRAVIOLA (GUANÁBANA)",
                        "folder":  "General",
                        "src":  "images/GRAVIOLA (GUANÁBANA).png",
                        "stock":  26,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "GUARANÁ EXTRACTO",
                        "folder":  "General",
                        "src":  "images/GUARANÁ EXTRACTO.png",
                        "stock":  23,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "GYMNEMA SYLVESTRE",
                        "folder":  "General",
                        "src":  "images/GYMNEMA SYLVESTRE.png",
                        "stock":  40,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "HAIR SKIN NAILS X 200 GOMITAS ROSADO",
                        "folder":  "General",
                        "src":  "images/HAIR SKIN NAILS X 200 GOMITAS ROSADO.jpeg",
                        "stock":  1,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "HAIR, SKIN AND NAILS CON BIOTINA  200 GOMITAS. NARANJA NATURE´S BOUNTY",
                        "folder":  "General",
                        "src":  "images/HAIR, SKIN AND NAILS CON BIOTINA  200 GOMITAS. NARANJA NATURE´S BOUNTY.jpeg",
                        "stock":  6,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "HEPA REVIVE ",
                        "folder":  "General",
                        "src":  "images/HEPA REVIVE .jpg",
                        "stock":  98,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "HGH HORMONA DEL CRECIMIENTO",
                        "folder":  "General",
                        "src":  "images/HGH HORMONA DEL CRECIMIENTO.jpeg",
                        "stock":  6,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "HIERRO 65 MG",
                        "folder":  "General",
                        "src":  "images/HIERRO 65 MG.jpeg",
                        "stock":  1,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "INOSITOL DORADO",
                        "folder":  "General",
                        "src":  "images/INOSITOL DORADO.jpeg",
                        "stock":  3,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "INOSITOL POLVO DEAL SUPPLEMENT",
                        "folder":  "General",
                        "src":  "images/INOSITOL POLVO DEAL SUPPLEMENT.jpeg",
                        "stock":  2,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
                        "stock":  238,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ISOFLAVONAS",
                        "folder":  "General",
                        "src":  "images/ISOFLAVONAS.png",
                        "stock":  9,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "JABÓN DE ARROZ",
                        "folder":  "General",
                        "src":  "images/JABÓN DE ARROZ.png",
                        "stock":  19,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "JABÓN DE CÚRCUMA",
                        "folder":  "General",
                        "src":  "images/JABÓN DE CÚRCUMA.png",
                        "stock":  12,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "JABÓN DE ROMERO",
                        "folder":  "General",
                        "src":  "images/JABÓN DE ROMERO.png",
                        "stock":  2,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "JENGIBRE",
                        "folder":  "General",
                        "src":  "images/JENGIBRE.png",
                        "stock":  18,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "KELP EXTRACTO",
                        "folder":  "General",
                        "src":  "images/KELP EXTRACTO.jpeg",
                        "stock":  33,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "KIT A CHAMPIONS APPROACH RONNIE COLEMAN   2 FRASCOS DE 120 CAPS (OMEGA 3 \u0026 VITAMÍNICO)",
                        "folder":  "General",
                        "src":  "images/KIT A CHAMPIONS APPROACH RONNIE COLEMAN   2 FRASCOS DE 120 CAPS (OMEGA 3 \u0026 VITAMÍNICO).jpeg",
                        "stock":  5,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "L-CARNITINA BEBIBLE",
                        "folder":  "General",
                        "src":  "images/L-CARNITINA BEBIBLE.jpeg",
                        "stock":  4,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "L-CARNITINA CAPSULAS",
                        "folder":  "General",
                        "src":  "images/L-CARNITINA CAPSULAS.jpeg",
                        "stock":  4,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "L-LISINA",
                        "folder":  "General",
                        "src":  "images/L-LISINA.jpeg",
                        "stock":  12,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "L-TRIPTÓFANO",
                        "folder":  "General",
                        "src":  "images/L-TRIPTÓFANO.png",
                        "stock":  22,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "LECHE DORADA POLVO",
                        "folder":  "General",
                        "src":  "images/LECHE DORADA POLVO.jpg",
                        "stock":  10,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "LECITINA DE SOYA",
                        "folder":  "General",
                        "src":  "images/LECITINA DE SOYA.png",
                        "stock":  2,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
                        "stock":  28,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "LIPO 6 BLACK QUEMADOR DE GRASA",
                        "folder":  "General",
                        "src":  "images/LIPO 6 BLACK QUEMADOR DE GRASA.jpeg",
                        "stock":  2,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "LONGJACK TONGKAT ALI",
                        "folder":  "General",
                        "src":  "images/LONGJACK TONGKAT ALI.jpeg",
                        "stock":  4,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "LONJACK POINT",
                        "folder":  "General",
                        "src":  "images/LONJACK POINT.jpeg",
                        "stock":  10,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "LUTEIN LUTIGOLD 40MG",
                        "folder":  "General",
                        "src":  "images/LUTEIN LUTIGOLD 40MG.jpeg",
                        "stock":  5,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "MACA",
                        "folder":  "General",
                        "src":  "images/MACA.png",
                        "stock":  13,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "MAGNESIO COMPLEX",
                        "folder":  "General",
                        "src":  "images/MAGNESIO COMPLEX.jpeg",
                        "stock":  54,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "MAGNESIO GLICINATO GOLI",
                        "folder":  "General",
                        "src":  "images/MAGNESIO GLICINATO GOLI.jpeg",
                        "stock":  1,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "MAGNESIO NIÑOS GOMITAS NATROL",
                        "folder":  "General",
                        "src":  "images/MAGNESIO NIÑOS GOMITAS NATROL.jpeg",
                        "stock":  6,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "MAGNESIO SUPER",
                        "folder":  "General",
                        "src":  "images/MAGNESIO SUPER.jpeg",
                        "stock":  6,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "MAGNESIO Y POTASIO AMERICANO",
                        "folder":  "General",
                        "src":  "images/MAGNESIO Y POTASIO AMERICANO.jpeg",
                        "stock":  9,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "MEGA MEN GNC",
                        "folder":  "General",
                        "src":  "images/MEGA MEN GNC.jpeg",
                        "stock":  2,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "MELATONINA ADULTOS CARLYLE",
                        "folder":  "General",
                        "src":  "images/MELATONINA ADULTOS CARLYLE.jpeg",
                        "stock":  2,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "MELATONINA ADULTOS NATROL",
                        "folder":  "General",
                        "src":  "images/MELATONINA ADULTOS NATROL.jpeg",
                        "stock":  1,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "MELATONINA KIDS NATROL",
                        "folder":  "General",
                        "src":  "images/MELATONINA KIDS NATROL.jpeg",
                        "stock":  5,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "MELATONINA",
                        "folder":  "General",
                        "src":  "images/MELATONINA.png",
                        "stock":  7,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "MELENA DE LEON EXTRACTO",
                        "folder":  "General",
                        "src":  "images/MELENA DE LEON EXTRACTO.jpeg",
                        "stock":  25,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "MORINGA",
                        "folder":  "General",
                        "src":  "images/MORINGA.png",
                        "stock":  10,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "MSM",
                        "folder":  "General",
                        "src":  "images/MSM.png",
                        "stock":  12,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "MULTIVITAMÍNICO NUTRICOST CON PROBIÓTICOS",
                        "folder":  "General",
                        "src":  "images/MULTIVITAMÍNICO NUTRICOST CON PROBIÓTICOS.jpeg",
                        "stock":  3,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "MULTIVITAMÍNICO PARA NIÑOS OLLY  70 GUSANITOS DE GOMA",
                        "folder":  "General",
                        "src":  "images/MULTIVITAMÍNICO PARA NIÑOS OLLY  70 GUSANITOS DE GOMA.jpeg",
                        "stock":  4,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "NAC",
                        "folder":  "General",
                        "src":  "images/NAC.png",
                        "stock":  51,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "NIACIN VITAMINA B3 NUTRICOST",
                        "folder":  "General",
                        "src":  "images/NIACIN VITAMINA B3 NUTRICOST.jpeg",
                        "stock":  3,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "NOPAL",
                        "folder":  "General",
                        "src":  "images/NOPAL.png",
                        "stock":  29,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "OMEGA 3 FISH OIL BIO SCHWARTZ",
                        "folder":  "General",
                        "src":  "images/OMEGA 3 FISH OIL BIO SCHWARTZ.jpeg",
                        "stock":  5,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "OMEGA 3 GAT SPORT",
                        "folder":  "General",
                        "src":  "images/OMEGA 3 GAT SPORT.jpeg",
                        "stock":  5,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "OMEGA 3 GNC LIMÓN X 90 CAPS",
                        "folder":  "General",
                        "src":  "images/OMEGA 3 GNC LIMÓN X 90 CAPS.jpeg",
                        "stock":  2,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "OMEGA 3 KIDS VEVISS",
                        "folder":  "General",
                        "src":  "images/OMEGA 3 KIDS VEVISS.jpeg",
                        "stock":  4,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "OMEGA 3 NIÑOS DR MORITZ",
                        "folder":  "General",
                        "src":  "images/OMEGA 3 NIÑOS DR MORITZ.jpeg",
                        "stock":  4,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "OMEGA 3 NORDIC",
                        "folder":  "General",
                        "src":  "images/OMEGA 3 NORDIC.jpeg",
                        "stock":  6,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "OMEGA 3 VIVA NATURALS",
                        "folder":  "General",
                        "src":  "images/OMEGA 3 VIVA NATURALS.jpeg",
                        "stock":  9,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "OMEGA 3 ZEBORA",
                        "folder":  "General",
                        "src":  "images/OMEGA 3 ZEBORA.jpeg",
                        "stock":  6,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "OMEGA 3",
                        "folder":  "General",
                        "src":  "images/OMEGA 3.jpeg",
-                       "stock":  11,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stock":  10,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ONE A DAY MENS 200 TABS",
                        "folder":  "General",
                        "src":  "images/ONE A DAY MENS 200 TABS.jpeg",
                        "stock":  3,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ONE A DAY PRENATAL ADVANCED",
                        "folder":  "General",
                        "src":  "images/ONE A DAY PRENATAL ADVANCED.jpeg",
                        "stock":  3,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ONE A DAY WOMEN 200 TABS",
                        "folder":  "General",
                        "src":  "images/ONE A DAY WOMEN 200 TABS.jpeg",
                        "stock":  3,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ORTIGA",
                        "folder":  "General",
                        "src":  "images/ORTIGA.png",
                        "stock":  37,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "OXIDO NITRICO",
                        "folder":  "General",
                        "src":  "images/OXIDO NITRICO.jpeg",
                        "stock":  5,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "PASIFLORA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/PASIFLORA COMPUESTA.png",
                        "stock":  15,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "PASTILLERO",
                        "folder":  "General",
                        "src":  "images/PASTILLERO.jpeg",
                        "stock":  10,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "POMADAS CALLO DERMA",
                        "folder":  "General",
                        "src":  "images/POMADAS CALLO DERMA.png",
                        "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stockLinked":  false
                    },
                    {
                        "name":  "PROBIOTICOS CANLIST",
                        "folder":  "General",
                        "src":  "images/PROBIOTICOS CANLIST.jpeg",
                        "stock":  20,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "PROBIOTICOS PARA NIÑOS NATURES WAY",
                        "folder":  "General",
                        "src":  "images/PROBIOTICOS PARA NIÑOS NATURES WAY.jpeg",
                        "stock":  2,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "PROBIOTICOS WOMENS",
                        "folder":  "General",
                        "src":  "images/PROBIOTICOS WOMENS.jpeg",
                        "stock":  2,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "PROBIOTIVOS VITALIBRE",
                        "folder":  "General",
                        "src":  "images/PROBIOTIVOS VITALIBRE.jpeg",
                        "stock":  3,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "PROBIÓTICOS PARA MUJERES ZEBORA",
                        "folder":  "General",
                        "src":  "images/PROBIÓTICOS PARA MUJERES ZEBORA.jpeg",
                        "stock":  2,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "PROBIÓTICOS Y PREBIÓTICOS FORTIFY",
                        "folder":  "General",
                        "src":  "images/PROBIÓTICOS Y PREBIÓTICOS FORTIFY.jpeg",
                        "stock":  6,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "PROGESTERONA CREMA",
                        "folder":  "General",
                        "src":  "images/PROGESTERONA CREMA.jpeg",
                        "stock":  4,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "REISHI GANODERMA",
                        "folder":  "General",
                        "src":  "images/REISHI GANODERMA.png",
                        "stock":  11,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "REMOLACHA",
                        "folder":  "General",
                        "src":  "images/REMOLACHA.png",
                        "stock":  36,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "RESVERATROL",
                        "folder":  "General",
                        "src":  "images/RESVERATROL.png",
                        "stock":  48,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "RHODIOLA",
                        "folder":  "General",
                        "src":  "images/RHODIOLA.png",
                        "stock":  9,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "SAW PALMETTO",
                        "folder":  "General",
                        "src":  "images/SAW PALMETTO.jpeg",
                        "stock":  14,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "SELENIO",
                        "folder":  "General",
                        "src":  "images/SELENIO.png",
                        "stock":  19,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "SERENIREST",
                        "folder":  "General",
                        "src":  "images/SERENIREST.jpeg",
                        "stock":  31,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "SERUM DE ARROZ",
                        "folder":  "General",
                        "src":  "images/SERUM DE ARROZ.jpeg",
                        "stock":  6,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "SHILAJIT ULTRA COMPLEX NP",
                        "folder":  "General",
                        "src":  "images/SHILAJIT ULTRA COMPLEX NP.jpeg",
                        "stock":  10,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "TAURINA",
                        "folder":  "General",
                        "src":  "images/TAURINA.png",
                        "stock":  20,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "TESTOSTERONA BOOSTER BPI",
                        "folder":  "General",
                        "src":  "images/TESTOSTERONA BOOSTER BPI.jpeg",
                        "stock":  1,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "TESTOSTERONA BOOSTER",
                        "folder":  "General",
                        "src":  "images/TESTOSTERONA BOOSTER.jpeg",
                        "stock":  7,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "TIROIDES SOPORTE",
                        "folder":  "General",
                        "src":  "images/TIROIDES SOPORTE.jpeg",
                        "stock":  1,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "TORONJA",
                        "folder":  "General",
                        "src":  "images/TORONJA.png",
                        "stock":  26,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "TRIBULUS TERRESTRIS TESTOSTERONA",
                        "folder":  "General",
                        "src":  "images/TRIBULUS TERRESTRIS TESTOSTERONA.jpeg",
                        "stock":  2,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ULTRA OMEGA 3 NOW X 90",
                        "folder":  "General",
                        "src":  "images/ULTRA OMEGA 3 NOW X 90.jpeg",
                        "stock":  11,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "URO PROBIOTICOS VAGINALES",
                        "folder":  "General",
                        "src":  "images/URO PROBIOTICOS VAGINALES.jpeg",
                        "stock":  4,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "UÑA DE GATO",
                        "folder":  "General",
                        "src":  "images/UÑA DE GATO.png",
                        "stock":  43,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "VENAS Y VARICES LEG VEINS",
                        "folder":  "General",
                        "src":  "images/VENAS Y VARICES LEG VEINS.jpeg",
                        "stock":  5,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "VINAGRE DE MANZANA GOLÍ",
                        "folder":  "General",
                        "src":  "images/VINAGRE DE MANZANA GOLÍ.jpeg",
                        "stock":  2,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "VINAGRE DE MANZANA",
                        "folder":  "General",
                        "src":  "images/VINAGRE DE MANZANA.png",
                        "stock":  22,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "VITAMINA A (RETINOL)",
                        "folder":  "General",
                        "src":  "images/VITAMINA A (RETINOL).png",
                        "stock":  24,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "VITAMINA B1 (TIAMINA)",
                        "folder":  "General",
                        "src":  "images/VITAMINA B1 (TIAMINA).png",
                        "stock":  7,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "VITAMINA B12",
                        "folder":  "General",
                        "src":  "images/VITAMINA B12.jpeg",
                        "stock":  19,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "VITAMINA B2 (RIBOFLAVINA)",
                        "folder":  "General",
                        "src":  "images/VITAMINA B2 (RIBOFLAVINA).png",
                        "stock":  13,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "VITAMINA B3 (NIACINAMIDA)",
                        "folder":  "General",
                        "src":  "images/VITAMINA B3 (NIACINAMIDA).jpeg",
                        "stock":  6,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "VITAMINA B5 (ACIDO PANTOTÉNICO)",
                        "folder":  "General",
                        "src":  "images/VITAMINA B5 (ACIDO PANTOTÉNICO).jpeg",
                        "stock":  40,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "VITAMINA B6",
                        "folder":  "General",
                        "src":  "images/VITAMINA B6.jpeg",
                        "stock":  3,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "VITAMINA B7 (BIOTINA)",
                        "folder":  "General",
                        "src":  "images/VITAMINA B7 (BIOTINA).png",
                        "stock":  14,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "VITAMINA B9 (ÁCIDO FOLICO)",
                        "folder":  "General",
                        "src":  "images/VITAMINA B9 (ÁCIDO FOLICO).png",
                        "stock":  7,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "VITAMINA C",
                        "folder":  "General",
                        "src":  "images/VITAMINA C.jpeg",
                        "stock":  11,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "VITAMINA D3 CON K2",
                        "folder":  "General",
                        "src":  "images/VITAMINA D3 CON K2.jpeg",
                        "stock":  17,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "VITAMINA E 1000 UI",
                        "folder":  "General",
                        "src":  "images/VITAMINA E 1000 UI.png",
                        "stock":  11,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "VITAMINA E 400 UI",
                        "folder":  "General",
                        "src":  "images/VITAMINA E 400 UI.png",
                        "stock":  10,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "VITAMINA K",
                        "folder":  "General",
                        "src":  "images/VITAMINA K.png",
                        "stock":  11,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "VITAMINAS ADOLESCENTES HOMBRES",
                        "folder":  "General",
                        "src":  "images/VITAMINAS ADOLESCENTES HOMBRES.jpeg",
                        "stock":  1,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "VITAMINAS ALIVE DAILY ENERGY",
                        "folder":  "General",
                        "src":  "images/VITAMINAS ALIVE DAILY ENERGY.jpeg",
                        "stock":  8,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "VITAMINAS SMARTY PANTS",
                        "folder":  "General",
                        "src":  "images/VITAMINAS SMARTY PANTS.jpeg",
                        "stock":  3,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "VITEX",
                        "folder":  "General",
                        "src":  "images/VITEX.png",
                        "stock":  28,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "WhatsApp Image 2026-08-15 at 8.45.06 AM",
                        "folder":  "General",
                        "src":  "images/WhatsApp Image 2026-08-15 at 8.45.06 AM.jpeg",
                        "stock":  null,
-                       "stockLinked":  false,
-                       "stockMatch":  ""
+                       "stockLinked":  false
                    },
                    {
                        "name":  "YODO",
                        "folder":  "General",
                        "src":  "images/YODO.jpeg",
                        "stock":  4,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "YOHIMBE POLVO",
                        "folder":  "General",
                        "src":  "images/YOHIMBE POLVO.jpeg",
                        "stock":  12,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "YOHIMBINA EXTRACTO",
                        "folder":  "General",
                        "src":  "images/YOHIMBINA EXTRACTO.jpeg",
                        "stock":  11,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ZARZA PARRILLA",
                        "folder":  "General",
                        "src":  "images/ZARZA PARRILLA.jpeg",
-                       "stock":  15,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stock":  14,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ZINC 50 MG",
                        "folder":  "General",
                        "src":  "images/ZINC 50 MG.jpeg",
                        "stock":  3,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ZINC 50MG GNC",
                        "folder":  "General",
                        "src":  "images/ZINC 50MG GNC.jpeg",
                        "stock":  3,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ZINC PARA HOMBRES 11 INGREDIENTES",
                        "folder":  "General",
                        "src":  "images/ZINC PARA HOMBRES 11 INGREDIENTES.jpeg",
                        "stock":  2,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ZINC",
                        "folder":  "General",
                        "src":  "images/ZINC.jpeg",
                        "stock":  12,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "AMINO ENERGY FRESA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/AMINO ENERGY FRESA.jpeg",
                        "stock":  2,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "AMINO ENERGY SANDÍA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/AMINO ENERGY SANDÍA.jpeg",
                        "stock":  1,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "AMINOÁCIDOS BPI SABOR GOMITAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/AMINOÁCIDOS BPI SABOR GOMITAS.jpeg",
                        "stock":  2,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ANABOL NUTREX",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/ANABOL NUTREX.jpeg",
                        "stock":  4,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CREATINA BPI 300GR",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA BPI 300GR.jpeg",
                        "stock":  3,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CREATINA DRAGON 30 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 30 SERVIDAS.jpeg",
                        "stock":  4,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
                        "stock":  29,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CREATINA DRAGON PHARMA 200 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA 200 SERVIDAS.jpeg",
                        "stock":  7,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CREATINA GAT",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA GAT.jpeg",
                        "stock":  3,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CREATINA MASTICABLE FRUTOS ROJOS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MASTICABLE FRUTOS ROJOS.jpeg",
                        "stock":  5,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CREATINA META NUTRITION 100 SERVIDAS SIN SABOR",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA META NUTRITION 100 SERVIDAS SIN SABOR.jpeg",
                        "stock":  2,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CREATINA MONOHIDRATADA  100 SERVIDAS SIN SABOR NUTRICOST",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MONOHIDRATADA  100 SERVIDAS SIN SABOR NUTRICOST.jpeg",
                        "stock":  5,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CREATINA MUSCLETECH 80 SERVIDAS 400GR",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MUSCLETECH 80 SERVIDAS 400GR.jpeg",
                        "stock":  15,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CREATINA NUTREX 60 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 60 SERVIDAS.jpeg",
                        "stock":  12,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CREATINA NUTREX",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX.jpeg",
                        "stock":  7,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CREATINA OPTIMUM NUTRITION SIN SABOR 300G",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA OPTIMUM NUTRITION SIN SABOR 300G.jpeg",
                        "stock":  3,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CREATINA RAW SIN SABOR 100 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA RAW SIN SABOR 100 SERVIDAS.jpeg",
                        "stock":  3,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CREATINA RAW",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA RAW.jpeg",
                        "stock":  8,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CREATINA RC",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA RC.jpeg",
                        "stock":  16,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CREATINA RONNIE COLEMAN 1KG",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA RONNIE COLEMAN 1KG.jpeg",
                        "stock":  15,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "GANADOR DE PESO BULK MUSCLE XL CHOCOLATE",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/GANADOR DE PESO BULK MUSCLE XL CHOCOLATE.jpeg",
                        "stock":  1,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "GLUTAMINA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/GLUTAMINA.jpeg",
                        "stock":  4,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ISO PHORM 5LB CONO DE VAINILLA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/ISO PHORM 5LB CONO DE VAINILLA.jpeg",
                        "stock":  4,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "KING WHEY RONNIE COLEMAN CHOCOLATE CON LECHE",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/KING WHEY RONNIE COLEMAN CHOCOLATE CON LECHE.jpeg",
                        "stock":  1,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "KING WHEY RONNIE COLEMAN VAINILLA ICE CREAM",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/KING WHEY RONNIE COLEMAN VAINILLA ICE CREAM.jpeg",
                        "stock":  1,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "PRE ENTRENO VENOM INFERNO LYCHEE",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE ENTRENO VENOM INFERNO LYCHEE.jpeg",
                        "stock":  2,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "PREENTRENO MR VEINZ NARANJA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PREENTRENO MR VEINZ NARANJA.jpeg",
                        "stock":  2,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "PREENTRENO PSYCHOTIC ROJO 30 SERVIDAS GUMMY CANDY",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PREENTRENO PSYCHOTIC ROJO 30 SERVIDAS GUMMY CANDY.png",
                        "stock":  1,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "PREENTRENO VENOM ESSENTIAL FRESA KIWI",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PREENTRENO VENOM ESSENTIAL FRESA KIWI.jpeg",
                        "stock":  1,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "PROTEIN PHORM 28 SERVIDAS SABOR CHURRO",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEIN PHORM 28 SERVIDAS SABOR CHURRO.jpeg",
                        "stock":  2,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "PROTEINA MUTANT WHEY 5LIBRAS VAINILLA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEINA MUTANT WHEY 5LIBRAS VAINILLA.png",
                        "stock":  1,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    },
                    {
                        "name":  "PROTEINA WHEY PHORM VAINILLA Y CHOCOLATE BLANCO  25 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEINA WHEY PHORM VAINILLA Y CHOCOLATE BLANCO  25 SERVIDAS.jpeg",
                        "stock":  2,
-                       "stockLinked":  true,
-                       "stockMatch":  "ruta relativa"
+                       "stockLinked":  true
                    }
                ]
 }
