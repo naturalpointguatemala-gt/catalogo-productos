@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-08-28T23:48:51.6439219Z",
+    "generatedAt":  "2026-08-29T15:18:06.2360966Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -173,7 +173,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  184,
+                       "stock":  183,
                        "stockLinked":  true,
                        "stockMatch":  "ruta relativa"
                    },
@@ -197,7 +197,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  95,
+                       "stock":  94,
                        "stockLinked":  true,
                        "stockMatch":  "ruta relativa"
                    },
@@ -261,7 +261,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  790,
+                       "stock":  787,
                        "stockLinked":  true,
                        "stockMatch":  "ruta relativa"
                    },
@@ -373,7 +373,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  216,
+                       "stock":  215,
                        "stockLinked":  true,
                        "stockMatch":  "ruta relativa"
                    },
@@ -517,7 +517,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  720,
+                       "stock":  718,
                        "stockLinked":  true,
                        "stockMatch":  "ruta relativa"
                    },
@@ -797,7 +797,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  239,
+                       "stock":  238,
                        "stockLinked":  true,
                        "stockMatch":  "ruta relativa"
                    },
