@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-08-29T16:38:58.9595857Z",
+    "generatedAt":  "2026-08-29T16:45:48.4142979Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  37,
+                       "stock":  38,
                        "stockLinked":  true
                    },
                    {
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  181,
+                       "stock":  183,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  825,
+                       "stock":  787,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  760,
+                       "stock":  718,
                        "stockLinked":  true
                    },
                    {
@@ -1020,7 +1020,7 @@
                        "name":  "OMEGA 3",
                        "folder":  "General",
                        "src":  "images/OMEGA 3.jpeg",
-                       "stock":  10,
+                       "stock":  11,
                        "stockLinked":  true
                    },
                    {
@@ -1433,7 +1433,7 @@
                        "name":  "ZARZA PARRILLA",
                        "folder":  "General",
                        "src":  "images/ZARZA PARRILLA.jpeg",
-                       "stock":  14,
+                       "stock":  15,
                        "stockLinked":  true
                    },
                    {

@@ -221,15 +221,45 @@ function Ensure-LiveWorkbook {
 }
 
 function Get-ExcelRows {
-    Ensure-LiveWorkbook
-
     $ws = $null
     $rng = $null
 
-    try {
-        $ws = $script:LiveWorkbook.Worksheets.Item($SheetName)
-        if (-not $ws) { throw "No se encontro la hoja Base." }
+    # Reintento protegido: Excel puede soltar momentaneamente
+    # la referencia COM entre una lectura y otra.
+    for ($attempt = 1; $attempt -le 3; $attempt++) {
+        try {
+            Ensure-LiveWorkbook
 
+            if (-not $script:LiveWorkbook) {
+                throw "Referencia de Excel vacia."
+            }
+
+            $ws = $script:LiveWorkbook.Worksheets.Item($SheetName)
+
+            if ($ws) {
+                break
+            }
+        }
+        catch {
+            $script:LiveWorkbook = $null
+            Start-Sleep -Milliseconds 500
+
+            try {
+                Connect-LiveWorkbook
+            }
+            catch {
+                if ($attempt -eq 3) {
+                    throw
+                }
+            }
+        }
+    }
+
+    if (-not $ws) {
+        throw "No se pudo obtener la hoja Base despues de 3 intentos."
+    }
+
+    try {
         $lastRow = $ws.Cells($ws.Rows.Count, $PathColumn).End(-4162).Row
         $rows = @()
 
@@ -415,7 +445,7 @@ function Publish-GitHub {
 }
 
 Write-Host ""
-Write-Host "CATALOGO PRODUCTOS + EXISTENCIAS (SIN SHA / NULL FIX)" -ForegroundColor Cyan
+Write-Host "CATALOGO PRODUCTOS + EXISTENCIAS (RECONEXION ESTABLE)" -ForegroundColor Cyan
 Write-Host "Base: O = existencia | P = ruta | desde fila 3" -ForegroundColor Yellow
 Write-Host "Lee directamente el Excel abierto cada 15 segundos." -ForegroundColor Yellow
 Write-Host "Comparacion directa: protegida contra valores NULL." -ForegroundColor Yellow
