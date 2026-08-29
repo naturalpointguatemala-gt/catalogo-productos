@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-08-29T19:10:35.5849962Z",
+    "generatedAt":  "2026-08-29T19:28:16.4981268Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  821,
+                       "stock":  820,
                        "stockLinked":  true
                    },
                    {
@@ -320,7 +320,7 @@
                        "name":  "CHANCAPIEDRA",
                        "folder":  "General",
                        "src":  "images/CHANCAPIEDRA.jpeg",
-                       "stock":  26,
+                       "stock":  25,
                        "stockLinked":  true
                    },
                    {
@@ -460,7 +460,7 @@
                        "name":  "CÚRCUMA PURA",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA PURA.png",
-                       "stock":  21,
+                       "stock":  20,
                        "stockLinked":  true
                    },
                    {
