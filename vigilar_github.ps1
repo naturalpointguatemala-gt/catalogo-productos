@@ -13,8 +13,31 @@ $Source = Get-ChildItem $Parent -Directory | Where-Object { $_.Name -like "CAT*L
 if (-not $Source) { Write-Host "ERROR: No se encontro CATÁLOGO DE PRODUCTOS." -ForegroundColor Red; pause; exit 1 }
 
 $SourceFolder = $Source.FullName
+
+# Segunda fuente: productos que se desean mostrar sin consultar existencias.
+$NoStockSource = Get-ChildItem $Parent -Directory |
+    Where-Object { $_.Name -ieq "PRODUCTO QUE NO HAY EN EXISTENCIA" } |
+    Select-Object -First 1
+
+if (-not $NoStockSource) {
+    Write-Host "ERROR: No se encontro la carpeta PRODUCTO QUE NO HAY EN EXISTENCIA." -ForegroundColor Red
+    pause
+    exit 1
+}
+
+$NoStockFolder = $NoStockSource.FullName
+
 $ImagesDir = Join-Path $RepoRoot "images"
+$NoStockImagesDir = Join-Path $RepoRoot "images_sin_existencia"
 $Ext = @(".jpg",".jpeg",".png",".gif",".webp",".bmp",".tif",".tiff",".heic")
+
+function Is-NoStockVisibleImage($file) {
+    if (-not ($Ext -contains $file.Extension.ToLowerInvariant())) { return $false }
+
+    # La palabra OFERTA en cualquier parte del nombre excluye la imagen.
+    # Comparacion sin distinguir mayusculas/minusculas.
+    return ($file.BaseName -notmatch '(?i)OFERTA')
+}
 
 if (-not ("ExcelRotSnapshotFinder" -as [type])) {
 Add-Type -Language CSharp -TypeDefinition @"
@@ -229,21 +252,37 @@ function Get-RowsState($rows) {
 
 function Get-ImageState {
     $parts = New-Object System.Collections.Generic.List[string]
+
+    # Catalogo principal.
     $files = @(Get-ChildItem $SourceFolder -File -Recurse -ErrorAction SilentlyContinue |
         Where-Object { $Ext -contains $_.Extension.ToLowerInvariant() } |
         Sort-Object FullName)
+
     foreach ($f in $files) {
-        [void]$parts.Add(("{0}|{1}|{2}" -f $f.FullName, $f.Length, $f.LastWriteTimeUtc.Ticks))
+        [void]$parts.Add(("MAIN|{0}|{1}|{2}" -f $f.FullName, $f.Length, $f.LastWriteTimeUtc.Ticks))
     }
+
+    # Productos sin existencia. Los archivos que contienen OFERTA se ignoran
+    # tambien para la vigilancia, pues nunca se publican.
+    $noStockFiles = @(Get-ChildItem $NoStockFolder -File -Recurse -ErrorAction SilentlyContinue |
+        Where-Object { Is-NoStockVisibleImage $_ } |
+        Sort-Object FullName)
+
+    foreach ($f in $noStockFiles) {
+        [void]$parts.Add(("NOSTOCK|{0}|{1}|{2}" -f $f.FullName, $f.Length, $f.LastWriteTimeUtc.Ticks))
+    }
+
     return [string]::Join("`n", $parts.ToArray())
 }
 
 function Build-CatalogFromSnapshot($rows) {
     Write-Host ""
-    Write-Host "Construyendo catalogo desde SNAPSHOT de existencias..." -ForegroundColor Cyan
+    Write-Host "Construyendo catalogo principal + productos sin existencia..." -ForegroundColor Cyan
 
     $rows = @($rows)
-    if ($rows.Count -eq 0) { throw "El snapshot de Excel esta vacio. Se cancela para proteger existencias." }
+    if ($rows.Count -eq 0) {
+        throw "El snapshot de Excel esta vacio. Se cancela para proteger existencias."
+    }
 
     Write-Host ("Filas de stock en snapshot: " + $rows.Count) -ForegroundColor Cyan
 
@@ -263,9 +302,14 @@ function Build-CatalogFromSnapshot($rows) {
 
     $uniqueStem = @{}
     foreach ($k in $stemBuckets.Keys) {
-        if ($stemBuckets[$k].Count -eq 1) { $uniqueStem[$k] = $stemBuckets[$k][0] }
+        if ($stemBuckets[$k].Count -eq 1) {
+            $uniqueStem[$k] = $stemBuckets[$k][0]
+        }
     }
 
+    # ------------------------
+    # 1. Catalogo con stock
+    # ------------------------
     if (Test-Path $ImagesDir) { Remove-Item $ImagesDir -Recurse -Force }
     New-Item -ItemType Directory $ImagesDir | Out-Null
 
@@ -291,7 +335,8 @@ function Build-CatalogFromSnapshot($rows) {
             if ($relative.ContainsKey($rk)) {
                 $stock = $relative[$rk]
                 $linked = $true
-            } else {
+            }
+            else {
                 $sk = Stem-Key $f.Name
                 if ($uniqueStem.ContainsKey($sk)) {
                     $stock = $uniqueStem[$sk]
@@ -302,22 +347,62 @@ function Build-CatalogFromSnapshot($rows) {
             if ($linked) { $matched++ } else { $unmatched++ }
 
             $out += [PSCustomObject]@{
-                name = $f.BaseName
-                folder = if ($dir) { $dir } else { "General" }
-                src = "images/" + ($rel -replace "\\","/")
-                stock = $stock
+                name        = $f.BaseName
+                folder      = if ($dir) { $dir } else { "General" }
+                src         = "images/" + ($rel -replace "\\","/")
+                stock       = $stock
                 stockLinked = $linked
             }
         }
 
-    [PSCustomObject]@{
-        generatedAt = (Get-Date).ToUniversalTime().ToString("o")
-        images = $out
-    } | ConvertTo-Json -Depth 6 | Set-Content (Join-Path $RepoRoot "catalog.json") -Encoding UTF8
+    # --------------------------------
+    # 2. Productos SIN existencia
+    # --------------------------------
+    if (Test-Path $NoStockImagesDir) { Remove-Item $NoStockImagesDir -Recurse -Force }
+    New-Item -ItemType Directory $NoStockImagesDir | Out-Null
 
-    Write-Host ("Imagenes: " + $out.Count) -ForegroundColor Green
+    $noStockOut = @()
+    $ignoredOffer = 0
+
+    Get-ChildItem $NoStockFolder -File -Recurse |
+        Where-Object { $Ext -contains $_.Extension.ToLowerInvariant() } |
+        ForEach-Object {
+            $f = $_
+
+            if (-not (Is-NoStockVisibleImage $f)) {
+                $ignoredOffer++
+                return
+            }
+
+            $rel = $f.FullName.Substring($NoStockFolder.TrimEnd('\').Length).TrimStart('\')
+            $dir = Split-Path $rel -Parent
+            $td = if ($dir) { Join-Path $NoStockImagesDir $dir } else { $NoStockImagesDir }
+
+            New-Item -ItemType Directory $td -Force | Out-Null
+            Copy-Item $f.FullName (Join-Path $td $f.Name) -Force
+
+            $noStockOut += [PSCustomObject]@{
+                name   = $f.BaseName
+                folder = if ($dir) { $dir } else { "Productos sin existencia" }
+                src    = "images_sin_existencia/" + ($rel -replace "\\","/")
+            }
+        }
+
+    [PSCustomObject]@{
+        generatedAt   = (Get-Date).ToUniversalTime().ToString("o")
+        images        = $out
+        noStockImages = $noStockOut
+    } | ConvertTo-Json -Depth 6 |
+        Set-Content (Join-Path $RepoRoot "catalog.json") -Encoding UTF8
+
+    Write-Host ("Imagenes disponibles: " + $out.Count) -ForegroundColor Green
     Write-Host ("Vinculadas con Excel: " + $matched) -ForegroundColor Green
-    if ($unmatched -gt 0) { Write-Host ("Sin coincidencia: " + $unmatched) -ForegroundColor Yellow }
+    if ($unmatched -gt 0) {
+        Write-Host ("Sin coincidencia Excel: " + $unmatched) -ForegroundColor Yellow
+    }
+
+    Write-Host ("Productos sin existencia mostrados: " + $noStockOut.Count) -ForegroundColor Cyan
+    Write-Host ("Imagenes OFERTA ignoradas: " + $ignoredOffer) -ForegroundColor DarkGray
 }
 
 function Publish-GitHub {
@@ -339,8 +424,9 @@ function Publish-GitHub {
 }
 
 Write-Host ""
-Write-Host "CATALOGO PRODUCTOS + EXISTENCIAS (BASE RECALCULADA)" -ForegroundColor Cyan
-Write-Host "Fuente unica: Base!O = existencia | Base!P = ruta | desde fila 3" -ForegroundColor Yellow
+Write-Host "CATALOGO PRODUCTOS + SIN EXISTENCIA (BASE RECALCULADA)" -ForegroundColor Cyan
+Write-Host "Disponibles: Base!O = existencia | Base!P = ruta | desde fila 3" -ForegroundColor Yellow
+Write-Host "Sin existencia: carpeta PRODUCTO QUE NO HAY EN EXISTENCIA | excluye nombres con OFERTA" -ForegroundColor Yellow
 Write-Host "Antes de cada lectura se recalcula Base!O para obtener el resultado actual de sus formulas." -ForegroundColor Yellow
 Write-Host "NO lee existencias directamente de la hoja Existencia." -ForegroundColor Yellow
 Write-Host ""
@@ -355,6 +441,30 @@ Write-Host "Vigilancia activa: recalculando Base!O cada 15 segundos..." -Foregro
 
 $excelState = Get-RowsState $initialRows
 $imageState = Get-ImageState
+
+# Primera migracion: si catalog.json aun no contiene la nueva seccion,
+# crearla y publicarla inmediatamente.
+$catalogPath = Join-Path $RepoRoot "catalog.json"
+$needsMigration = $true
+
+if (Test-Path $catalogPath) {
+    try {
+        $existingCatalog = Get-Content $catalogPath -Raw | ConvertFrom-Json
+        if ($null -ne $existingCatalog.noStockImages) {
+            $needsMigration = $false
+        }
+    } catch {
+        $needsMigration = $true
+    }
+}
+
+if ($needsMigration) {
+    Write-Host ""
+    Write-Host "Primera instalacion de PRODUCTO QUE NO HAY EN EXISTENCIA: preparando publicacion..." -ForegroundColor Cyan
+    Build-CatalogFromSnapshot $initialRows
+    Publish-GitHub
+    Write-Host "Nueva seccion instalada." -ForegroundColor Green
+}
 
 $script:LastGoodRows = @($initialRows)
 $script:PendingRows = @($initialRows)
