@@ -1,12 +1,12 @@
 ﻿{
-    "generatedAt":  "2026-08-29T18:32:06.0563442Z",
+    "generatedAt":  "2026-08-29T18:45:07.9055731Z",
     "images":  [
                    {
-                       "name":  "ABEDUL",
+                       "name":  "ABEDUL 400MG  60 CAPS.",
                        "folder":  "General",
-                       "src":  "images/ABEDUL.png",
-                       "stock":  66,
-                       "stockLinked":  true
+                       "src":  "images/ABEDUL 400MG  60 CAPS..png",
+                       "stock":  null,
+                       "stockLinked":  false
                    },
                    {
                        "name":  "ACEITE DE COCO EXTRA VIRGEN NATURES WAY",
