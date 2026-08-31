@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-08-29T22:34:03.4367174Z",
+    "generatedAt":  "2026-08-31T16:33:50.1640406Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -61,14 +61,14 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  38,
+                       "stock":  34,
                        "stockLinked":  true
                    },
                    {
                        "name":  "AGUAJE GOMITAS BBP",
                        "folder":  "General",
                        "src":  "images/AGUAJE GOMITAS BBP.jpeg",
-                       "stock":  4,
+                       "stock":  2,
                        "stockLinked":  true
                    },
                    {
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  175,
+                       "stock":  174,
                        "stockLinked":  true
                    },
                    {
@@ -173,7 +173,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  93,
+                       "stock":  90,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  816,
+                       "stock":  801,
                        "stockLinked":  true
                    },
                    {
@@ -411,7 +411,7 @@
                        "name":  "COLAGENO POLVO",
                        "folder":  "General",
                        "src":  "images/COLAGENO POLVO.jpeg",
-                       "stock":  7,
+                       "stock":  6,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  757,
+                       "stock":  754,
                        "stockLinked":  true
                    },
                    {
@@ -698,7 +698,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  238,
+                       "stock":  237,
                        "stockLinked":  true
                    },
                    {
@@ -915,7 +915,7 @@
                        "name":  "MORINGA",
                        "folder":  "General",
                        "src":  "images/MORINGA.png",
-                       "stock":  10,
+                       "stock":  9,
                        "stockLinked":  true
                    },
                    {
