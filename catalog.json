@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-08-31T18:54:03.3616813Z",
+    "generatedAt":  "2026-08-31T19:00:55.1141275Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  781,
+                       "stock":  780,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  751,
+                       "stock":  750,
                        "stockLinked":  true
                    },
                    {
@@ -2350,11 +2350,6 @@
                               "name":  "PSYCHOTIC SAW  GRAPE",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PSYCHOTIC SAW  GRAPE.png"
-                          },
-                          {
-                              "name":  "PSYCHOTIC SAW  SANDIA",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/PSYCHOTIC SAW  SANDIA.png"
                           },
                           {
                               "name":  "SABORIZANTE SIN CALORÍAS CHOCOLATE",
