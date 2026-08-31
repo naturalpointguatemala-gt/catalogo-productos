@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-08-31T23:20:16.5851764Z",
+    "generatedAt":  "2026-08-31T23:36:17.0386757Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -971,7 +971,7 @@
                        "name":  "OMEGA 3 GAT SPORT",
                        "folder":  "General",
                        "src":  "images/OMEGA 3 GAT SPORT.jpeg",
-                       "stock":  5,
+                       "stock":  14,
                        "stockLinked":  true
                    },
                    {
@@ -1510,7 +1510,7 @@
                        "name":  "CREATINA DRAGON PHARMA 200 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA 200 SERVIDAS.jpeg",
-                       "stock":  7,
+                       "stock":  6,
                        "stockLinked":  true
                    },
                    {
