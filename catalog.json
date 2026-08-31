@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-08-31T20:50:02.7168926Z",
+    "generatedAt":  "2026-08-31T21:14:44.2414620Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  31,
+                       "stock":  30,
                        "stockLinked":  true
                    },
                    {
