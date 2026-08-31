@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-08-31T18:03:23.2232426Z",
+    "generatedAt":  "2026-08-31T18:11:22.3811922Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -26,7 +26,7 @@
                        "name":  "ACEITE DE OREGANO",
                        "folder":  "General",
                        "src":  "images/ACEITE DE OREGANO.jpeg",
-                       "stock":  24,
+                       "stock":  25,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  789,
+                       "stock":  790,
                        "stockLinked":  true
                    },
                    {
@@ -957,7 +957,7 @@
                        "name":  "NOPAL",
                        "folder":  "General",
                        "src":  "images/NOPAL.png",
-                       "stock":  29,
+                       "stock":  28,
                        "stockLinked":  true
                    },
                    {
