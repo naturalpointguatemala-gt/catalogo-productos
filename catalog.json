@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-08-31T19:26:40.9336935Z",
+    "generatedAt":  "2026-08-31T19:32:00.4992371Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -40,7 +40,7 @@
                        "name":  "ACEITE DE TIBURÓN",
                        "folder":  "General",
                        "src":  "images/ACEITE DE TIBURÓN.jpeg",
-                       "stock":  12,
+                       "stock":  11,
                        "stockLinked":  true
                    },
                    {
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  169,
+                       "stock":  168,
                        "stockLinked":  true
                    },
                    {
@@ -1689,6 +1689,13 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "PROTEIN PHORM 28 SERVIDAS SABOR MILKSHAKE",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEIN PHORM 28 SERVIDAS SABOR MILKSHAKE.jpeg",
+                       "stock":  18,
+                       "stockLinked":  true
+                   },
+                   {
                        "name":  "PROTEINA MUTANT WHEY 5LIBRAS VAINILLA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEINA MUTANT WHEY 5LIBRAS VAINILLA.png",
@@ -2218,11 +2225,6 @@
                               "name":  "PROPEOLO",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PROPEOLO.jpeg"
-                          },
-                          {
-                              "name":  "PROTEIN PHORM 28 SERVIDAS SABOR MILKSHAKE",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/PROTEIN PHORM 28 SERVIDAS SABOR MILKSHAKE.jpeg"
                           },
                           {
                               "name":  "PROTEIN PHORM DRAGON PHARMA SABOR CHURRO",
