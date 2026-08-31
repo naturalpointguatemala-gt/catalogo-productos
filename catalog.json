@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-08-31T17:55:25.9651696Z",
+    "generatedAt":  "2026-08-31T18:03:23.2232426Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -26,7 +26,7 @@
                        "name":  "ACEITE DE OREGANO",
                        "folder":  "General",
                        "src":  "images/ACEITE DE OREGANO.jpeg",
-                       "stock":  25,
+                       "stock":  24,
                        "stockLinked":  true
                    },
                    {
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  33,
+                       "stock":  32,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  793,
+                       "stock":  789,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  754,
+                       "stock":  752,
                        "stockLinked":  true
                    },
                    {
