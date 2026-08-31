@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-08-31T22:02:25.7248822Z",
+    "generatedAt":  "2026-08-31T22:09:09.9566827Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -327,14 +327,14 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  257,
+                       "stock":  256,
                        "stockLinked":  true
                    },
                    {
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
-                       "stock":  142,
+                       "stock":  141,
                        "stockLinked":  true
                    },
                    {
@@ -908,7 +908,7 @@
                        "name":  "MELENA DE LEON EXTRACTO",
                        "folder":  "General",
                        "src":  "images/MELENA DE LEON EXTRACTO.jpeg",
-                       "stock":  25,
+                       "stock":  23,
                        "stockLinked":  true
                    },
                    {
@@ -1272,7 +1272,7 @@
                        "name":  "VINAGRE DE MANZANA",
                        "folder":  "General",
                        "src":  "images/VINAGRE DE MANZANA.png",
-                       "stock":  20,
+                       "stock":  19,
                        "stockLinked":  true
                    },
                    {
