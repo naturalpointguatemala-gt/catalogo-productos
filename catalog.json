@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-08-31T17:35:43.0729488Z",
+    "generatedAt":  "2026-08-31T17:40:30.8622635Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  34,
+                       "stock":  33,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  798,
+                       "stock":  796,
                        "stockLinked":  true
                    },
                    {
