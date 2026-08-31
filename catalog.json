@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-08-31T17:46:43.7470262Z",
+    "generatedAt":  "2026-08-31T17:48:07.4455068Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -209,13 +209,6 @@
                        "folder":  "General",
                        "src":  "images/CALOSTRO.jpeg",
                        "stock":  3,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "CANELA",
-                       "folder":  "General",
-                       "src":  "images/CANELA.png",
-                       "stock":  12,
                        "stockLinked":  true
                    },
                    {
