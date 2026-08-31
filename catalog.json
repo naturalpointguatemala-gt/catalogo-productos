@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-08-31T19:11:31.2068897Z",
+    "generatedAt":  "2026-08-31T19:19:07.6722797Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  170,
+                       "stock":  169,
                        "stockLinked":  true
                    },
                    {
@@ -1272,7 +1272,7 @@
                        "name":  "VINAGRE DE MANZANA",
                        "folder":  "General",
                        "src":  "images/VINAGRE DE MANZANA.png",
-                       "stock":  22,
+                       "stock":  21,
                        "stockLinked":  true
                    },
                    {
