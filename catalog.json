@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-08-31T21:54:41.7016054Z",
+    "generatedAt":  "2026-08-31T22:02:25.7248822Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -96,7 +96,7 @@
                        "name":  "AJO SIN OLOR",
                        "folder":  "General",
                        "src":  "images/AJO SIN OLOR.jpeg",
-                       "stock":  21,
+                       "stock":  20,
                        "stockLinked":  true
                    },
                    {
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  165,
+                       "stock":  164,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  764,
+                       "stock":  760,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  743,
+                       "stock":  742,
                        "stockLinked":  true
                    },
                    {
@@ -1272,7 +1272,7 @@
                        "name":  "VINAGRE DE MANZANA",
                        "folder":  "General",
                        "src":  "images/VINAGRE DE MANZANA.png",
-                       "stock":  21,
+                       "stock":  20,
                        "stockLinked":  true
                    },
                    {
