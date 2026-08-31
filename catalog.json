@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-08-31T19:03:43.1492195Z",
+    "generatedAt":  "2026-08-31T19:11:31.2068897Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -215,7 +215,7 @@
                        "name":  "CANELA",
                        "folder":  "General",
                        "src":  "images/CANELA.png",
-                       "stock":  12,
+                       "stock":  10,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  779,
+                       "stock":  778,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  750,
+                       "stock":  749,
                        "stockLinked":  true
                    },
                    {
@@ -1633,6 +1633,34 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "PRE ENTRENO NITRAFLEX  30 SERVIDAS SABOR SANDÍA GAT SPORT",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE ENTRENO NITRAFLEX  30 SERVIDAS SABOR SANDÍA GAT SPORT.jpeg",
+                       "stock":  1,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PRE ENTRENO NITRAFLEX  30 SERVIDAS SABOR UVA GAT SPORT",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE ENTRENO NITRAFLEX  30 SERVIDAS SABOR UVA GAT SPORT.jpeg",
+                       "stock":  1,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PRE ENTRENO RYSE  30 SERVIDAS SABOR LIMONADA DE CEREZA RYSE UP",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE ENTRENO RYSE  30 SERVIDAS SABOR LIMONADA DE CEREZA RYSE UP.jpeg",
+                       "stock":  1,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PRE ENTRENO RYSE  30 SERVIDAS SABOR SANDÍA RYSE UP",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE ENTRENO RYSE  30 SERVIDAS SABOR SANDÍA RYSE UP.jpeg",
+                       "stock":  1,
+                       "stockLinked":  true
+                   },
+                   {
                        "name":  "PRE ENTRENO VENOM INFERNO LYCHEE",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE ENTRENO VENOM INFERNO LYCHEE.jpeg",
@@ -1672,6 +1700,41 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEINA WHEY PHORM VAINILLA Y CHOCOLATE BLANCO  25 SERVIDAS.jpeg",
                        "stock":  2,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PROTEÍNA BPI ISO HD  69 SERVIDAS 4.9LB SABOR BROWNIE CHOCOLATE",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA BPI ISO HD  69 SERVIDAS 4.9LB SABOR BROWNIE CHOCOLATE.jpeg",
+                       "stock":  6,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PROTEÍNA BPI ISO HD  69 SERVIDAS 4.9LB SABOR COOKIES AND CREAM",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA BPI ISO HD  69 SERVIDAS 4.9LB SABOR COOKIES AND CREAM.jpeg",
+                       "stock":  2,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PROTEÍNA BPI ISO HD  70 SERVIDAS 4.8LB SABOR VAINILLA COOKIE",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA BPI ISO HD  70 SERVIDAS 4.8LB SABOR VAINILLA COOKIE.jpeg",
+                       "stock":  4,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PROTEÍNA BPI ISO HD  70 SERVIDAS 4.93LB SABOR CEREAL CRUNCH",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA BPI ISO HD  70 SERVIDAS 4.93LB SABOR CEREAL CRUNCH.jpeg",
+                       "stock":  6,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PSYCHOTIC SAW  SANDIA",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PSYCHOTIC SAW  SANDIA.jpeg",
+                       "stock":  5,
                        "stockLinked":  true
                    }
                ],
