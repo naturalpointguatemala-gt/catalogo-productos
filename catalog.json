@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-01T18:25:47.9219601Z",
+    "generatedAt":  "2026-09-01T18:30:01.3527305Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  762,
+                       "stock":  761,
                        "stockLinked":  true
                    },
                    {
@@ -488,7 +488,7 @@
                        "name":  "ENZIMAS DE PAPAYA",
                        "folder":  "General",
                        "src":  "images/ENZIMAS DE PAPAYA.png",
-                       "stock":  11,
+                       "stock":  10,
                        "stockLinked":  true
                    },
                    {
