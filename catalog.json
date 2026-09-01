@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-01T23:29:33.0304040Z",
+    "generatedAt":  "2026-09-01T23:51:37.0102434Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  142,
+                       "stock":  139,
                        "stockLinked":  true
                    },
                    {
@@ -222,7 +222,7 @@
                        "name":  "CARBÓN ACTIVADO",
                        "folder":  "General",
                        "src":  "images/CARBÓN ACTIVADO.png",
-                       "stock":  20,
+                       "stock":  18,
                        "stockLinked":  true
                    },
                    {
@@ -327,7 +327,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  244,
+                       "stock":  243,
                        "stockLinked":  true
                    },
                    {
@@ -1062,7 +1062,7 @@
                        "name":  "PASIFLORA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/PASIFLORA COMPUESTA.png",
-                       "stock":  15,
+                       "stock":  14,
                        "stockLinked":  true
                    },
                    {
