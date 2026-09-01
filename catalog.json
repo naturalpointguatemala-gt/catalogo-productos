@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-01T18:35:40.7962599Z",
+    "generatedAt":  "2026-09-01T18:41:30.0522862Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  747,
+                       "stock":  746,
                        "stockLinked":  true
                    },
                    {
@@ -474,7 +474,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  38,
+                       "stock":  37,
                        "stockLinked":  true
                    },
                    {
