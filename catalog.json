@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-01T16:45:44.5794601Z",
+    "generatedAt":  "2026-09-01T16:57:48.5405964Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -26,7 +26,7 @@
                        "name":  "ACEITE DE OREGANO",
                        "folder":  "General",
                        "src":  "images/ACEITE DE OREGANO.jpeg",
-                       "stock":  24,
+                       "stock":  23,
                        "stockLinked":  true
                    },
                    {
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  49,
+                       "stock":  46,
                        "stockLinked":  true
                    },
                    {
@@ -103,7 +103,7 @@
                        "name":  "ALA",
                        "folder":  "General",
                        "src":  "images/ALA.jpeg",
-                       "stock":  16,
+                       "stock":  14,
                        "stockLinked":  true
                    },
                    {
@@ -131,7 +131,7 @@
                        "name":  "ARGININA",
                        "folder":  "General",
                        "src":  "images/ARGININA.png",
-                       "stock":  27,
+                       "stock":  26,
                        "stockLinked":  true
                    },
                    {
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  155,
+                       "stock":  154,
                        "stockLinked":  true
                    },
                    {
@@ -173,7 +173,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  84,
+                       "stock":  82,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  776,
+                       "stock":  766,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  756,
+                       "stock":  747,
                        "stockLinked":  true
                    },
                    {
@@ -474,7 +474,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  42,
+                       "stock":  38,
                        "stockLinked":  true
                    },
                    {
