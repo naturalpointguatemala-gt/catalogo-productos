@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-08-31T23:36:17.0386757Z",
+    "generatedAt":  "2026-09-01T16:32:48.8469418Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -103,7 +103,7 @@
                        "name":  "ALA",
                        "folder":  "General",
                        "src":  "images/ALA.jpeg",
-                       "stock":  14,
+                       "stock":  16,
                        "stockLinked":  true
                    },
                    {
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  160,
+                       "stock":  155,
                        "stockLinked":  true
                    },
                    {
@@ -173,7 +173,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  86,
+                       "stock":  83,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  754,
+                       "stock":  735,
                        "stockLinked":  true
                    },
                    {
@@ -320,7 +320,7 @@
                        "name":  "CHANCAPIEDRA",
                        "folder":  "General",
                        "src":  "images/CHANCAPIEDRA.jpeg",
-                       "stock":  25,
+                       "stock":  24,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  739,
+                       "stock":  729,
                        "stockLinked":  true
                    },
                    {
@@ -698,7 +698,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  233,
+                       "stock":  232,
                        "stockLinked":  true
                    },
                    {
@@ -908,7 +908,7 @@
                        "name":  "MELENA DE LEON EXTRACTO",
                        "folder":  "General",
                        "src":  "images/MELENA DE LEON EXTRACTO.jpeg",
-                       "stock":  23,
+                       "stock":  22,
                        "stockLinked":  true
                    },
                    {
@@ -1720,7 +1720,7 @@
                        "name":  "PROTEÍNA BPI ISO HD  69 SERVIDAS 4.9LB SABOR COOKIES AND CREAM",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA BPI ISO HD  69 SERVIDAS 4.9LB SABOR COOKIES AND CREAM.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
