@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-01T18:47:53.2877973Z",
+    "generatedAt":  "2026-09-01T18:49:16.4689627Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -698,7 +698,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  232,
+                       "stock":  230,
                        "stockLinked":  true
                    },
                    {
