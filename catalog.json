@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-01T17:27:40.0345072Z",
+    "generatedAt":  "2026-09-01T17:31:56.2069620Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  155,
+                       "stock":  153,
                        "stockLinked":  true
                    },
                    {
@@ -327,7 +327,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  254,
+                       "stock":  252,
                        "stockLinked":  true
                    },
                    {
