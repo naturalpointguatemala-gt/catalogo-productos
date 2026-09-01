@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-01T17:23:06.6392495Z",
+    "generatedAt":  "2026-09-01T17:27:40.0345072Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -173,7 +173,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  82,
+                       "stock":  81,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  768,
+                       "stock":  767,
                        "stockLinked":  true
                    },
                    {
@@ -425,7 +425,7 @@
                        "name":  "COLÁGENO HIDROLIZADO CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/COLÁGENO HIDROLIZADO CÁPSULAS.jpeg",
-                       "stock":  11,
+                       "stock":  10,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  750,
+                       "stock":  749,
                        "stockLinked":  true
                    },
                    {
