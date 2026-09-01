@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-01T23:51:37.0102434Z",
+    "generatedAt":  "2026-09-01T23:59:48.3042472Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -698,7 +698,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  230,
+                       "stock":  229,
                        "stockLinked":  true
                    },
                    {
@@ -1335,7 +1335,7 @@
                        "name":  "VITAMINA B9 (ÁCIDO FOLICO)",
                        "folder":  "General",
                        "src":  "images/VITAMINA B9 (ÁCIDO FOLICO).png",
-                       "stock":  7,
+                       "stock":  6,
                        "stockLinked":  true
                    },
                    {
