@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-02T23:22:24.1003134Z",
+    "generatedAt":  "2026-09-02T23:26:21.4475141Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -636,13 +636,6 @@
                        "folder":  "General",
                        "src":  "images/GYMNEMA SYLVESTRE.png",
                        "stock":  40,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "HAIR SKIN NAILS X 200 GOMITAS ROSADO",
-                       "folder":  "General",
-                       "src":  "images/HAIR SKIN NAILS X 200 GOMITAS ROSADO.jpeg",
-                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
@@ -1612,13 +1605,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "KING WHEY RONNIE COLEMAN CHOCOLATE CON LECHE",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/KING WHEY RONNIE COLEMAN CHOCOLATE CON LECHE.jpeg",
-                       "stock":  0,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "KING WHEY RONNIE COLEMAN VAINILLA ICE CREAM",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/KING WHEY RONNIE COLEMAN VAINILLA ICE CREAM.jpeg",
@@ -1975,6 +1961,11 @@
                               "src":  "images_sin_existencia/HAIR SKIN NAILS X 200 GOMITAS ADVANCED MORADO.jpeg"
                           },
                           {
+                              "name":  "HAIR SKIN NAILS X 200 GOMITAS ROSADO",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/HAIR SKIN NAILS X 200 GOMITAS ROSADO.jpeg"
+                          },
+                          {
                               "name":  "HAIR, SKIN \u0026 NAILS  GOMITAS NARANJA 80 GOMITAS",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/HAIR, SKIN \u0026 NAILS  GOMITAS NARANJA 80 GOMITAS.jpeg"
@@ -2023,6 +2014,11 @@
                               "name":  "KING TEST TESTOSTERONA BOOSTER RONNIE COLEMAN",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/KING TEST TESTOSTERONA BOOSTER RONNIE COLEMAN.jpeg"
+                          },
+                          {
+                              "name":  "KING WHEY RONNIE COLEMAN CHOCOLATE CON LECHE",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/KING WHEY RONNIE COLEMAN CHOCOLATE CON LECHE.jpeg"
                           },
                           {
                               "name":  "MAGNESIO GOMITAS GOLI",
