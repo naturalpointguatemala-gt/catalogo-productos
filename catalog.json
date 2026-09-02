@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-02T17:43:49.0634968Z",
+    "generatedAt":  "2026-09-02T17:53:33.6943643Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -173,7 +173,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  72,
+                       "stock":  67,
                        "stockLinked":  true
                    },
                    {
@@ -691,7 +691,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  223,
+                       "stock":  213,
                        "stockLinked":  true
                    },
                    {
