@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-02T20:22:30.4638937Z",
+    "generatedAt":  "2026-09-02T20:31:33.3588576Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  129,
+                       "stock":  127,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  755,
+                       "stock":  754,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  746,
+                       "stock":  745,
                        "stockLinked":  true
                    },
                    {
@@ -789,7 +789,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  25,
+                       "stock":  24,
                        "stockLinked":  true
                    },
                    {
