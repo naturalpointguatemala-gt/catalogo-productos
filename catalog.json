@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-02T21:11:35.4321136Z",
+    "generatedAt":  "2026-09-02T21:19:25.3145701Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  127,
+                       "stock":  126,
                        "stockLinked":  true
                    },
                    {
@@ -1496,7 +1496,7 @@
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
-                       "stock":  27,
+                       "stock":  26,
                        "stockLinked":  true
                    },
                    {
