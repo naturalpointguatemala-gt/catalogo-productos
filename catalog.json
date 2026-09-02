@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-02T16:28:27.0668342Z",
+    "generatedAt":  "2026-09-02T16:34:28.3666780Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -461,13 +461,6 @@
                        "folder":  "General",
                        "src":  "images/CÚRCUMA PURA.png",
                        "stock":  20,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "DHEA 25MG LIFE EX",
-                       "folder":  "General",
-                       "src":  "images/DHEA 25MG LIFE EX.png",
-                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
@@ -1860,6 +1853,11 @@
                               "name":  "CREATINA PARA MUJER PINK LEMONADE",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/CREATINA PARA MUJER PINK LEMONADE.jpeg"
+                          },
+                          {
+                              "name":  "DHEA 25MG LIFE EX",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/DHEA 25MG LIFE EX.png"
                           },
                           {
                               "name":  "ELECTROLITROS FRAMBUESA",
