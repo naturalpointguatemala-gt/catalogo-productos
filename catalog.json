@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-02T18:54:01.3316519Z",
+    "generatedAt":  "2026-09-02T18:56:20.2831517Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  133,
+                       "stock":  132,
                        "stockLinked":  true
                    },
                    {
