@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-02T16:34:28.3666780Z",
+    "generatedAt":  "2026-09-02T17:08:27.0577799Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  770,
+                       "stock":  769,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  756,
+                       "stock":  755,
                        "stockLinked":  true
                    },
                    {
@@ -663,7 +663,7 @@
                        "name":  "HGH HORMONA DEL CRECIMIENTO",
                        "folder":  "General",
                        "src":  "images/HGH HORMONA DEL CRECIMIENTO.jpeg",
-                       "stock":  6,
+                       "stock":  5,
                        "stockLinked":  true
                    },
                    {
