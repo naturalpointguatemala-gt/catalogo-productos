@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-01T23:59:48.3042472Z",
+    "generatedAt":  "2026-09-02T00:02:42.3740208Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -68,7 +68,7 @@
                        "name":  "AGUAJE GOMITAS BBP",
                        "folder":  "General",
                        "src":  "images/AGUAJE GOMITAS BBP.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
@@ -299,7 +299,7 @@
                        "name":  "CENTRUM WOMEN 170 GOMITAS",
                        "folder":  "General",
                        "src":  "images/CENTRUM WOMEN 170 GOMITAS.jpeg",
-                       "stock":  4,
+                       "stock":  3,
                        "stockLinked":  true
                    },
                    {
@@ -838,7 +838,7 @@
                        "name":  "MAGNESIO COMPLEX",
                        "folder":  "General",
                        "src":  "images/MAGNESIO COMPLEX.jpeg",
-                       "stock":  51,
+                       "stock":  50,
                        "stockLinked":  true
                    },
                    {
@@ -1503,7 +1503,7 @@
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
-                       "stock":  29,
+                       "stock":  27,
                        "stockLinked":  true
                    },
                    {
@@ -1594,7 +1594,7 @@
                        "name":  "CREATINA RONNIE COLEMAN 1KG",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA RONNIE COLEMAN 1KG.jpeg",
-                       "stock":  15,
+                       "stock":  14,
                        "stockLinked":  true
                    },
                    {
@@ -1615,7 +1615,7 @@
                        "name":  "ISO PHORM 5LB CONO DE VAINILLA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/ISO PHORM 5LB CONO DE VAINILLA.jpeg",
-                       "stock":  4,
+                       "stock":  3,
                        "stockLinked":  true
                    },
                    {
@@ -1671,7 +1671,7 @@
                        "name":  "PREENTRENO MR VEINZ NARANJA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PREENTRENO MR VEINZ NARANJA.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
