@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-02T20:45:53.1790693Z",
+    "generatedAt":  "2026-09-02T20:54:01.5501538Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -369,7 +369,7 @@
                        "name":  "CLORURO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CLORURO DE MAGNESIO.jpeg",
-                       "stock":  5,
+                       "stock":  4,
                        "stockLinked":  true
                    },
                    {
