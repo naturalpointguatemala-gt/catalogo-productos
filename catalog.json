@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-02T18:56:20.2831517Z",
+    "generatedAt":  "2026-09-02T18:57:54.6647980Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  764,
+                       "stock":  763,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  753,
+                       "stock":  752,
                        "stockLinked":  true
                    },
                    {
@@ -642,7 +642,7 @@
                        "name":  "HAIR SKIN NAILS X 200 GOMITAS ROSADO",
                        "folder":  "General",
                        "src":  "images/HAIR SKIN NAILS X 200 GOMITAS ROSADO.jpeg",
-                       "stock":  1,
+                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
