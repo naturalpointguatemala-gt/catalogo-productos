@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-02T19:54:52.9662074Z",
+    "generatedAt":  "2026-09-02T20:04:12.2510120Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  50,
+                       "stock":  48,
                        "stockLinked":  true
                    },
                    {
@@ -1489,7 +1489,7 @@
                        "name":  "CREATINA DRAGON 30 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 30 SERVIDAS.jpeg",
-                       "stock":  4,
+                       "stock":  3,
                        "stockLinked":  true
                    },
                    {
