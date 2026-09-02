@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-02T20:04:12.2510120Z",
+    "generatedAt":  "2026-09-02T20:10:55.9843955Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  757,
+                       "stock":  756,
                        "stockLinked":  true
                    },
                    {
@@ -327,7 +327,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  243,
+                       "stock":  242,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  748,
+                       "stock":  747,
                        "stockLinked":  true
                    },
                    {
