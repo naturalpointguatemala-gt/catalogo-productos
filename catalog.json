@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-02T00:02:42.3740208Z",
+    "generatedAt":  "2026-09-02T00:11:54.7790580Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -467,7 +467,7 @@
                        "name":  "DHEA 25MG LIFE EX",
                        "folder":  "General",
                        "src":  "images/DHEA 25MG LIFE EX.png",
-                       "stock":  1,
+                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
