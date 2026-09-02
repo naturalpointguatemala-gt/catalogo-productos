@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-02T21:33:13.9293855Z",
+    "generatedAt":  "2026-09-02T21:47:00.4559432Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  46,
+                       "stock":  45,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  747,
+                       "stock":  745,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  742,
+                       "stock":  741,
                        "stockLinked":  true
                    },
                    {
@@ -1265,7 +1265,7 @@
                        "name":  "VINAGRE DE MANZANA",
                        "folder":  "General",
                        "src":  "images/VINAGRE DE MANZANA.png",
-                       "stock":  19,
+                       "stock":  18,
                        "stockLinked":  true
                    },
                    {
