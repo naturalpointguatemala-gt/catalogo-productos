@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-02T00:17:49.1632700Z",
+    "generatedAt":  "2026-09-02T16:28:27.0668342Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  41,
+                       "stock":  51,
                        "stockLinked":  true
                    },
                    {
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  139,
+                       "stock":  133,
                        "stockLinked":  true
                    },
                    {
@@ -173,7 +173,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  80,
+                       "stock":  72,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  728,
+                       "stock":  770,
                        "stockLinked":  true
                    },
                    {
@@ -432,7 +432,7 @@
                        "name":  "CRANBERRY EXTRACTO CON VITAMINA C",
                        "folder":  "General",
                        "src":  "images/CRANBERRY EXTRACTO CON VITAMINA C.jpeg",
-                       "stock":  21,
+                       "stock":  20,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  733,
+                       "stock":  756,
                        "stockLinked":  true
                    },
                    {
@@ -474,7 +474,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  37,
+                       "stock":  36,
                        "stockLinked":  true
                    },
                    {
@@ -537,7 +537,7 @@
                        "name":  "GINKGO BILOBA",
                        "folder":  "General",
                        "src":  "images/GINKGO BILOBA.png",
-                       "stock":  24,
+                       "stock":  23,
                        "stockLinked":  true
                    },
                    {
@@ -698,14 +698,14 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  229,
+                       "stock":  228,
                        "stockLinked":  true
                    },
                    {
                        "name":  "ISOFLAVONAS",
                        "folder":  "General",
                        "src":  "images/ISOFLAVONAS.png",
-                       "stock":  9,
+                       "stock":  22,
                        "stockLinked":  true
                    },
                    {
@@ -796,7 +796,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  27,
+                       "stock":  25,
                        "stockLinked":  true
                    },
                    {
@@ -901,7 +901,7 @@
                        "name":  "MELATONINA",
                        "folder":  "General",
                        "src":  "images/MELATONINA.png",
-                       "stock":  7,
+                       "stock":  16,
                        "stockLinked":  true
                    },
                    {
@@ -1139,7 +1139,7 @@
                        "name":  "REMOLACHA",
                        "folder":  "General",
                        "src":  "images/REMOLACHA.png",
-                       "stock":  36,
+                       "stock":  35,
                        "stockLinked":  true
                    },
                    {
@@ -1510,7 +1510,7 @@
                        "name":  "CREATINA DRAGON PHARMA 200 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA 200 SERVIDAS.jpeg",
-                       "stock":  6,
+                       "stock":  5,
                        "stockLinked":  true
                    },
                    {
@@ -1664,7 +1664,7 @@
                        "name":  "PRE ENTRENO VENOM INFERNO LYCHEE",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE ENTRENO VENOM INFERNO LYCHEE.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
