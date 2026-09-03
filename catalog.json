@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-03T18:07:28.3797670Z",
+    "generatedAt":  "2026-09-03T18:12:58.9071324Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  777,
+                       "stock":  773,
                        "stockLinked":  true
                    },
                    {
