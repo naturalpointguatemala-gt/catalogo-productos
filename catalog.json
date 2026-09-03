@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-03T16:54:01.6132917Z",
+    "generatedAt":  "2026-09-03T16:56:31.1820406Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -173,7 +173,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  63,
+                       "stock":  59,
                        "stockLinked":  true
                    },
                    {
