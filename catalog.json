@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-03T19:33:41.1085086Z",
+    "generatedAt":  "2026-09-03T19:42:24.2910363Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -327,14 +327,14 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  240,
+                       "stock":  239,
                        "stockLinked":  true
                    },
                    {
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
-                       "stock":  140,
+                       "stock":  139,
                        "stockLinked":  true
                    },
                    {
