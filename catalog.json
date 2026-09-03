@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-03T18:25:15.0558985Z",
+    "generatedAt":  "2026-09-03T18:28:11.5826008Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -999,7 +999,7 @@
                        "name":  "OMEGA 3 ZEBORA",
                        "folder":  "General",
                        "src":  "images/OMEGA 3 ZEBORA.jpeg",
-                       "stock":  6,
+                       "stock":  5,
                        "stockLinked":  true
                    },
                    {
