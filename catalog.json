@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-03T23:26:10.2477299Z",
+    "generatedAt":  "2026-09-03T23:55:48.7090489Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -327,7 +327,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  237,
+                       "stock":  236,
                        "stockLinked":  true
                    },
                    {
@@ -684,7 +684,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  208,
+                       "stock":  207,
                        "stockLinked":  true
                    },
                    {
@@ -852,7 +852,7 @@
                        "name":  "MAGNESIO Y POTASIO AMERICANO",
                        "folder":  "General",
                        "src":  "images/MAGNESIO Y POTASIO AMERICANO.jpeg",
-                       "stock":  8,
+                       "stock":  7,
                        "stockLinked":  true
                    },
                    {
