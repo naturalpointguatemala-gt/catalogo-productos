@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-03T00:02:20.1466808Z",
+    "generatedAt":  "2026-09-03T16:18:18.8414360Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  44,
+                       "stock":  41,
                        "stockLinked":  true
                    },
                    {
@@ -103,7 +103,7 @@
                        "name":  "ALA",
                        "folder":  "General",
                        "src":  "images/ALA.jpeg",
-                       "stock":  14,
+                       "stock":  12,
                        "stockLinked":  true
                    },
                    {
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  121,
+                       "stock":  115,
                        "stockLinked":  true
                    },
                    {
@@ -201,7 +201,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1327,
+                       "stock":  -1328,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  734,
+                       "stock":  721,
                        "stockLinked":  true
                    },
                    {
@@ -250,7 +250,7 @@
                        "name":  "CENTRUM ADULTOS",
                        "folder":  "General",
                        "src":  "images/CENTRUM ADULTOS.jpeg",
-                       "stock":  3,
+                       "stock":  2,
                        "stockLinked":  true
                    },
                    {
@@ -327,7 +327,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  242,
+                       "stock":  240,
                        "stockLinked":  true
                    },
                    {
@@ -397,7 +397,7 @@
                        "name":  "COLA DE CABALLO",
                        "folder":  "General",
                        "src":  "images/COLA DE CABALLO.png",
-                       "stock":  11,
+                       "stock":  10,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  736,
+                       "stock":  729,
                        "stockLinked":  true
                    },
                    {
@@ -677,14 +677,14 @@
                        "name":  "INOSITOL POLVO DEAL SUPPLEMENT",
                        "folder":  "General",
                        "src":  "images/INOSITOL POLVO DEAL SUPPLEMENT.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  210,
+                       "stock":  209,
                        "stockLinked":  true
                    },
                    {
@@ -1041,7 +1041,7 @@
                        "name":  "OXIDO NITRICO",
                        "folder":  "General",
                        "src":  "images/OXIDO NITRICO.jpeg",
-                       "stock":  5,
+                       "stock":  4,
                        "stockLinked":  true
                    },
                    {
@@ -1538,7 +1538,7 @@
                        "name":  "CREATINA NUTREX 60 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 60 SERVIDAS.jpeg",
-                       "stock":  12,
+                       "stock":  11,
                        "stockLinked":  true
                    },
                    {
@@ -1601,7 +1601,7 @@
                        "name":  "GLUTAMINA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/GLUTAMINA.jpeg",
-                       "stock":  4,
+                       "stock":  3,
                        "stockLinked":  true
                    },
                    {
@@ -1615,7 +1615,7 @@
                        "name":  "KING WHEY RONNIE COLEMAN VAINILLA ICE CREAM",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/KING WHEY RONNIE COLEMAN VAINILLA ICE CREAM.jpeg",
-                       "stock":  1,
+                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
