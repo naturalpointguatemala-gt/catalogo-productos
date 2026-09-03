@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-03T22:08:35.0538145Z",
+    "generatedAt":  "2026-09-03T22:14:31.2489094Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  110,
+                       "stock":  109,
                        "stockLinked":  true
                    },
                    {
@@ -327,7 +327,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  238,
+                       "stock":  237,
                        "stockLinked":  true
                    },
                    {
@@ -530,7 +530,7 @@
                        "name":  "GINKGO BILOBA",
                        "folder":  "General",
                        "src":  "images/GINKGO BILOBA.png",
-                       "stock":  23,
+                       "stock":  21,
                        "stockLinked":  true
                    },
                    {
