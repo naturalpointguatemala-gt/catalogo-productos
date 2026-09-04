@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-04T19:50:46.5737589Z",
+    "generatedAt":  "2026-09-04T19:56:02.7011699Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  794,
+                       "stock":  793,
                        "stockLinked":  true
                    },
                    {
@@ -327,7 +327,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  233,
+                       "stock":  232,
                        "stockLinked":  true
                    },
                    {
@@ -411,14 +411,14 @@
                        "name":  "COLAGENO POLVO",
                        "folder":  "General",
                        "src":  "images/COLAGENO POLVO.jpeg",
-                       "stock":  6,
+                       "stock":  5,
                        "stockLinked":  true
                    },
                    {
                        "name":  "COLÁGENO EN POLVO CON BIOTINA",
                        "folder":  "General",
                        "src":  "images/COLÁGENO EN POLVO CON BIOTINA.jpg",
-                       "stock":  9,
+                       "stock":  8,
                        "stockLinked":  true
                    },
                    {
@@ -824,7 +824,7 @@
                        "name":  "MAGNESIO COMPLEX",
                        "folder":  "General",
                        "src":  "images/MAGNESIO COMPLEX.jpeg",
-                       "stock":  45,
+                       "stock":  44,
                        "stockLinked":  true
                    },
                    {
@@ -1594,7 +1594,7 @@
                        "name":  "GANADOR DE PESO BULK MUSCLE XL VAINILLA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/GANADOR DE PESO BULK MUSCLE XL VAINILLA.jpeg",
-                       "stock":  1,
+                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
