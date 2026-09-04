@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-04T16:14:46.8190111Z",
+    "generatedAt":  "2026-09-04T16:28:49.8230262Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -852,7 +852,7 @@
                        "name":  "MAGNESIO Y POTASIO AMERICANO",
                        "folder":  "General",
                        "src":  "images/MAGNESIO Y POTASIO AMERICANO.jpeg",
-                       "stock":  7,
+                       "stock":  6,
                        "stockLinked":  true
                    },
                    {
@@ -1335,7 +1335,7 @@
                        "name":  "VITAMINA D3 CON K2",
                        "folder":  "General",
                        "src":  "images/VITAMINA D3 CON K2.jpeg",
-                       "stock":  16,
+                       "stock":  15,
                        "stockLinked":  true
                    },
                    {
