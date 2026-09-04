@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-04T19:22:22.3611148Z",
+    "generatedAt":  "2026-09-04T19:28:24.7957563Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -768,7 +768,7 @@
                        "name":  "LECHE DORADA POLVO",
                        "folder":  "General",
                        "src":  "images/LECHE DORADA POLVO.jpg",
-                       "stock":  10,
+                       "stock":  8,
                        "stockLinked":  true
                    },
                    {
