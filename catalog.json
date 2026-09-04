@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-04T19:14:59.9415849Z",
+    "generatedAt":  "2026-09-04T19:22:22.3611148Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  55,
+                       "stock":  71,
                        "stockLinked":  true
                    },
                    {
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  103,
+                       "stock":  123,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  729,
+                       "stock":  794,
                        "stockLinked":  true
                    },
                    {
@@ -425,7 +425,7 @@
                        "name":  "COLÁGENO HIDROLIZADO CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/COLÁGENO HIDROLIZADO CÁPSULAS.jpeg",
-                       "stock":  7,
+                       "stock":  15,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  749,
+                       "stock":  795,
                        "stockLinked":  true
                    },
                    {
@@ -824,7 +824,7 @@
                        "name":  "MAGNESIO COMPLEX",
                        "folder":  "General",
                        "src":  "images/MAGNESIO COMPLEX.jpeg",
-                       "stock":  46,
+                       "stock":  45,
                        "stockLinked":  true
                    },
                    {
