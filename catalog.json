@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-04T22:56:59.3318192Z",
+    "generatedAt":  "2026-09-04T23:02:40.3752093Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  783,
+                       "stock":  781,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  794,
+                       "stock":  792,
                        "stockLinked":  true
                    },
                    {
@@ -684,7 +684,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  204,
+                       "stock":  203,
                        "stockLinked":  true
                    },
                    {
@@ -1601,7 +1601,7 @@
                        "name":  "ISO PHORM 5LB CONO DE VAINILLA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/ISO PHORM 5LB CONO DE VAINILLA.jpeg",
-                       "stock":  3,
+                       "stock":  2,
                        "stockLinked":  true
                    },
                    {
