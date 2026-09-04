@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-04T20:38:57.4375118Z",
+    "generatedAt":  "2026-09-04T20:47:05.7618917Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -1591,13 +1591,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "GANADOR DE PESO BULK MUSCLE XL VAINILLA",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/GANADOR DE PESO BULK MUSCLE XL VAINILLA.jpeg",
-                       "stock":  0,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "GLUTAMINA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/GLUTAMINA.jpeg",
@@ -1866,6 +1859,11 @@
                               "name":  "GABA",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/GABA.png"
+                          },
+                          {
+                              "name":  "GANADOR DE PESO BULK MUSCLE XL VAINILLA",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/GANADOR DE PESO BULK MUSCLE XL VAINILLA.jpeg"
                           },
                           {
                               "name":  "GANADOR DE PESO CARNIVOR MASS 25 SERVIDAS",
