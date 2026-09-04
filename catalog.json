@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-04T22:19:09.3515975Z",
+    "generatedAt":  "2026-09-04T22:29:00.9690596Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -187,7 +187,7 @@
                        "name":  "CALCIO CITRATO",
                        "folder":  "General",
                        "src":  "images/CALCIO CITRATO.png",
-                       "stock":  16,
+                       "stock":  15,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  784,
+                       "stock":  783,
                        "stockLinked":  true
                    },
                    {
