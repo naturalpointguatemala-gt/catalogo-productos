@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-04T16:28:49.8230262Z",
+    "generatedAt":  "2026-09-04T16:40:30.0718150Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  737,
+                       "stock":  736,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  752,
+                       "stock":  751,
                        "stockLinked":  true
                    },
                    {
@@ -684,7 +684,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  205,
+                       "stock":  204,
                        "stockLinked":  true
                    },
                    {
