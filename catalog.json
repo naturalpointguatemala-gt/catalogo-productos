@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-04T00:10:19.3838548Z",
+    "generatedAt":  "2026-09-04T15:28:12.0420716Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -26,7 +26,7 @@
                        "name":  "ACEITE DE OREGANO",
                        "folder":  "General",
                        "src":  "images/ACEITE DE OREGANO.jpeg",
-                       "stock":  23,
+                       "stock":  22,
                        "stockLinked":  true
                    },
                    {
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  106,
+                       "stock":  104,
                        "stockLinked":  true
                    },
                    {
@@ -173,7 +173,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  51,
+                       "stock":  50,
                        "stockLinked":  true
                    },
                    {
@@ -201,7 +201,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1328,
+                       "stock":  -1329,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  752,
+                       "stock":  738,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  761,
+                       "stock":  753,
                        "stockLinked":  true
                    },
                    {
@@ -684,7 +684,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  207,
+                       "stock":  205,
                        "stockLinked":  true
                    },
                    {
@@ -824,7 +824,7 @@
                        "name":  "MAGNESIO COMPLEX",
                        "folder":  "General",
                        "src":  "images/MAGNESIO COMPLEX.jpeg",
-                       "stock":  47,
+                       "stock":  46,
                        "stockLinked":  true
                    },
                    {
@@ -1230,7 +1230,7 @@
                        "name":  "URO PROBIOTICOS VAGINALES",
                        "folder":  "General",
                        "src":  "images/URO PROBIOTICOS VAGINALES.jpeg",
-                       "stock":  4,
+                       "stock":  3,
                        "stockLinked":  true
                    },
                    {
