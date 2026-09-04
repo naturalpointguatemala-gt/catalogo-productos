@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-04T22:13:25.6719028Z",
+    "generatedAt":  "2026-09-04T22:19:09.3515975Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -411,7 +411,7 @@
                        "name":  "COLAGENO POLVO",
                        "folder":  "General",
                        "src":  "images/COLAGENO POLVO.jpeg",
-                       "stock":  4,
+                       "stock":  3,
                        "stockLinked":  true
                    },
                    {
