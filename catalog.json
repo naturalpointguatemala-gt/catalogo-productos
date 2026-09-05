@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-05T21:37:05.9467052Z",
+    "generatedAt":  "2026-09-05T21:45:55.0104958Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -320,7 +320,7 @@
                        "name":  "CHANCAPIEDRA",
                        "folder":  "General",
                        "src":  "images/CHANCAPIEDRA.jpeg",
-                       "stock":  24,
+                       "stock":  23,
                        "stockLinked":  true
                    },
                    {
