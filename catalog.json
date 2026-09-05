@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-05T17:57:23.4728040Z",
+    "generatedAt":  "2026-09-05T18:23:01.1045558Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -362,7 +362,7 @@
                        "name":  "CLOROFILA",
                        "folder":  "General",
                        "src":  "images/CLOROFILA.jpeg",
-                       "stock":  3,
+                       "stock":  2,
                        "stockLinked":  true
                    },
                    {
