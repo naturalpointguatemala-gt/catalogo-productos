@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-05T20:27:50.4965882Z",
+    "generatedAt":  "2026-09-05T20:38:14.5845541Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -1174,7 +1174,7 @@
                        "name":  "SHILAJIT ULTRA COMPLEX NP",
                        "folder":  "General",
                        "src":  "images/SHILAJIT ULTRA COMPLEX NP.jpeg",
-                       "stock":  10,
+                       "stock":  9,
                        "stockLinked":  true
                    },
                    {
@@ -1279,7 +1279,7 @@
                        "name":  "VITAMINA B12",
                        "folder":  "General",
                        "src":  "images/VITAMINA B12.jpeg",
-                       "stock":  19,
+                       "stock":  18,
                        "stockLinked":  true
                    },
                    {
