@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-05T16:55:21.4134714Z",
+    "generatedAt":  "2026-09-05T16:59:08.6416324Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  69,
+                       "stock":  96,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  763,
+                       "stock":  823,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  784,
+                       "stock":  830,
                        "stockLinked":  true
                    },
                    {
@@ -467,7 +467,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  34,
+                       "stock":  60,
                        "stockLinked":  true
                    },
                    {
@@ -1146,7 +1146,7 @@
                        "name":  "SAW PALMETTO",
                        "folder":  "General",
                        "src":  "images/SAW PALMETTO.jpeg",
-                       "stock":  13,
+                       "stock":  26,
                        "stockLinked":  true
                    },
                    {
@@ -1321,7 +1321,7 @@
                        "name":  "VITAMINA B9 (ÁCIDO FOLICO)",
                        "folder":  "General",
                        "src":  "images/VITAMINA B9 (ÁCIDO FOLICO).png",
-                       "stock":  6,
+                       "stock":  21,
                        "stockLinked":  true
                    },
                    {
@@ -1349,7 +1349,7 @@
                        "name":  "VITAMINA E 400 UI",
                        "folder":  "General",
                        "src":  "images/VITAMINA E 400 UI.png",
-                       "stock":  10,
+                       "stock":  13,
                        "stockLinked":  true
                    },
                    {
