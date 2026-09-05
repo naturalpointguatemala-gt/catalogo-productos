@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-05T21:33:17.9118327Z",
+    "generatedAt":  "2026-09-05T21:37:05.9467052Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  806,
+                       "stock":  805,
                        "stockLinked":  true
                    },
                    {
@@ -320,7 +320,7 @@
                        "name":  "CHANCAPIEDRA",
                        "folder":  "General",
                        "src":  "images/CHANCAPIEDRA.jpeg",
-                       "stock":  23,
+                       "stock":  24,
                        "stockLinked":  true
                    },
                    {
@@ -1482,7 +1482,7 @@
                        "name":  "CREATINA DRAGON 30 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 30 SERVIDAS.jpeg",
-                       "stock":  2,
+                       "stock":  8,
                        "stockLinked":  true
                    },
                    {
@@ -1496,7 +1496,7 @@
                        "name":  "CREATINA DRAGON PHARMA 200 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA 200 SERVIDAS.jpeg",
-                       "stock":  2,
+                       "stock":  52,
                        "stockLinked":  true
                    },
                    {
