@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-07T18:16:45.0759478Z",
+    "generatedAt":  "2026-09-07T18:19:21.3971868Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  111,
+                       "stock":  109,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  787,
+                       "stock":  785,
                        "stockLinked":  true
                    },
                    {
@@ -992,7 +992,7 @@
                        "name":  "OMEGA 3 VIVA NATURALS",
                        "folder":  "General",
                        "src":  "images/OMEGA 3 VIVA NATURALS.jpeg",
-                       "stock":  9,
+                       "stock":  8,
                        "stockLinked":  true
                    },
                    {
