@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-05T22:29:57.6160613Z",
+    "generatedAt":  "2026-09-07T17:42:12.0264335Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -96,7 +96,7 @@
                        "name":  "AJO SIN OLOR",
                        "folder":  "General",
                        "src":  "images/AJO SIN OLOR.jpeg",
-                       "stock":  20,
+                       "stock":  18,
                        "stockLinked":  true
                    },
                    {
@@ -131,7 +131,7 @@
                        "name":  "ARGININA",
                        "folder":  "General",
                        "src":  "images/ARGININA.png",
-                       "stock":  26,
+                       "stock":  25,
                        "stockLinked":  true
                    },
                    {
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  118,
+                       "stock":  111,
                        "stockLinked":  true
                    },
                    {
@@ -173,7 +173,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  49,
+                       "stock":  47,
                        "stockLinked":  true
                    },
                    {
@@ -187,7 +187,7 @@
                        "name":  "CALCIO CITRATO",
                        "folder":  "General",
                        "src":  "images/CALCIO CITRATO.png",
-                       "stock":  15,
+                       "stock":  3,
                        "stockLinked":  true
                    },
                    {
@@ -201,7 +201,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1332,
+                       "stock":  -1333,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  800,
+                       "stock":  790,
                        "stockLinked":  true
                    },
                    {
@@ -327,7 +327,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  284,
+                       "stock":  271,
                        "stockLinked":  true
                    },
                    {
@@ -425,7 +425,7 @@
                        "name":  "COLÁGENO HIDROLIZADO CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/COLÁGENO HIDROLIZADO CÁPSULAS.jpeg",
-                       "stock":  15,
+                       "stock":  5,
                        "stockLinked":  true
                    },
                    {
@@ -453,14 +453,14 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  824,
+                       "stock":  821,
                        "stockLinked":  true
                    },
                    {
                        "name":  "CÚRCUMA PURA",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA PURA.png",
-                       "stock":  20,
+                       "stock":  19,
                        "stockLinked":  true
                    },
                    {
@@ -684,7 +684,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  202,
+                       "stock":  201,
                        "stockLinked":  true
                    },
                    {
@@ -712,7 +712,7 @@
                        "name":  "JABÓN DE ROMERO",
                        "folder":  "General",
                        "src":  "images/JABÓN DE ROMERO.png",
-                       "stock":  2,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
@@ -1139,7 +1139,7 @@
                        "name":  "RHODIOLA",
                        "folder":  "General",
                        "src":  "images/RHODIOLA.png",
-                       "stock":  9,
+                       "stock":  5,
                        "stockLinked":  true
                    },
                    {
@@ -1244,7 +1244,7 @@
                        "name":  "VENAS Y VARICES LEG VEINS",
                        "folder":  "General",
                        "src":  "images/VENAS Y VARICES LEG VEINS.jpeg",
-                       "stock":  5,
+                       "stock":  4,
                        "stockLinked":  true
                    },
                    {
@@ -1440,7 +1440,7 @@
                        "name":  "ZINC",
                        "folder":  "General",
                        "src":  "images/ZINC.jpeg",
-                       "stock":  12,
+                       "stock":  10,
                        "stockLinked":  true
                    },
                    {
@@ -1588,6 +1588,20 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/GANADOR DE PESO BULK MUSCLE XL CHOCOLATE.jpeg",
                        "stock":  1,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "GANADORA DE PESO SERIOUS MASS  16 SERVIDAS 12LB SABOR CHOCOLATE OPTIMUM NUTRITION",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/GANADORA DE PESO SERIOUS MASS  16 SERVIDAS 12LB SABOR CHOCOLATE OPTIMUM NUTRITION.jpeg",
+                       "stock":  2,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "GANADORA DE PESO SERIOUS MASS  16 SERVIDAS 12LB SABOR VAINILLA OPTIMUM NUTRITION",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/GANADORA DE PESO SERIOUS MASS  16 SERVIDAS 12LB SABOR VAINILLA OPTIMUM NUTRITION.jpeg",
+                       "stock":  2,
                        "stockLinked":  true
                    },
                    {
@@ -1901,19 +1915,9 @@
                               "src":  "images_sin_existencia/GANADOR MUTANT MASS EXTREME 2500 6 LIBRAS ICE CREAM.jpeg"
                           },
                           {
-                              "name":  "GANADORA DE MASA OPTIMUM NUTRITION 12 LIBRAS CHOCOLATE",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/GANADORA DE MASA OPTIMUM NUTRITION 12 LIBRAS CHOCOLATE.jpeg"
-                          },
-                          {
                               "name":  "GANADORA DE MASA OPTIMUM NUTRITION 12 LIBRAS FRESA",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/GANADORA DE MASA OPTIMUM NUTRITION 12 LIBRAS FRESA.jpeg"
-                          },
-                          {
-                              "name":  "GANADORA DE MASA OPTIMUM NUTRITION 12 LIBRAS VAINILLA",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/GANADORA DE MASA OPTIMUM NUTRITION 12 LIBRAS VAINILLA.jpeg"
                           },
                           {
                               "name":  "GLICEROL LÍQUIDO PIÑA COLADA",
