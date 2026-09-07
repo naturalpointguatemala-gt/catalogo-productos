@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-07T22:11:16.1130542Z",
+    "generatedAt":  "2026-09-07T22:16:42.1863850Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -117,7 +117,7 @@
                        "name":  "ALOE VERA",
                        "folder":  "General",
                        "src":  "images/ALOE VERA.jpeg",
-                       "stock":  18,
+                       "stock":  16,
                        "stockLinked":  true
                    },
                    {
@@ -789,7 +789,7 @@
                        "name":  "LIPO 6 BLACK QUEMADOR DE GRASA",
                        "folder":  "General",
                        "src":  "images/LIPO 6 BLACK QUEMADOR DE GRASA.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
