@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-07T19:47:44.2139318Z",
+    "generatedAt":  "2026-09-07T19:52:38.2532338Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  774,
+                       "stock":  773,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  809,
+                       "stock":  808,
                        "stockLinked":  true
                    },
                    {
@@ -1741,7 +1741,7 @@
                        "name":  "PSYCHOTIC SAW  SANDIA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PSYCHOTIC SAW  SANDIA.jpeg",
-                       "stock":  5,
+                       "stock":  8,
                        "stockLinked":  true
                    }
                ],
