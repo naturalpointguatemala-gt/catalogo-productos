@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-07T23:44:41.4796645Z",
+    "generatedAt":  "2026-09-07T23:52:27.9035180Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -551,7 +551,7 @@
                        "name":  "GLICINATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/GLICINATO DE MAGNESIO.jpeg",
-                       "stock":  21,
+                       "stock":  20,
                        "stockLinked":  true
                    },
                    {
@@ -1658,6 +1658,27 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE ENTRENO VENOM INFERNO LYCHEE.jpeg",
                        "stock":  1,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PRE-ENTRENO BOMBEO RAW CITRUS FRUIT BURST",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO BOMBEO RAW CITRUS FRUIT BURST.png",
+                       "stock":  2,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PRE-ENTRENO BOMBEO RAW CITRUS",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO BOMBEO RAW CITRUS.jpeg",
+                       "stock":  2,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PRE-ENTRENO BOMBEO RAW MANGO CHAMOY",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO BOMBEO RAW MANGO CHAMOY.png",
+                       "stock":  2,
                        "stockLinked":  true
                    },
                    {
