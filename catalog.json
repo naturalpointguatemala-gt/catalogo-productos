@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-07T23:32:42.5368017Z",
+    "generatedAt":  "2026-09-07T23:41:15.5029138Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -1626,13 +1626,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "KING WHEY RONNIE COLEMAN VAINILLA ICE CREAM",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/KING WHEY RONNIE COLEMAN VAINILLA ICE CREAM.jpeg",
-                       "stock":  0,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "PRE ENTRENO NITRAFLEX  30 SERVIDAS SABOR SANDÍA GAT SPORT",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE ENTRENO NITRAFLEX  30 SERVIDAS SABOR SANDÍA GAT SPORT.jpeg",
@@ -1665,13 +1658,6 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE ENTRENO VENOM INFERNO LYCHEE.jpeg",
                        "stock":  1,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "PREENTRENO MR VEINZ NARANJA",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PREENTRENO MR VEINZ NARANJA.jpeg",
-                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
@@ -2027,6 +2013,11 @@
                               "src":  "images_sin_existencia/KING WHEY RONNIE COLEMAN CHOCOLATE CON LECHE.jpeg"
                           },
                           {
+                              "name":  "KING WHEY RONNIE COLEMAN VAINILLA ICE CREAM",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/KING WHEY RONNIE COLEMAN VAINILLA ICE CREAM.jpeg"
+                          },
+                          {
                               "name":  "MAGNESIO GOMITAS GOLI",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/MAGNESIO GOMITAS GOLI.jpg"
@@ -2155,6 +2146,11 @@
                               "name":  "PREENTRENO FULLY LOADED MAGO",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PREENTRENO FULLY LOADED MAGO.jpeg"
+                          },
+                          {
+                              "name":  "PREENTRENO MR VEINZ NARANJA",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/PREENTRENO MR VEINZ NARANJA.jpeg"
                           },
                           {
                               "name":  "PREENTRENO PANDAMIC",
