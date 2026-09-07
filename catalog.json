@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-07T19:26:08.2341636Z",
+    "generatedAt":  "2026-09-07T19:33:07.4029514Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -1465,6 +1465,13 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "AMINOÁCIDOS ESENCIALES AMINOX EAAS (BSN)  25 SERVIDAS STRAW BERRY DRAGON FRUIT",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/AMINOÁCIDOS ESENCIALES AMINOX EAAS (BSN)  25 SERVIDAS STRAW BERRY DRAGON FRUIT.jpeg",
+                       "stock":  4,
+                       "stockLinked":  true
+                   },
+                   {
                        "name":  "ANABOL NUTREX",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/ANABOL NUTREX.jpeg",
@@ -1743,11 +1750,6 @@
                               "name":  "ACIDO BORICO",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/ACIDO BORICO.jpeg"
-                          },
-                          {
-                              "name":  "AMINOACIDOS AMINOAX",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/AMINOACIDOS AMINOAX.jpeg"
                           },
                           {
                               "name":  "ASHWAGANDHA GOMITAS",
