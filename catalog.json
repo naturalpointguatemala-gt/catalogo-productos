@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-07T19:12:05.1015941Z",
+    "generatedAt":  "2026-09-07T19:23:29.8056172Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -131,7 +131,7 @@
                        "name":  "ARGININA",
                        "folder":  "General",
                        "src":  "images/ARGININA.png",
-                       "stock":  25,
+                       "stock":  24,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  780,
+                       "stock":  778,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  815,
+                       "stock":  813,
                        "stockLinked":  true
                    },
                    {
@@ -754,7 +754,7 @@
                        "name":  "L-LISINA",
                        "folder":  "General",
                        "src":  "images/L-LISINA.jpeg",
-                       "stock":  12,
+                       "stock":  11,
                        "stockLinked":  true
                    },
                    {
@@ -1041,7 +1041,7 @@
                        "name":  "OXIDO NITRICO",
                        "folder":  "General",
                        "src":  "images/OXIDO NITRICO.jpeg",
-                       "stock":  4,
+                       "stock":  3,
                        "stockLinked":  true
                    },
                    {
