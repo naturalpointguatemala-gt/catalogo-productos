@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-07T18:33:13.6501332Z",
+    "generatedAt":  "2026-09-07T18:37:00.3665234Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  783,
+                       "stock":  784,
                        "stockLinked":  true
                    },
                    {
@@ -782,7 +782,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  21,
+                       "stock":  22,
                        "stockLinked":  true
                    },
                    {
