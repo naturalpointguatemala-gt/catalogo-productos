@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-07T19:23:29.8056172Z",
+    "generatedAt":  "2026-09-07T19:26:08.2341636Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  778,
+                       "stock":  777,
                        "stockLinked":  true
                    },
                    {
@@ -432,7 +432,7 @@
                        "name":  "CRANBERRY EXTRACTO CON VITAMINA C",
                        "folder":  "General",
                        "src":  "images/CRANBERRY EXTRACTO CON VITAMINA C.jpeg",
-                       "stock":  20,
+                       "stock":  19,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  813,
+                       "stock":  812,
                        "stockLinked":  true
                    },
                    {
