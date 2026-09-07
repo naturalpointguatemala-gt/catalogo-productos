@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-07T22:04:46.0109440Z",
+    "generatedAt":  "2026-09-07T22:11:16.1130542Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  763,
+                       "stock":  761,
                        "stockLinked":  true
                    },
                    {
@@ -334,7 +334,7 @@
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
-                       "stock":  189,
+                       "stock":  190,
                        "stockLinked":  true
                    },
                    {
