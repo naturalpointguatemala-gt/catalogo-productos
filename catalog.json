@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-07T17:42:12.0264335Z",
+    "generatedAt":  "2026-09-07T17:44:52.4611024Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  790,
+                       "stock":  789,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  821,
+                       "stock":  820,
                        "stockLinked":  true
                    },
                    {
@@ -1496,7 +1496,7 @@
                        "name":  "CREATINA DRAGON PHARMA 200 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA 200 SERVIDAS.jpeg",
-                       "stock":  52,
+                       "stock":  51,
                        "stockLinked":  true
                    },
                    {
@@ -1517,7 +1517,7 @@
                        "name":  "CREATINA META NUTRITION 100 SERVIDAS SIN SABOR",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA META NUTRITION 100 SERVIDAS SIN SABOR.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
