@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-07T23:15:28.2464510Z",
+    "generatedAt":  "2026-09-07T23:21:43.0539823Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  756,
+                       "stock":  754,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  798,
+                       "stock":  799,
                        "stockLinked":  true
                    },
                    {
@@ -705,7 +705,7 @@
                        "name":  "JABÓN DE CÚRCUMA",
                        "folder":  "General",
                        "src":  "images/JABÓN DE CÚRCUMA.png",
-                       "stock":  10,
+                       "stock":  11,
                        "stockLinked":  true
                    },
                    {
@@ -1412,7 +1412,7 @@
                        "name":  "ZARZA PARRILLA",
                        "folder":  "General",
                        "src":  "images/ZARZA PARRILLA.jpeg",
-                       "stock":  13,
+                       "stock":  14,
                        "stockLinked":  true
                    },
                    {
