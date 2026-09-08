@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-08T20:02:07.8223870Z",
+    "generatedAt":  "2026-09-08T20:07:11.2819734Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  808,
+                       "stock":  807,
                        "stockLinked":  true
                    },
                    {
@@ -446,7 +446,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  856,
+                       "stock":  855,
                        "stockLinked":  true
                    },
                    {
@@ -1678,7 +1678,7 @@
                        "name":  "PREENTRENO VENOM ESSENTIAL NARANJA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PREENTRENO VENOM ESSENTIAL NARANJA.jpeg",
-                       "stock":  4,
+                       "stock":  3,
                        "stockLinked":  true
                    },
                    {
