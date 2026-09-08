@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-08T15:33:17.7672690Z",
+    "generatedAt":  "2026-09-08T16:04:37.0007248Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -173,7 +173,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  35,
+                       "stock":  34,
                        "stockLinked":  true
                    },
                    {
@@ -537,7 +537,7 @@
                        "name":  "GINSENG COREANO",
                        "folder":  "General",
                        "src":  "images/GINSENG COREANO.png",
-                       "stock":  9,
+                       "stock":  8,
                        "stockLinked":  true
                    },
                    {
