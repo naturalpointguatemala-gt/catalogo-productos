@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-08T21:27:00.7774246Z",
+    "generatedAt":  "2026-09-08T21:30:44.5451142Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -327,7 +327,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  258,
+                       "stock":  257,
                        "stockLinked":  true
                    },
                    {
@@ -789,7 +789,7 @@
                        "name":  "LONJACK POINT",
                        "folder":  "General",
                        "src":  "images/LONJACK POINT.jpeg",
-                       "stock":  10,
+                       "stock":  9,
                        "stockLinked":  true
                    },
                    {
