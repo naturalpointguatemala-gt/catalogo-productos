@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-08T18:33:48.2635706Z",
+    "generatedAt":  "2026-09-08T18:53:17.3204505Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  817,
+                       "stock":  815,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  862,
+                       "stock":  859,
                        "stockLinked":  true
                    },
                    {
@@ -671,13 +671,6 @@
                        "folder":  "General",
                        "src":  "images/INOSITOL DORADO.jpeg",
                        "stock":  3,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "INOSITOL POLVO DEAL SUPPLEMENT",
-                       "folder":  "General",
-                       "src":  "images/INOSITOL POLVO DEAL SUPPLEMENT.jpeg",
-                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
@@ -1997,6 +1990,11 @@
                               "name":  "HAIR, SKIN AND NAILS CON BIOTINA  80 GOMITAS ROSADO",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/HAIR, SKIN AND NAILS CON BIOTINA  80 GOMITAS ROSADO.jpeg"
+                          },
+                          {
+                              "name":  "INOSITOL POLVO DEAL SUPPLEMENT",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/INOSITOL POLVO DEAL SUPPLEMENT.jpeg"
                           },
                           {
                               "name":  "ISO PHORM 5LB CHOCOLATE BLANCO Y MANTEQUILLA DE MANI",
