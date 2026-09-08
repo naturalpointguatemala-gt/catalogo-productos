@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-08T18:05:03.0148841Z",
+    "generatedAt":  "2026-09-08T18:10:03.5956002Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -110,7 +110,7 @@
                        "name":  "ALCACHOFA",
                        "folder":  "General",
                        "src":  "images/ALCACHOFA.jpeg",
-                       "stock":  39,
+                       "stock":  37,
                        "stockLinked":  true
                    },
                    {
@@ -180,7 +180,7 @@
                        "name":  "BOLDO",
                        "folder":  "General",
                        "src":  "images/BOLDO.png",
-                       "stock":  12,
+                       "stock":  10,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  821,
+                       "stock":  818,
                        "stockLinked":  true
                    },
                    {
