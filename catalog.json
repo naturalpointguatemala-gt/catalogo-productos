@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-08T19:50:49.9274445Z",
+    "generatedAt":  "2026-09-08T19:58:47.8171302Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  86,
+                       "stock":  84,
                        "stockLinked":  true
                    },
                    {
@@ -398,13 +398,6 @@
                        "folder":  "General",
                        "src":  "images/COLA DE CABALLO.png",
                        "stock":  10,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "COLAGENO CON BIOTINA GOMITAS FLAMZY",
-                       "folder":  "General",
-                       "src":  "images/COLAGENO CON BIOTINA GOMITAS FLAMZY.jpeg",
-                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
@@ -1815,6 +1808,11 @@
                               "name":  "COENZIMA Q10 SUERO FACIAL",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/COENZIMA Q10 SUERO FACIAL.jpeg"
+                          },
+                          {
+                              "name":  "COLAGENO CON BIOTINA GOMITAS FLAMZY",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/COLAGENO CON BIOTINA GOMITAS FLAMZY.jpeg"
                           },
                           {
                               "name":  "COMPLEJO B AMERICANO",
