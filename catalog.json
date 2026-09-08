@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-08T18:53:17.3204505Z",
+    "generatedAt":  "2026-09-08T18:56:45.5253318Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -327,7 +327,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  264,
+                       "stock":  260,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  859,
+                       "stock":  858,
                        "stockLinked":  true
                    },
                    {
@@ -691,7 +691,7 @@
                        "name":  "JABÓN DE ARROZ",
                        "folder":  "General",
                        "src":  "images/JABÓN DE ARROZ.png",
-                       "stock":  19,
+                       "stock":  18,
                        "stockLinked":  true
                    },
                    {
@@ -1405,7 +1405,7 @@
                        "name":  "ZARZA PARRILLA",
                        "folder":  "General",
                        "src":  "images/ZARZA PARRILLA.jpeg",
-                       "stock":  14,
+                       "stock":  13,
                        "stockLinked":  true
                    },
                    {
