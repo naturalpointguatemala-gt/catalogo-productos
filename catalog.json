@@ -1,11 +1,11 @@
 ﻿{
-    "generatedAt":  "2026-09-08T16:19:00.3304926Z",
+    "generatedAt":  "2026-09-08T16:24:16.3501254Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
                        "folder":  "General",
                        "src":  "images/ABEDUL.png",
-                       "stock":  66,
+                       "stock":  64,
                        "stockLinked":  true
                    },
                    {
@@ -1244,7 +1244,7 @@
                        "name":  "VENAS Y VARICES LEG VEINS",
                        "folder":  "General",
                        "src":  "images/VENAS Y VARICES LEG VEINS.jpeg",
-                       "stock":  4,
+                       "stock":  3,
                        "stockLinked":  true
                    },
                    {
