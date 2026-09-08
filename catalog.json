@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-08T18:15:20.5389587Z",
+    "generatedAt":  "2026-09-08T18:27:04.2806252Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  864,
+                       "stock":  862,
                        "stockLinked":  true
                    },
                    {
@@ -677,7 +677,7 @@
                        "name":  "INOSITOL POLVO DEAL SUPPLEMENT",
                        "folder":  "General",
                        "src":  "images/INOSITOL POLVO DEAL SUPPLEMENT.jpeg",
-                       "stock":  1,
+                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
