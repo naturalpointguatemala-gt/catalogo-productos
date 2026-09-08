@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-08T16:24:16.3501254Z",
+    "generatedAt":  "2026-09-08T16:34:54.8059453Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -1598,6 +1598,13 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "GANADORA DE PESO SERIOUS MASS  16 SERVIDAS 12LB SABOR BANANA OPTIMUM NUTRITION",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/GANADORA DE PESO SERIOUS MASS  16 SERVIDAS 12LB SABOR BANANA OPTIMUM NUTRITION.jpeg",
+                       "stock":  2,
+                       "stockLinked":  true
+                   },
+                   {
                        "name":  "GANADORA DE PESO SERIOUS MASS  16 SERVIDAS 12LB SABOR CHOCOLATE OPTIMUM NUTRITION",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/GANADORA DE PESO SERIOUS MASS  16 SERVIDAS 12LB SABOR CHOCOLATE OPTIMUM NUTRITION.jpeg",
@@ -1651,13 +1658,6 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE ENTRENO RYSE  30 SERVIDAS SABOR SANDÍA RYSE UP.jpeg",
                        "stock":  1,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "PRE ENTRENO VENOM INFERNO LYCHEE",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE ENTRENO VENOM INFERNO LYCHEE.jpeg",
-                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
@@ -2132,6 +2132,11 @@
                               "name":  "ONE A DAY MENOPAUSIA",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/ONE A DAY MENOPAUSIA.jpeg"
+                          },
+                          {
+                              "name":  "PRE ENTRENO VENOM INFERNO LYCHEE",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/PRE ENTRENO VENOM INFERNO LYCHEE.jpeg"
                           },
                           {
                               "name":  "PRE-ENTRENO NO EXLPODE VASO",
