@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-08T17:29:16.3208427Z",
+    "generatedAt":  "2026-09-08T17:46:27.2510879Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  92,
+                       "stock":  90,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  822,
+                       "stock":  821,
                        "stockLinked":  true
                    },
                    {
@@ -684,7 +684,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  192,
+                       "stock":  191,
                        "stockLinked":  true
                    },
                    {
