@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-08T20:16:33.5695297Z",
+    "generatedAt":  "2026-09-08T21:00:35.4835370Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -201,7 +201,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1333,
+                       "stock":  -1334,
                        "stockLinked":  true
                    },
                    {
@@ -327,14 +327,14 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  259,
+                       "stock":  258,
                        "stockLinked":  true
                    },
                    {
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
-                       "stock":  189,
+                       "stock":  188,
                        "stockLinked":  true
                    },
                    {
