@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-08T19:58:47.8171302Z",
+    "generatedAt":  "2026-09-08T20:02:07.8223870Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  810,
+                       "stock":  808,
                        "stockLinked":  true
                    },
                    {
@@ -1675,6 +1675,20 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "PREENTRENO VENOM ESSENTIAL NARANJA",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PREENTRENO VENOM ESSENTIAL NARANJA.jpeg",
+                       "stock":  4,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PREENTRENO VENOM ESSENTIAL UVA",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PREENTRENO VENOM ESSENTIAL UVA.jpeg",
+                       "stock":  4,
+                       "stockLinked":  true
+                   },
+                   {
                        "name":  "PROTEIN PHORM 28 SERVIDAS SABOR CHURRO",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEIN PHORM 28 SERVIDAS SABOR CHURRO.jpeg",
@@ -2188,16 +2202,6 @@
                               "name":  "PREENTRENO VENOM ESSENTIAL FRESA KIWI",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PREENTRENO VENOM ESSENTIAL FRESA KIWI.jpeg"
-                          },
-                          {
-                              "name":  "PREENTRENO VENOM ESSENTIAL NARANJA",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/PREENTRENO VENOM ESSENTIAL NARANJA.jpeg"
-                          },
-                          {
-                              "name":  "PREENTRENO VENOM ESSENTIAL UVA",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/PREENTRENO VENOM ESSENTIAL UVA.jpeg"
                           },
                           {
                               "name":  "PREENTRENO VENON INFIERNO",
