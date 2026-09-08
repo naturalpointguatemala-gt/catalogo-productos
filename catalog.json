@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-08T16:57:38.2338693Z",
+    "generatedAt":  "2026-09-08T17:08:29.2276163Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -579,7 +579,7 @@
                        "name":  "GLUCOSAMINA Y CONDROITINA NUTRAMEDIX",
                        "folder":  "General",
                        "src":  "images/GLUCOSAMINA Y CONDROITINA NUTRAMEDIX.jpeg",
-                       "stock":  4,
+                       "stock":  3,
                        "stockLinked":  true
                    },
                    {
@@ -1258,7 +1258,7 @@
                        "name":  "VINAGRE DE MANZANA",
                        "folder":  "General",
                        "src":  "images/VINAGRE DE MANZANA.png",
-                       "stock":  17,
+                       "stock":  18,
                        "stockLinked":  true
                    },
                    {
