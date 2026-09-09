@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-09T17:57:18.6326652Z",
+    "generatedAt":  "2026-09-09T18:06:32.0492898Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  98,
+                       "stock":  114,
                        "stockLinked":  true
                    },
                    {
@@ -180,7 +180,7 @@
                        "name":  "BOLDO",
                        "folder":  "General",
                        "src":  "images/BOLDO.png",
-                       "stock":  10,
+                       "stock":  23,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  778,
+                       "stock":  818,
                        "stockLinked":  true
                    },
                    {
@@ -418,7 +418,7 @@
                        "name":  "COLÁGENO HIDROLIZADO CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/COLÁGENO HIDROLIZADO CÁPSULAS.jpeg",
-                       "stock":  5,
+                       "stock":  17,
                        "stockLinked":  true
                    },
                    {
@@ -446,7 +446,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  841,
+                       "stock":  887,
                        "stockLinked":  true
                    },
                    {
