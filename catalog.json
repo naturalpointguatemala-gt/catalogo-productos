@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-09T17:53:05.2589765Z",
+    "generatedAt":  "2026-09-09T17:57:18.6326652Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -327,14 +327,14 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  256,
+                       "stock":  255,
                        "stockLinked":  true
                    },
                    {
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
-                       "stock":  188,
+                       "stock":  187,
                        "stockLinked":  true
                    },
                    {
@@ -1489,7 +1489,7 @@
                        "name":  "CREATINA DRAGON PHARMA 200 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA 200 SERVIDAS.jpeg",
-                       "stock":  50,
+                       "stock":  49,
                        "stockLinked":  true
                    },
                    {
