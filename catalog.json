@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-09T23:45:36.9310669Z",
+    "generatedAt":  "2026-09-09T23:48:19.7961201Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -173,7 +173,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  31,
+                       "stock":  29,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  794,
+                       "stock":  792,
                        "stockLinked":  true
                    },
                    {
