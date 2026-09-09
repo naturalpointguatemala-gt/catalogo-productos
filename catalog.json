@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-09T18:13:02.1016228Z",
+    "generatedAt":  "2026-09-09T18:42:23.6771767Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  817,
+                       "stock":  816,
                        "stockLinked":  true
                    },
                    {
@@ -1482,7 +1482,7 @@
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
-                       "stock":  24,
+                       "stock":  23,
                        "stockLinked":  true
                    },
                    {
