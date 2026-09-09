@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-09T18:06:32.0492898Z",
+    "generatedAt":  "2026-09-09T18:13:02.1016228Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  82,
+                       "stock":  80,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  818,
+                       "stock":  817,
                        "stockLinked":  true
                    },
                    {
@@ -362,7 +362,7 @@
                        "name":  "CLOROFILA",
                        "folder":  "General",
                        "src":  "images/CLOROFILA.jpeg",
-                       "stock":  1,
+                       "stock":  7,
                        "stockLinked":  true
                    },
                    {
@@ -446,7 +446,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  887,
+                       "stock":  886,
                        "stockLinked":  true
                    },
                    {
@@ -1356,7 +1356,7 @@
                        "name":  "VITAMINAS ALIVE DAILY ENERGY",
                        "folder":  "General",
                        "src":  "images/VITAMINAS ALIVE DAILY ENERGY.jpeg",
-                       "stock":  2,
+                       "stock":  17,
                        "stockLinked":  true
                    },
                    {
