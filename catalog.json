@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-09T16:58:06.9281783Z",
+    "generatedAt":  "2026-09-09T17:02:28.7346226Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  99,
+                       "stock":  98,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  781,
+                       "stock":  780,
                        "stockLinked":  true
                    },
                    {
@@ -446,7 +446,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  847,
+                       "stock":  846,
                        "stockLinked":  true
                    },
                    {
