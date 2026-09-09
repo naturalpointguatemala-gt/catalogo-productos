@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-09T18:56:51.4868526Z",
+    "generatedAt":  "2026-09-09T19:08:34.9639824Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -201,7 +201,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1337,
+                       "stock":  -1338,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  813,
+                       "stock":  812,
                        "stockLinked":  true
                    },
                    {
@@ -446,7 +446,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  886,
+                       "stock":  885,
                        "stockLinked":  true
                    },
                    {
