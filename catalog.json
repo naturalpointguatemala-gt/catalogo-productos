@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-09T19:50:42.0504759Z",
+    "generatedAt":  "2026-09-09T19:53:01.1911736Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  808,
+                       "stock":  806,
                        "stockLinked":  true
                    },
                    {
@@ -775,7 +775,7 @@
                        "name":  "LIPO 6 BLACK QUEMADOR DE GRASA",
                        "folder":  "General",
                        "src":  "images/LIPO 6 BLACK QUEMADOR DE GRASA.jpeg",
-                       "stock":  1,
+                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
