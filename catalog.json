@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-09T16:17:05.7157104Z",
+    "generatedAt":  "2026-09-09T16:19:41.0115918Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -768,7 +768,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  20,
+                       "stock":  19,
                        "stockLinked":  true
                    },
                    {
