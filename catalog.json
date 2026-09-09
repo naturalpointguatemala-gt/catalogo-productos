@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-09T20:04:14.4356664Z",
+    "generatedAt":  "2026-09-09T20:12:49.9458755Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -495,7 +495,7 @@
                        "name":  "FENOGRECO",
                        "folder":  "General",
                        "src":  "images/FENOGRECO.png",
-                       "stock":  24,
+                       "stock":  23,
                        "stockLinked":  true
                    },
                    {
