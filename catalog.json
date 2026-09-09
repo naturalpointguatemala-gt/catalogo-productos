@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-09T21:24:32.9743969Z",
+    "generatedAt":  "2026-09-09T21:41:19.6907881Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -769,13 +769,6 @@
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
                        "stock":  19,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "LIPO 6 BLACK QUEMADOR DE GRASA",
-                       "folder":  "General",
-                       "src":  "images/LIPO 6 BLACK QUEMADOR DE GRASA.jpeg",
-                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
@@ -2047,6 +2040,11 @@
                               "name":  "KING WHEY RONNIE COLEMAN VAINILLA ICE CREAM",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/KING WHEY RONNIE COLEMAN VAINILLA ICE CREAM.jpeg"
+                          },
+                          {
+                              "name":  "LIPO 6 BLACK QUEMADOR DE GRASA",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/LIPO 6 BLACK QUEMADOR DE GRASA.jpeg"
                           },
                           {
                               "name":  "MAGNESIO GOMITAS GOLI",
