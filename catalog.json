@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-10T21:56:57.4862105Z",
+    "generatedAt":  "2026-09-10T21:59:10.5960663Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -1685,8 +1685,8 @@
                        "name":  "PRE-ENTRENO PSYCHOTIC ROJO  60 SERVIDAS SABOR GRAPE",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC ROJO  60 SERVIDAS SABOR GRAPE.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false
+                       "stock":  1,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "PRE-ENTRENO PSYCHOTIC SAW  30 SERVIDAS SABOR FRUIT PUNCH",
