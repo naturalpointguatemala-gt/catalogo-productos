@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-10T18:51:53.4187124Z",
+    "generatedAt":  "2026-09-10T19:17:11.1236370Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  773,
+                       "stock":  771,
                        "stockLinked":  true
                    },
                    {
@@ -488,7 +488,7 @@
                        "name":  "ESPIRULINA",
                        "folder":  "General",
                        "src":  "images/ESPIRULINA.jpeg",
-                       "stock":  26,
+                       "stock":  24,
                        "stockLinked":  true
                    },
                    {
@@ -985,7 +985,7 @@
                        "name":  "OMEGA 3",
                        "folder":  "General",
                        "src":  "images/OMEGA 3.jpeg",
-                       "stock":  19,
+                       "stock":  18,
                        "stockLinked":  true
                    },
                    {
