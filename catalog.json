@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-10T17:04:01.6674534Z",
+    "generatedAt":  "2026-09-10T17:42:17.5150930Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -47,7 +47,7 @@
                        "name":  "ACIDO HIALURONICO",
                        "folder":  "General",
                        "src":  "images/ACIDO HIALURONICO.jpeg",
-                       "stock":  7,
+                       "stock":  6,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  781,
+                       "stock":  777,
                        "stockLinked":  true
                    },
                    {
@@ -327,14 +327,14 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  251,
+                       "stock":  249,
                        "stockLinked":  true
                    },
                    {
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
-                       "stock":  187,
+                       "stock":  185,
                        "stockLinked":  true
                    },
                    {
@@ -446,7 +446,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  880,
+                       "stock":  878,
                        "stockLinked":  true
                    },
                    {
@@ -1321,7 +1321,7 @@
                        "name":  "VITAMINA E 1000 UI",
                        "folder":  "General",
                        "src":  "images/VITAMINA E 1000 UI.png",
-                       "stock":  11,
+                       "stock":  10,
                        "stockLinked":  true
                    },
                    {
