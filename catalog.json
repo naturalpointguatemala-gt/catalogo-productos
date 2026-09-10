@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-10T22:05:33.6570032Z",
+    "generatedAt":  "2026-09-10T22:09:06.8684088Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -26,7 +26,7 @@
                        "name":  "ACEITE DE OREGANO",
                        "folder":  "General",
                        "src":  "images/ACEITE DE OREGANO.jpeg",
-                       "stock":  18,
+                       "stock":  17,
                        "stockLinked":  true
                    },
                    {
