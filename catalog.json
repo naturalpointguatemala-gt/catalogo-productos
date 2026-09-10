@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-10T21:50:13.4022357Z",
+    "generatedAt":  "2026-09-10T21:56:57.4862105Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -1657,6 +1657,69 @@
                        "name":  "PRE-ENTRENO BOMBEO RAW MANGO CHAMOY",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO BOMBEO RAW MANGO CHAMOY.png",
+                       "stock":  2,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PRE-ENTRENO PSYCHOTIC ROJO  30 SERVIDAS EN SOBRES TRES SABORES",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC ROJO  30 SERVIDAS EN SOBRES TRES SABORES.jpeg",
+                       "stock":  2,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PRE-ENTRENO PSYCHOTIC ROJO  35 SERVIDAS SABOR BLUE LEMONADE",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC ROJO  35 SERVIDAS SABOR BLUE LEMONADE.jpeg",
+                       "stock":  1,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PRE-ENTRENO PSYCHOTIC ROJO  35 SERVIDAS SABOR CHERRY LIMEADE",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC ROJO  35 SERVIDAS SABOR CHERRY LIMEADE.jpeg",
+                       "stock":  1,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PRE-ENTRENO PSYCHOTIC ROJO  60 SERVIDAS SABOR GRAPE",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC ROJO  60 SERVIDAS SABOR GRAPE.jpeg",
+                       "stock":  null,
+                       "stockLinked":  false
+                   },
+                   {
+                       "name":  "PRE-ENTRENO PSYCHOTIC SAW  30 SERVIDAS SABOR FRUIT PUNCH",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC SAW  30 SERVIDAS SABOR FRUIT PUNCH.jpeg",
+                       "stock":  1,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PRE-ENTRENO PSYCHOTIC SAW  60 SERVIDAS SABOR FRUIT PUNCH",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC SAW  60 SERVIDAS SABOR FRUIT PUNCH.jpeg",
+                       "stock":  1,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PRE-ENTRENO PSYCHOTIC SAW  60 SERVIDAS SABOR GRAPE",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC SAW  60 SERVIDAS SABOR GRAPE.jpeg",
+                       "stock":  1,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PRE-ENTRENO PSYCHOTIC SAW 30 SERVIDAS SABOR BLUE RASPBERRY",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC SAW 30 SERVIDAS SABOR BLUE RASPBERRY.jpeg",
+                       "stock":  2,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PRE-ENTRENO PSYCHOTIC SAW 30 SERVIDAS SABOR GRAPE",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC SAW 30 SERVIDAS SABOR GRAPE.jpeg",
                        "stock":  2,
                        "stockLinked":  true
                    },
