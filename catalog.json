@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-10T15:50:52.8853732Z",
+    "generatedAt":  "2026-09-10T16:02:14.7303936Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -926,11 +926,11 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "OMEGA 3 FISH OIL BIO SCHWARTZ",
+                       "name":  "OMEGA 3 FISH OIL 1200MG900MG DHA  90 CAPS. BIO SCHWARTZ",
                        "folder":  "General",
-                       "src":  "images/OMEGA 3 FISH OIL BIO SCHWARTZ.jpeg",
-                       "stock":  4,
-                       "stockLinked":  true
+                       "src":  "images/OMEGA 3 FISH OIL 1200MG900MG DHA  90 CAPS. BIO SCHWARTZ.jpeg",
+                       "stock":  null,
+                       "stockLinked":  false
                    },
                    {
                        "name":  "OMEGA 3 GAT SPORT",
