@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-10T23:44:47.2511332Z",
+    "generatedAt":  "2026-09-10T23:59:06.8934939Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -1640,27 +1640,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "PRE-ENTRENO BOMBEO RAW CITRUS FRUIT BURST",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO BOMBEO RAW CITRUS FRUIT BURST.png",
-                       "stock":  2,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "PRE-ENTRENO BOMBEO RAW CITRUS",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO BOMBEO RAW CITRUS.jpeg",
-                       "stock":  2,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "PRE-ENTRENO BOMBEO RAW MANGO CHAMOY",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO BOMBEO RAW MANGO CHAMOY.png",
-                       "stock":  2,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "PRE-ENTRENO PSYCHOTIC ROJO  30 SERVIDAS EN SOBRES TRES SABORES",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC ROJO  30 SERVIDAS EN SOBRES TRES SABORES.jpeg",
@@ -2222,6 +2201,21 @@
                               "name":  "PRE ENTRENO VENOM INFERNO LYCHEE",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PRE ENTRENO VENOM INFERNO LYCHEE.jpeg"
+                          },
+                          {
+                              "name":  "PRE-ENTRENO BOMBEO RAW CITRUS FRUIT BURST",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/PRE-ENTRENO BOMBEO RAW CITRUS FRUIT BURST.png"
+                          },
+                          {
+                              "name":  "PRE-ENTRENO BOMBEO RAW CITRUS",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/PRE-ENTRENO BOMBEO RAW CITRUS.jpeg"
+                          },
+                          {
+                              "name":  "PRE-ENTRENO BOMBEO RAW MANGO CHAMOY",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/PRE-ENTRENO BOMBEO RAW MANGO CHAMOY.png"
                           },
                           {
                               "name":  "PRE-ENTRENO NO EXLPODE VASO",
