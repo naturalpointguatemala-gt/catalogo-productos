@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-10T22:18:34.4772023Z",
+    "generatedAt":  "2026-09-10T22:26:05.8791077Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  114,
+                       "stock":  113,
                        "stockLinked":  true
                    },
                    {
@@ -201,7 +201,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1342,
+                       "stock":  -1344,
                        "stockLinked":  true
                    },
                    {
@@ -1798,6 +1798,20 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA BPI ISO HD  70 SERVIDAS 4.93LB SABOR CEREAL CRUNCH.jpeg",
                        "stock":  6,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PROTEÍNA HARDCORE WHEY  68 SERVIDAS CHOCOLATE MILKSHAKE MUTANT",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA HARDCORE WHEY  68 SERVIDAS CHOCOLATE MILKSHAKE MUTANT.jpeg",
+                       "stock":  1,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PROTEÍNA HARDCORE WHEY  70 SERVIDAS VAINILLA ICE CREAM MUTANT",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA HARDCORE WHEY  70 SERVIDAS VAINILLA ICE CREAM MUTANT.jpeg",
+                       "stock":  2,
                        "stockLinked":  true
                    },
                    {
