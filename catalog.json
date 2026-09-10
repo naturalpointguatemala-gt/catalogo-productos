@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-10T23:30:53.0258704Z",
+    "generatedAt":  "2026-09-10T23:44:47.2511332Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  818,
+                       "stock":  817,
                        "stockLinked":  true
                    },
                    {
@@ -446,7 +446,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  921,
+                       "stock":  920,
                        "stockLinked":  true
                    },
                    {
@@ -1258,7 +1258,7 @@
                        "name":  "VITAMINA B12",
                        "folder":  "General",
                        "src":  "images/VITAMINA B12.jpeg",
-                       "stock":  18,
+                       "stock":  17,
                        "stockLinked":  true
                    },
                    {
@@ -1272,7 +1272,7 @@
                        "name":  "VITAMINA B3 (NIACINAMIDA)",
                        "folder":  "General",
                        "src":  "images/VITAMINA B3 (NIACINAMIDA).jpeg",
-                       "stock":  6,
+                       "stock":  5,
                        "stockLinked":  true
                    },
                    {
