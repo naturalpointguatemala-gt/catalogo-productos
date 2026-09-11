@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-11T20:16:55.7845910Z",
+    "generatedAt":  "2026-09-11T20:47:01.0056241Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  846,
+                       "stock":  845,
                        "stockLinked":  true
                    },
                    {
@@ -446,7 +446,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  947,
+                       "stock":  946,
                        "stockLinked":  true
                    },
                    {
@@ -1475,7 +1475,7 @@
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
-                       "stock":  19,
+                       "stock":  18,
                        "stockLinked":  true
                    },
                    {
@@ -1790,7 +1790,7 @@
                        "name":  "PROTEÍNA HARDCORE WHEY  70 SERVIDAS VAINILLA ICE CREAM MUTANT",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA HARDCORE WHEY  70 SERVIDAS VAINILLA ICE CREAM MUTANT.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
