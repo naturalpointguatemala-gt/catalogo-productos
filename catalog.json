@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-11T20:05:26.6543260Z",
+    "generatedAt":  "2026-09-11T20:16:55.7845910Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -691,7 +691,7 @@
                        "name":  "JABÓN DE CÚRCUMA",
                        "folder":  "General",
                        "src":  "images/JABÓN DE CÚRCUMA.png",
-                       "stock":  7,
+                       "stock":  6,
                        "stockLinked":  true
                    },
                    {
