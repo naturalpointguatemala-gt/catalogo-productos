@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-11T23:32:53.3156570Z",
+    "generatedAt":  "2026-09-11T23:38:44.9950267Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -1780,13 +1780,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "PROTEÍNA HARDCORE WHEY  68 SERVIDAS CHOCOLATE MILKSHAKE MUTANT",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA HARDCORE WHEY  68 SERVIDAS CHOCOLATE MILKSHAKE MUTANT.jpeg",
-                       "stock":  0,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "PROTEÍNA HARDCORE WHEY  70 SERVIDAS VAINILLA ICE CREAM MUTANT",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA HARDCORE WHEY  70 SERVIDAS VAINILLA ICE CREAM MUTANT.jpeg",
@@ -2411,6 +2404,11 @@
                               "name":  "PROTEINA WHEYPHORM COCO 62 SERVIDAS",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PROTEINA WHEYPHORM COCO 62 SERVIDAS.jpeg"
+                          },
+                          {
+                              "name":  "PROTEÍNA HARDCORE WHEY  68 SERVIDAS CHOCOLATE MILKSHAKE MUTANT",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/PROTEÍNA HARDCORE WHEY  68 SERVIDAS CHOCOLATE MILKSHAKE MUTANT.jpeg"
                           },
                           {
                               "name":  "PROTEÍNA ISO 100 DYMATIZE CHOCOLATE BROWNIE",
