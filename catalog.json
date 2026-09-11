@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-11T17:15:15.4151693Z",
+    "generatedAt":  "2026-09-11T17:22:30.3681835Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -124,7 +124,7 @@
                        "name":  "ARCILLA IMPORTADA",
                        "folder":  "General",
                        "src":  "images/ARCILLA IMPORTADA.jpeg",
-                       "stock":  9,
+                       "stock":  8,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  803,
+                       "stock":  859,
                        "stockLinked":  true
                    },
                    {
@@ -446,7 +446,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  911,
+                       "stock":  950,
                        "stockLinked":  true
                    },
                    {
@@ -691,7 +691,7 @@
                        "name":  "JABÓN DE CÚRCUMA",
                        "folder":  "General",
                        "src":  "images/JABÓN DE CÚRCUMA.png",
-                       "stock":  9,
+                       "stock":  8,
                        "stockLinked":  true
                    },
                    {
@@ -880,7 +880,7 @@
                        "name":  "MORINGA",
                        "folder":  "General",
                        "src":  "images/MORINGA.png",
-                       "stock":  9,
+                       "stock":  17,
                        "stockLinked":  true
                    },
                    {
@@ -1475,7 +1475,7 @@
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
-                       "stock":  20,
+                       "stock":  19,
                        "stockLinked":  true
                    },
                    {
