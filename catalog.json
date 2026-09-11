@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-11T18:46:37.3649630Z",
+    "generatedAt":  "2026-09-11T18:57:47.6956374Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -1251,7 +1251,7 @@
                        "name":  "VITAMINA B1 (TIAMINA)",
                        "folder":  "General",
                        "src":  "images/VITAMINA B1 (TIAMINA).png",
-                       "stock":  7,
+                       "stock":  5,
                        "stockLinked":  true
                    },
                    {
