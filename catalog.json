@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-11T17:04:53.4321616Z",
+    "generatedAt":  "2026-09-11T17:10:22.3885504Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -145,7 +145,7 @@
                        "name":  "ASHWAGANDHA GOTAS",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA GOTAS.jpeg",
-                       "stock":  1,
+                       "stock":  2,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  804,
+                       "stock":  803,
                        "stockLinked":  true
                    },
                    {
@@ -446,7 +446,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  910,
+                       "stock":  911,
                        "stockLinked":  true
                    },
                    {
@@ -1748,7 +1748,7 @@
                        "name":  "PROTEINA WHEY PHORM VAINILLA Y CHOCOLATE BLANCO  25 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEINA WHEY PHORM VAINILLA Y CHOCOLATE BLANCO  25 SERVIDAS.jpeg",
-                       "stock":  1,
+                       "stock":  2,
                        "stockLinked":  true
                    },
                    {
