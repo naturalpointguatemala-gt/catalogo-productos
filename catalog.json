@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-14T16:55:17.7763786Z",
+    "generatedAt":  "2026-09-14T17:04:04.0276440Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  813,
+                       "stock":  811,
                        "stockLinked":  true
                    },
                    {
@@ -2509,11 +2509,6 @@
                               "name":  "SHILAJIT POLVO",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/SHILAJIT POLVO.png"
-                          },
-                          {
-                              "name":  "SHILAJIT",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/SHILAJIT.jpeg"
                           },
                           {
                               "name":  "SOPORTE PARA MENOPAUSIA NATURES CRAFT",
