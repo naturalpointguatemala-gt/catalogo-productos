@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-14T17:31:30.6912168Z",
+    "generatedAt":  "2026-09-14T17:40:40.5956280Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -145,7 +145,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  91,
+                       "stock":  92,
                        "stockLinked":  true
                    },
                    {
@@ -222,7 +222,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  875,
+                       "stock":  873,
                        "stockLinked":  true
                    },
                    {
@@ -320,7 +320,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  275,
+                       "stock":  274,
                        "stockLinked":  true
                    },
                    {
@@ -439,7 +439,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  972,
+                       "stock":  971,
                        "stockLinked":  true
                    },
                    {
@@ -628,7 +628,7 @@
                        "name":  "HAIR, SKIN AND NAILS CON BIOTINA  200 GOMITAS. NARANJA NATURE´S BOUNTY",
                        "folder":  "General",
                        "src":  "images/HAIR, SKIN AND NAILS CON BIOTINA  200 GOMITAS. NARANJA NATURE´S BOUNTY.jpeg",
-                       "stock":  4,
+                       "stock":  3,
                        "stockLinked":  true
                    },
                    {
