@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-14T17:12:07.7861841Z",
+    "generatedAt":  "2026-09-14T17:17:38.5408268Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -62,13 +62,6 @@
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
                        "stock":  147,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "AGUAJE GOMITAS BBP",
-                       "folder":  "General",
-                       "src":  "images/AGUAJE GOMITAS BBP.jpeg",
-                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
@@ -877,6 +870,13 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "MINOXIDIL  60ML KIRLAND",
+                       "folder":  "General",
+                       "src":  "images/MINOXIDIL  60ML KIRLAND.png",
+                       "stock":  0,
+                       "stockLinked":  true
+                   },
+                   {
                        "name":  "MORINGA",
                        "folder":  "General",
                        "src":  "images/MORINGA.png",
@@ -1147,6 +1147,13 @@
                        "folder":  "General",
                        "src":  "images/SERUM DE ARROZ.jpeg",
                        "stock":  6,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "SHILAJIT EXTRA FUERTE  90 CAPS UHECO",
+                       "folder":  "General",
+                       "src":  "images/SHILAJIT EXTRA FUERTE  90 CAPS UHECO.jpeg",
+                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
@@ -1482,7 +1489,7 @@
                        "name":  "CREATINA DRAGON PHARMA 200 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA 200 SERVIDAS.jpeg",
-                       "stock":  44,
+                       "stock":  43,
                        "stockLinked":  true
                    },
                    {
@@ -1799,6 +1806,11 @@
                               "name":  "ACIDO BORICO",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/ACIDO BORICO.jpeg"
+                          },
+                          {
+                              "name":  "AGUAJE GOMITAS BBP",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/AGUAJE GOMITAS BBP.jpeg"
                           },
                           {
                               "name":  "ASHWAGANDHA GOMITAS",
@@ -2119,11 +2131,6 @@
                               "name":  "MINOXIDIL SPRAY",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/MINOXIDIL SPRAY.jpeg"
-                          },
-                          {
-                              "name":  "MINOXIDIL",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/MINOXIDIL.png"
                           },
                           {
                               "name":  "MULTIVITAMÍNICO ADOLESCENTES MUJERES CARLYLE",
