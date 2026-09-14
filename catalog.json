@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-14T20:45:42.4083819Z",
+    "generatedAt":  "2026-09-14T20:50:43.4443457Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -1773,13 +1773,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "PROTEÍNA BPI ISO HD  69 SERVIDAS 4.9LB SABOR BROWNIE CHOCOLATE",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA BPI ISO HD  69 SERVIDAS 4.9LB SABOR BROWNIE CHOCOLATE.jpeg",
-                       "stock":  1,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "PROTEÍNA BPI ISO HD  69 SERVIDAS 4.9LB SABOR COOKIES AND CREAM",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA BPI ISO HD  69 SERVIDAS 4.9LB SABOR COOKIES AND CREAM.jpeg",
@@ -1798,13 +1791,6 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA BPI ISO HD  70 SERVIDAS 4.93LB SABOR CEREAL CRUNCH.jpeg",
                        "stock":  6,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "PROTEÍNA HARDCORE WHEY  70 SERVIDAS VAINILLA ICE CREAM MUTANT",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA HARDCORE WHEY  70 SERVIDAS VAINILLA ICE CREAM MUTANT.jpeg",
-                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
@@ -2417,9 +2403,19 @@
                               "src":  "images_sin_existencia/PROTEINA WHEYPHORM COCO 62 SERVIDAS.jpeg"
                           },
                           {
+                              "name":  "PROTEÍNA BPI ISO HD  69 SERVIDAS 4.9LB SABOR BROWNIE CHOCOLATE",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/PROTEÍNA BPI ISO HD  69 SERVIDAS 4.9LB SABOR BROWNIE CHOCOLATE.jpeg"
+                          },
+                          {
                               "name":  "PROTEÍNA HARDCORE WHEY  68 SERVIDAS CHOCOLATE MILKSHAKE MUTANT",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PROTEÍNA HARDCORE WHEY  68 SERVIDAS CHOCOLATE MILKSHAKE MUTANT.jpeg"
+                          },
+                          {
+                              "name":  "PROTEÍNA HARDCORE WHEY  70 SERVIDAS VAINILLA ICE CREAM MUTANT",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/PROTEÍNA HARDCORE WHEY  70 SERVIDAS VAINILLA ICE CREAM MUTANT.jpeg"
                           },
                           {
                               "name":  "PROTEÍNA ISO 100 DYMATIZE CHOCOLATE BROWNIE",
