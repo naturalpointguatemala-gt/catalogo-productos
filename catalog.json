@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-14T20:31:32.8428644Z",
+    "generatedAt":  "2026-09-14T20:45:42.4083819Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -216,6 +216,13 @@
                        "folder":  "General",
                        "src":  "images/CARBÓN ACTIVADO.png",
                        "stock":  18,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "CARDO MARIANO GOTAS  60 ML HORBAACH",
+                       "folder":  "General",
+                       "src":  "images/CARDO MARIANO GOTAS  60 ML HORBAACH.jpeg",
+                       "stock":  5,
                        "stockLinked":  true
                    },
                    {
@@ -622,6 +629,13 @@
                        "folder":  "General",
                        "src":  "images/GYMNEMA SYLVESTRE.png",
                        "stock":  40,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "HAIR, SKIN AND NAILS  200 GOMITAS. NATURE´S BOUNTY ROSADO",
+                       "folder":  "General",
+                       "src":  "images/HAIR, SKIN AND NAILS  200 GOMITAS. NATURE´S BOUNTY ROSADO.jpeg",
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
@@ -1823,11 +1837,6 @@
                               "src":  "images_sin_existencia/BORO AMERICANO.jpeg"
                           },
                           {
-                              "name":  "CARDO MARIANO GOTAS",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/CARDO MARIANO GOTAS.jpeg"
-                          },
-                          {
                               "name":  "CENTRUM ENERGÍA",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/CENTRUM ENERGÍA.jpeg"
@@ -2031,11 +2040,6 @@
                               "name":  "HAIR SKIN NAILS X 200 GOMITAS ADVANCED MORADO",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/HAIR SKIN NAILS X 200 GOMITAS ADVANCED MORADO.jpeg"
-                          },
-                          {
-                              "name":  "HAIR SKIN NAILS X 200 GOMITAS ROSADO",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/HAIR SKIN NAILS X 200 GOMITAS ROSADO.jpeg"
                           },
                           {
                               "name":  "HAIR, SKIN \u0026 NAILS  GOMITAS NARANJA 80 GOMITAS",
