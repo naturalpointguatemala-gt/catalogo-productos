@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-14T18:13:28.4467495Z",
+    "generatedAt":  "2026-09-14T19:56:04.0805712Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -89,7 +89,7 @@
                        "name":  "AJO SIN OLOR",
                        "folder":  "General",
                        "src":  "images/AJO SIN OLOR.jpeg",
-                       "stock":  17,
+                       "stock":  16,
                        "stockLinked":  true
                    },
                    {
@@ -145,7 +145,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  92,
+                       "stock":  87,
                        "stockLinked":  true
                    },
                    {
@@ -166,7 +166,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  30,
+                       "stock":  26,
                        "stockLinked":  true
                    },
                    {
@@ -222,7 +222,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  871,
+                       "stock":  855,
                        "stockLinked":  true
                    },
                    {
@@ -320,7 +320,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  274,
+                       "stock":  272,
                        "stockLinked":  true
                    },
                    {
@@ -439,7 +439,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  970,
+                       "stock":  967,
                        "stockLinked":  true
                    },
                    {
@@ -663,7 +663,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  213,
+                       "stock":  210,
                        "stockLinked":  true
                    },
                    {
@@ -922,7 +922,7 @@
                        "name":  "NOPAL",
                        "folder":  "General",
                        "src":  "images/NOPAL.png",
-                       "stock":  26,
+                       "stock":  25,
                        "stockLinked":  true
                    },
                    {
@@ -1104,7 +1104,7 @@
                        "name":  "REMOLACHA",
                        "folder":  "General",
                        "src":  "images/REMOLACHA.png",
-                       "stock":  35,
+                       "stock":  34,
                        "stockLinked":  true
                    },
                    {
@@ -1153,7 +1153,7 @@
                        "name":  "SHILAJIT EXTRA FUERTE  90 CAPS UHECO",
                        "folder":  "General",
                        "src":  "images/SHILAJIT EXTRA FUERTE  90 CAPS UHECO.jpeg",
-                       "stock":  10,
+                       "stock":  9,
                        "stockLinked":  true
                    },
                    {
@@ -1258,7 +1258,7 @@
                        "name":  "VITAMINA B1 (TIAMINA)",
                        "folder":  "General",
                        "src":  "images/VITAMINA B1 (TIAMINA).png",
-                       "stock":  5,
+                       "stock":  4,
                        "stockLinked":  true
                    },
                    {
@@ -1482,7 +1482,7 @@
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
-                       "stock":  17,
+                       "stock":  16,
                        "stockLinked":  true
                    },
                    {
