@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-15T18:47:10.4026185Z",
+    "generatedAt":  "2026-09-15T18:48:37.4700453Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -145,7 +145,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  81,
+                       "stock":  83,
                        "stockLinked":  true
                    },
                    {
@@ -572,7 +572,7 @@
                        "name":  "GLUCOSAMINA Y CONDROITINA NUTRAMEDIX",
                        "folder":  "General",
                        "src":  "images/GLUCOSAMINA Y CONDROITINA NUTRAMEDIX.jpeg",
-                       "stock":  3,
+                       "stock":  4,
                        "stockLinked":  true
                    },
                    {
