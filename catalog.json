@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-14T20:50:43.4443457Z",
+    "generatedAt":  "2026-09-15T16:16:45.1040566Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -26,7 +26,7 @@
                        "name":  "ACEITE DE OREGANO",
                        "folder":  "General",
                        "src":  "images/ACEITE DE OREGANO.jpeg",
-                       "stock":  20,
+                       "stock":  19,
                        "stockLinked":  true
                    },
                    {
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  147,
+                       "stock":  141,
                        "stockLinked":  true
                    },
                    {
@@ -145,7 +145,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  87,
+                       "stock":  81,
                        "stockLinked":  true
                    },
                    {
@@ -166,7 +166,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  26,
+                       "stock":  23,
                        "stockLinked":  true
                    },
                    {
@@ -187,14 +187,14 @@
                        "name":  "CALCIO CON VITAMINA D3 GNC",
                        "folder":  "General",
                        "src":  "images/CALCIO CON VITAMINA D3 GNC.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1354,
+                       "stock":  -1356,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  854,
+                       "stock":  822,
                        "stockLinked":  true
                    },
                    {
@@ -446,7 +446,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  966,
+                       "stock":  943,
                        "stockLinked":  true
                    },
                    {
@@ -474,7 +474,7 @@
                        "name":  "ENZIMAS DE PAPAYA",
                        "folder":  "General",
                        "src":  "images/ENZIMAS DE PAPAYA.png",
-                       "stock":  22,
+                       "stock":  21,
                        "stockLinked":  true
                    },
                    {
@@ -677,7 +677,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  210,
+                       "stock":  205,
                        "stockLinked":  true
                    },
                    {
@@ -698,7 +698,7 @@
                        "name":  "JABÓN DE CÚRCUMA",
                        "folder":  "General",
                        "src":  "images/JABÓN DE CÚRCUMA.png",
-                       "stock":  6,
+                       "stock":  5,
                        "stockLinked":  true
                    },
                    {
@@ -775,7 +775,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  17,
+                       "stock":  16,
                        "stockLinked":  true
                    },
                    {
@@ -999,7 +999,7 @@
                        "name":  "OMEGA 3",
                        "folder":  "General",
                        "src":  "images/OMEGA 3.jpeg",
-                       "stock":  18,
+                       "stock":  17,
                        "stockLinked":  true
                    },
                    {
@@ -1125,7 +1125,7 @@
                        "name":  "RESVERATROL",
                        "folder":  "General",
                        "src":  "images/RESVERATROL.png",
-                       "stock":  48,
+                       "stock":  46,
                        "stockLinked":  true
                    },
                    {
@@ -1167,7 +1167,7 @@
                        "name":  "SHILAJIT EXTRA FUERTE  90 CAPS UHECO",
                        "folder":  "General",
                        "src":  "images/SHILAJIT EXTRA FUERTE  90 CAPS UHECO.jpeg",
-                       "stock":  8,
+                       "stock":  6,
                        "stockLinked":  true
                    },
                    {
@@ -1440,7 +1440,7 @@
                        "name":  "ZINC",
                        "folder":  "General",
                        "src":  "images/ZINC.jpeg",
-                       "stock":  10,
+                       "stock":  9,
                        "stockLinked":  true
                    },
                    {
@@ -1629,7 +1629,7 @@
                        "name":  "ISO PHORM 5LB CONO DE VAINILLA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/ISO PHORM 5LB CONO DE VAINILLA.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
