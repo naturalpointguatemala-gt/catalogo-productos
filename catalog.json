@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-15T17:17:48.5259126Z",
+    "generatedAt":  "2026-09-15T17:24:35.3464074Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -481,7 +481,7 @@
                        "name":  "EQUINÁCEA",
                        "folder":  "General",
                        "src":  "images/EQUINÁCEA.png",
-                       "stock":  25,
+                       "stock":  24,
                        "stockLinked":  true
                    },
                    {
