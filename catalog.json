@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-15T18:27:52.8715758Z",
+    "generatedAt":  "2026-09-15T18:39:42.8799628Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -180,7 +180,7 @@
                        "name":  "CALCIO CITRATO",
                        "folder":  "General",
                        "src":  "images/CALCIO CITRATO.png",
-                       "stock":  16,
+                       "stock":  15,
                        "stockLinked":  true
                    },
                    {
@@ -691,14 +691,14 @@
                        "name":  "JABÓN DE ARROZ",
                        "folder":  "General",
                        "src":  "images/JABÓN DE ARROZ.png",
-                       "stock":  18,
+                       "stock":  17,
                        "stockLinked":  true
                    },
                    {
                        "name":  "JABÓN DE CÚRCUMA",
                        "folder":  "General",
                        "src":  "images/JABÓN DE CÚRCUMA.png",
-                       "stock":  3,
+                       "stock":  2,
                        "stockLinked":  true
                    },
                    {
@@ -1328,7 +1328,7 @@
                        "name":  "VITAMINA C",
                        "folder":  "General",
                        "src":  "images/VITAMINA C.jpeg",
-                       "stock":  11,
+                       "stock":  10,
                        "stockLinked":  true
                    },
                    {
@@ -1426,7 +1426,7 @@
                        "name":  "ZINC 50MG GNC",
                        "folder":  "General",
                        "src":  "images/ZINC 50MG GNC.jpeg",
-                       "stock":  3,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
