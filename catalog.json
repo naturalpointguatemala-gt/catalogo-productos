@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-15T19:20:26.5137739Z",
+    "generatedAt":  "2026-09-15T19:26:08.3326662Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -145,7 +145,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  82,
+                       "stock":  81,
                        "stockLinked":  true
                    },
                    {
@@ -544,7 +544,7 @@
                        "name":  "GLICINATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/GLICINATO DE MAGNESIO.jpeg",
-                       "stock":  18,
+                       "stock":  17,
                        "stockLinked":  true
                    },
                    {
@@ -677,7 +677,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  205,
+                       "stock":  203,
                        "stockLinked":  true
                    },
                    {
