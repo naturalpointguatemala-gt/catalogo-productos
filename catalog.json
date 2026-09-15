@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-15T16:48:13.9247876Z",
+    "generatedAt":  "2026-09-15T16:58:03.1047898Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  821,
+                       "stock":  820,
                        "stockLinked":  true
                    },
                    {
@@ -446,7 +446,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  942,
+                       "stock":  941,
                        "stockLinked":  true
                    },
                    {
@@ -1503,7 +1503,7 @@
                        "name":  "CREATINA DRAGON PHARMA 200 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA 200 SERVIDAS.jpeg",
-                       "stock":  42,
+                       "stock":  41,
                        "stockLinked":  true
                    },
                    {
