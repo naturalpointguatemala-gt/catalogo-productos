@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-15T18:07:29.8761484Z",
+    "generatedAt":  "2026-09-15T18:11:47.0960650Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  879,
+                       "stock":  876,
                        "stockLinked":  true
                    },
                    {
@@ -1307,7 +1307,7 @@
                        "name":  "VITAMINA B6",
                        "folder":  "General",
                        "src":  "images/VITAMINA B6.jpeg",
-                       "stock":  3,
+                       "stock":  2,
                        "stockLinked":  true
                    },
                    {
