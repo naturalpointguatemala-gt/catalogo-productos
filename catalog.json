@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-15T17:24:35.3464074Z",
+    "generatedAt":  "2026-09-15T17:29:00.5484083Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  819,
+                       "stock":  818,
                        "stockLinked":  true
                    },
                    {
@@ -446,7 +446,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  940,
+                       "stock":  939,
                        "stockLinked":  true
                    },
                    {
