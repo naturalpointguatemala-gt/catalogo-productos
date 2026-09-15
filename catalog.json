@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-15T18:48:37.4700453Z",
+    "generatedAt":  "2026-09-15T18:55:07.9253787Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -110,7 +110,7 @@
                        "name":  "ALOE VERA",
                        "folder":  "General",
                        "src":  "images/ALOE VERA.jpeg",
-                       "stock":  16,
+                       "stock":  14,
                        "stockLinked":  true
                    },
                    {
@@ -145,7 +145,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  83,
+                       "stock":  82,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  883,
+                       "stock":  880,
                        "stockLinked":  true
                    },
                    {
@@ -446,7 +446,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  991,
+                       "stock":  990,
                        "stockLinked":  true
                    },
                    {
