@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-15T17:32:37.6109392Z",
+    "generatedAt":  "2026-09-15T17:37:18.7751443Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  141,
+                       "stock":  161,
                        "stockLinked":  true
                    },
                    {
@@ -96,7 +96,7 @@
                        "name":  "ALA",
                        "folder":  "General",
                        "src":  "images/ALA.jpeg",
-                       "stock":  4,
+                       "stock":  17,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  818,
+                       "stock":  884,
                        "stockLinked":  true
                    },
                    {
@@ -446,7 +446,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  939,
+                       "stock":  989,
                        "stockLinked":  true
                    },
                    {
@@ -1412,7 +1412,7 @@
                        "name":  "ZARZA PARRILLA",
                        "folder":  "General",
                        "src":  "images/ZARZA PARRILLA.jpeg",
-                       "stock":  13,
+                       "stock":  11,
                        "stockLinked":  true
                    },
                    {
