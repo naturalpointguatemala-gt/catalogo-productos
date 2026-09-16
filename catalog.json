@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-16T21:46:25.5591309Z",
+    "generatedAt":  "2026-09-16T21:50:24.8590279Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -201,7 +201,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1357,
+                       "stock":  -1358,
                        "stockLinked":  true
                    },
                    {
@@ -1188,7 +1188,7 @@
                        "name":  "SHILAJIT ULTRA COMPLEX NP",
                        "folder":  "General",
                        "src":  "images/SHILAJIT ULTRA COMPLEX NP.jpeg",
-                       "stock":  9,
+                       "stock":  8,
                        "stockLinked":  true
                    },
                    {
