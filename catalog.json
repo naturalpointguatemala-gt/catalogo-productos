@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-16T23:16:29.9008652Z",
+    "generatedAt":  "2026-09-16T23:21:48.7638836Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -695,13 +695,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "JABÓN DE CÚRCUMA",
-                       "folder":  "General",
-                       "src":  "images/JABÓN DE CÚRCUMA.png",
-                       "stock":  -1,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "JABÓN DE ROMERO",
                        "folder":  "General",
                        "src":  "images/JABÓN DE ROMERO.png",
@@ -845,7 +838,7 @@
                        "name":  "MEGA MEN GNC",
                        "folder":  "General",
                        "src":  "images/MEGA MEN GNC.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
@@ -2094,6 +2087,11 @@
                               "name":  "JABON MANZANILLA Y CALENDULA",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/JABON MANZANILLA Y CALENDULA.jpeg"
+                          },
+                          {
+                              "name":  "JABÓN DE CÚRCUMA",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/JABÓN DE CÚRCUMA.png"
                           },
                           {
                               "name":  "JABÓN SOLO DE MANZANILLA",
