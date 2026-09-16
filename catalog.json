@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-16T20:42:54.7179354Z",
+    "generatedAt":  "2026-09-16T20:44:41.9465156Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -173,7 +173,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  20,
+                       "stock":  19,
                        "stockLinked":  true
                    },
                    {
@@ -467,7 +467,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  57,
+                       "stock":  56,
                        "stockLinked":  true
                    },
                    {
