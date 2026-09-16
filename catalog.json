@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-16T23:21:48.7638836Z",
+    "generatedAt":  "2026-09-16T23:41:36.5387623Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  155,
+                       "stock":  154,
                        "stockLinked":  true
                    },
                    {
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  867,
+                       "stock":  865,
                        "stockLinked":  true
                    },
                    {
@@ -292,7 +292,7 @@
                        "name":  "CENTRUM PARA NIÑOS GOMITAS",
                        "folder":  "General",
                        "src":  "images/CENTRUM PARA NIÑOS GOMITAS.jpeg",
-                       "stock":  9,
+                       "stock":  8,
                        "stockLinked":  true
                    },
                    {
@@ -933,9 +933,9 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "OMEGA 3 FISH OIL 1200MG900MG DHA  90 CAPS. BIO SCHWARTZ",
+                       "name":  "OMEGA 3 FISH OIL 1200MG 900MG DHA X 90 CAPS BIO SCHWARTZ",
                        "folder":  "General",
-                       "src":  "images/OMEGA 3 FISH OIL 1200MG900MG DHA  90 CAPS. BIO SCHWARTZ.jpeg",
+                       "src":  "images/OMEGA 3 FISH OIL 1200MG 900MG DHA X 90 CAPS BIO SCHWARTZ.jpeg",
                        "stock":  null,
                        "stockLinked":  false
                    },
