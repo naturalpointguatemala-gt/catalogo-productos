@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-16T20:08:08.9196067Z",
+    "generatedAt":  "2026-09-16T20:10:48.7542559Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -552,13 +552,6 @@
                        "folder":  "General",
                        "src":  "images/GLICINATO DE MAGNESIO.jpeg",
                        "stock":  16,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "GLUCOSAMINA + CODROITINA + MSM + CURCUMA NATURAL P",
-                       "folder":  "General",
-                       "src":  "images/GLUCOSAMINA + CODROITINA + MSM + CURCUMA NATURAL P.jpeg",
-                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
@@ -2031,6 +2024,11 @@
                               "name":  "GLICEROL LÍQUIDO SIN SABOR",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/GLICEROL LÍQUIDO SIN SABOR.png"
+                          },
+                          {
+                              "name":  "GLUCOSAMINA + CODROITINA + MSM + CURCUMA NATURAL P",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/GLUCOSAMINA + CODROITINA + MSM + CURCUMA NATURAL P.jpeg"
                           },
                           {
                               "name":  "GLUCOSAMINA CONDROITINA MSM Y VITAMINA D3 PURITANS PRIDE",
