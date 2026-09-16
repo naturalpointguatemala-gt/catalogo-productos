@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-16T17:00:15.0376914Z",
+    "generatedAt":  "2026-09-16T17:03:37.4774265Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -110,7 +110,7 @@
                        "name":  "ALOE VERA",
                        "folder":  "General",
                        "src":  "images/ALOE VERA.jpeg",
-                       "stock":  14,
+                       "stock":  13,
                        "stockLinked":  true
                    },
                    {
@@ -901,7 +901,7 @@
                        "name":  "MORINGA",
                        "folder":  "General",
                        "src":  "images/MORINGA.png",
-                       "stock":  17,
+                       "stock":  16,
                        "stockLinked":  true
                    },
                    {
