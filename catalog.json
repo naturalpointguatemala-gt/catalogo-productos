@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-16T16:29:18.9627817Z",
+    "generatedAt":  "2026-09-16T16:30:42.6951742Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -161,6 +161,13 @@
                        "src":  "images/ASTAXANTINA.jpeg",
                        "stock":  11,
                        "stockLinked":  true
+                   },
+                   {
+                       "name":  "BERBERINA CON CANELA GOTAS 1500MG  60ML ACENTIA LABS",
+                       "folder":  "General",
+                       "src":  "images/BERBERINA CON CANELA GOTAS 1500MG  60ML ACENTIA LABS.jpeg",
+                       "stock":  null,
+                       "stockLinked":  false
                    },
                    {
                        "name":  "BERBERINA",
@@ -884,6 +891,13 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "MINOXIDIL  60ML KIRLAND",
+                       "folder":  "General",
+                       "src":  "images/MINOXIDIL  60ML KIRLAND.jpeg",
+                       "stock":  18,
+                       "stockLinked":  true
+                   },
+                   {
                        "name":  "MORINGA",
                        "folder":  "General",
                        "src":  "images/MORINGA.png",
@@ -1010,6 +1024,13 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "ONE A DAY SOPORTE PARA MENOPAUSIA  50 TABS BAYER",
+                       "folder":  "General",
+                       "src":  "images/ONE A DAY SOPORTE PARA MENOPAUSIA  50 TABS BAYER.jpeg",
+                       "stock":  null,
+                       "stockLinked":  false
+                   },
+                   {
                        "name":  "ONE A DAY WOMEN 200 TABS",
                        "folder":  "General",
                        "src":  "images/ONE A DAY WOMEN 200 TABS.jpeg",
@@ -1078,6 +1099,13 @@
                        "src":  "images/PROBIOTIVOS VITALIBRE.jpeg",
                        "stock":  3,
                        "stockLinked":  true
+                   },
+                   {
+                       "name":  "PROBIÓTICOS NATURE´S BOUNTY  120 TABS.",
+                       "folder":  "General",
+                       "src":  "images/PROBIÓTICOS NATURE´S BOUNTY  120 TABS..jpeg",
+                       "stock":  null,
+                       "stockLinked":  false
                    },
                    {
                        "name":  "PROBIÓTICOS PARA MUJERES ZEBORA",
@@ -1169,6 +1197,13 @@
                        "src":  "images/SHILAJIT ULTRA COMPLEX NP.jpeg",
                        "stock":  9,
                        "stockLinked":  true
+                   },
+                   {
+                       "name":  "SMARTY PANTS MULTIVITAMÍNICO PAR ADOLESCENTES HOMBRES  60 GOMITAS",
+                       "folder":  "General",
+                       "src":  "images/SMARTY PANTS MULTIVITAMÍNICO PAR ADOLESCENTES HOMBRES  60 GOMITAS.jpeg",
+                       "stock":  null,
+                       "stockLinked":  false
                    },
                    {
                        "name":  "TAURINA",
