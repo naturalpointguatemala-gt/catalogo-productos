@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-16T20:00:43.5305655Z",
+    "generatedAt":  "2026-09-16T20:08:08.9196067Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  156,
+                       "stock":  155,
                        "stockLinked":  true
                    },
                    {
@@ -558,7 +558,7 @@
                        "name":  "GLUCOSAMINA + CODROITINA + MSM + CURCUMA NATURAL P",
                        "folder":  "General",
                        "src":  "images/GLUCOSAMINA + CODROITINA + MSM + CURCUMA NATURAL P.jpeg",
-                       "stock":  1,
+                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
@@ -817,7 +817,7 @@
                        "name":  "MAGNESIO COMPLEX",
                        "folder":  "General",
                        "src":  "images/MAGNESIO COMPLEX.jpeg",
-                       "stock":  43,
+                       "stock":  42,
                        "stockLinked":  true
                    },
                    {
