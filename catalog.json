@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-16T16:15:56.0379553Z",
+    "generatedAt":  "2026-09-16T16:29:18.9627817Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -881,13 +881,6 @@
                        "folder":  "General",
                        "src":  "images/MELENA DE LEON EXTRACTO.jpeg",
                        "stock":  20,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "MINOXIDIL  60ML KIRLAND",
-                       "folder":  "General",
-                       "src":  "images/MINOXIDIL  60ML KIRLAND.png",
-                       "stock":  18,
                        "stockLinked":  true
                    },
                    {
@@ -2281,11 +2274,6 @@
                               "name":  "PROBIOTICOS MASTICABLES",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PROBIOTICOS MASTICABLES.jpeg"
-                          },
-                          {
-                              "name":  "PROBIOTICOS NATURES BOUNTY",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/PROBIOTICOS NATURES BOUNTY.jpeg"
                           },
                           {
                               "name":  "PROPEOLO",
