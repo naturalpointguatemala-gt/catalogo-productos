@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-16T19:58:17.7620087Z",
+    "generatedAt":  "2026-09-16T20:00:43.5305655Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -1798,6 +1798,13 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEINA WHEY PHORM VAINILLA Y CHOCOLATE BLANCO  25 SERVIDAS.jpeg",
                        "stock":  2,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PROTEÍNA BPI ISO HD  69 SERVIDAS 4.9LB SABOR BROWNIE CHOCOLATE",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA BPI ISO HD  69 SERVIDAS 4.9LB SABOR BROWNIE CHOCOLATE.jpeg",
+                       "stock":  3,
                        "stockLinked":  true
                    },
                    {
