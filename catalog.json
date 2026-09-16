@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-16T16:30:42.6951742Z",
+    "generatedAt":  "2026-09-16T16:36:00.9310616Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -166,8 +166,8 @@
                        "name":  "BERBERINA CON CANELA GOTAS 1500MG  60ML ACENTIA LABS",
                        "folder":  "General",
                        "src":  "images/BERBERINA CON CANELA GOTAS 1500MG  60ML ACENTIA LABS.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false
+                       "stock":  4,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "BERBERINA",
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  897,
+                       "stock":  895,
                        "stockLinked":  true
                    },
                    {
@@ -1027,8 +1027,8 @@
                        "name":  "ONE A DAY SOPORTE PARA MENOPAUSIA  50 TABS BAYER",
                        "folder":  "General",
                        "src":  "images/ONE A DAY SOPORTE PARA MENOPAUSIA  50 TABS BAYER.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false
+                       "stock":  3,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ONE A DAY WOMEN 200 TABS",
@@ -1104,8 +1104,8 @@
                        "name":  "PROBIÓTICOS NATURE´S BOUNTY  120 TABS.",
                        "folder":  "General",
                        "src":  "images/PROBIÓTICOS NATURE´S BOUNTY  120 TABS..jpeg",
-                       "stock":  null,
-                       "stockLinked":  false
+                       "stock":  5,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "PROBIÓTICOS PARA MUJERES ZEBORA",
@@ -1202,8 +1202,8 @@
                        "name":  "SMARTY PANTS MULTIVITAMÍNICO PAR ADOLESCENTES HOMBRES  60 GOMITAS",
                        "folder":  "General",
                        "src":  "images/SMARTY PANTS MULTIVITAMÍNICO PAR ADOLESCENTES HOMBRES  60 GOMITAS.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false
+                       "stock":  3,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "TAURINA",
