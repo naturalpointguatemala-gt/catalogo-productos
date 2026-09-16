@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-16T20:47:31.1219169Z",
+    "generatedAt":  "2026-09-16T21:30:29.6237105Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  877,
+                       "stock":  876,
                        "stockLinked":  true
                    },
                    {
@@ -810,7 +810,7 @@
                        "name":  "MAGNESIO COMPLEX",
                        "folder":  "General",
                        "src":  "images/MAGNESIO COMPLEX.jpeg",
-                       "stock":  42,
+                       "stock":  41,
                        "stockLinked":  true
                    },
                    {
