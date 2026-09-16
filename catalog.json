@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-16T19:12:50.0126374Z",
+    "generatedAt":  "2026-09-16T19:36:40.2541353Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -1181,7 +1181,7 @@
                        "name":  "SERUM DE ARROZ",
                        "folder":  "General",
                        "src":  "images/SERUM DE ARROZ.jpeg",
-                       "stock":  6,
+                       "stock":  5,
                        "stockLinked":  true
                    },
                    {
