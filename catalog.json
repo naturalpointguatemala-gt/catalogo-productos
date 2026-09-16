@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-16T22:30:16.7783112Z",
+    "generatedAt":  "2026-09-16T22:41:37.8834919Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  869,
+                       "stock":  868,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1017,
+                       "stock":  1016,
                        "stockLinked":  true
                    },
                    {
@@ -698,7 +698,7 @@
                        "name":  "JABÓN DE CÚRCUMA",
                        "folder":  "General",
                        "src":  "images/JABÓN DE CÚRCUMA.png",
-                       "stock":  0,
+                       "stock":  -1,
                        "stockLinked":  true
                    },
                    {
