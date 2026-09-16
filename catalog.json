@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-15T21:53:36.0802627Z",
+    "generatedAt":  "2026-09-16T16:08:08.1450058Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  161,
+                       "stock":  156,
                        "stockLinked":  true
                    },
                    {
@@ -145,7 +145,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  81,
+                       "stock":  78,
                        "stockLinked":  true
                    },
                    {
@@ -166,7 +166,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  23,
+                       "stock":  20,
                        "stockLinked":  true
                    },
                    {
@@ -222,14 +222,14 @@
                        "name":  "CARDO MARIANO GOTAS  60 ML HORBAACH",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO GOTAS  60 ML HORBAACH.jpeg",
-                       "stock":  5,
+                       "stock":  4,
                        "stockLinked":  true
                    },
                    {
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  867,
+                       "stock":  852,
                        "stockLinked":  true
                    },
                    {
@@ -446,7 +446,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  987,
+                       "stock":  980,
                        "stockLinked":  true
                    },
                    {
@@ -460,7 +460,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  58,
+                       "stock":  57,
                        "stockLinked":  true
                    },
                    {
@@ -544,7 +544,7 @@
                        "name":  "GLICINATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/GLICINATO DE MAGNESIO.jpeg",
-                       "stock":  17,
+                       "stock":  16,
                        "stockLinked":  true
                    },
                    {
@@ -775,7 +775,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  16,
+                       "stock":  15,
                        "stockLinked":  true
                    },
                    {
@@ -1503,7 +1503,7 @@
                        "name":  "CREATINA DRAGON PHARMA 200 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA 200 SERVIDAS.jpeg",
-                       "stock":  39,
+                       "stock":  38,
                        "stockLinked":  true
                    },
                    {
