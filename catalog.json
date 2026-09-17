@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-17T16:55:41.6361212Z",
+    "generatedAt":  "2026-09-17T16:58:38.4762326Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -145,7 +145,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  65,
+                       "stock":  64,
                        "stockLinked":  true
                    },
                    {
@@ -551,7 +551,7 @@
                        "name":  "GLICINATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/GLICINATO DE MAGNESIO.jpeg",
-                       "stock":  15,
+                       "stock":  14,
                        "stockLinked":  true
                    },
                    {
