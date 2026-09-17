@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-17T22:55:47.7910526Z",
+    "generatedAt":  "2026-09-17T23:12:09.3490119Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -825,13 +825,6 @@
                        "folder":  "General",
                        "src":  "images/MAGNESIO Y POTASIO AMERICANO.jpeg",
                        "stock":  6,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "MEGA MEN GNC",
-                       "folder":  "General",
-                       "src":  "images/MEGA MEN GNC.jpeg",
-                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
@@ -2133,6 +2126,11 @@
                               "name":  "MASCARILLA PREMIUM",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/MASCARILLA PREMIUM.png"
+                          },
+                          {
+                              "name":  "MEGA MEN GNC",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/MEGA MEN GNC.jpeg"
                           },
                           {
                               "name":  "MELENA DE LEÓN",
