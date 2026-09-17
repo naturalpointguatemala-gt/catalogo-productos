@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-17T19:09:13.1238207Z",
+    "generatedAt":  "2026-09-17T19:10:44.4816256Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -551,7 +551,7 @@
                        "name":  "GLICINATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/GLICINATO DE MAGNESIO.jpeg",
-                       "stock":  14,
+                       "stock":  13,
                        "stockLinked":  true
                    },
                    {
@@ -1342,7 +1342,7 @@
                        "name":  "VITAMINA C",
                        "folder":  "General",
                        "src":  "images/VITAMINA C.jpeg",
-                       "stock":  10,
+                       "stock":  9,
                        "stockLinked":  true
                    },
                    {
