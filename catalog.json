@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-17T21:22:14.4120248Z",
+    "generatedAt":  "2026-09-17T21:25:20.9558938Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -110,7 +110,7 @@
                        "name":  "ALOE VERA",
                        "folder":  "General",
                        "src":  "images/ALOE VERA.jpeg",
-                       "stock":  13,
+                       "stock":  12,
                        "stockLinked":  true
                    },
                    {
@@ -145,7 +145,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  60,
+                       "stock":  59,
                        "stockLinked":  true
                    },
                    {
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  860,
+                       "stock":  859,
                        "stockLinked":  true
                    },
                    {
@@ -803,7 +803,7 @@
                        "name":  "MAGNESIO COMPLEX",
                        "folder":  "General",
                        "src":  "images/MAGNESIO COMPLEX.jpeg",
-                       "stock":  41,
+                       "stock":  40,
                        "stockLinked":  true
                    },
                    {
