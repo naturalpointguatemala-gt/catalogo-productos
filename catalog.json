@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-17T18:16:24.5757933Z",
+    "generatedAt":  "2026-09-17T18:21:36.9955762Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  878,
+                       "stock":  876,
                        "stockLinked":  true
                    },
                    {
@@ -1699,7 +1699,7 @@
                        "name":  "PRE-ENTRENO PSYCHOTIC ROJO  60 SERVIDAS SABOR GRAPE",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC ROJO  60 SERVIDAS SABOR GRAPE.jpeg",
-                       "stock":  1,
+                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
