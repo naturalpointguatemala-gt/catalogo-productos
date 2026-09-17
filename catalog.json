@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-17T22:36:59.2866138Z",
+    "generatedAt":  "2026-09-17T22:46:45.8608863Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -334,7 +334,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  267,
+                       "stock":  265,
                        "stockLinked":  true
                    },
                    {
@@ -831,7 +831,7 @@
                        "name":  "MEGA MEN GNC",
                        "folder":  "General",
                        "src":  "images/MEGA MEN GNC.jpeg",
-                       "stock":  1,
+                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
