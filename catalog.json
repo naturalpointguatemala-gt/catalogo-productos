@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-17T19:45:09.9419200Z",
+    "generatedAt":  "2026-09-17T19:48:51.0892664Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -1696,13 +1696,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "PRE-ENTRENO PSYCHOTIC ROJO  60 SERVIDAS SABOR GRAPE",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC ROJO  60 SERVIDAS SABOR GRAPE.jpeg",
-                       "stock":  0,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "PRE-ENTRENO PSYCHOTIC SAW  30 SERVIDAS SABOR FRUIT PUNCH",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC SAW  30 SERVIDAS SABOR FRUIT PUNCH.jpeg",
@@ -2237,6 +2230,11 @@
                               "name":  "PRE-ENTRENO NO EXLPODE VASO",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PRE-ENTRENO NO EXLPODE VASO.jpeg"
+                          },
+                          {
+                              "name":  "PRE-ENTRENO PSYCHOTIC ROJO  60 SERVIDAS SABOR GRAPE",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/PRE-ENTRENO PSYCHOTIC ROJO  60 SERVIDAS SABOR GRAPE.jpeg"
                           },
                           {
                               "name":  "PREENTRENO C4 SPORT",
