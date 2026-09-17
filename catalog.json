@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-17T18:40:34.2078898Z",
+    "generatedAt":  "2026-09-17T19:00:41.8075967Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -89,7 +89,7 @@
                        "name":  "AJO SIN OLOR",
                        "folder":  "General",
                        "src":  "images/AJO SIN OLOR.jpeg",
-                       "stock":  16,
+                       "stock":  15,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1045,
+                       "stock":  1042,
                        "stockLinked":  true
                    },
                    {
@@ -1419,7 +1419,7 @@
                        "name":  "YOHIMBINA EXTRACTO",
                        "folder":  "General",
                        "src":  "images/YOHIMBINA EXTRACTO.jpeg",
-                       "stock":  10,
+                       "stock":  9,
                        "stockLinked":  true
                    },
                    {
