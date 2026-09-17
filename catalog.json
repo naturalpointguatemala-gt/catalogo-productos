@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-17T21:25:20.9558938Z",
+    "generatedAt":  "2026-09-17T21:34:03.9373152Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -145,7 +145,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  59,
+                       "stock":  58,
                        "stockLinked":  true
                    },
                    {
@@ -173,7 +173,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  16,
+                       "stock":  15,
                        "stockLinked":  true
                    },
                    {
@@ -366,13 +366,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "CLOROFILA",
-                       "folder":  "General",
-                       "src":  "images/CLOROFILA.jpeg",
-                       "stock":  0,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "CLORURO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CLORURO DE MAGNESIO.jpeg",
@@ -551,7 +544,7 @@
                        "name":  "GLICINATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/GLICINATO DE MAGNESIO.jpeg",
-                       "stock":  13,
+                       "stock":  12,
                        "stockLinked":  true
                    },
                    {
@@ -768,7 +761,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  14,
+                       "stock":  13,
                        "stockLinked":  true
                    },
                    {
@@ -1880,6 +1873,11 @@
                               "name":  "CITRULINA 300GRAMOS",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/CITRULINA 300GRAMOS.jpg"
+                          },
+                          {
+                              "name":  "CLOROFILA",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/CLOROFILA.jpeg"
                           },
                           {
                               "name":  "COENZIMA Q10 SUERO FACIAL",
