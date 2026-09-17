@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-17T21:35:39.4680333Z",
+    "generatedAt":  "2026-09-17T21:42:32.5069670Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  859,
+                       "stock":  857,
                        "stockLinked":  true
                    },
                    {
@@ -446,7 +446,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1038,
+                       "stock":  1037,
                        "stockLinked":  true
                    },
                    {
@@ -488,7 +488,7 @@
                        "name":  "ESPIRULINA",
                        "folder":  "General",
                        "src":  "images/ESPIRULINA.jpeg",
-                       "stock":  24,
+                       "stock":  23,
                        "stockLinked":  true
                    },
                    {
@@ -733,7 +733,7 @@
                        "name":  "L-LISINA",
                        "folder":  "General",
                        "src":  "images/L-LISINA.jpeg",
-                       "stock":  10,
+                       "stock":  8,
                        "stockLinked":  true
                    },
                    {
