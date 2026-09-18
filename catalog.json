@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-18T22:04:13.1625592Z",
+    "generatedAt":  "2026-09-18T22:13:04.0321085Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -363,6 +363,13 @@
                        "folder":  "General",
                        "src":  "images/CLORELLA ORGANICA.jpeg",
                        "stock":  15,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "CLOROFILA",
+                       "folder":  "General",
+                       "src":  "images/CLOROFILA.jpeg",
+                       "stock":  6,
                        "stockLinked":  true
                    },
                    {
@@ -1780,6 +1787,41 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "PRE-ENTRENO RAW BUM ESSENTIALS 30 SERVIDAS BLUE RASPBERRY",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO RAW BUM ESSENTIALS 30 SERVIDAS BLUE RASPBERRY.jpeg",
+                       "stock":  1,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PRE-ENTRENO RAW BUM ESSENTIALS 30 SERVIDAS CHAMPION MENTALITY CITRUS SLUSH",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO RAW BUM ESSENTIALS 30 SERVIDAS CHAMPION MENTALITY CITRUS SLUSH.jpeg",
+                       "stock":  2,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PRE-ENTRENO RAW BUM ESSENTIALS 30 SERVIDAS CITRUS GRAPEFRUIT",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO RAW BUM ESSENTIALS 30 SERVIDAS CITRUS GRAPEFRUIT.jpeg",
+                       "stock":  2,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PRE-ENTRENO RAW BUM ESSENTIALS 30 SERVIDAS FRUIT BURST",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO RAW BUM ESSENTIALS 30 SERVIDAS FRUIT BURST.jpeg",
+                       "stock":  2,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PRE-ENTRENO RAW BUM ESSENTIALS 30 SERVIDAS MANGO CHAMOY",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO RAW BUM ESSENTIALS 30 SERVIDAS MANGO CHAMOY.jpeg",
+                       "stock":  2,
+                       "stockLinked":  true
+                   },
+                   {
                        "name":  "PREENTRENO PSYCHOTIC ROJO 30 SERVIDAS GUMMY CANDY",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PREENTRENO PSYCHOTIC ROJO 30 SERVIDAS GUMMY CANDY.png",
@@ -1929,11 +1971,6 @@
                               "name":  "CITRULINA 300GRAMOS",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/CITRULINA 300GRAMOS.jpg"
-                          },
-                          {
-                              "name":  "CLOROFILA",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/CLOROFILA.jpeg"
                           },
                           {
                               "name":  "COENZIMA Q10 SUERO FACIAL",
@@ -2264,21 +2301,6 @@
                               "name":  "PRE ENTRENO VENOM INFERNO LYCHEE",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PRE ENTRENO VENOM INFERNO LYCHEE.jpeg"
-                          },
-                          {
-                              "name":  "PRE-ENTRENO BOMBEO RAW CITRUS FRUIT BURST",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/PRE-ENTRENO BOMBEO RAW CITRUS FRUIT BURST.png"
-                          },
-                          {
-                              "name":  "PRE-ENTRENO BOMBEO RAW CITRUS",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/PRE-ENTRENO BOMBEO RAW CITRUS.jpeg"
-                          },
-                          {
-                              "name":  "PRE-ENTRENO BOMBEO RAW MANGO CHAMOY",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/PRE-ENTRENO BOMBEO RAW MANGO CHAMOY.png"
                           },
                           {
                               "name":  "PRE-ENTRENO NO EXLPODE VASO",
