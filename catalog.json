@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-18T18:56:09.3999928Z",
+    "generatedAt":  "2026-09-18T19:03:14.0403718Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  816,
+                       "stock":  815,
                        "stockLinked":  true
                    },
                    {
@@ -446,7 +446,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1023,
+                       "stock":  1022,
                        "stockLinked":  true
                    },
                    {
@@ -1479,10 +1479,31 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "CREATINA  90 TABLETAS MASTICABLES MUSCLETECH SABOR LIMÓN",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA  90 TABLETAS MASTICABLES MUSCLETECH SABOR LIMÓN.jpeg",
+                       "stock":  3,
+                       "stockLinked":  true
+                   },
+                   {
                        "name":  "CREATINA BPI 300GR",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA BPI 300GR.jpeg",
                        "stock":  3,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "CREATINA BYTZ  80 TABLETAS MASTICABLES BERRIED ALIVE MUTANT",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA BYTZ  80 TABLETAS MASTICABLES BERRIED ALIVE MUTANT.jpeg",
+                       "stock":  1,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "CREATINA CREAKONG  250 SERVIDAS 1KG",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA CREAKONG  250 SERVIDAS 1KG.jpeg",
+                       "stock":  10,
                        "stockLinked":  true
                    },
                    {
@@ -1514,6 +1535,13 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "CREATINA GO META  200 + 10  SERVIDAS 1050G SIN SABOR META NUTRITION",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA GO META  200 + 10  SERVIDAS 1050G SIN SABOR META NUTRITION.jpeg",
+                       "stock":  null,
+                       "stockLinked":  false
+                   },
+                   {
                        "name":  "CREATINA MASTICABLE FRUTOS ROJOS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MASTICABLE FRUTOS ROJOS.jpeg",
@@ -1528,11 +1556,32 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "CREATINA MICRONIZADA  120 SERVIDAS SIN SABOR OPTIMUM NUTRITION",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MICRONIZADA  120 SERVIDAS SIN SABOR OPTIMUM NUTRITION.jpeg",
+                       "stock":  null,
+                       "stockLinked":  false
+                   },
+                   {
                        "name":  "CREATINA MONOHIDRATADA  100 SERVIDAS SIN SABOR NUTRICOST",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MONOHIDRATADA  100 SERVIDAS SIN SABOR NUTRICOST.jpeg",
                        "stock":  5,
                        "stockLinked":  true
+                   },
+                   {
+                       "name":  "CREATINA MONOHIDRATADA  90 SERVIDAS BIRDMAN",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MONOHIDRATADA  90 SERVIDAS BIRDMAN.jpeg",
+                       "stock":  null,
+                       "stockLinked":  false
+                   },
+                   {
+                       "name":  "CREATINA MONOHIDRATADA ANIMAL  300GR",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MONOHIDRATADA ANIMAL  300GR.jpeg",
+                       "stock":  null,
+                       "stockLinked":  false
                    },
                    {
                        "name":  "CREATINA MUSCLETECH 80 SERVIDAS 400GR",
