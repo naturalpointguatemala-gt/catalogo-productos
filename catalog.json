@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-18T21:07:31.7562156Z",
+    "generatedAt":  "2026-09-18T21:19:20.2372779Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -685,6 +685,13 @@
                        "folder":  "General",
                        "src":  "images/JABÓN DE ARROZ.png",
                        "stock":  16,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "JABÓN DE CÚRCUMA",
+                       "folder":  "General",
+                       "src":  "images/JABÓN DE CÚRCUMA.png",
+                       "stock":  12,
                        "stockLinked":  true
                    },
                    {
@@ -2127,11 +2134,6 @@
                               "name":  "JABON MANZANILLA Y CALENDULA",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/JABON MANZANILLA Y CALENDULA.jpeg"
-                          },
-                          {
-                              "name":  "JABÓN DE CÚRCUMA",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/JABÓN DE CÚRCUMA.png"
                           },
                           {
                               "name":  "JABÓN SOLO DE MANZANILLA",
