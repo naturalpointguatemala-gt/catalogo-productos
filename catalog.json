@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-18T22:20:52.1721300Z",
+    "generatedAt":  "2026-09-18T22:28:56.6049115Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -1272,7 +1272,7 @@
                        "name":  "VINAGRE DE MANZANA",
                        "folder":  "General",
                        "src":  "images/VINAGRE DE MANZANA.png",
-                       "stock":  18,
+                       "stock":  16,
                        "stockLinked":  true
                    },
                    {
