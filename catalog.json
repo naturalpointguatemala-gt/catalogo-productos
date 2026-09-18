@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-18T18:35:29.5537999Z",
+    "generatedAt":  "2026-09-18T18:56:09.3999928Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  152,
+                       "stock":  151,
                        "stockLinked":  true
                    },
                    {
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  818,
+                       "stock":  816,
                        "stockLinked":  true
                    },
                    {
@@ -334,7 +334,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  262,
+                       "stock":  261,
                        "stockLinked":  true
                    },
                    {
@@ -446,7 +446,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1024,
+                       "stock":  1023,
                        "stockLinked":  true
                    },
                    {
