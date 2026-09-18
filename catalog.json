@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-18T20:58:31.6892271Z",
+    "generatedAt":  "2026-09-18T21:07:31.7562156Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -404,7 +404,7 @@
                        "name":  "COLAGENO POLVO",
                        "folder":  "General",
                        "src":  "images/COLAGENO POLVO.jpeg",
-                       "stock":  11,
+                       "stock":  10,
                        "stockLinked":  true
                    },
                    {
@@ -796,7 +796,7 @@
                        "name":  "MAGNESIO COMPLEX",
                        "folder":  "General",
                        "src":  "images/MAGNESIO COMPLEX.jpeg",
-                       "stock":  40,
+                       "stock":  39,
                        "stockLinked":  true
                    },
                    {
