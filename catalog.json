@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-18T19:22:43.1271629Z",
+    "generatedAt":  "2026-09-18T19:34:33.1983040Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -1496,6 +1496,13 @@
                        "name":  "CREATINA BYTZ  80 TABLETAS MASTICABLES BERRIED ALIVE MUTANT",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA BYTZ  80 TABLETAS MASTICABLES BERRIED ALIVE MUTANT.jpeg",
+                       "stock":  1,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "CREATINA BYTZ  80 TABLETAS MASTICABLES TANGY BLUE RAZZ MUTANT",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA BYTZ  80 TABLETAS MASTICABLES TANGY BLUE RAZZ MUTANT.png",
                        "stock":  1,
                        "stockLinked":  true
                    },
