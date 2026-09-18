@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-18T19:09:59.6231094Z",
+    "generatedAt":  "2026-09-18T19:12:26.5047882Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -1538,7 +1538,7 @@
                        "name":  "CREATINA GO META  200 + 10  SERVIDAS 1050G SIN SABOR META NUTRITION",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA GO META  200 + 10  SERVIDAS 1050G SIN SABOR META NUTRITION.jpeg",
-                       "stock":  10,
+                       "stock":  5,
                        "stockLinked":  true
                    },
                    {
@@ -1573,8 +1573,8 @@
                        "name":  "CREATINA MONOHIDRATADA  90 SERVIDAS BIRDMAN",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MONOHIDRATADA  90 SERVIDAS BIRDMAN.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false
+                       "stock":  10,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CREATINA MONOHIDRATADA ANIMAL  300GR",
