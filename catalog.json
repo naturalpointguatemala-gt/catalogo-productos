@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-18T16:50:58.5190631Z",
+    "generatedAt":  "2026-09-18T16:56:10.3608003Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -446,7 +446,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1025,
+                       "stock":  1024,
                        "stockLinked":  true
                    },
                    {
