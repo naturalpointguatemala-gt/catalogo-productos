@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-18T22:58:05.2018390Z",
+    "generatedAt":  "2026-09-18T23:04:44.9449598Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -341,7 +341,7 @@
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
-                       "stock":  177,
+                       "stock":  176,
                        "stockLinked":  true
                    },
                    {
@@ -782,7 +782,7 @@
                        "name":  "LONGJACK TONGKAT ALI",
                        "folder":  "General",
                        "src":  "images/LONGJACK TONGKAT ALI.jpeg",
-                       "stock":  4,
+                       "stock":  3,
                        "stockLinked":  true
                    },
                    {
