@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-18T19:03:14.0403718Z",
+    "generatedAt":  "2026-09-18T19:09:59.6231094Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -145,7 +145,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  54,
+                       "stock":  52,
                        "stockLinked":  true
                    },
                    {
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  815,
+                       "stock":  814,
                        "stockLinked":  true
                    },
                    {
@@ -1538,8 +1538,8 @@
                        "name":  "CREATINA GO META  200 + 10  SERVIDAS 1050G SIN SABOR META NUTRITION",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA GO META  200 + 10  SERVIDAS 1050G SIN SABOR META NUTRITION.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false
+                       "stock":  10,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CREATINA MASTICABLE FRUTOS ROJOS",
@@ -1559,8 +1559,8 @@
                        "name":  "CREATINA MICRONIZADA  120 SERVIDAS SIN SABOR OPTIMUM NUTRITION",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MICRONIZADA  120 SERVIDAS SIN SABOR OPTIMUM NUTRITION.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false
+                       "stock":  5,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CREATINA MONOHIDRATADA  100 SERVIDAS SIN SABOR NUTRICOST",
@@ -1580,8 +1580,8 @@
                        "name":  "CREATINA MONOHIDRATADA ANIMAL  300GR",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MONOHIDRATADA ANIMAL  300GR.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false
+                       "stock":  5,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CREATINA MUSCLETECH 80 SERVIDAS 400GR",
