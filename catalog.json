@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-18T19:37:46.3221680Z",
+    "generatedAt":  "2026-09-18T19:42:00.9775710Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -334,14 +334,14 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  261,
+                       "stock":  260,
                        "stockLinked":  true
                    },
                    {
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
-                       "stock":  178,
+                       "stock":  177,
                        "stockLinked":  true
                    },
                    {
@@ -446,7 +446,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1021,
+                       "stock":  1020,
                        "stockLinked":  true
                    },
                    {
