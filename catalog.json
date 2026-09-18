@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-17T23:58:31.9666767Z",
+    "generatedAt":  "2026-09-18T16:23:01.8484683Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  841,
+                       "stock":  828,
                        "stockLinked":  true
                    },
                    {
@@ -404,7 +404,7 @@
                        "name":  "COLAGENO POLVO",
                        "folder":  "General",
                        "src":  "images/COLAGENO POLVO.jpeg",
-                       "stock":  3,
+                       "stock":  11,
                        "stockLinked":  true
                    },
                    {
@@ -446,7 +446,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1030,
+                       "stock":  1025,
                        "stockLinked":  true
                    },
                    {
@@ -1090,7 +1090,7 @@
                        "name":  "PROBIÓTICOS Y PREBIÓTICOS FORTIFY",
                        "folder":  "General",
                        "src":  "images/PROBIÓTICOS Y PREBIÓTICOS FORTIFY.jpeg",
-                       "stock":  6,
+                       "stock":  5,
                        "stockLinked":  true
                    },
                    {
@@ -1503,7 +1503,7 @@
                        "name":  "CREATINA DRAGON PHARMA 200 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA 200 SERVIDAS.jpeg",
-                       "stock":  36,
+                       "stock":  35,
                        "stockLinked":  true
                    },
                    {
