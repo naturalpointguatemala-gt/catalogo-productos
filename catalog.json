@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-19T17:05:45.5884241Z",
+    "generatedAt":  "2026-09-19T17:07:15.5178184Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -124,7 +124,7 @@
                        "name":  "ARGININA",
                        "folder":  "General",
                        "src":  "images/ARGININA.png",
-                       "stock":  24,
+                       "stock":  23,
                        "stockLinked":  true
                    },
                    {
