@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-19T16:39:24.9772984Z",
+    "generatedAt":  "2026-09-19T16:41:11.1842594Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -1545,7 +1545,7 @@
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
-                       "stock":  11,
+                       "stock":  23,
                        "stockLinked":  true
                    },
                    {
@@ -1622,7 +1622,7 @@
                        "name":  "CREATINA NUTREX 60 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 60 SERVIDAS.jpeg",
-                       "stock":  6,
+                       "stock":  18,
                        "stockLinked":  true
                    },
                    {
