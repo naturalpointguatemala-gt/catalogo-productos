@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-19T16:11:11.3179718Z",
+    "generatedAt":  "2026-09-19T16:18:26.1274599Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -901,8 +901,8 @@
                        "name":  "MULTIVITAMÍNICO MENS MULTI+TEST 150 TABS GAT SPORT",
                        "folder":  "General",
                        "src":  "images/MULTIVITAMÍNICO MENS MULTI+TEST 150 TABS GAT SPORT.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false
+                       "stock":  5,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "MULTIVITAMÍNICO NUTRICOST CON PROBIÓTICOS",
@@ -1671,8 +1671,8 @@
                        "name":  "GANADOR DE PESO CARNIVOR MASS  14.8LB CHOCOLATE FUDGE",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/GANADOR DE PESO CARNIVOR MASS  14.8LB CHOCOLATE FUDGE.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false
+                       "stock":  3,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "GANADOR DE PESO MUTANT MASS  49 SERVIDAS 15LB TRIPLE CHOCOLATE",
@@ -1930,7 +1930,7 @@
                        "name":  "PROTEÍNA CARNIVOR  56 SERVIDAS 4.19LB  MUSCLEMEDS CHOCOLATE",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA CARNIVOR  56 SERVIDAS 4.19LB  MUSCLEMEDS CHOCOLATE.jpeg",
-                       "stock":  3,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
