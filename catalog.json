@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-19T20:45:45.5834952Z",
+    "generatedAt":  "2026-09-19T21:01:14.9046689Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  878,
+                       "stock":  877,
                        "stockLinked":  true
                    },
                    {
@@ -467,7 +467,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  88,
+                       "stock":  87,
                        "stockLinked":  true
                    },
                    {
