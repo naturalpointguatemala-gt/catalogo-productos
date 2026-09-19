@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-19T16:18:26.1274599Z",
+    "generatedAt":  "2026-09-19T16:28:36.1290295Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  190,
+                       "stock":  191,
                        "stockLinked":  true
                    },
                    {
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  893,
+                       "stock":  896,
                        "stockLinked":  true
                    },
                    {
@@ -425,7 +425,7 @@
                        "name":  "COLÁGENO HIDROLIZADO CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/COLÁGENO HIDROLIZADO CÁPSULAS.jpeg",
-                       "stock":  14,
+                       "stock":  15,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1129,
+                       "stock":  1131,
                        "stockLinked":  true
                    },
                    {
@@ -1545,7 +1545,7 @@
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
-                       "stock":  10,
+                       "stock":  11,
                        "stockLinked":  true
                    },
                    {
