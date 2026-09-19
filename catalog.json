@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-19T16:07:25.4869236Z",
+    "generatedAt":  "2026-09-19T16:08:47.6869445Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -1892,13 +1892,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "PROTEÍNA ANIMAL WHEY  64 SERVIDAS SABOR CHOCOLATE",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA ANIMAL WHEY  64 SERVIDAS SABOR CHOCOLATE.jpeg",
-                       "stock":  0,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "PROTEÍNA ANIMAL WHEY  64 SERVIDAS SABOR VAINILLA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA ANIMAL WHEY  64 SERVIDAS SABOR VAINILLA.jpeg",
@@ -1931,13 +1924,6 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA BPI ISO HD  70 SERVIDAS 4.93LB SABOR CEREAL CRUNCH.jpeg",
                        "stock":  5,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "PROTEÍNA CARNIVOR  56 SERVIDAS 3.9LB  MUSCLEMEDS VAINILLA CARAMELO",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA CARNIVOR  56 SERVIDAS 3.9LB  MUSCLEMEDS VAINILLA CARAMELO.jpeg",
-                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
@@ -2532,6 +2518,16 @@
                               "name":  "PROTEINA WHEYPHORM COCO 62 SERVIDAS",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PROTEINA WHEYPHORM COCO 62 SERVIDAS.jpeg"
+                          },
+                          {
+                              "name":  "PROTEÍNA ANIMAL WHEY  64 SERVIDAS SABOR CHOCOLATE",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/PROTEÍNA ANIMAL WHEY  64 SERVIDAS SABOR CHOCOLATE.jpeg"
+                          },
+                          {
+                              "name":  "PROTEÍNA CARNIVOR  56 SERVIDAS 3.9LB  MUSCLEMEDS VAINILLA CARAMELO",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/PROTEÍNA CARNIVOR  56 SERVIDAS 3.9LB  MUSCLEMEDS VAINILLA CARAMELO.jpeg"
                           },
                           {
                               "name":  "PROTEÍNA HARDCORE WHEY  68 SERVIDAS CHOCOLATE MILKSHAKE MUTANT",
