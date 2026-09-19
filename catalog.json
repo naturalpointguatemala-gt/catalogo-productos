@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-19T18:35:01.5011324Z",
+    "generatedAt":  "2026-09-19T18:46:08.4441462Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  886,
+                       "stock":  885,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1129,
+                       "stock":  1128,
                        "stockLinked":  true
                    },
                    {
@@ -1356,7 +1356,7 @@
                        "name":  "VITAMINA D3 CON K2",
                        "folder":  "General",
                        "src":  "images/VITAMINA D3 CON K2.jpeg",
-                       "stock":  14,
+                       "stock":  13,
                        "stockLinked":  true
                    },
                    {
