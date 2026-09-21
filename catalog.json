@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-21T21:42:54.6108100Z",
+    "generatedAt":  "2026-09-21T21:49:57.1944877Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -173,7 +173,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  8,
+                       "stock":  6,
                        "stockLinked":  true
                    },
                    {
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  850,
+                       "stock":  849,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1108,
+                       "stock":  1107,
                        "stockLinked":  true
                    },
                    {
