@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-21T19:15:56.0103759Z",
+    "generatedAt":  "2026-09-21T19:43:19.0264359Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -467,7 +467,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  87,
+                       "stock":  86,
                        "stockLinked":  true
                    },
                    {
