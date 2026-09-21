@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-21T19:53:56.5547893Z",
+    "generatedAt":  "2026-09-21T20:02:27.2276189Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -1959,6 +1959,13 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA DRAGON PHARMA WHEY PHORM  52 SERVIDAS 4.59LB SABOR DOUBLE CHOCOLATE BROWNIE.jpeg",
                        "stock":  8,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PROTEÍNA MUTANT WHEY  48 SERVIDAS DOBLE SABOR TRIPLE CHOCOLATE \u0026 COOKIES AND CREAM",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA MUTANT WHEY  48 SERVIDAS DOBLE SABOR TRIPLE CHOCOLATE \u0026 COOKIES AND CREAM.jpg",
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
