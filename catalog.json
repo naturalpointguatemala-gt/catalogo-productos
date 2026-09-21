@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-21T23:21:11.1807657Z",
+    "generatedAt":  "2026-09-21T23:30:23.1159285Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -145,7 +145,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  54,
+                       "stock":  53,
                        "stockLinked":  true
                    },
                    {
@@ -201,7 +201,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1364,
+                       "stock":  -1365,
                        "stockLinked":  true
                    },
                    {
