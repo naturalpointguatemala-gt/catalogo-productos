@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-21T16:32:27.3078590Z",
+    "generatedAt":  "2026-09-21T16:34:50.7669526Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -166,7 +166,7 @@
                        "name":  "BERBERINA CON CANELA GOTAS 1500MG  60ML ACENTIA LABS",
                        "folder":  "General",
                        "src":  "images/BERBERINA CON CANELA GOTAS 1500MG  60ML ACENTIA LABS.jpeg",
-                       "stock":  3,
+                       "stock":  4,
                        "stockLinked":  true
                    },
                    {
@@ -201,7 +201,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1363,
+                       "stock":  -1364,
                        "stockLinked":  true
                    },
                    {
