@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-21T21:02:23.5491212Z",
+    "generatedAt":  "2026-09-21T21:08:12.4627431Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  858,
+                       "stock":  856,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1113,
+                       "stock":  1112,
                        "stockLinked":  true
                    },
                    {
@@ -467,7 +467,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  86,
+                       "stock":  85,
                        "stockLinked":  true
                    },
                    {
