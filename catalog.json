@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-21T21:30:45.7472406Z",
+    "generatedAt":  "2026-09-21T21:36:19.5200124Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  853,
+                       "stock":  850,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1109,
+                       "stock":  1108,
                        "stockLinked":  true
                    },
                    {
@@ -776,6 +776,13 @@
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
                        "stock":  10,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "LIPO 6 BLACK QUEMADOR DE GRASA",
+                       "folder":  "General",
+                       "src":  "images/LIPO 6 BLACK QUEMADOR DE GRASA.jpeg",
+                       "stock":  6,
                        "stockLinked":  true
                    },
                    {
@@ -2273,11 +2280,6 @@
                               "name":  "KING WHEY RONNIE COLEMAN VAINILLA ICE CREAM",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/KING WHEY RONNIE COLEMAN VAINILLA ICE CREAM.jpeg"
-                          },
-                          {
-                              "name":  "LIPO 6 BLACK QUEMADOR DE GRASA",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/LIPO 6 BLACK QUEMADOR DE GRASA.jpeg"
                           },
                           {
                               "name":  "MAGNESIO GOMITAS GOLI",
