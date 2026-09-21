@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-21T21:27:39.3077582Z",
+    "generatedAt":  "2026-09-21T21:30:45.7472406Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -152,7 +152,7 @@
                        "name":  "ASTAXANTINA AMERICANA",
                        "folder":  "General",
                        "src":  "images/ASTAXANTINA AMERICANA.jpg",
-                       "stock":  2,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
@@ -1356,7 +1356,7 @@
                        "name":  "VITAMINA D3 CON K2",
                        "folder":  "General",
                        "src":  "images/VITAMINA D3 CON K2.jpeg",
-                       "stock":  13,
+                       "stock":  12,
                        "stockLinked":  true
                    },
                    {
