@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-21T16:30:13.0406993Z",
+    "generatedAt":  "2026-09-21T16:32:27.3078590Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  870,
+                       "stock":  871,
                        "stockLinked":  true
                    },
                    {
@@ -397,7 +397,7 @@
                        "name":  "COENZIMA Q10 NATURAL POINT",
                        "folder":  "General",
                        "src":  "images/COENZIMA Q10 NATURAL POINT.jpeg",
-                       "stock":  11,
+                       "stock":  12,
                        "stockLinked":  true
                    },
                    {
