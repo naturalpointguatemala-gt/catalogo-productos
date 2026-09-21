@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-21T21:12:43.5313577Z",
+    "generatedAt":  "2026-09-21T21:15:35.1948542Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  856,
+                       "stock":  854,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1112,
+                       "stock":  1110,
                        "stockLinked":  true
                    },
                    {
@@ -810,7 +810,7 @@
                        "name":  "MAGNESIO COMPLEX",
                        "folder":  "General",
                        "src":  "images/MAGNESIO COMPLEX.jpeg",
-                       "stock":  37,
+                       "stock":  36,
                        "stockLinked":  true
                    },
                    {
