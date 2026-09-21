@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-21T22:44:08.5086479Z",
+    "generatedAt":  "2026-09-21T22:47:20.5013674Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -145,7 +145,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  57,
+                       "stock":  55,
                        "stockLinked":  true
                    },
                    {
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  842,
+                       "stock":  840,
                        "stockLinked":  true
                    },
                    {
