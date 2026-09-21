@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-19T22:05:09.0690050Z",
+    "generatedAt":  "2026-09-21T16:09:41.8045556Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -145,7 +145,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  74,
+                       "stock":  68,
                        "stockLinked":  true
                    },
                    {
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  876,
+                       "stock":  871,
                        "stockLinked":  true
                    },
                    {
@@ -334,7 +334,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  258,
+                       "stock":  256,
                        "stockLinked":  true
                    },
                    {
@@ -1916,7 +1916,7 @@
                        "name":  "PROTEÍNA BPI ISO HD  70 SERVIDAS 4.8LB SABOR VAINILLA COOKIE",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA BPI ISO HD  70 SERVIDAS 4.8LB SABOR VAINILLA COOKIE.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
