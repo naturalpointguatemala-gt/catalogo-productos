@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-21T18:45:12.8702375Z",
+    "generatedAt":  "2026-09-21T18:54:43.7723453Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -173,7 +173,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  9,
+                       "stock":  8,
                        "stockLinked":  true
                    },
                    {
@@ -341,7 +341,7 @@
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
-                       "stock":  208,
+                       "stock":  206,
                        "stockLinked":  true
                    },
                    {
