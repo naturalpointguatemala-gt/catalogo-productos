@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-21T22:03:40.6455711Z",
+    "generatedAt":  "2026-09-21T22:07:12.6381478Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -173,7 +173,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  6,
+                       "stock":  5,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1103,
+                       "stock":  1101,
                        "stockLinked":  true
                    },
                    {
