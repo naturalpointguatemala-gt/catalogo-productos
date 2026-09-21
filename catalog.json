@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-21T16:40:26.1328655Z",
+    "generatedAt":  "2026-09-21T16:57:27.9596538Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -145,7 +145,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  68,
+                       "stock":  66,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1124,
+                       "stock":  1121,
                        "stockLinked":  true
                    },
                    {
