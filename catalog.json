@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-21T18:14:46.4132606Z",
+    "generatedAt":  "2026-09-21T18:21:46.7723824Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -96,7 +96,7 @@
                        "name":  "ALA",
                        "folder":  "General",
                        "src":  "images/ALA.jpeg",
-                       "stock":  17,
+                       "stock":  16,
                        "stockLinked":  true
                    },
                    {
@@ -173,7 +173,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  11,
+                       "stock":  9,
                        "stockLinked":  true
                    },
                    {
@@ -677,7 +677,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  225,
+                       "stock":  224,
                        "stockLinked":  true
                    },
                    {
