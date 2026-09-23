@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-23T21:01:36.6612470Z",
+    "generatedAt":  "2026-09-23T21:50:53.1545983Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -187,7 +187,7 @@
                        "name":  "CALCIO CITRATO",
                        "folder":  "General",
                        "src":  "images/CALCIO CITRATO.png",
-                       "stock":  14,
+                       "stock":  13,
                        "stockLinked":  true
                    },
                    {
