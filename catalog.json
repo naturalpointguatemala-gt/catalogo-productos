@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-23T17:53:10.4858126Z",
+    "generatedAt":  "2026-09-23T18:09:10.2658703Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -635,14 +635,14 @@
                        "name":  "HAIR, SKIN AND NAILS  200 GOMITAS. NATURE´S BOUNTY ROSADO",
                        "folder":  "General",
                        "src":  "images/HAIR, SKIN AND NAILS  200 GOMITAS. NATURE´S BOUNTY ROSADO.jpeg",
-                       "stock":  1,
+                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
                        "name":  "HAIR, SKIN AND NAILS CON BIOTINA  200 GOMITAS. NARANJA NATURE´S BOUNTY",
                        "folder":  "General",
                        "src":  "images/HAIR, SKIN AND NAILS CON BIOTINA  200 GOMITAS. NARANJA NATURE´S BOUNTY.jpeg",
-                       "stock":  3,
+                       "stock":  2,
                        "stockLinked":  true
                    },
                    {
