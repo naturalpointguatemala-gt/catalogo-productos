@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-23T23:20:02.8461257Z",
+    "generatedAt":  "2026-09-23T23:22:56.6303742Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  180,
+                       "stock":  179,
                        "stockLinked":  true
                    },
                    {
@@ -1489,7 +1489,7 @@
                        "name":  "AMINOÁCIDOS BPI SABOR GOMITAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/AMINOÁCIDOS BPI SABOR GOMITAS.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
