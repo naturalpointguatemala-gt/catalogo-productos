@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-23T17:22:51.7380479Z",
+    "generatedAt":  "2026-09-23T17:24:30.8185858Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -89,21 +89,21 @@
                        "name":  "AJO SIN OLOR",
                        "folder":  "General",
                        "src":  "images/AJO SIN OLOR.jpeg",
-                       "stock":  15,
+                       "stock":  16,
                        "stockLinked":  true
                    },
                    {
                        "name":  "ALA",
                        "folder":  "General",
                        "src":  "images/ALA.jpeg",
-                       "stock":  16,
+                       "stock":  17,
                        "stockLinked":  true
                    },
                    {
                        "name":  "ALCACHOFA",
                        "folder":  "General",
                        "src":  "images/ALCACHOFA.jpeg",
-                       "stock":  36,
+                       "stock":  37,
                        "stockLinked":  true
                    },
                    {
@@ -145,7 +145,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  47,
+                       "stock":  48,
                        "stockLinked":  true
                    },
                    {
@@ -173,7 +173,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  -3,
+                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
@@ -187,7 +187,7 @@
                        "name":  "CALCIO CITRATO",
                        "folder":  "General",
                        "src":  "images/CALCIO CITRATO.png",
-                       "stock":  13,
+                       "stock":  14,
                        "stockLinked":  true
                    },
                    {
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  721,
+                       "stock":  718,
                        "stockLinked":  true
                    },
                    {
@@ -250,7 +250,7 @@
                        "name":  "CASTAÑA DE INDIAS",
                        "folder":  "General",
                        "src":  "images/CASTAÑA DE INDIAS.png",
-                       "stock":  40,
+                       "stock":  41,
                        "stockLinked":  true
                    },
                    {
@@ -327,14 +327,14 @@
                        "name":  "CHANCAPIEDRA",
                        "folder":  "General",
                        "src":  "images/CHANCAPIEDRA.jpeg",
-                       "stock":  17,
+                       "stock":  18,
                        "stockLinked":  true
                    },
                    {
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  288,
+                       "stock":  289,
                        "stockLinked":  true
                    },
                    {
@@ -362,7 +362,7 @@
                        "name":  "CLORELLA ORGANICA",
                        "folder":  "General",
                        "src":  "images/CLORELLA ORGANICA.jpeg",
-                       "stock":  15,
+                       "stock":  16,
                        "stockLinked":  true
                    },
                    {
@@ -425,7 +425,7 @@
                        "name":  "COLÁGENO HIDROLIZADO CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/COLÁGENO HIDROLIZADO CÁPSULAS.jpeg",
-                       "stock":  15,
+                       "stock":  16,
                        "stockLinked":  true
                    },
                    {
@@ -467,7 +467,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  85,
+                       "stock":  86,
                        "stockLinked":  true
                    },
                    {
@@ -495,14 +495,14 @@
                        "name":  "ESPIRULINA",
                        "folder":  "General",
                        "src":  "images/ESPIRULINA.jpeg",
-                       "stock":  23,
+                       "stock":  24,
                        "stockLinked":  true
                    },
                    {
                        "name":  "FENOGRECO",
                        "folder":  "General",
                        "src":  "images/FENOGRECO.png",
-                       "stock":  20,
+                       "stock":  21,
                        "stockLinked":  true
                    },
                    {
@@ -551,7 +551,7 @@
                        "name":  "GLICINATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/GLICINATO DE MAGNESIO.jpeg",
-                       "stock":  10,
+                       "stock":  17,
                        "stockLinked":  true
                    },
                    {
@@ -677,7 +677,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  185,
+                       "stock":  186,
                        "stockLinked":  true
                    },
                    {
@@ -810,7 +810,7 @@
                        "name":  "MACA",
                        "folder":  "General",
                        "src":  "images/MACA.png",
-                       "stock":  12,
+                       "stock":  13,
                        "stockLinked":  true
                    },
                    {
@@ -1146,7 +1146,7 @@
                        "name":  "RESVERATROL",
                        "folder":  "General",
                        "src":  "images/RESVERATROL.png",
-                       "stock":  46,
+                       "stock":  47,
                        "stockLinked":  true
                    },
                    {
@@ -1160,7 +1160,7 @@
                        "name":  "SAW PALMETTO",
                        "folder":  "General",
                        "src":  "images/SAW PALMETTO.jpeg",
-                       "stock":  16,
+                       "stock":  17,
                        "stockLinked":  true
                    },
                    {
