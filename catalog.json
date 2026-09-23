@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-22T00:21:15.9844851Z",
+    "generatedAt":  "2026-09-23T17:10:04.3447359Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  186,
+                       "stock":  181,
                        "stockLinked":  true
                    },
                    {
@@ -75,7 +75,7 @@
                        "name":  "AJO NEGRO",
                        "folder":  "General",
                        "src":  "images/AJO NEGRO.png",
-                       "stock":  28,
+                       "stock":  27,
                        "stockLinked":  true
                    },
                    {
@@ -103,7 +103,7 @@
                        "name":  "ALCACHOFA",
                        "folder":  "General",
                        "src":  "images/ALCACHOFA.jpeg",
-                       "stock":  37,
+                       "stock":  36,
                        "stockLinked":  true
                    },
                    {
@@ -117,14 +117,14 @@
                        "name":  "ARCILLA IMPORTADA",
                        "folder":  "General",
                        "src":  "images/ARCILLA IMPORTADA.jpeg",
-                       "stock":  8,
+                       "stock":  7,
                        "stockLinked":  true
                    },
                    {
                        "name":  "ARGININA",
                        "folder":  "General",
                        "src":  "images/ARGININA.png",
-                       "stock":  23,
+                       "stock":  22,
                        "stockLinked":  true
                    },
                    {
@@ -145,7 +145,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  53,
+                       "stock":  47,
                        "stockLinked":  true
                    },
                    {
@@ -166,14 +166,14 @@
                        "name":  "BERBERINA CON CANELA GOTAS 1500MG  60ML ACENTIA LABS",
                        "folder":  "General",
                        "src":  "images/BERBERINA CON CANELA GOTAS 1500MG  60ML ACENTIA LABS.jpeg",
-                       "stock":  4,
+                       "stock":  3,
                        "stockLinked":  true
                    },
                    {
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  3,
+                       "stock":  -3,
                        "stockLinked":  true
                    },
                    {
@@ -187,7 +187,7 @@
                        "name":  "CALCIO CITRATO",
                        "folder":  "General",
                        "src":  "images/CALCIO CITRATO.png",
-                       "stock":  14,
+                       "stock":  13,
                        "stockLinked":  true
                    },
                    {
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  829,
+                       "stock":  721,
                        "stockLinked":  true
                    },
                    {
@@ -334,14 +334,14 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  300,
+                       "stock":  288,
                        "stockLinked":  true
                    },
                    {
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
-                       "stock":  205,
+                       "stock":  202,
                        "stockLinked":  true
                    },
                    {
@@ -411,7 +411,7 @@
                        "name":  "COLAGENO POLVO",
                        "folder":  "General",
                        "src":  "images/COLAGENO POLVO.jpeg",
-                       "stock":  10,
+                       "stock":  8,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1095,
+                       "stock":  1035,
                        "stockLinked":  true
                    },
                    {
@@ -551,7 +551,7 @@
                        "name":  "GLICINATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/GLICINATO DE MAGNESIO.jpeg",
-                       "stock":  12,
+                       "stock":  10,
                        "stockLinked":  true
                    },
                    {
@@ -677,7 +677,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  222,
+                       "stock":  185,
                        "stockLinked":  true
                    },
                    {
@@ -775,7 +775,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  9,
+                       "stock":  7,
                        "stockLinked":  true
                    },
                    {
@@ -1006,7 +1006,7 @@
                        "name":  "OMEGA 3",
                        "folder":  "General",
                        "src":  "images/OMEGA 3.jpeg",
-                       "stock":  16,
+                       "stock":  15,
                        "stockLinked":  true
                    },
                    {
@@ -1174,7 +1174,7 @@
                        "name":  "SERENIREST",
                        "folder":  "General",
                        "src":  "images/SERENIREST.jpeg",
-                       "stock":  30,
+                       "stock":  29,
                        "stockLinked":  true
                    },
                    {
@@ -1188,7 +1188,7 @@
                        "name":  "SHILAJIT EXTRA FUERTE  90 CAPS UHECO",
                        "folder":  "General",
                        "src":  "images/SHILAJIT EXTRA FUERTE  90 CAPS UHECO.jpeg",
-                       "stock":  6,
+                       "stock":  3,
                        "stockLinked":  true
                    },
                    {
@@ -1356,14 +1356,14 @@
                        "name":  "VITAMINA C",
                        "folder":  "General",
                        "src":  "images/VITAMINA C.jpeg",
-                       "stock":  8,
+                       "stock":  7,
                        "stockLinked":  true
                    },
                    {
                        "name":  "VITAMINA D3 CON K2",
                        "folder":  "General",
                        "src":  "images/VITAMINA D3 CON K2.jpeg",
-                       "stock":  12,
+                       "stock":  11,
                        "stockLinked":  true
                    },
                    {
@@ -1552,14 +1552,14 @@
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
-                       "stock":  22,
+                       "stock":  18,
                        "stockLinked":  true
                    },
                    {
                        "name":  "CREATINA DRAGON PHARMA 200 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA 200 SERVIDAS.jpeg",
-                       "stock":  32,
+                       "stock":  29,
                        "stockLinked":  true
                    },
                    {
@@ -1622,7 +1622,7 @@
                        "name":  "CREATINA MUSCLETECH 80 SERVIDAS 400GR",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MUSCLETECH 80 SERVIDAS 400GR.jpeg",
-                       "stock":  15,
+                       "stock":  14,
                        "stockLinked":  true
                    },
                    {
