@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-23T19:03:17.3041687Z",
+    "generatedAt":  "2026-09-23T19:09:50.0329086Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -810,7 +810,7 @@
                        "name":  "MACA",
                        "folder":  "General",
                        "src":  "images/MACA.png",
-                       "stock":  13,
+                       "stock":  12,
                        "stockLinked":  true
                    },
                    {
