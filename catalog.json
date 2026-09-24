@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-24T19:47:27.4661468Z",
+    "generatedAt":  "2026-09-24T19:56:09.1581720Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -159,7 +159,7 @@
                        "name":  "ASTAXANTINA",
                        "folder":  "General",
                        "src":  "images/ASTAXANTINA.jpeg",
-                       "stock":  11,
+                       "stock":  9,
                        "stockLinked":  true
                    },
                    {
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  726,
+                       "stock":  722,
                        "stockLinked":  true
                    },
                    {
@@ -446,7 +446,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1111,
+                       "stock":  1109,
                        "stockLinked":  true
                    },
                    {
@@ -1349,7 +1349,7 @@
                        "name":  "VITAMINA C",
                        "folder":  "General",
                        "src":  "images/VITAMINA C.jpeg",
-                       "stock":  7,
+                       "stock":  6,
                        "stockLinked":  true
                    },
                    {
@@ -2421,11 +2421,6 @@
                               "src":  "images_sin_existencia/PREENTRENO PANDAMIC.jpg"
                           },
                           {
-                              "name":  "PREENTRENO PSYCHOTIC ROJO 30 SERVIDAS BLUE RASPBERRY",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/PREENTRENO PSYCHOTIC ROJO 30 SERVIDAS BLUE RASPBERRY.png"
-                          },
-                          {
                               "name":  "PREENTRENO PSYCHOTIC ROJO 30 SERVIDAS FRUIT PUNCH",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PREENTRENO PSYCHOTIC ROJO 30 SERVIDAS FRUIT PUNCH.jpeg"
@@ -2434,11 +2429,6 @@
                               "name":  "PREENTRENO PSYCHOTIC ROJO 30 SERVIDAS GRAPE",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PREENTRENO PSYCHOTIC ROJO 30 SERVIDAS GRAPE.jpeg"
-                          },
-                          {
-                              "name":  "PREENTRENO PSYCHOTIC SAW 30 SERVIDAS",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/PREENTRENO PSYCHOTIC SAW 30 SERVIDAS.jpeg"
                           },
                           {
                               "name":  "PREENTRENO VENOM ESSENTIAL FRESA KIWI",
@@ -2616,21 +2606,6 @@
                               "src":  "images_sin_existencia/PROTEÍNA WHEY PHORM DRAGON PHARMA PASTEL.png"
                           },
                           {
-                              "name":  "PSYCHOTIC GOLD FRUIT PUNCH",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/PSYCHOTIC GOLD FRUIT PUNCH.png"
-                          },
-                          {
-                              "name":  "PSYCHOTIC GOLD GUMMY CANDY",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/PSYCHOTIC GOLD GUMMY CANDY.png"
-                          },
-                          {
-                              "name":  "PSYCHOTIC GOLD GUMMY GRAPE",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/PSYCHOTIC GOLD GUMMY GRAPE.png"
-                          },
-                          {
                               "name":  "PSYCHOTIC GOLD ORANGE",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PSYCHOTIC GOLD ORANGE.png"
@@ -2639,11 +2614,6 @@
                               "name":  "PSYCHOTIC GOLD SANDIA",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PSYCHOTIC GOLD SANDIA.png"
-                          },
-                          {
-                              "name":  "PSYCHOTIC SAW  GRAPE",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/PSYCHOTIC SAW  GRAPE.png"
                           },
                           {
                               "name":  "SABORIZANTE SIN CALORÍAS CHOCOLATE",
