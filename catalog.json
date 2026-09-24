@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-24T16:26:51.2832891Z",
+    "generatedAt":  "2026-09-24T16:46:44.1671596Z",
     "images":  [
                    {
                        "name":  "ABEDUL",
@@ -1174,7 +1174,7 @@
                        "name":  "SERENIREST",
                        "folder":  "General",
                        "src":  "images/SERENIREST.jpeg",
-                       "stock":  29,
+                       "stock":  28,
                        "stockLinked":  true
                    },
                    {
