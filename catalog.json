@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-24T17:27:08.9756181Z",
+    "generatedAt":  "2026-09-24T17:42:36.1433403Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -370,13 +370,6 @@
                        "folder":  "General",
                        "src":  "images/CLOROFILA.jpeg",
                        "stock":  6,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "CLORURO DE MAGNESIO",
-                       "folder":  "General",
-                       "src":  "images/CLORURO DE MAGNESIO.jpeg",
-                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
@@ -1759,6 +1752,27 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "PRE-ENTRENO PSYCHOTIC GOLD  35 SERVIDAS SABOR FRUIT PUNCH",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC GOLD  35 SERVIDAS SABOR FRUIT PUNCH.jpeg",
+                       "stock":  1,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PRE-ENTRENO PSYCHOTIC GOLD  35 SERVIDAS SABOR GRAPE",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC GOLD  35 SERVIDAS SABOR GRAPE.jpeg",
+                       "stock":  1,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PRE-ENTRENO PSYCHOTIC GOLD  35 SERVIDAS SABOR GUMMY CANDY",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC GOLD  35 SERVIDAS SABOR GUMMY CANDY.jpeg",
+                       "stock":  1,
+                       "stockLinked":  true
+                   },
+                   {
                        "name":  "PRE-ENTRENO PSYCHOTIC ROJO  30 SERVIDAS EN SOBRES TRES SABORES",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC ROJO  30 SERVIDAS EN SOBRES TRES SABORES.jpeg",
@@ -2055,6 +2069,11 @@
                               "name":  "CITRULINA 300GRAMOS",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/CITRULINA 300GRAMOS.jpg"
+                          },
+                          {
+                              "name":  "CLORURO DE MAGNESIO",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/CLORURO DE MAGNESIO.jpeg"
                           },
                           {
                               "name":  "COENZIMA Q10 SUERO FACIAL",
