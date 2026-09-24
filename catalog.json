@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-24T19:00:48.9929761Z",
+    "generatedAt":  "2026-09-24T19:12:48.7524054Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -26,7 +26,7 @@
                        "name":  "ACEITE DE OREGANO",
                        "folder":  "General",
                        "src":  "images/ACEITE DE OREGANO.jpeg",
-                       "stock":  20,
+                       "stock":  21,
                        "stockLinked":  true
                    },
                    {
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  727,
+                       "stock":  730,
                        "stockLinked":  true
                    },
                    {
@@ -544,7 +544,7 @@
                        "name":  "GLICINATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/GLICINATO DE MAGNESIO.jpeg",
-                       "stock":  17,
+                       "stock":  18,
                        "stockLinked":  true
                    },
                    {
@@ -1377,7 +1377,7 @@
                        "name":  "VITAMINA K",
                        "folder":  "General",
                        "src":  "images/VITAMINA K.png",
-                       "stock":  10,
+                       "stock":  11,
                        "stockLinked":  true
                    },
                    {
