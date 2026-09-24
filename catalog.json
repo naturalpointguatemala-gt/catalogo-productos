@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-24T17:47:03.0083543Z",
+    "generatedAt":  "2026-09-24T17:50:58.5042883Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -145,7 +145,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  44,
+                       "stock":  43,
                        "stockLinked":  true
                    },
                    {
@@ -1356,7 +1356,7 @@
                        "name":  "VITAMINA D3 CON K2",
                        "folder":  "General",
                        "src":  "images/VITAMINA D3 CON K2.jpeg",
-                       "stock":  11,
+                       "stock":  10,
                        "stockLinked":  true
                    },
                    {
