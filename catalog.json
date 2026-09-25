@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-25T16:35:34.1686344Z",
+    "generatedAt":  "2026-09-25T16:40:35.5455125Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1605,6 +1605,13 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "CREATINA MICRONIZADA  60 SERVIDAS SIN SABOR OPTIMUM NUTRITION",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MICRONIZADA  60 SERVIDAS SIN SABOR OPTIMUM NUTRITION.jpeg",
+                       "stock":  6,
+                       "stockLinked":  true
+                   },
+                   {
                        "name":  "CREATINA MONOHIDRATADA  100 SERVIDAS SIN SABOR NUTRICOST",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MONOHIDRATADA  100 SERVIDAS SIN SABOR NUTRICOST.jpeg",
@@ -1633,9 +1640,9 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "CREATINA NUTREX 60 SERVIDAS",
+                       "name":  "CREATINA NUTREX 300  60 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 60 SERVIDAS.jpeg",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 300  60 SERVIDAS.jpeg",
                        "stock":  18,
                        "stockLinked":  true
                    },
