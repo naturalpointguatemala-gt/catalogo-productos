@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-25T19:56:10.6812550Z",
+    "generatedAt":  "2026-09-25T19:58:04.8285288Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -2072,13 +2072,6 @@
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA MUTANT WHEY  48 SERVIDAS DOBLE SABOR TRIPLE CHOCOLATE \u0026 ICE CREAM.jpeg",
                        "stock":  2,
                        "stockLinked":  true
-                   },
-                   {
-                       "name":  "PSYCHOTIC SAW  SANDIA",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PSYCHOTIC SAW  SANDIA.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false
                    }
                ],
     "noStockImages":  [
