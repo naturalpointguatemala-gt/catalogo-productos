@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-25T17:20:25.5618659Z",
+    "generatedAt":  "2026-09-25T17:26:32.0791195Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -145,7 +145,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  123,
+                       "stock":  143,
                        "stockLinked":  true
                    },
                    {
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  701,
+                       "stock":  741,
                        "stockLinked":  true
                    },
                    {
@@ -446,7 +446,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1093,
+                       "stock":  1126,
                        "stockLinked":  true
                    },
                    {
@@ -1440,7 +1440,7 @@
                        "name":  "ZARZA PARRILLA",
                        "folder":  "General",
                        "src":  "images/ZARZA PARRILLA.jpeg",
-                       "stock":  11,
+                       "stock":  31,
                        "stockLinked":  true
                    },
                    {
