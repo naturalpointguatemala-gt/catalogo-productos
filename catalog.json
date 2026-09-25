@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-25T21:19:37.1727249Z",
+    "generatedAt":  "2026-09-25T21:22:22.1025388Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1637,6 +1637,13 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MUSCLETECH 80 SERVIDAS 400GR.jpeg",
                        "stock":  14,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "CREATINA NUTREX 1KG  200 SERVIDAS",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 1KG  200 SERVIDAS.jpeg",
+                       "stock":  11,
                        "stockLinked":  true
                    },
                    {
