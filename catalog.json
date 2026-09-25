@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-25T17:36:25.9388051Z",
+    "generatedAt":  "2026-09-25T17:40:40.4085437Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -166,7 +166,7 @@
                        "name":  "BERBERINA CON CANELA GOTAS 1500MG  60ML ACENTIA LABS",
                        "folder":  "General",
                        "src":  "images/BERBERINA CON CANELA GOTAS 1500MG  60ML ACENTIA LABS.jpeg",
-                       "stock":  3,
+                       "stock":  4,
                        "stockLinked":  true
                    },
                    {
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  745,
+                       "stock":  746,
                        "stockLinked":  true
                    },
                    {
