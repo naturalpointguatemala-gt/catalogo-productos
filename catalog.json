@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-25T23:47:00.9729895Z",
+    "generatedAt":  "2026-09-25T23:48:54.5799999Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -132,6 +132,13 @@
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA AMERICANA.jpeg",
                        "stock":  48,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "ASHWAGANDHA GOMITAS",
+                       "folder":  "General",
+                       "src":  "images/ASHWAGANDHA GOMITAS.jpeg",
+                       "stock":  3,
                        "stockLinked":  true
                    },
                    {
@@ -2077,11 +2084,6 @@
                               "name":  "AGUAJE GOMITAS BBP",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/AGUAJE GOMITAS BBP.jpeg"
-                          },
-                          {
-                              "name":  "ASHWAGANDHA GOMITAS",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/ASHWAGANDHA GOMITAS.jpeg"
                           },
                           {
                               "name":  "BORO AMERICANO",
