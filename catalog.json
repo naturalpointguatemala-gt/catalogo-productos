@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-25T17:42:22.3139497Z",
+    "generatedAt":  "2026-09-25T17:44:47.4371900Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -2053,6 +2053,13 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "PROTEÍNA HARDCORE WHEY  70 SERVIDAS VAINILLA ICE CREAM MUTANT",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA HARDCORE WHEY  70 SERVIDAS VAINILLA ICE CREAM MUTANT.jpeg",
+                       "stock":  1,
+                       "stockLinked":  true
+                   },
+                   {
                        "name":  "PROTEÍNA MUTANT WHEY  48 SERVIDAS DOBLE SABOR TRIPLE CHOCOLATE \u0026 COOKIES AND CREAM",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA MUTANT WHEY  48 SERVIDAS DOBLE SABOR TRIPLE CHOCOLATE \u0026 COOKIES AND CREAM.jpg",
@@ -2614,11 +2621,6 @@
                               "name":  "PROTEÍNA HARDCORE WHEY  68 SERVIDAS CHOCOLATE MILKSHAKE MUTANT",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PROTEÍNA HARDCORE WHEY  68 SERVIDAS CHOCOLATE MILKSHAKE MUTANT.jpeg"
-                          },
-                          {
-                              "name":  "PROTEÍNA HARDCORE WHEY  70 SERVIDAS VAINILLA ICE CREAM MUTANT",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/PROTEÍNA HARDCORE WHEY  70 SERVIDAS VAINILLA ICE CREAM MUTANT.jpeg"
                           },
                           {
                               "name":  "PROTEÍNA ISO 100 DYMATIZE CHOCOLATE BROWNIE",
