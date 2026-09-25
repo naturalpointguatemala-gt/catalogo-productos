@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-25T00:19:50.8537277Z",
+    "generatedAt":  "2026-09-25T00:21:59.5838876Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1539,6 +1539,13 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA CREAKONG  250 SERVIDAS 1KG.jpeg",
                        "stock":  10,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "CREATINA CREAKONG",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA CREAKONG.jpeg",
+                       "stock":  12,
                        "stockLinked":  true
                    },
                    {
