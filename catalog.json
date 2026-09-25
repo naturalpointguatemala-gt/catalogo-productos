@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-25T00:25:20.2361432Z",
+    "generatedAt":  "2026-09-25T16:35:34.1686344Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  176,
+                       "stock":  172,
                        "stockLinked":  true
                    },
                    {
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  714,
+                       "stock":  705,
                        "stockLinked":  true
                    },
                    {
@@ -334,7 +334,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  279,
+                       "stock":  278,
                        "stockLinked":  true
                    },
                    {
@@ -418,7 +418,7 @@
                        "name":  "COLÁGENO HIDROLIZADO CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/COLÁGENO HIDROLIZADO CÁPSULAS.jpeg",
-                       "stock":  15,
+                       "stock":  14,
                        "stockLinked":  true
                    },
                    {
@@ -446,7 +446,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1099,
+                       "stock":  1093,
                        "stockLinked":  true
                    },
                    {
@@ -698,7 +698,7 @@
                        "name":  "JABÓN DE CÚRCUMA",
                        "folder":  "General",
                        "src":  "images/JABÓN DE CÚRCUMA.png",
-                       "stock":  60,
+                       "stock":  58,
                        "stockLinked":  true
                    },
                    {
@@ -775,7 +775,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  6,
+                       "stock":  5,
                        "stockLinked":  true
                    },
                    {
@@ -1048,7 +1048,7 @@
                        "name":  "OXIDO NITRICO",
                        "folder":  "General",
                        "src":  "images/OXIDO NITRICO.jpeg",
-                       "stock":  3,
+                       "stock":  2,
                        "stockLinked":  true
                    },
                    {
@@ -1363,7 +1363,7 @@
                        "name":  "VITAMINA D3 CON K2",
                        "folder":  "General",
                        "src":  "images/VITAMINA D3 CON K2.jpeg",
-                       "stock":  10,
+                       "stock":  9,
                        "stockLinked":  true
                    },
                    {
@@ -1552,7 +1552,7 @@
                        "name":  "CREATINA DRAGON 30 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 30 SERVIDAS.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
@@ -1566,7 +1566,7 @@
                        "name":  "CREATINA DRAGON PHARMA 200 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA 200 SERVIDAS.jpeg",
-                       "stock":  28,
+                       "stock":  27,
                        "stockLinked":  true
                    },
                    {
@@ -1972,7 +1972,7 @@
                        "name":  "PROTEINA WHEY PHORM VAINILLA Y CHOCOLATE BLANCO  25 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEINA WHEY PHORM VAINILLA Y CHOCOLATE BLANCO  25 SERVIDAS.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
