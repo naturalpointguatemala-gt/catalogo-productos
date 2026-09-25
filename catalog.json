@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-25T23:44:06.4635905Z",
+    "generatedAt":  "2026-09-25T23:47:00.9729895Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1871,13 +1871,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "PRE-ENTRENO PSYCHOTIC SAW  60 SERVIDAS SABOR GRAPE",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC SAW  60 SERVIDAS SABOR GRAPE.jpeg",
-                       "stock":  0,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "PRE-ENTRENO PSYCHOTIC SAW  60 SERVIDAS SABOR WATERMELON",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC SAW  60 SERVIDAS SABOR WATERMELON.jpeg",
@@ -2454,6 +2447,11 @@
                               "name":  "PRE-ENTRENO PSYCHOTIC ROJO  60 SERVIDAS SABOR GRAPE",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PRE-ENTRENO PSYCHOTIC ROJO  60 SERVIDAS SABOR GRAPE.jpeg"
+                          },
+                          {
+                              "name":  "PRE-ENTRENO PSYCHOTIC SAW  60 SERVIDAS SABOR GRAPE",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/PRE-ENTRENO PSYCHOTIC SAW  60 SERVIDAS SABOR GRAPE.jpeg"
                           },
                           {
                               "name":  "PREENTRENO C4 SPORT",
