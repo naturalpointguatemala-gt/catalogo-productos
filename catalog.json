@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-26T18:35:00.8051597Z",
+    "generatedAt":  "2026-09-26T18:43:22.7000540Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1556,13 +1556,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "CREATINA DRAGON 30 SERVIDAS",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 30 SERVIDAS.jpeg",
-                       "stock":  0,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
@@ -2169,6 +2162,11 @@
                               "name":  "CRANBERRY",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/CRANBERRY.png"
+                          },
+                          {
+                              "name":  "CREATINA DRAGON 30 SERVIDAS",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/CREATINA DRAGON 30 SERVIDAS.jpeg"
                           },
                           {
                               "name":  "CREATINA EN GOMITAS GOLI",
