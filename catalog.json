@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-26T20:08:48.4125812Z",
+    "generatedAt":  "2026-09-26T20:12:24.1705936Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -243,7 +243,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  739,
+                       "stock":  738,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1134,
+                       "stock":  1133,
                        "stockLinked":  true
                    },
                    {
@@ -684,7 +684,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  181,
+                       "stock":  180,
                        "stockLinked":  true
                    },
                    {
@@ -2487,11 +2487,6 @@
                               "name":  "PREENTRENO VENOM ESSENTIAL FRESA KIWI",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PREENTRENO VENOM ESSENTIAL FRESA KIWI.jpeg"
-                          },
-                          {
-                              "name":  "PREENTRENO VENON INFIERNO",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/PREENTRENO VENON INFIERNO.jpeg"
                           },
                           {
                               "name":  "PROBIOTICOS CANLIST 90 CAPSULAS",
