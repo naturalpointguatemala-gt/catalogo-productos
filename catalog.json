@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-28T17:29:51.2637604Z",
+    "generatedAt":  "2026-09-28T17:37:50.0503509Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -208,7 +208,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1372,
+                       "stock":  -1373,
                        "stockLinked":  true
                    },
                    {
@@ -243,7 +243,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  717,
+                       "stock":  715,
                        "stockLinked":  true
                    },
                    {
@@ -1356,7 +1356,7 @@
                        "name":  "VITAMINA B9 (ÁCIDO FOLICO)",
                        "folder":  "General",
                        "src":  "images/VITAMINA B9 (ÁCIDO FOLICO).png",
-                       "stock":  20,
+                       "stock":  19,
                        "stockLinked":  true
                    },
                    {
