@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-28T18:55:13.1442083Z",
+    "generatedAt":  "2026-09-28T19:06:13.8794948Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -243,7 +243,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  705,
+                       "stock":  704,
                        "stockLinked":  true
                    },
                    {
@@ -348,7 +348,7 @@
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
-                       "stock":  199,
+                       "stock":  198,
                        "stockLinked":  true
                    },
                    {
@@ -432,7 +432,7 @@
                        "name":  "CRANBERRY EXTRACTO CON VITAMINA C",
                        "folder":  "General",
                        "src":  "images/CRANBERRY EXTRACTO CON VITAMINA C.jpeg",
-                       "stock":  19,
+                       "stock":  17,
                        "stockLinked":  true
                    },
                    {
@@ -684,7 +684,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  180,
+                       "stock":  206,
                        "stockLinked":  true
                    },
                    {
