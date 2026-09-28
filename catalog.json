@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-28T17:49:59.4046488Z",
+    "generatedAt":  "2026-09-28T17:56:43.6883526Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -243,7 +243,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  714,
+                       "stock":  713,
                        "stockLinked":  true
                    },
                    {
@@ -1878,13 +1878,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "PRE-ENTRENO PSYCHOTIC SAW  60 SERVIDAS SABOR WATERMELON",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC SAW  60 SERVIDAS SABOR WATERMELON.jpeg",
-                       "stock":  0,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "PRE-ENTRENO PSYCHOTIC SAW 30 SERVIDAS SABOR BLUE RASPBERRY",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC SAW 30 SERVIDAS SABOR BLUE RASPBERRY.jpeg",
@@ -2454,6 +2447,11 @@
                               "name":  "PRE-ENTRENO PSYCHOTIC ROJO  60 SERVIDAS SABOR GRAPE",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PRE-ENTRENO PSYCHOTIC ROJO  60 SERVIDAS SABOR GRAPE.jpeg"
+                          },
+                          {
+                              "name":  "PRE-ENTRENO PSYCHOTIC SAW  60 SERVIDAS SABOR WATERMELON",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/PRE-ENTRENO PSYCHOTIC SAW  60 SERVIDAS SABOR WATERMELON.jpeg"
                           },
                           {
                               "name":  "PREENTRENO C4 SPORT",
