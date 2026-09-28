@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-28T19:18:37.2255601Z",
+    "generatedAt":  "2026-09-28T19:21:55.7284126Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  182,
+                       "stock":  183,
                        "stockLinked":  true
                    },
                    {
@@ -243,7 +243,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  688,
+                       "stock":  691,
                        "stockLinked":  true
                    },
                    {
@@ -341,7 +341,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  270,
+                       "stock":  271,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1123,
+                       "stock":  1124,
                        "stockLinked":  true
                    },
                    {
