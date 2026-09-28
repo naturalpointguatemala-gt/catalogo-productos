@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-28T17:42:57.0565241Z",
+    "generatedAt":  "2026-09-28T17:49:59.4046488Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  187,
+                       "stock":  186,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1126,
+                       "stock":  1125,
                        "stockLinked":  true
                    },
                    {
