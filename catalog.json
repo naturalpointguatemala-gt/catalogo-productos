@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-28T21:25:35.4862756Z",
+    "generatedAt":  "2026-09-28T22:30:04.5444223Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -131,7 +131,7 @@
                        "name":  "ASHWAGANDHA AMERICANA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA AMERICANA.jpeg",
-                       "stock":  48,
+                       "stock":  47,
                        "stockLinked":  true
                    },
                    {
@@ -243,7 +243,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  684,
+                       "stock":  683,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1120,
+                       "stock":  1119,
                        "stockLinked":  true
                    },
                    {
@@ -782,7 +782,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  14,
+                       "stock":  13,
                        "stockLinked":  true
                    },
                    {
@@ -824,7 +824,7 @@
                        "name":  "MAGNESIO COMPLEX",
                        "folder":  "General",
                        "src":  "images/MAGNESIO COMPLEX.jpeg",
-                       "stock":  35,
+                       "stock":  34,
                        "stockLinked":  true
                    },
                    {
@@ -1265,7 +1265,7 @@
                        "name":  "URO PROBIOTICOS VAGINALES",
                        "folder":  "General",
                        "src":  "images/URO PROBIOTICOS VAGINALES.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
