@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-29T19:06:38.9075397Z",
+    "generatedAt":  "2026-09-29T19:12:37.2127446Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -425,7 +425,7 @@
                        "name":  "COLÁGENO HIDROLIZADO CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/COLÁGENO HIDROLIZADO CÁPSULAS.jpeg",
-                       "stock":  14,
+                       "stock":  12,
                        "stockLinked":  true
                    },
                    {
@@ -901,7 +901,7 @@
                        "name":  "MORINGA",
                        "folder":  "General",
                        "src":  "images/MORINGA.png",
-                       "stock":  16,
+                       "stock":  14,
                        "stockLinked":  true
                    },
                    {
