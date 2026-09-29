@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-29T19:33:55.2127139Z",
+    "generatedAt":  "2026-09-29T19:58:38.0218313Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1969,13 +1969,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "PROTEINA MUTANT WHEY 5LIBRAS VAINILLA",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEINA MUTANT WHEY 5LIBRAS VAINILLA.png",
-                       "stock":  1,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "PROTEINA WHEY PHORM VAINILLA Y CHOCOLATE BLANCO  25 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEINA WHEY PHORM VAINILLA Y CHOCOLATE BLANCO  25 SERVIDAS.jpeg",
@@ -2549,6 +2542,11 @@
                               "name":  "PROTEINA ISO PHORM CHOCOLATE",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PROTEINA ISO PHORM CHOCOLATE.jpeg"
+                          },
+                          {
+                              "name":  "PROTEINA MUTANT WHEY 5LIBRAS VAINILLA",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/PROTEINA MUTANT WHEY 5LIBRAS VAINILLA.png"
                           },
                           {
                               "name":  "PROTEINA MUTANT WHEY 60 SERVIDAS CHOCOLATE",
