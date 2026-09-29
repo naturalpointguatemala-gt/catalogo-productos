@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-29T20:03:50.6438852Z",
+    "generatedAt":  "2026-09-29T20:09:32.9928933Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -23,9 +23,9 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "ACEITE DE OREGANO",
+                       "name":  "ACEITE DE ORÉGANO 3000MG  60 PERLAS",
                        "folder":  "General",
-                       "src":  "images/ACEITE DE OREGANO.jpeg",
+                       "src":  "images/ACEITE DE ORÉGANO 3000MG  60 PERLAS.jpeg",
                        "stock":  19,
                        "stockLinked":  true
                    },
@@ -243,7 +243,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  619,
+                       "stock":  617,
                        "stockLinked":  true
                    },
                    {
@@ -901,7 +901,7 @@
                        "name":  "MORINGA",
                        "folder":  "General",
                        "src":  "images/MORINGA.png",
-                       "stock":  14,
+                       "stock":  12,
                        "stockLinked":  true
                    },
                    {
@@ -1048,7 +1048,7 @@
                        "name":  "ORTIGA",
                        "folder":  "General",
                        "src":  "images/ORTIGA.png",
-                       "stock":  29,
+                       "stock":  27,
                        "stockLinked":  true
                    },
                    {
@@ -1167,7 +1167,7 @@
                        "name":  "SAW PALMETTO",
                        "folder":  "General",
                        "src":  "images/SAW PALMETTO.jpeg",
-                       "stock":  17,
+                       "stock":  15,
                        "stockLinked":  true
                    },
                    {
