@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-29T17:16:11.8699606Z",
+    "generatedAt":  "2026-09-29T17:23:43.5143381Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -131,7 +131,7 @@
                        "name":  "ASHWAGANDHA AMERICANA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA AMERICANA.jpeg",
-                       "stock":  47,
+                       "stock":  46,
                        "stockLinked":  true
                    },
                    {
@@ -243,7 +243,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  640,
+                       "stock":  638,
                        "stockLinked":  true
                    },
                    {
