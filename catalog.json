@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-29T19:24:36.2403749Z",
+    "generatedAt":  "2026-09-29T19:33:55.2127139Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -159,7 +159,7 @@
                        "name":  "ASTAXANTINA AMERICANA",
                        "folder":  "General",
                        "src":  "images/ASTAXANTINA AMERICANA.jpg",
-                       "stock":  0,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
