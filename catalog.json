@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-28T23:59:37.1181499Z",
+    "generatedAt":  "2026-09-29T16:53:14.2067913Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  167,
+                       "stock":  165,
                        "stockLinked":  true
                    },
                    {
@@ -96,7 +96,7 @@
                        "name":  "ALA",
                        "folder":  "General",
                        "src":  "images/ALA.jpeg",
-                       "stock":  17,
+                       "stock":  16,
                        "stockLinked":  true
                    },
                    {
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  181,
+                       "stock":  176,
                        "stockLinked":  true
                    },
                    {
@@ -180,7 +180,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  52,
+                       "stock":  51,
                        "stockLinked":  true
                    },
                    {
@@ -208,7 +208,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1375,
+                       "stock":  -1376,
                        "stockLinked":  true
                    },
                    {
@@ -243,7 +243,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  680,
+                       "stock":  641,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1117,
+                       "stock":  1080,
                        "stockLinked":  true
                    },
                    {
@@ -467,7 +467,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  83,
+                       "stock":  80,
                        "stockLinked":  true
                    },
                    {
@@ -502,7 +502,7 @@
                        "name":  "FENOGRECO",
                        "folder":  "General",
                        "src":  "images/FENOGRECO.png",
-                       "stock":  21,
+                       "stock":  19,
                        "stockLinked":  true
                    },
                    {
@@ -551,7 +551,7 @@
                        "name":  "GLICINATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/GLICINATO DE MAGNESIO.jpeg",
-                       "stock":  18,
+                       "stock":  17,
                        "stockLinked":  true
                    },
                    {
@@ -684,7 +684,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  180,
+                       "stock":  177,
                        "stockLinked":  true
                    },
                    {
@@ -782,7 +782,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  13,
+                       "stock":  12,
                        "stockLinked":  true
                    },
                    {
@@ -1153,7 +1153,7 @@
                        "name":  "RESVERATROL",
                        "folder":  "General",
                        "src":  "images/RESVERATROL.png",
-                       "stock":  47,
+                       "stock":  46,
                        "stockLinked":  true
                    },
                    {
@@ -1195,7 +1195,7 @@
                        "name":  "SHILAJIT EXTRA FUERTE  90 CAPS UHECO",
                        "folder":  "General",
                        "src":  "images/SHILAJIT EXTRA FUERTE  90 CAPS UHECO.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
@@ -1349,7 +1349,7 @@
                        "name":  "VITAMINA B7 (BIOTINA)",
                        "folder":  "General",
                        "src":  "images/VITAMINA B7 (BIOTINA).png",
-                       "stock":  12,
+                       "stock":  11,
                        "stockLinked":  true
                    },
                    {
