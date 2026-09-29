@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-29T21:08:07.4082643Z",
+    "generatedAt":  "2026-09-29T21:32:13.5554772Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -243,7 +243,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  616,
+                       "stock":  615,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1071,
+                       "stock":  1070,
                        "stockLinked":  true
                    },
                    {
@@ -1902,7 +1902,7 @@
                        "name":  "PRE-ENTRENO RAW BUM ESSENTIALS 30 SERVIDAS CHAMPION MENTALITY CITRUS SLUSH",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO RAW BUM ESSENTIALS 30 SERVIDAS CHAMPION MENTALITY CITRUS SLUSH.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
