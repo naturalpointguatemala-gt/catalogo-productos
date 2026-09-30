@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-30T20:08:05.4828680Z",
+    "generatedAt":  "2026-09-30T20:12:28.0853035Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -75,7 +75,7 @@
                        "name":  "AJO NEGRO",
                        "folder":  "General",
                        "src":  "images/AJO NEGRO.png",
-                       "stock":  26,
+                       "stock":  27,
                        "stockLinked":  true
                    },
                    {
@@ -719,7 +719,7 @@
                        "name":  "JENGIBRE",
                        "folder":  "General",
                        "src":  "images/JENGIBRE.png",
-                       "stock":  17,
+                       "stock":  18,
                        "stockLinked":  true
                    },
                    {
@@ -1153,7 +1153,7 @@
                        "name":  "RESVERATROL",
                        "folder":  "General",
                        "src":  "images/RESVERATROL.png",
-                       "stock":  44,
+                       "stock":  46,
                        "stockLinked":  true
                    },
                    {
@@ -1363,7 +1363,7 @@
                        "name":  "VITAMINA D3 CON K2",
                        "folder":  "General",
                        "src":  "images/VITAMINA D3 CON K2.jpeg",
-                       "stock":  7,
+                       "stock":  8,
                        "stockLinked":  true
                    },
                    {
