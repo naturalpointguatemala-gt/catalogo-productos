@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-30T20:03:41.9597492Z",
+    "generatedAt":  "2026-09-30T20:08:05.4828680Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -75,7 +75,7 @@
                        "name":  "AJO NEGRO",
                        "folder":  "General",
                        "src":  "images/AJO NEGRO.png",
-                       "stock":  25,
+                       "stock":  26,
                        "stockLinked":  true
                    },
                    {
@@ -719,7 +719,7 @@
                        "name":  "JENGIBRE",
                        "folder":  "General",
                        "src":  "images/JENGIBRE.png",
-                       "stock":  18,
+                       "stock":  17,
                        "stockLinked":  true
                    },
                    {
@@ -1559,7 +1559,7 @@
                        "name":  "CREATINA DRAGON PHARMA 200 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA 200 SERVIDAS.jpeg",
-                       "stock":  23,
+                       "stock":  22,
                        "stockLinked":  true
                    },
                    {
