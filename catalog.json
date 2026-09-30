@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-30T19:31:17.6705734Z",
+    "generatedAt":  "2026-09-30T19:39:36.1850576Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -75,7 +75,7 @@
                        "name":  "AJO NEGRO",
                        "folder":  "General",
                        "src":  "images/AJO NEGRO.png",
-                       "stock":  27,
+                       "stock":  25,
                        "stockLinked":  true
                    },
                    {
@@ -1363,7 +1363,7 @@
                        "name":  "VITAMINA D3 CON K2",
                        "folder":  "General",
                        "src":  "images/VITAMINA D3 CON K2.jpeg",
-                       "stock":  8,
+                       "stock":  7,
                        "stockLinked":  true
                    },
                    {
