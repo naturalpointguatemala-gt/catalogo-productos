@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-30T16:45:22.3397025Z",
+    "generatedAt":  "2026-09-30T16:48:23.2870465Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -243,7 +243,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  622,
+                       "stock":  621,
                        "stockLinked":  true
                    },
                    {
@@ -1189,13 +1189,6 @@
                        "folder":  "General",
                        "src":  "images/SERUM DE ARROZ.jpeg",
                        "stock":  5,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "SHILAJIT EXTRA FUERTE  90 CAPS UHECO",
-                       "folder":  "General",
-                       "src":  "images/SHILAJIT EXTRA FUERTE  90 CAPS UHECO.jpeg",
-                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
@@ -2672,6 +2665,11 @@
                               "name":  "SABORIZANTE SIN CALORÍAS DULCE DE LECHE",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/SABORIZANTE SIN CALORÍAS DULCE DE LECHE.jpeg"
+                          },
+                          {
+                              "name":  "SHILAJIT EXTRA FUERTE  90 CAPS UHECO",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/SHILAJIT EXTRA FUERTE  90 CAPS UHECO.jpeg"
                           },
                           {
                               "name":  "SHILAJIT NUTRICOST",
