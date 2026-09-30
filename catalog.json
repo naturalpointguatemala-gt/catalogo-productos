@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-30T22:20:47.8763465Z",
+    "generatedAt":  "2026-09-30T22:28:53.1471871Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -187,7 +187,7 @@
                        "name":  "BOLDO",
                        "folder":  "General",
                        "src":  "images/BOLDO.png",
-                       "stock":  23,
+                       "stock":  22,
                        "stockLinked":  true
                    },
                    {
