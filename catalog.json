@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-30T18:12:29.5914056Z",
+    "generatedAt":  "2026-09-30T18:16:23.9818402Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1962,13 +1962,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "PROTEINA WHEY PHORM VAINILLA Y CHOCOLATE BLANCO  25 SERVIDAS",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEINA WHEY PHORM VAINILLA Y CHOCOLATE BLANCO  25 SERVIDAS.jpeg",
-                       "stock":  1,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "PROTEÍNA ANIMAL WHEY  64 SERVIDAS SABOR VAINILLA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA ANIMAL WHEY  64 SERVIDAS SABOR VAINILLA.jpeg",
@@ -2580,6 +2573,11 @@
                               "name":  "PROTEINA WHEY C4 REESES",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PROTEINA WHEY C4 REESES.jpeg"
+                          },
+                          {
+                              "name":  "PROTEINA WHEY PHORM VAINILLA Y CHOCOLATE BLANCO  25 SERVIDAS",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/PROTEINA WHEY PHORM VAINILLA Y CHOCOLATE BLANCO  25 SERVIDAS.jpeg"
                           },
                           {
                               "name":  "PROTEÍNA ANIMAL WHEY  64 SERVIDAS SABOR CHOCOLATE",
