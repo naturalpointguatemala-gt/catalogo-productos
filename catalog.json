@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-30T22:09:53.4219992Z",
+    "generatedAt":  "2026-09-30T22:16:43.2309836Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -243,7 +243,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  594,
+                       "stock":  593,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1072,
+                       "stock":  1071,
                        "stockLinked":  true
                    },
                    {
@@ -1776,7 +1776,7 @@
                        "name":  "PRE ENTRENO VENOM ESSENTIAL  30 SERVIDAS DRAGON PHARMA MANGONADA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE ENTRENO VENOM ESSENTIAL  30 SERVIDAS DRAGON PHARMA MANGONADA.jpeg",
-                       "stock":  3,
+                       "stock":  2,
                        "stockLinked":  true
                    },
                    {
