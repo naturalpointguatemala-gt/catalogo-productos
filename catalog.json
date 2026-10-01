@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-01T20:15:26.3376580Z",
+    "generatedAt":  "2026-10-01T20:28:21.6716055Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -243,7 +243,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  583,
+                       "stock":  577,
                        "stockLinked":  true
                    },
                    {
@@ -341,7 +341,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  256,
+                       "stock":  250,
                        "stockLinked":  true
                    },
                    {
