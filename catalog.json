@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-01T19:01:54.7181195Z",
+    "generatedAt":  "2026-10-01T19:15:17.8928216Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -243,7 +243,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  573,
+                       "stock":  586,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1058,
+                       "stock":  1060,
                        "stockLinked":  true
                    },
                    {
@@ -1293,7 +1293,7 @@
                        "name":  "VINAGRE DE MANZANA",
                        "folder":  "General",
                        "src":  "images/VINAGRE DE MANZANA.png",
-                       "stock":  14,
+                       "stock":  12,
                        "stockLinked":  true
                    },
                    {
