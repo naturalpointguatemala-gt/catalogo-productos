@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-01T20:10:56.6498404Z",
+    "generatedAt":  "2026-10-01T20:12:26.6030465Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -334,7 +334,7 @@
                        "name":  "CHANCAPIEDRA",
                        "folder":  "General",
                        "src":  "images/CHANCAPIEDRA.jpeg",
-                       "stock":  16,
+                       "stock":  18,
                        "stockLinked":  true
                    },
                    {
@@ -901,7 +901,7 @@
                        "name":  "MORINGA",
                        "folder":  "General",
                        "src":  "images/MORINGA.png",
-                       "stock":  12,
+                       "stock":  20,
                        "stockLinked":  true
                    },
                    {
@@ -1167,7 +1167,7 @@
                        "name":  "SAW PALMETTO",
                        "folder":  "General",
                        "src":  "images/SAW PALMETTO.jpeg",
-                       "stock":  15,
+                       "stock":  21,
                        "stockLinked":  true
                    },
                    {
