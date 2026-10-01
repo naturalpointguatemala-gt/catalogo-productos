@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-01T21:15:27.7884537Z",
+    "generatedAt":  "2026-10-01T21:16:52.5453551Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1020,8 +1020,8 @@
                        "name":  "OMEGA 3 SPORT RESEARCH ALASKAN  90 SOFT GEL",
                        "folder":  "General",
                        "src":  "images/OMEGA 3 SPORT RESEARCH ALASKAN  90 SOFT GEL.jpeg",
-                       "stock":  null,
-                       "stockLinked":  false
+                       "stock":  3,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "OMEGA 3 VIVA NATURALS",
