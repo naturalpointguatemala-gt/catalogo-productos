@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-01T18:55:19.6708842Z",
+    "generatedAt":  "2026-10-01T19:01:54.7181195Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -341,7 +341,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  256,
+                       "stock":  257,
                        "stockLinked":  true
                    },
                    {
@@ -1055,7 +1055,7 @@
                        "name":  "OXIDO NITRICO",
                        "folder":  "General",
                        "src":  "images/OXIDO NITRICO.jpeg",
-                       "stock":  2,
+                       "stock":  3,
                        "stockLinked":  true
                    },
                    {
