@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-01T21:40:33.1175412Z",
+    "generatedAt":  "2026-10-01T21:47:28.4868859Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -180,7 +180,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  44,
+                       "stock":  43,
                        "stockLinked":  true
                    },
                    {
@@ -1447,7 +1447,7 @@
                        "name":  "VITEX",
                        "folder":  "General",
                        "src":  "images/VITEX.png",
-                       "stock":  28,
+                       "stock":  27,
                        "stockLinked":  true
                    },
                    {
