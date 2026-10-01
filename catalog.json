@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-01T22:36:26.1792582Z",
+    "generatedAt":  "2026-10-01T23:48:08.6500656Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  169,
+                       "stock":  167,
                        "stockLinked":  true
                    },
                    {
@@ -747,7 +747,7 @@
                        "name":  "KELP EXTRACTO",
                        "folder":  "General",
                        "src":  "images/KELP EXTRACTO.jpeg",
-                       "stock":  33,
+                       "stock":  32,
                        "stockLinked":  true
                    },
                    {
