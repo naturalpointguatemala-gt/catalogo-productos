@@ -1,11 +1,11 @@
 ﻿{
-    "generatedAt":  "2026-10-01T00:12:16.1923032Z",
+    "generatedAt":  "2026-10-01T18:12:27.6421979Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/ABEDUL 400MG  60 CAPS..jpeg",
-                       "stock":  63,
+                       "stock":  61,
                        "stockLinked":  true
                    },
                    {
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  151,
+                       "stock":  150,
                        "stockLinked":  true
                    },
                    {
@@ -131,7 +131,7 @@
                        "name":  "ASHWAGANDHA AMERICANA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA AMERICANA.jpeg",
-                       "stock":  46,
+                       "stock":  45,
                        "stockLinked":  true
                    },
                    {
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  173,
+                       "stock":  170,
                        "stockLinked":  true
                    },
                    {
@@ -243,7 +243,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  591,
+                       "stock":  575,
                        "stockLinked":  true
                    },
                    {
@@ -341,14 +341,14 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  260,
+                       "stock":  256,
                        "stockLinked":  true
                    },
                    {
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
-                       "stock":  198,
+                       "stock":  196,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1063,
+                       "stock":  1058,
                        "stockLinked":  true
                    },
                    {
@@ -467,7 +467,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  79,
+                       "stock":  77,
                        "stockLinked":  true
                    },
                    {
@@ -502,7 +502,7 @@
                        "name":  "FENOGRECO",
                        "folder":  "General",
                        "src":  "images/FENOGRECO.png",
-                       "stock":  19,
+                       "stock":  17,
                        "stockLinked":  true
                    },
                    {
@@ -684,7 +684,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  196,
+                       "stock":  193,
                        "stockLinked":  true
                    },
                    {
@@ -824,7 +824,7 @@
                        "name":  "MAGNESIO COMPLEX",
                        "folder":  "General",
                        "src":  "images/MAGNESIO COMPLEX.jpeg",
-                       "stock":  34,
+                       "stock":  33,
                        "stockLinked":  true
                    },
                    {
@@ -1192,10 +1192,17 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "SHILAJIT EXTRA FUERTE  90 CAPS UHECO",
+                       "folder":  "General",
+                       "src":  "images/SHILAJIT EXTRA FUERTE  90 CAPS UHECO.jpeg",
+                       "stock":  0,
+                       "stockLinked":  true
+                   },
+                   {
                        "name":  "SHILAJIT ULTRA COMPLEX NP",
                        "folder":  "General",
                        "src":  "images/SHILAJIT ULTRA COMPLEX NP.jpeg",
-                       "stock":  5,
+                       "stock":  4,
                        "stockLinked":  true
                    },
                    {
@@ -2663,11 +2670,6 @@
                               "name":  "SABORIZANTE SIN CALORÍAS DULCE DE LECHE",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/SABORIZANTE SIN CALORÍAS DULCE DE LECHE.jpeg"
-                          },
-                          {
-                              "name":  "SHILAJIT EXTRA FUERTE  90 CAPS UHECO",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/SHILAJIT EXTRA FUERTE  90 CAPS UHECO.jpeg"
                           },
                           {
                               "name":  "SHILAJIT NUTRICOST",
