@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-02T22:35:23.7802951Z",
+    "generatedAt":  "2026-10-02T22:37:20.7262354Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -943,8 +943,8 @@
                        "name":  "MSM (AZUFRE ORGÁNICO) 500MG  90 CAPS.",
                        "folder":  "General",
                        "src":  "images/MSM (AZUFRE ORGÁNICO) 500MG  90 CAPS..jpeg",
-                       "stock":  null,
-                       "stockLinked":  false
+                       "stock":  10,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "MULTIVITAMÍNICO MENS MULTI+TEST 150 TABS GAT SPORT",
