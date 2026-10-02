@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-01T23:56:33.8623781Z",
+    "generatedAt":  "2026-10-02T16:11:51.4655205Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  149,
+                       "stock":  145,
                        "stockLinked":  true
                    },
                    {
@@ -96,7 +96,7 @@
                        "name":  "ALA",
                        "folder":  "General",
                        "src":  "images/ALA.jpeg",
-                       "stock":  16,
+                       "stock":  36,
                        "stockLinked":  true
                    },
                    {
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  167,
+                       "stock":  157,
                        "stockLinked":  true
                    },
                    {
@@ -243,7 +243,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  569,
+                       "stock":  545,
                        "stockLinked":  true
                    },
                    {
@@ -313,7 +313,7 @@
                        "name":  "CENTRUM WOMEN 170 GOMITAS",
                        "folder":  "General",
                        "src":  "images/CENTRUM WOMEN 170 GOMITAS.jpeg",
-                       "stock":  3,
+                       "stock":  2,
                        "stockLinked":  true
                    },
                    {
@@ -341,7 +341,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  248,
+                       "stock":  241,
                        "stockLinked":  true
                    },
                    {
@@ -467,7 +467,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1055,
+                       "stock":  1036,
                        "stockLinked":  true
                    },
                    {
@@ -705,7 +705,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  193,
+                       "stock":  191,
                        "stockLinked":  true
                    },
                    {
@@ -1041,7 +1041,7 @@
                        "name":  "OMEGA 3",
                        "folder":  "General",
                        "src":  "images/OMEGA 3.jpeg",
-                       "stock":  15,
+                       "stock":  14,
                        "stockLinked":  true
                    },
                    {
@@ -1181,7 +1181,7 @@
                        "name":  "REMOLACHA",
                        "folder":  "General",
                        "src":  "images/REMOLACHA.png",
-                       "stock":  34,
+                       "stock":  33,
                        "stockLinked":  true
                    },
                    {
