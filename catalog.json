@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-02T19:41:51.3960259Z",
+    "generatedAt":  "2026-10-02T20:10:50.0990101Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -96,7 +96,7 @@
                        "name":  "ALA",
                        "folder":  "General",
                        "src":  "images/ALA.jpeg",
-                       "stock":  36,
+                       "stock":  18,
                        "stockLinked":  true
                    },
                    {
@@ -173,7 +173,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  43,
+                       "stock":  25,
                        "stockLinked":  true
                    },
                    {
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  537,
+                       "stock":  530,
                        "stockLinked":  true
                    },
                    {
@@ -327,7 +327,7 @@
                        "name":  "CHANCAPIEDRA",
                        "folder":  "General",
                        "src":  "images/CHANCAPIEDRA.jpeg",
-                       "stock":  16,
+                       "stock":  10,
                        "stockLinked":  true
                    },
                    {
@@ -404,21 +404,21 @@
                        "name":  "COLAGENO POLVO",
                        "folder":  "General",
                        "src":  "images/COLAGENO POLVO.jpeg",
-                       "stock":  7,
+                       "stock":  2,
                        "stockLinked":  true
                    },
                    {
                        "name":  "COLÁGENO EN POLVO CON BIOTINA",
                        "folder":  "General",
                        "src":  "images/COLÁGENO EN POLVO CON BIOTINA.jpg",
-                       "stock":  7,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
                        "name":  "COLÁGENO HIDROLIZADO CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/COLÁGENO HIDROLIZADO CÁPSULAS.jpeg",
-                       "stock":  12,
+                       "stock":  5,
                        "stockLinked":  true
                    },
                    {
@@ -460,7 +460,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1032,
+                       "stock":  1031,
                        "stockLinked":  true
                    },
                    {
@@ -656,7 +656,7 @@
                        "name":  "HEPA REVIVE ",
                        "folder":  "General",
                        "src":  "images/HEPA REVIVE .jpg",
-                       "stock":  97,
+                       "stock":  91,
                        "stockLinked":  true
                    },
                    {
@@ -1013,7 +1013,7 @@
                        "name":  "OMEGA 3 NORDIC",
                        "folder":  "General",
                        "src":  "images/OMEGA 3 NORDIC.jpeg",
-                       "stock":  6,
+                       "stock":  2,
                        "stockLinked":  true
                    },
                    {
@@ -1041,7 +1041,7 @@
                        "name":  "OMEGA 3",
                        "folder":  "General",
                        "src":  "images/OMEGA 3.jpeg",
-                       "stock":  14,
+                       "stock":  8,
                        "stockLinked":  true
                    },
                    {
