@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-02T16:39:59.2346532Z",
+    "generatedAt":  "2026-10-02T16:44:55.0021357Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -65,9 +65,9 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "AGUAJE PERUANO",
+                       "name":  "AGUAJE PERUANO 500MG  100 CAPS.",
                        "folder":  "General",
-                       "src":  "images/AGUAJE PERUANO.png",
+                       "src":  "images/AGUAJE PERUANO 500MG  100 CAPS..jpeg",
                        "stock":  21,
                        "stockLinked":  true
                    },
@@ -118,13 +118,6 @@
                        "folder":  "General",
                        "src":  "images/ARCILLA IMPORTADA.jpeg",
                        "stock":  7,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "ARGININA",
-                       "folder":  "General",
-                       "src":  "images/ARGININA.png",
-                       "stock":  22,
                        "stockLinked":  true
                    },
                    {
@@ -755,6 +748,13 @@
                        "folder":  "General",
                        "src":  "images/KIT A CHAMPIONS APPROACH RONNIE COLEMAN   2 FRASCOS DE 120 CAPS (OMEGA 3 \u0026 VITAMÍNICO).jpeg",
                        "stock":  5,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "L-ARGININA 500MG  90 CAPS.",
+                       "folder":  "General",
+                       "src":  "images/L-ARGININA 500MG  90 CAPS..jpeg",
+                       "stock":  22,
                        "stockLinked":  true
                    },
                    {
