@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-02T16:44:55.0021357Z",
+    "generatedAt":  "2026-10-02T16:49:07.6070579Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -72,9 +72,9 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "AJO NEGRO",
+                       "name":  "AJO NEGRO 500MG  60 CAPS.",
                        "folder":  "General",
-                       "src":  "images/AJO NEGRO.png",
+                       "src":  "images/AJO NEGRO 500MG  60 CAPS..jpeg",
                        "stock":  26,
                        "stockLinked":  true
                    },
@@ -149,17 +149,17 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "ASTAXANTINA 12MG  60 CAPS.",
+                       "folder":  "General",
+                       "src":  "images/ASTAXANTINA 12MG  60 CAPS..jpeg",
+                       "stock":  9,
+                       "stockLinked":  true
+                   },
+                   {
                        "name":  "ASTAXANTINA AMERICANA",
                        "folder":  "General",
                        "src":  "images/ASTAXANTINA AMERICANA.jpg",
                        "stock":  1,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "ASTAXANTINA",
-                       "folder":  "General",
-                       "src":  "images/ASTAXANTINA.jpeg",
-                       "stock":  9,
                        "stockLinked":  true
                    },
                    {
