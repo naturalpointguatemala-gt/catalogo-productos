@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-02T16:59:48.7349953Z",
+    "generatedAt":  "2026-10-02T17:09:49.6840376Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -177,16 +177,16 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "BOLDO",
+                       "name":  "BOLDO 1000MG  60 CAPS.",
                        "folder":  "General",
-                       "src":  "images/BOLDO.png",
+                       "src":  "images/BOLDO 1000MG  60 CAPS..jpeg",
                        "stock":  32,
                        "stockLinked":  true
                    },
                    {
-                       "name":  "CALCIO CITRATO",
+                       "name":  "CALCIO CITRATO 1000MG  90 CAPS.",
                        "folder":  "General",
-                       "src":  "images/CALCIO CITRATO.png",
+                       "src":  "images/CALCIO CITRATO 1000MG  90 CAPS..jpeg",
                        "stock":  10,
                        "stockLinked":  true
                    },
@@ -212,9 +212,9 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "CANELA",
+                       "name":  "CANELA 500MG  60 CAPS.",
                        "folder":  "General",
-                       "src":  "images/CANELA.png",
+                       "src":  "images/CANELA 500MG  60 CAPS..jpeg",
                        "stock":  23,
                        "stockLinked":  true
                    },
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  541,
+                       "stock":  540,
                        "stockLinked":  true
                    },
                    {
