@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-02T21:26:32.8295296Z",
+    "generatedAt":  "2026-10-02T21:36:24.0589089Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -404,7 +404,7 @@
                        "name":  "COLAGENO POLVO",
                        "folder":  "General",
                        "src":  "images/COLAGENO POLVO.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
@@ -943,7 +943,7 @@
                        "name":  "MSM",
                        "folder":  "General",
                        "src":  "images/MSM.png",
-                       "stock":  12,
+                       "stock":  10,
                        "stockLinked":  true
                    },
                    {
