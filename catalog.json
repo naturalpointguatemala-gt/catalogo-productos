@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-02T23:33:52.4198691Z",
+    "generatedAt":  "2026-10-03T17:50:13.3946627Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  143,
+                       "stock":  141,
                        "stockLinked":  true
                    },
                    {
@@ -103,7 +103,7 @@
                        "name":  "ALCACHOFA",
                        "folder":  "General",
                        "src":  "images/ALCACHOFA.jpeg",
-                       "stock":  37,
+                       "stock":  36,
                        "stockLinked":  true
                    },
                    {
@@ -145,7 +145,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  155,
+                       "stock":  153,
                        "stockLinked":  true
                    },
                    {
@@ -173,7 +173,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  24,
+                       "stock":  22,
                        "stockLinked":  true
                    },
                    {
@@ -201,7 +201,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1379,
+                       "stock":  -1380,
                        "stockLinked":  true
                    },
                    {
@@ -219,10 +219,10 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "CARBÓN ACTIVADO",
+                       "name":  "CARBÓN ACTIVADO 400MG  90 CAPS.",
                        "folder":  "General",
-                       "src":  "images/CARBÓN ACTIVADO.png",
-                       "stock":  18,
+                       "src":  "images/CARBÓN ACTIVADO 400MG  90 CAPS..jpeg",
+                       "stock":  16,
                        "stockLinked":  true
                    },
                    {
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  519,
+                       "stock":  497,
                        "stockLinked":  true
                    },
                    {
@@ -411,14 +411,14 @@
                        "name":  "COLÁGENO EN POLVO CON BIOTINA",
                        "folder":  "General",
                        "src":  "images/COLÁGENO EN POLVO CON BIOTINA.jpg",
-                       "stock":  1,
+                       "stock":  6,
                        "stockLinked":  true
                    },
                    {
                        "name":  "COLÁGENO HIDROLIZADO CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/COLÁGENO HIDROLIZADO CÁPSULAS.jpeg",
-                       "stock":  5,
+                       "stock":  4,
                        "stockLinked":  true
                    },
                    {
@@ -474,7 +474,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1031,
+                       "stock":  1028,
                        "stockLinked":  true
                    },
                    {
@@ -488,7 +488,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  77,
+                       "stock":  90,
                        "stockLinked":  true
                    },
                    {
@@ -663,7 +663,7 @@
                        "name":  "HAIR, SKIN AND NAILS CON BIOTINA  200 GOMITAS. NARANJA NATURE´S BOUNTY",
                        "folder":  "General",
                        "src":  "images/HAIR, SKIN AND NAILS CON BIOTINA  200 GOMITAS. NARANJA NATURE´S BOUNTY.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
@@ -831,7 +831,7 @@
                        "name":  "LONGJACK TONGKAT ALI",
                        "folder":  "General",
                        "src":  "images/LONGJACK TONGKAT ALI.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
@@ -1132,7 +1132,7 @@
                        "name":  "PROBIOTICOS CANLIST",
                        "folder":  "General",
                        "src":  "images/PROBIOTICOS CANLIST.jpeg",
-                       "stock":  20,
+                       "stock":  19,
                        "stockLinked":  true
                    },
                    {
@@ -1489,7 +1489,7 @@
                        "name":  "ZARZA PARRILLA",
                        "folder":  "General",
                        "src":  "images/ZARZA PARRILLA.jpeg",
-                       "stock":  31,
+                       "stock":  30,
                        "stockLinked":  true
                    },
                    {
@@ -1601,21 +1601,21 @@
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
-                       "stock":  28,
+                       "stock":  29,
                        "stockLinked":  true
                    },
                    {
                        "name":  "CREATINA DRAGON PHARMA  30 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA  30 SERVIDAS.jpeg",
-                       "stock":  8,
+                       "stock":  7,
                        "stockLinked":  true
                    },
                    {
                        "name":  "CREATINA DRAGON PHARMA 200 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA 200 SERVIDAS.jpeg",
-                       "stock":  22,
+                       "stock":  21,
                        "stockLinked":  true
                    },
                    {
@@ -1699,7 +1699,7 @@
                        "name":  "CREATINA NUTREX 300  60 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 300  60 SERVIDAS.jpeg",
-                       "stock":  17,
+                       "stock":  16,
                        "stockLinked":  true
                    },
                    {
@@ -2091,7 +2091,7 @@
                        "name":  "PROTEÍNA DRAGON PHARMA WHEY PHORM  52 SERVIDAS 4.59LB SABOR DOUBLE CHOCOLATE BROWNIE",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA DRAGON PHARMA WHEY PHORM  52 SERVIDAS 4.59LB SABOR DOUBLE CHOCOLATE BROWNIE.jpeg",
-                       "stock":  6,
+                       "stock":  5,
                        "stockLinked":  true
                    },
                    {
