@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-03T20:40:16.0571235Z",
+    "generatedAt":  "2026-10-03T20:48:29.1986852Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -110,7 +110,7 @@
                        "name":  "ALOE VERA",
                        "folder":  "General",
                        "src":  "images/ALOE VERA.jpeg",
-                       "stock":  12,
+                       "stock":  14,
                        "stockLinked":  true
                    },
                    {
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  482,
+                       "stock":  485,
                        "stockLinked":  true
                    },
                    {
