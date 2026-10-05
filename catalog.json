@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-05T18:31:49.3771883Z",
+    "generatedAt":  "2026-10-05T18:38:17.0352541Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -201,7 +201,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1382,
+                       "stock":  -1383,
                        "stockLinked":  true
                    },
                    {
@@ -1405,7 +1405,7 @@
                        "name":  "VITAMINA C",
                        "folder":  "General",
                        "src":  "images/VITAMINA C.jpeg",
-                       "stock":  6,
+                       "stock":  5,
                        "stockLinked":  true
                    },
                    {
