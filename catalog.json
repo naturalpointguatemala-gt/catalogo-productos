@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-05T22:46:24.0427142Z",
+    "generatedAt":  "2026-10-05T22:56:22.6259974Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -145,7 +145,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  140,
+                       "stock":  138,
                        "stockLinked":  true
                    },
                    {
@@ -523,7 +523,7 @@
                        "name":  "FENOGRECO",
                        "folder":  "General",
                        "src":  "images/FENOGRECO.png",
-                       "stock":  21,
+                       "stock":  20,
                        "stockLinked":  true
                    },
                    {
@@ -712,7 +712,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  180,
+                       "stock":  178,
                        "stockLinked":  true
                    },
                    {
