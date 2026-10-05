@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-05T22:00:51.0465263Z",
+    "generatedAt":  "2026-10-05T22:12:01.8138890Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1692,7 +1692,7 @@
                        "name":  "CREATINA NUTREX 1KG  200 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 1KG  200 SERVIDAS.jpeg",
-                       "stock":  11,
+                       "stock":  10,
                        "stockLinked":  true
                    },
                    {
@@ -2049,7 +2049,7 @@
                        "name":  "PROTEÍNA BPI ISO HD  70 SERVIDAS 4.8LB SABOR VAINILLA COOKIE",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA BPI ISO HD  70 SERVIDAS 4.8LB SABOR VAINILLA COOKIE.jpeg",
-                       "stock":  1,
+                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
