@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-05T21:04:49.6483136Z",
+    "generatedAt":  "2026-10-05T21:29:43.1002505Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -89,7 +89,7 @@
                        "name":  "AJO SIN OLOR",
                        "folder":  "General",
                        "src":  "images/AJO SIN OLOR.jpeg",
-                       "stock":  16,
+                       "stock":  14,
                        "stockLinked":  true
                    },
                    {
@@ -474,7 +474,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1026,
+                       "stock":  1024,
                        "stockLinked":  true
                    },
                    {
@@ -1202,7 +1202,7 @@
                        "name":  "RESVERATROL",
                        "folder":  "General",
                        "src":  "images/RESVERATROL.png",
-                       "stock":  44,
+                       "stock":  43,
                        "stockLinked":  true
                    },
                    {
