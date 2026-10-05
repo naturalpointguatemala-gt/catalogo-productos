@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-05T19:36:49.5504026Z",
+    "generatedAt":  "2026-10-05T19:40:05.5189994Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -215,7 +215,7 @@
                        "name":  "CANELA 500MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/CANELA 500MG  60 CAPS..jpeg",
-                       "stock":  23,
+                       "stock":  30,
                        "stockLinked":  true
                    },
                    {
@@ -327,21 +327,21 @@
                        "name":  "CHANCAPIEDRA",
                        "folder":  "General",
                        "src":  "images/CHANCAPIEDRA.jpeg",
-                       "stock":  10,
+                       "stock":  13,
                        "stockLinked":  true
                    },
                    {
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  237,
+                       "stock":  290,
                        "stockLinked":  true
                    },
                    {
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
-                       "stock":  196,
+                       "stock":  209,
                        "stockLinked":  true
                    },
                    {
@@ -418,7 +418,7 @@
                        "name":  "COLÁGENO HIDROLIZADO CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/COLÁGENO HIDROLIZADO CÁPSULAS.jpeg",
-                       "stock":  4,
+                       "stock":  17,
                        "stockLinked":  true
                    },
                    {
@@ -523,7 +523,7 @@
                        "name":  "FENOGRECO",
                        "folder":  "General",
                        "src":  "images/FENOGRECO.png",
-                       "stock":  17,
+                       "stock":  21,
                        "stockLinked":  true
                    },
                    {
@@ -1405,7 +1405,7 @@
                        "name":  "VITAMINA C",
                        "folder":  "General",
                        "src":  "images/VITAMINA C.jpeg",
-                       "stock":  5,
+                       "stock":  18,
                        "stockLinked":  true
                    },
                    {
