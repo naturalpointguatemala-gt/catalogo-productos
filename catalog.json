@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-05T22:14:13.2604597Z",
+    "generatedAt":  "2026-10-05T22:30:02.5006744Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -26,7 +26,7 @@
                        "name":  "ACEITE DE ORÉGANO 3000MG  60 PERLAS",
                        "folder":  "General",
                        "src":  "images/ACEITE DE ORÉGANO 3000MG  60 PERLAS.jpeg",
-                       "stock":  18,
+                       "stock":  17,
                        "stockLinked":  true
                    },
                    {
@@ -341,7 +341,7 @@
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
-                       "stock":  209,
+                       "stock":  208,
                        "stockLinked":  true
                    },
                    {
@@ -1314,7 +1314,7 @@
                        "name":  "UÑA DE GATO",
                        "folder":  "General",
                        "src":  "images/UÑA DE GATO.png",
-                       "stock":  41,
+                       "stock":  40,
                        "stockLinked":  true
                    },
                    {
