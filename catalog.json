@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-05T22:12:01.8138890Z",
+    "generatedAt":  "2026-10-05T22:14:13.2604597Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -2046,13 +2046,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "PROTEÍNA BPI ISO HD  70 SERVIDAS 4.8LB SABOR VAINILLA COOKIE",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA BPI ISO HD  70 SERVIDAS 4.8LB SABOR VAINILLA COOKIE.jpeg",
-                       "stock":  0,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "PROTEÍNA BPI ISO HD  70 SERVIDAS 4.93LB SABOR CEREAL CRUNCH",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA BPI ISO HD  70 SERVIDAS 4.93LB SABOR CEREAL CRUNCH.jpeg",
@@ -2616,6 +2609,11 @@
                               "name":  "PROTEINA WHEY PHORM VAINILLA Y CHOCOLATE BLANCO  25 SERVIDAS",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PROTEINA WHEY PHORM VAINILLA Y CHOCOLATE BLANCO  25 SERVIDAS.jpeg"
+                          },
+                          {
+                              "name":  "PROTEÍNA BPI ISO HD  70 SERVIDAS 4.8LB SABOR VAINILLA COOKIE",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/PROTEÍNA BPI ISO HD  70 SERVIDAS 4.8LB SABOR VAINILLA COOKIE.jpeg"
                           },
                           {
                               "name":  "PROTEÍNA CARNIVOR  56 SERVIDAS 3.9LB  MUSCLEMEDS VAINILLA CARAMELO",
