@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-03T22:22:36.9594576Z",
+    "generatedAt":  "2026-10-05T18:12:39.8892990Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  141,
+                       "stock":  140,
                        "stockLinked":  true
                    },
                    {
@@ -145,7 +145,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  150,
+                       "stock":  144,
                        "stockLinked":  true
                    },
                    {
@@ -173,7 +173,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  21,
+                       "stock":  19,
                        "stockLinked":  true
                    },
                    {
@@ -201,7 +201,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1381,
+                       "stock":  -1382,
                        "stockLinked":  true
                    },
                    {
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  480,
+                       "stock":  473,
                        "stockLinked":  true
                    },
                    {
@@ -292,7 +292,7 @@
                        "name":  "CENTRUM PARA NIÑOS GOMITAS",
                        "folder":  "General",
                        "src":  "images/CENTRUM PARA NIÑOS GOMITAS.jpeg",
-                       "stock":  8,
+                       "stock":  7,
                        "stockLinked":  true
                    },
                    {
@@ -334,7 +334,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  240,
+                       "stock":  239,
                        "stockLinked":  true
                    },
                    {
@@ -572,7 +572,7 @@
                        "name":  "GLICINATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/GLICINATO DE MAGNESIO.jpeg",
-                       "stock":  17,
+                       "stock":  16,
                        "stockLinked":  true
                    },
                    {
@@ -712,7 +712,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  191,
+                       "stock":  182,
                        "stockLinked":  true
                    },
                    {
@@ -971,7 +971,7 @@
                        "name":  "NAC",
                        "folder":  "General",
                        "src":  "images/NAC.png",
-                       "stock":  49,
+                       "stock":  48,
                        "stockLinked":  true
                    },
                    {
@@ -1055,7 +1055,7 @@
                        "name":  "OMEGA 3",
                        "folder":  "General",
                        "src":  "images/OMEGA 3.jpeg",
-                       "stock":  8,
+                       "stock":  7,
                        "stockLinked":  true
                    },
                    {
@@ -1601,7 +1601,7 @@
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
-                       "stock":  29,
+                       "stock":  28,
                        "stockLinked":  true
                    },
                    {
@@ -1657,7 +1657,7 @@
                        "name":  "CREATINA MICRONIZADA  60 SERVIDAS SIN SABOR OPTIMUM NUTRITION",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MICRONIZADA  60 SERVIDAS SIN SABOR OPTIMUM NUTRITION.jpeg",
-                       "stock":  12,
+                       "stock":  11,
                        "stockLinked":  true
                    },
                    {
