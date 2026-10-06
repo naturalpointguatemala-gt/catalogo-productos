@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-06T21:40:12.8285664Z",
+    "generatedAt":  "2026-10-06T21:44:37.4365867Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -173,7 +173,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  17,
+                       "stock":  16,
                        "stockLinked":  true
                    },
                    {
@@ -201,7 +201,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1384,
+                       "stock":  -1385,
                        "stockLinked":  true
                    },
                    {
