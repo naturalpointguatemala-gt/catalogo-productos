@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-06T19:29:50.5888287Z",
+    "generatedAt":  "2026-10-06T19:35:19.0051284Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  138,
+                       "stock":  137,
                        "stockLinked":  true
                    },
                    {
@@ -1713,7 +1713,7 @@
                        "name":  "CREATINA RAW",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA RAW.jpeg",
-                       "stock":  8,
+                       "stock":  7,
                        "stockLinked":  true
                    },
                    {
