@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-06T22:46:05.0171480Z",
+    "generatedAt":  "2026-10-06T22:54:45.3083923Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -579,7 +579,7 @@
                        "name":  "GLUCOSAMINA + CODROITINA + MSM + CURCUMA NATURAL P",
                        "folder":  "General",
                        "src":  "images/GLUCOSAMINA + CODROITINA + MSM + CURCUMA NATURAL P.jpeg",
-                       "stock":  4,
+                       "stock":  3,
                        "stockLinked":  true
                    },
                    {
@@ -936,7 +936,7 @@
                        "name":  "MORINGA",
                        "folder":  "General",
                        "src":  "images/MORINGA.png",
-                       "stock":  20,
+                       "stock":  19,
                        "stockLinked":  true
                    },
                    {
