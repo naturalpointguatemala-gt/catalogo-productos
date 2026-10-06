@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-06T19:41:56.8806596Z",
+    "generatedAt":  "2026-10-06T19:48:11.9693303Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -712,7 +712,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  176,
+                       "stock":  175,
                        "stockLinked":  true
                    },
                    {
@@ -1461,7 +1461,7 @@
                        "name":  "VITEX",
                        "folder":  "General",
                        "src":  "images/VITEX.png",
-                       "stock":  27,
+                       "stock":  26,
                        "stockLinked":  true
                    },
                    {
