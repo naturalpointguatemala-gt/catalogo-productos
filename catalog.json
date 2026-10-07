@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-07T18:52:45.1986126Z",
+    "generatedAt":  "2026-10-07T19:02:47.7136588Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -817,7 +817,7 @@
                        "name":  "LIPO 6 BLACK QUEMADOR DE GRASA",
                        "folder":  "General",
                        "src":  "images/LIPO 6 BLACK QUEMADOR DE GRASA.jpeg",
-                       "stock":  5,
+                       "stock":  -1,
                        "stockLinked":  true
                    },
                    {
