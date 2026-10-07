@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-07T21:52:27.0743812Z",
+    "generatedAt":  "2026-10-07T22:00:04.4892074Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -369,6 +369,13 @@
                        "name":  "CLOROFILA",
                        "folder":  "General",
                        "src":  "images/CLOROFILA.jpeg",
+                       "stock":  6,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "CLORURO DE MAGNESIO",
+                       "folder":  "General",
+                       "src":  "images/CLORURO DE MAGNESIO.jpeg",
                        "stock":  6,
                        "stockLinked":  true
                    },
@@ -2162,11 +2169,6 @@
                               "name":  "CITRULINA 300GRAMOS",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/CITRULINA 300GRAMOS.jpg"
-                          },
-                          {
-                              "name":  "CLORURO DE MAGNESIO",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/CLORURO DE MAGNESIO.jpeg"
                           },
                           {
                               "name":  "COENZIMA Q10 SUERO FACIAL",
