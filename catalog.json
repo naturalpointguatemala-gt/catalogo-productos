@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-07T22:00:04.4892074Z",
+    "generatedAt":  "2026-10-07T22:03:39.3830568Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -173,7 +173,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  12,
+                       "stock":  39,
                        "stockLinked":  true
                    },
                    {
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  390,
+                       "stock":  423,
                        "stockLinked":  true
                    },
                    {
@@ -1216,7 +1216,7 @@
                        "name":  "SAW PALMETTO",
                        "folder":  "General",
                        "src":  "images/SAW PALMETTO.jpeg",
-                       "stock":  20,
+                       "stock":  34,
                        "stockLinked":  true
                    },
                    {
@@ -1349,7 +1349,7 @@
                        "name":  "VITAMINA B1 (TIAMINA)",
                        "folder":  "General",
                        "src":  "images/VITAMINA B1 (TIAMINA).png",
-                       "stock":  4,
+                       "stock":  8,
                        "stockLinked":  true
                    },
                    {
@@ -1412,7 +1412,7 @@
                        "name":  "VITAMINA D3 CON K2",
                        "folder":  "General",
                        "src":  "images/VITAMINA D3 CON K2.jpeg",
-                       "stock":  8,
+                       "stock":  22,
                        "stockLinked":  true
                    },
                    {
@@ -1482,7 +1482,7 @@
                        "name":  "YOHIMBINA EXTRACTO",
                        "folder":  "General",
                        "src":  "images/YOHIMBINA EXTRACTO.jpeg",
-                       "stock":  9,
+                       "stock":  14,
                        "stockLinked":  true
                    },
                    {
@@ -1951,7 +1951,7 @@
                        "name":  "PRE-ENTRENO RAW BUM ESSENTIALS 30 SERVIDAS CITRUS GRAPEFRUIT",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO RAW BUM ESSENTIALS 30 SERVIDAS CITRUS GRAPEFRUIT.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
