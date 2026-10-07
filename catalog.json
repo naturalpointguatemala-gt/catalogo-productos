@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-07T17:02:19.1680543Z",
+    "generatedAt":  "2026-10-07T17:06:26.8801769Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  117,
+                       "stock":  116,
                        "stockLinked":  true
                    },
                    {
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  418,
+                       "stock":  416,
                        "stockLinked":  true
                    },
                    {
@@ -467,7 +467,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1004,
+                       "stock":  1003,
                        "stockLinked":  true
                    },
                    {
@@ -481,7 +481,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  106,
+                       "stock":  105,
                        "stockLinked":  true
                    },
                    {
