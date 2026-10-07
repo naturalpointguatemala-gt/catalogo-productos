@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-07T16:27:38.3848645Z",
+    "generatedAt":  "2026-10-07T16:43:41.2048723Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -398,13 +398,6 @@
                        "folder":  "General",
                        "src":  "images/COLA DE CABALLO.png",
                        "stock":  9,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "COLAGENO POLVO",
-                       "folder":  "General",
-                       "src":  "images/COLAGENO POLVO.jpeg",
-                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
@@ -1577,13 +1570,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "CREATINA BYTZ  80 TABLETAS MASTICABLES TANGY BLUE RAZZ MUTANT",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA BYTZ  80 TABLETAS MASTICABLES TANGY BLUE RAZZ MUTANT.png",
-                       "stock":  0,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "CREATINA CREAKONG  250 SERVIDAS 1KG",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA CREAKONG  250 SERVIDAS 1KG.jpeg",
@@ -2193,6 +2179,11 @@
                               "src":  "images_sin_existencia/COLAGENO CON BIOTINA GOMITAS FLAMZY.jpeg"
                           },
                           {
+                              "name":  "COLAGENO POLVO",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/COLAGENO POLVO.jpeg"
+                          },
+                          {
                               "name":  "CRAETINA PARA MUJER DURAZNO MANGO",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/CRAETINA PARA MUJER DURAZNO MANGO.jpeg"
@@ -2201,6 +2192,11 @@
                               "name":  "CRANBERRY",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/CRANBERRY.png"
+                          },
+                          {
+                              "name":  "CREATINA BYTZ  80 TABLETAS MASTICABLES TANGY BLUE RAZZ MUTANT",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/CREATINA BYTZ  80 TABLETAS MASTICABLES TANGY BLUE RAZZ MUTANT.png"
                           },
                           {
                               "name":  "CREATINA EN GOMITAS GOLI",
