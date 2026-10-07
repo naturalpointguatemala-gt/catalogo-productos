@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-07T22:57:19.0478023Z",
+    "generatedAt":  "2026-10-07T23:21:50.5036402Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -334,7 +334,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  315,
+                       "stock":  313,
                        "stockLinked":  true
                    },
                    {
@@ -705,7 +705,7 @@
                        "name":  "INOSITOL MYO \u0026 D-CHIRO POLVO 227GR. DEAL SUPPLEMENT",
                        "folder":  "General",
                        "src":  "images/INOSITOL MYO \u0026 D-CHIRO POLVO 227GR. DEAL SUPPLEMENT.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
