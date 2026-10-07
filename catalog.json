@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-07T19:02:47.7136588Z",
+    "generatedAt":  "2026-10-07T19:07:51.0070452Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -814,10 +814,10 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "LIPO 6 BLACK QUEMADOR DE GRASA",
+                       "name":  "LIPO 6 BLACK QUEMADOR DE GRASA  60 CAPS NUTREX",
                        "folder":  "General",
-                       "src":  "images/LIPO 6 BLACK QUEMADOR DE GRASA.jpeg",
-                       "stock":  -1,
+                       "src":  "images/LIPO 6 BLACK QUEMADOR DE GRASA  60 CAPS NUTREX.jpeg",
+                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
@@ -2372,6 +2372,11 @@
                               "name":  "KING WHEY RONNIE COLEMAN VAINILLA ICE CREAM",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/KING WHEY RONNIE COLEMAN VAINILLA ICE CREAM.jpeg"
+                          },
+                          {
+                              "name":  "LIPO 6 BLACK QUEMADOR DE GRASA",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/LIPO 6 BLACK QUEMADOR DE GRASA.jpeg"
                           },
                           {
                               "name":  "MAGNESIO GOMITAS GOLI",
