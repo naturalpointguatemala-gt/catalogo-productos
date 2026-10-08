@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-08T17:53:28.2911361Z",
+    "generatedAt":  "2026-10-08T17:59:49.2712307Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -55,6 +55,13 @@
                        "folder":  "General",
                        "src":  "images/AGUAJE AMERICANO.png",
                        "stock":  1,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL",
+                       "folder":  "General",
+                       "src":  "images/AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL.jpeg",
+                       "stock":  10,
                        "stockLinked":  true
                    },
                    {
@@ -236,7 +243,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  391,
+                       "stock":  390,
                        "stockLinked":  true
                    },
                    {
@@ -474,7 +481,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  987,
+                       "stock":  986,
                        "stockLinked":  true
                    },
                    {
@@ -2121,6 +2128,13 @@
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA MUTANT WHEY  48 SERVIDAS DOBLE SABOR TRIPLE CHOCOLATE \u0026 ICE CREAM.jpeg",
                        "stock":  2,
                        "stockLinked":  true
+                   },
+                   {
+                       "name":  "PROTEÍNA VEGANA ABOUTTIME VE  32 SERVIDAS",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA VEGANA ABOUTTIME VE  32 SERVIDAS.jpeg",
+                       "stock":  2,
+                       "stockLinked":  true
                    }
                ],
     "noStockImages":  [
@@ -2128,11 +2142,6 @@
                               "name":  "ACIDO BORICO",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/ACIDO BORICO.jpeg"
-                          },
-                          {
-                              "name":  "AGUAJE GOMITAS BBP",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/AGUAJE GOMITAS BBP.jpeg"
                           },
                           {
                               "name":  "BORO AMERICANO",
