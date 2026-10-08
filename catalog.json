@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-08T23:35:45.9148715Z",
+    "generatedAt":  "2026-10-08T23:43:36.2026327Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -915,7 +915,7 @@
                        "name":  "MAGNESIO COMPLEX",
                        "folder":  "General",
                        "src":  "images/MAGNESIO COMPLEX.jpeg",
-                       "stock":  29,
+                       "stock":  28,
                        "stockLinked":  true
                    },
                    {
@@ -1111,7 +1111,7 @@
                        "name":  "OMEGA 3 ZEBORA",
                        "folder":  "General",
                        "src":  "images/OMEGA 3 ZEBORA.jpeg",
-                       "stock":  4,
+                       "stock":  3,
                        "stockLinked":  true
                    },
                    {
