@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-08T19:38:25.8051758Z",
+    "generatedAt":  "2026-10-08T19:59:23.3724716Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  157,
+                       "stock":  155,
                        "stockLinked":  true
                    },
                    {
@@ -257,7 +257,7 @@
                        "name":  "CASTAÑA DE INDIAS",
                        "folder":  "General",
                        "src":  "images/CASTAÑA DE INDIAS.png",
-                       "stock":  61,
+                       "stock":  59,
                        "stockLinked":  true
                    },
                    {
