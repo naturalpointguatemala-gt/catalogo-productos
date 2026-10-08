@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-08T17:00:18.9775593Z",
+    "generatedAt":  "2026-10-08T17:05:58.1663905Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -474,7 +474,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  988,
+                       "stock":  987,
                        "stockLinked":  true
                    },
                    {
@@ -656,7 +656,7 @@
                        "name":  "GYMNEMA SYLVESTRE",
                        "folder":  "General",
                        "src":  "images/GYMNEMA SYLVESTRE.png",
-                       "stock":  40,
+                       "stock":  39,
                        "stockLinked":  true
                    },
                    {
