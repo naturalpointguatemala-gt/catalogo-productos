@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-08T23:23:06.9032525Z",
+    "generatedAt":  "2026-10-08T23:35:45.9148715Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  151,
+                       "stock":  171,
                        "stockLinked":  true
                    },
                    {
@@ -187,7 +187,7 @@
                        "name":  "BOLDO 1000MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/BOLDO 1000MG  60 CAPS..jpeg",
-                       "stock":  30,
+                       "stock":  31,
                        "stockLinked":  true
                    },
                    {
@@ -243,7 +243,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  375,
+                       "stock":  409,
                        "stockLinked":  true
                    },
                    {
@@ -488,7 +488,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  980,
+                       "stock":  1020,
                        "stockLinked":  true
                    },
                    {
@@ -810,7 +810,7 @@
                        "name":  "L-ARGININA 500MG  90 CAPS.",
                        "folder":  "General",
                        "src":  "images/L-ARGININA 500MG  90 CAPS..jpeg",
-                       "stock":  22,
+                       "stock":  47,
                        "stockLinked":  true
                    },
                    {
