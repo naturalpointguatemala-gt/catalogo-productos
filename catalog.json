@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-08T20:33:11.2981832Z",
+    "generatedAt":  "2026-10-08T20:35:23.9895923Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -692,6 +692,13 @@
                        "folder":  "General",
                        "src":  "images/HAIR, SKIN AND NAILS CON BIOTINA  200 GOMITAS. NARANJA NATURE´S BOUNTY.jpeg",
                        "stock":  1,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "HAIR, SKIN AND NAILS CON BIOTINA  80 GOMITAS NARANJA NATURE´S BOUNTY",
+                       "folder":  "General",
+                       "src":  "images/HAIR, SKIN AND NAILS CON BIOTINA  80 GOMITAS NARANJA NATURE´S BOUNTY.jpeg",
+                       "stock":  5,
                        "stockLinked":  true
                    },
                    {
@@ -2345,11 +2352,6 @@
                               "name":  "HAIR SKIN \u0026 NAILS BIOTINA",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/HAIR SKIN \u0026 NAILS BIOTINA.jpeg"
-                          },
-                          {
-                              "name":  "HAIR, SKIN \u0026 NAILS  GOMITAS NARANJA 80 GOMITAS",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/HAIR, SKIN \u0026 NAILS  GOMITAS NARANJA 80 GOMITAS.jpeg"
                           },
                           {
                               "name":  "HAIR, SKIN \u0026 NAILS  GOMITAS NARANJA",
