@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-08T00:00:53.3926849Z",
+    "generatedAt":  "2026-10-08T00:05:32.0417654Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -222,7 +222,7 @@
                        "name":  "CARBÓN ACTIVADO 400MG  90 CAPS.",
                        "folder":  "General",
                        "src":  "images/CARBÓN ACTIVADO 400MG  90 CAPS..jpeg",
-                       "stock":  13,
+                       "stock":  12,
                        "stockLinked":  true
                    },
                    {
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  409,
+                       "stock":  408,
                        "stockLinked":  true
                    },
                    {
