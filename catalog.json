@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-08T20:35:23.9895923Z",
+    "generatedAt":  "2026-10-08T20:39:18.6799805Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -671,6 +671,13 @@
                        "folder":  "General",
                        "src":  "images/GYMNEMA SYLVESTRE.png",
                        "stock":  39,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "HAIR, SKIN \u0026 NAILS  90 GOMITAS FLAMZY",
+                       "folder":  "General",
+                       "src":  "images/HAIR, SKIN \u0026 NAILS  90 GOMITAS FLAMZY.jpeg",
+                       "stock":  4,
                        "stockLinked":  true
                    },
                    {
@@ -2165,6 +2172,13 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "PROTEÍNA ULTRA VEGAN  75 SERVIDAS VAINILLA GOURMET MPS NUTRITION",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA ULTRA VEGAN  75 SERVIDAS VAINILLA GOURMET MPS NUTRITION.jpeg",
+                       "stock":  2,
+                       "stockLinked":  true
+                   },
+                   {
                        "name":  "PROTEÍNA VEGANA ABOUTTIME VE  32 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA VEGANA ABOUTTIME VE  32 SERVIDAS.jpeg",
@@ -2232,11 +2246,6 @@
                               "name":  "COENZIMA Q10 SUERO FACIAL",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/COENZIMA Q10 SUERO FACIAL.jpeg"
-                          },
-                          {
-                              "name":  "COLAGENO CON BIOTINA GOMITAS FLAMZY",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/COLAGENO CON BIOTINA GOMITAS FLAMZY.jpeg"
                           },
                           {
                               "name":  "CRAETINA PARA MUJER DURAZNO MANGO",
