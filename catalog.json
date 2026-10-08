@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-08T17:21:40.5602360Z",
+    "generatedAt":  "2026-10-08T17:29:39.5108134Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -236,7 +236,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  393,
+                       "stock":  391,
                        "stockLinked":  true
                    },
                    {
@@ -1405,14 +1405,14 @@
                        "name":  "VITAMINA C",
                        "folder":  "General",
                        "src":  "images/VITAMINA C.jpeg",
-                       "stock":  18,
+                       "stock":  17,
                        "stockLinked":  true
                    },
                    {
                        "name":  "VITAMINA D3 CON K2",
                        "folder":  "General",
                        "src":  "images/VITAMINA D3 CON K2.jpeg",
-                       "stock":  21,
+                       "stock":  20,
                        "stockLinked":  true
                    },
                    {
