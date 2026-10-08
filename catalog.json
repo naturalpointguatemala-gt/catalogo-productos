@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-08T18:05:37.0635314Z",
+    "generatedAt":  "2026-10-08T18:13:33.1458062Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -404,7 +404,7 @@
                        "name":  "COENZIMA Q10 NATURAL POINT",
                        "folder":  "General",
                        "src":  "images/COENZIMA Q10 NATURAL POINT.jpeg",
-                       "stock":  12,
+                       "stock":  11,
                        "stockLinked":  true
                    },
                    {
@@ -579,7 +579,7 @@
                        "name":  "GLICINATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/GLICINATO DE MAGNESIO.jpeg",
-                       "stock":  15,
+                       "stock":  14,
                        "stockLinked":  true
                    },
                    {
@@ -726,7 +726,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  171,
+                       "stock":  170,
                        "stockLinked":  true
                    },
                    {
@@ -975,6 +975,13 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "MULTI COLÁGENO PÉPTIDOS POLVO CODE AGE  342GRM.",
+                       "folder":  "General",
+                       "src":  "images/MULTI COLÁGENO PÉPTIDOS POLVO CODE AGE  342GRM..jpeg",
+                       "stock":  20,
+                       "stockLinked":  true
+                   },
+                   {
                        "name":  "MULTIVITAMÍNICO MENS MULTI+TEST 150 TABS GAT SPORT",
                        "folder":  "General",
                        "src":  "images/MULTIVITAMÍNICO MENS MULTI+TEST 150 TABS GAT SPORT.jpeg",
@@ -1083,7 +1090,7 @@
                        "name":  "OMEGA 3",
                        "folder":  "General",
                        "src":  "images/OMEGA 3.jpeg",
-                       "stock":  15,
+                       "stock":  14,
                        "stockLinked":  true
                    },
                    {
@@ -2209,11 +2216,6 @@
                               "name":  "COLAGENO CON BIOTINA GOMITAS FLAMZY",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/COLAGENO CON BIOTINA GOMITAS FLAMZY.jpeg"
-                          },
-                          {
-                              "name":  "COLAGENO POLVO",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/COLAGENO POLVO.jpeg"
                           },
                           {
                               "name":  "CRAETINA PARA MUJER DURAZNO MANGO",
