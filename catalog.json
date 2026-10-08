@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-08T18:45:51.2804329Z",
+    "generatedAt":  "2026-10-08T18:53:44.7978512Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  158,
+                       "stock":  157,
                        "stockLinked":  true
                    },
                    {
@@ -740,7 +740,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  170,
+                       "stock":  168,
                        "stockLinked":  true
                    },
                    {
@@ -1216,7 +1216,7 @@
                        "name":  "PROBIÓTICOS PARA MUJERES ZEBORA",
                        "folder":  "General",
                        "src":  "images/PROBIÓTICOS PARA MUJERES ZEBORA.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
