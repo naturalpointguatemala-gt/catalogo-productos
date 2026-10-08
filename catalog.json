@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-08T18:13:33.1458062Z",
+    "generatedAt":  "2026-10-08T18:15:58.4965861Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -412,6 +412,13 @@
                        "folder":  "General",
                        "src":  "images/COLA DE CABALLO.png",
                        "stock":  9,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "COLÁGENO 6,000MG  290 TABS YOUTHEORY",
+                       "folder":  "General",
+                       "src":  "images/COLÁGENO 6,000MG  290 TABS YOUTHEORY.jpeg",
+                       "stock":  2,
                        "stockLinked":  true
                    },
                    {
