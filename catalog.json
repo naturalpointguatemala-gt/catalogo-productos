@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-08T17:59:49.2712307Z",
+    "generatedAt":  "2026-10-08T18:05:37.0635314Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -797,6 +797,13 @@
                        "folder":  "General",
                        "src":  "images/L-CARNITINA CAPSULAS.jpeg",
                        "stock":  4,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "L-CITRULINA 250G NUTRICOST SIN SABOR",
+                       "folder":  "General",
+                       "src":  "images/L-CITRULINA 250G NUTRICOST SIN SABOR.jpeg",
+                       "stock":  3,
                        "stockLinked":  true
                    },
                    {
