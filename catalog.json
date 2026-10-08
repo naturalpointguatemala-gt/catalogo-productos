@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-08T17:51:17.3618254Z",
+    "generatedAt":  "2026-10-08T17:53:28.2911361Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -860,6 +860,13 @@
                        "folder":  "General",
                        "src":  "images/MACA.png",
                        "stock":  11,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "MAGNESIO 3 EN 1 POLVO  300 GRAMOS ZEBORA",
+                       "folder":  "General",
+                       "src":  "images/MAGNESIO 3 EN 1 POLVO  300 GRAMOS ZEBORA.jpeg",
+                       "stock":  2,
                        "stockLinked":  true
                    },
                    {
@@ -2596,11 +2603,6 @@
                               "name":  "PROTEINA VEGANA MPS NUTRITION",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PROTEINA VEGANA MPS NUTRITION.jpeg"
-                          },
-                          {
-                              "name":  "PROTEINA VEGANA",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/PROTEINA VEGANA.jpeg"
                           },
                           {
                               "name":  "PROTEINA WHEY C4 HERSHEYS",
