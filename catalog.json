@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-09T00:13:48.7514007Z",
+    "generatedAt":  "2026-10-09T16:39:25.3218344Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL",
                        "folder":  "General",
                        "src":  "images/AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL.jpeg",
-                       "stock":  10,
+                       "stock":  9,
                        "stockLinked":  true
                    },
                    {
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  173,
+                       "stock":  172,
                        "stockLinked":  true
                    },
                    {
@@ -229,7 +229,7 @@
                        "name":  "CARBÓN ACTIVADO 400MG  90 CAPS.",
                        "folder":  "General",
                        "src":  "images/CARBÓN ACTIVADO 400MG  90 CAPS..jpeg",
-                       "stock":  11,
+                       "stock":  10,
                        "stockLinked":  true
                    },
                    {
@@ -243,7 +243,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  419,
+                       "stock":  405,
                        "stockLinked":  true
                    },
                    {
@@ -341,14 +341,14 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  311,
+                       "stock":  309,
                        "stockLinked":  true
                    },
                    {
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
-                       "stock":  207,
+                       "stock":  206,
                        "stockLinked":  true
                    },
                    {
@@ -411,7 +411,7 @@
                        "name":  "COLA DE CABALLO",
                        "folder":  "General",
                        "src":  "images/COLA DE CABALLO.png",
-                       "stock":  9,
+                       "stock":  8,
                        "stockLinked":  true
                    },
                    {
@@ -488,7 +488,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1021,
+                       "stock":  1010,
                        "stockLinked":  true
                    },
                    {
@@ -754,7 +754,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  168,
+                       "stock":  166,
                        "stockLinked":  true
                    },
                    {
@@ -768,7 +768,7 @@
                        "name":  "JABÓN DE ARROZ",
                        "folder":  "General",
                        "src":  "images/JABÓN DE ARROZ.png",
-                       "stock":  16,
+                       "stock":  14,
                        "stockLinked":  true
                    },
                    {
@@ -873,7 +873,7 @@
                        "name":  "LIPO 6 BLACK QUEMADOR DE GRASA  60 CAPS NUTREX",
                        "folder":  "General",
                        "src":  "images/LIPO 6 BLACK QUEMADOR DE GRASA  60 CAPS NUTREX.jpeg",
-                       "stock":  5,
+                       "stock":  4,
                        "stockLinked":  true
                    },
                    {
@@ -985,7 +985,7 @@
                        "name":  "MINOXIDIL  60ML KIRLAND",
                        "folder":  "General",
                        "src":  "images/MINOXIDIL  60ML KIRLAND.jpeg",
-                       "stock":  18,
+                       "stock":  17,
                        "stockLinked":  true
                    },
                    {
@@ -1454,7 +1454,7 @@
                        "name":  "VITAMINA B7 (BIOTINA)",
                        "folder":  "General",
                        "src":  "images/VITAMINA B7 (BIOTINA).png",
-                       "stock":  10,
+                       "stock":  9,
                        "stockLinked":  true
                    },
                    {
@@ -1545,7 +1545,7 @@
                        "name":  "YOHIMBINA EXTRACTO",
                        "folder":  "General",
                        "src":  "images/YOHIMBINA EXTRACTO.jpeg",
-                       "stock":  14,
+                       "stock":  13,
                        "stockLinked":  true
                    },
                    {
@@ -1580,7 +1580,7 @@
                        "name":  "ZINC",
                        "folder":  "General",
                        "src":  "images/ZINC.jpeg",
-                       "stock":  9,
+                       "stock":  8,
                        "stockLinked":  true
                    },
                    {
@@ -1657,14 +1657,14 @@
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
-                       "stock":  22,
+                       "stock":  20,
                        "stockLinked":  true
                    },
                    {
                        "name":  "CREATINA DRAGON PHARMA  30 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA  30 SERVIDAS.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
