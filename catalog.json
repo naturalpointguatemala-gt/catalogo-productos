@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-09T22:04:03.1243636Z",
+    "generatedAt":  "2026-10-09T22:18:34.8659062Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -243,7 +243,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  392,
+                       "stock":  391,
                        "stockLinked":  true
                    },
                    {
@@ -418,7 +418,7 @@
                        "name":  "COLÁGENO 6,000MG  290 TABS YOUTHEORY",
                        "folder":  "General",
                        "src":  "images/COLÁGENO 6,000MG  290 TABS YOUTHEORY.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
@@ -488,7 +488,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1003,
+                       "stock":  1002,
                        "stockLinked":  true
                    },
                    {
