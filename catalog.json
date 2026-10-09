@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-09T22:56:14.4208529Z",
+    "generatedAt":  "2026-10-09T23:26:19.7948888Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  168,
+                       "stock":  227,
                        "stockLinked":  true
                    },
                    {
@@ -488,7 +488,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1002,
+                       "stock":  1062,
                        "stockLinked":  true
                    },
                    {
@@ -502,7 +502,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  104,
+                       "stock":  137,
                        "stockLinked":  true
                    },
                    {
@@ -901,7 +901,7 @@
                        "name":  "MACA",
                        "folder":  "General",
                        "src":  "images/MACA.png",
-                       "stock":  10,
+                       "stock":  23,
                        "stockLinked":  true
                    },
                    {
