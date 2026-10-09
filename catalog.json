@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-09T18:16:50.3915237Z",
+    "generatedAt":  "2026-10-09T18:21:33.0786835Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1661,13 +1661,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "CREATINA DRAGON PHARMA  30 SERVIDAS",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA  30 SERVIDAS.jpeg",
-                       "stock":  0,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "CREATINA DRAGON PHARMA 200 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA 200 SERVIDAS.jpeg",
@@ -2261,6 +2254,11 @@
                               "name":  "CREATINA BYTZ  80 TABLETAS MASTICABLES TANGY BLUE RAZZ MUTANT",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/CREATINA BYTZ  80 TABLETAS MASTICABLES TANGY BLUE RAZZ MUTANT.png"
+                          },
+                          {
+                              "name":  "CREATINA DRAGON PHARMA  30 SERVIDAS",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/CREATINA DRAGON PHARMA  30 SERVIDAS.jpeg"
                           },
                           {
                               "name":  "CREATINA EN GOMITAS GOLI",
