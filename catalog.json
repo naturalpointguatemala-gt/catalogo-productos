@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-12T17:10:30.0817163Z",
+    "generatedAt":  "2026-10-12T17:32:50.4630590Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -159,7 +159,7 @@
                        "name":  "ASTAXANTINA 12MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/ASTAXANTINA 12MG  60 CAPS..jpeg",
-                       "stock":  9,
+                       "stock":  5,
                        "stockLinked":  true
                    },
                    {
@@ -243,7 +243,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  398,
+                       "stock":  396,
                        "stockLinked":  true
                    },
                    {
@@ -334,7 +334,7 @@
                        "name":  "CHANCAPIEDRA",
                        "folder":  "General",
                        "src":  "images/CHANCAPIEDRA.jpeg",
-                       "stock":  13,
+                       "stock":  7,
                        "stockLinked":  true
                    },
                    {
@@ -502,7 +502,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  137,
+                       "stock":  130,
                        "stockLinked":  true
                    },
                    {
@@ -1006,7 +1006,7 @@
                        "name":  "MULTI COLÁGENO PÉPTIDOS POLVO CODE AGE  342GRM.",
                        "folder":  "General",
                        "src":  "images/MULTI COLÁGENO PÉPTIDOS POLVO CODE AGE  342GRM..jpeg",
-                       "stock":  20,
+                       "stock":  8,
                        "stockLinked":  true
                    },
                    {
@@ -1405,7 +1405,7 @@
                        "name":  "VITAMINA A (RETINOL)",
                        "folder":  "General",
                        "src":  "images/VITAMINA A (RETINOL).png",
-                       "stock":  24,
+                       "stock":  20,
                        "stockLinked":  true
                    },
                    {
@@ -1468,7 +1468,7 @@
                        "name":  "VITAMINA C",
                        "folder":  "General",
                        "src":  "images/VITAMINA C.jpeg",
-                       "stock":  17,
+                       "stock":  13,
                        "stockLinked":  true
                    },
                    {
