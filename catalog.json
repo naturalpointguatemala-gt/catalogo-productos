@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-12T18:34:52.9576425Z",
+    "generatedAt":  "2026-10-12T18:37:51.2433895Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  220,
+                       "stock":  219,
                        "stockLinked":  true
                    },
                    {
@@ -341,7 +341,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  304,
+                       "stock":  350,
                        "stockLinked":  true
                    },
                    {
@@ -432,7 +432,7 @@
                        "name":  "COLÁGENO HIDROLIZADO CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/COLÁGENO HIDROLIZADO CÁPSULAS.jpeg",
-                       "stock":  13,
+                       "stock":  21,
                        "stockLinked":  true
                    },
                    {
@@ -1468,7 +1468,7 @@
                        "name":  "VITAMINA C",
                        "folder":  "General",
                        "src":  "images/VITAMINA C.jpeg",
-                       "stock":  13,
+                       "stock":  26,
                        "stockLinked":  true
                    },
                    {
