@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-12T21:46:35.8553916Z",
+    "generatedAt":  "2026-10-12T21:51:03.0622172Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -243,7 +243,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  366,
+                       "stock":  365,
                        "stockLinked":  true
                    },
                    {
@@ -796,7 +796,7 @@
                        "name":  "KELP EXTRACTO",
                        "folder":  "General",
                        "src":  "images/KELP EXTRACTO.jpeg",
-                       "stock":  32,
+                       "stock":  31,
                        "stockLinked":  true
                    },
                    {
@@ -1118,7 +1118,7 @@
                        "name":  "OMEGA 3",
                        "folder":  "General",
                        "src":  "images/OMEGA 3.jpeg",
-                       "stock":  14,
+                       "stock":  13,
                        "stockLinked":  true
                    },
                    {
