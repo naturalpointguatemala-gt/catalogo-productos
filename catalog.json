@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-12T17:49:36.1890803Z",
+    "generatedAt":  "2026-10-12T18:08:06.0863751Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  221,
+                       "stock":  220,
                        "stockLinked":  true
                    },
                    {
@@ -341,7 +341,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  305,
+                       "stock":  304,
                        "stockLinked":  true
                    },
                    {
@@ -1573,7 +1573,7 @@
                        "name":  "ZINC PARA HOMBRES 11 INGREDIENTES",
                        "folder":  "General",
                        "src":  "images/ZINC PARA HOMBRES 11 INGREDIENTES.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
