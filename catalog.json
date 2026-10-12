@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-12T20:11:02.5180363Z",
+    "generatedAt":  "2026-10-12T20:13:12.8360287Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -2144,13 +2144,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "PROTEÍNA MUTANT WHEY  48 SERVIDAS DOBLE SABOR TRIPLE CHOCOLATE \u0026 COOKIES AND CREAM",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA MUTANT WHEY  48 SERVIDAS DOBLE SABOR TRIPLE CHOCOLATE \u0026 COOKIES AND CREAM.jpg",
-                       "stock":  0,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "PROTEÍNA MUTANT WHEY  48 SERVIDAS DOBLE SABOR TRIPLE CHOCOLATE \u0026 ICE CREAM",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA MUTANT WHEY  48 SERVIDAS DOBLE SABOR TRIPLE CHOCOLATE \u0026 ICE CREAM.jpeg",
@@ -2677,6 +2670,11 @@
                               "name":  "PROTEÍNA ISO 100 DYMATIZE VAINILLA",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PROTEÍNA ISO 100 DYMATIZE VAINILLA.jpeg"
+                          },
+                          {
+                              "name":  "PROTEÍNA MUTANT WHEY  48 SERVIDAS DOBLE SABOR TRIPLE CHOCOLATE \u0026 COOKIES AND CREAM",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/PROTEÍNA MUTANT WHEY  48 SERVIDAS DOBLE SABOR TRIPLE CHOCOLATE \u0026 COOKIES AND CREAM.jpg"
                           },
                           {
                               "name":  "PROTEÍNA NITROTECH 69 SERVIDAS",
