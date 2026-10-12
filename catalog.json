@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-12T20:13:12.8360287Z",
+    "generatedAt":  "2026-10-12T20:17:48.9481827Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -243,7 +243,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  379,
+                       "stock":  378,
                        "stockLinked":  true
                    },
                    {
@@ -488,7 +488,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1091,
+                       "stock":  1090,
                        "stockLinked":  true
                    },
                    {
@@ -923,13 +923,6 @@
                        "folder":  "General",
                        "src":  "images/MAGNESIO GLICINATO GOLI.jpeg",
                        "stock":  1,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "MAGNESIO NIÑOS GOMITAS NATROL",
-                       "folder":  "General",
-                       "src":  "images/MAGNESIO NIÑOS GOMITAS NATROL.jpeg",
-                       "stock":  6,
                        "stockLinked":  true
                    },
                    {
@@ -1525,13 +1518,6 @@
                        "folder":  "General",
                        "src":  "images/VITEX.png",
                        "stock":  26,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "YODO",
-                       "folder":  "General",
-                       "src":  "images/YODO.jpeg",
-                       "stock":  4,
                        "stockLinked":  true
                    },
                    {
