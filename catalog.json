@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-13T16:39:13.5622396Z",
+    "generatedAt":  "2026-10-13T16:41:54.8816401Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -76,6 +76,13 @@
                        "folder":  "General",
                        "src":  "images/AGUAJE PERUANO 500MG  100 CAPS..jpeg",
                        "stock":  21,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "AGUTROLT COLITIS  60 CAPS. NATURALELI",
+                       "folder":  "General",
+                       "src":  "images/AGUTROLT COLITIS  60 CAPS. NATURALELI.jpeg",
+                       "stock":  6,
                        "stockLinked":  true
                    },
                    {
@@ -488,7 +495,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1035,
+                       "stock":  1033,
                        "stockLinked":  true
                    },
                    {
@@ -656,7 +663,7 @@
                        "name":  "GRAVIOLA (GUANÁBANA)",
                        "folder":  "General",
                        "src":  "images/GRAVIOLA (GUANÁBANA).png",
-                       "stock":  26,
+                       "stock":  25,
                        "stockLinked":  true
                    },
                    {
@@ -992,7 +999,7 @@
                        "name":  "MORINGA",
                        "folder":  "General",
                        "src":  "images/MORINGA.png",
-                       "stock":  18,
+                       "stock":  16,
                        "stockLinked":  true
                    },
                    {
