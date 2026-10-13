@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-13T16:46:50.3211373Z",
+    "generatedAt":  "2026-10-13T16:53:11.4024879Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1325,6 +1325,13 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "SHILAJIT  60 GOMITAS BBP PARAÍSO NATURAL",
+                       "folder":  "General",
+                       "src":  "images/SHILAJIT  60 GOMITAS BBP PARAÍSO NATURAL.jpeg",
+                       "stock":  12,
+                       "stockLinked":  true
+                   },
+                   {
                        "name":  "SHILAJIT ULTRA COMPLEX NP",
                        "folder":  "General",
                        "src":  "images/SHILAJIT ULTRA COMPLEX NP.jpeg",
@@ -1409,6 +1416,13 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "VINAGRE DE MANZANA  60 GOMITAS BBP PARAÍSO NATURAL",
+                       "folder":  "General",
+                       "src":  "images/VINAGRE DE MANZANA  60 GOMITAS BBP PARAÍSO NATURAL.jpeg",
+                       "stock":  6,
+                       "stockLinked":  true
+                   },
+                   {
                        "name":  "VINAGRE DE MANZANA GOLÍ",
                        "folder":  "General",
                        "src":  "images/VINAGRE DE MANZANA GOLÍ.jpeg",
@@ -1486,6 +1500,13 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "VITAMINA C + ZINC + EQUINACEA  60 GOMITAS",
+                       "folder":  "General",
+                       "src":  "images/VITAMINA C + ZINC + EQUINACEA  60 GOMITAS.jpeg",
+                       "stock":  6,
+                       "stockLinked":  true
+                   },
+                   {
                        "name":  "VITAMINA C",
                        "folder":  "General",
                        "src":  "images/VITAMINA C.jpeg",
@@ -1511,6 +1532,13 @@
                        "folder":  "General",
                        "src":  "images/VITAMINA E 400 UI.png",
                        "stock":  13,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "VITAMINA E 700MG  90 CAPS USO FACIAL",
+                       "folder":  "General",
+                       "src":  "images/VITAMINA E 700MG  90 CAPS USO FACIAL.jpeg",
+                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
