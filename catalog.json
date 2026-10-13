@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-13T16:41:54.8816401Z",
+    "generatedAt":  "2026-10-13T16:46:50.3211373Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -135,6 +135,13 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "ASHWAGANDHA  60 GOMITAS BBP PARAÍSO NATURAL",
+                       "folder":  "General",
+                       "src":  "images/ASHWAGANDHA  60 GOMITAS BBP PARAÍSO NATURAL.jpeg",
+                       "stock":  6,
+                       "stockLinked":  true
+                   },
+                   {
                        "name":  "ASHWAGANDHA AMERICANA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA AMERICANA.jpeg",
@@ -250,7 +257,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  318,
+                       "stock":  315,
                        "stockLinked":  true
                    },
                    {
@@ -342,6 +349,13 @@
                        "folder":  "General",
                        "src":  "images/CHANCAPIEDRA.jpeg",
                        "stock":  7,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "CITRATO + GLICINATO DE MAGNESIO POLVO  150G SABOR MANDARINA JOY NATURA",
+                       "folder":  "General",
+                       "src":  "images/CITRATO + GLICINATO DE MAGNESIO POLVO  150G SABOR MANDARINA JOY NATURA.jpeg",
+                       "stock":  6,
                        "stockLinked":  true
                    },
                    {
@@ -495,7 +509,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1033,
+                       "stock":  1030,
                        "stockLinked":  true
                    },
                    {
@@ -873,7 +887,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
