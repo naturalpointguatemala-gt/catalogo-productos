@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-13T19:00:10.7651007Z",
+    "generatedAt":  "2026-10-13T19:05:19.1425516Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -166,7 +166,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  211,
+                       "stock":  252,
                        "stockLinked":  true
                    },
                    {
@@ -509,7 +509,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1027,
+                       "stock":  1067,
                        "stockLinked":  true
                    },
                    {
@@ -523,7 +523,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  128,
+                       "stock":  141,
                        "stockLinked":  true
                    },
                    {
@@ -1633,13 +1633,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "AMINO ENERGY SANDÍA",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/AMINO ENERGY SANDÍA.jpeg",
-                       "stock":  0,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "AMINOÁCIDOS BPI SABOR GOMITAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/AMINOÁCIDOS BPI SABOR GOMITAS.jpeg",
@@ -2205,6 +2198,11 @@
                               "name":  "ACIDO BORICO",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/ACIDO BORICO.jpeg"
+                          },
+                          {
+                              "name":  "AMINO ENERGY SANDÍA",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/AMINO ENERGY SANDÍA.jpeg"
                           },
                           {
                               "name":  "BORO AMERICANO",
