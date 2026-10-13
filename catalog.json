@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-13T22:50:58.7375876Z",
+    "generatedAt":  "2026-10-13T22:55:14.0259481Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -488,7 +488,7 @@
                        "name":  "CRANBERRY EXTRACTO CON VITAMINA C",
                        "folder":  "General",
                        "src":  "images/CRANBERRY EXTRACTO CON VITAMINA C.jpeg",
-                       "stock":  17,
+                       "stock":  16,
                        "stockLinked":  true
                    },
                    {
@@ -796,7 +796,7 @@
                        "name":  "JABÓN DE ROMERO",
                        "folder":  "General",
                        "src":  "images/JABÓN DE ROMERO.png",
-                       "stock":  1,
+                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
