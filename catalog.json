@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-13T18:57:45.3491607Z",
+    "generatedAt":  "2026-10-13T19:00:10.7651007Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -601,13 +601,6 @@
                        "folder":  "General",
                        "src":  "images/GLICEROL LÍQUIDO SANDIA MANZANA VERDE.png",
                        "stock":  2,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "GLICINATO DE MAGNESIO",
-                       "folder":  "General",
-                       "src":  "images/GLICINATO DE MAGNESIO.jpeg",
-                       "stock":  1,
                        "stockLinked":  true
                    },
                    {
@@ -2367,6 +2360,11 @@
                               "name":  "GLICEROL LÍQUIDO SIN SABOR",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/GLICEROL LÍQUIDO SIN SABOR.png"
+                          },
+                          {
+                              "name":  "GLICINATO DE MAGNESIO",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/GLICINATO DE MAGNESIO.jpeg"
                           },
                           {
                               "name":  "GLUCOSAMINA CONDROITINA MSM Y VITAMINA D3 PURITANS PRIDE",
