@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-13T20:34:46.4837946Z",
+    "generatedAt":  "2026-10-13T20:37:01.0897669Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1507,13 +1507,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "VITAMINA D3 CON K2",
-                       "folder":  "General",
-                       "src":  "images/VITAMINA D3 CON K2.jpeg",
-                       "stock":  0,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "VITAMINA E 1000 UI",
                        "folder":  "General",
                        "src":  "images/VITAMINA E 1000 UI.png",
@@ -2823,6 +2816,11 @@
                               "name":  "VITAMINA C MASTICABLES",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/VITAMINA C MASTICABLES.png"
+                          },
+                          {
+                              "name":  "VITAMINA D3 CON K2",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/VITAMINA D3 CON K2.jpeg"
                           },
                           {
                               "name":  "VITAMINAS ADOLESCENTES HOMBRES",
