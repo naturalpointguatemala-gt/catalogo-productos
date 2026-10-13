@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-13T17:50:02.0557563Z",
+    "generatedAt":  "2026-10-13T17:58:09.3049916Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL",
                        "folder":  "General",
                        "src":  "images/AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL.jpeg",
-                       "stock":  57,
+                       "stock":  58,
                        "stockLinked":  true
                    },
                    {
@@ -166,7 +166,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  213,
+                       "stock":  211,
                        "stockLinked":  true
                    },
                    {
@@ -257,7 +257,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  308,
+                       "stock":  309,
                        "stockLinked":  true
                    },
                    {
@@ -509,7 +509,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1029,
+                       "stock":  1030,
                        "stockLinked":  true
                    },
                    {
@@ -607,7 +607,7 @@
                        "name":  "GLICINATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/GLICINATO DE MAGNESIO.jpeg",
-                       "stock":  13,
+                       "stock":  -12,
                        "stockLinked":  true
                    },
                    {
@@ -1517,7 +1517,7 @@
                        "name":  "VITAMINA D3 CON K2",
                        "folder":  "General",
                        "src":  "images/VITAMINA D3 CON K2.jpeg",
-                       "stock":  20,
+                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
@@ -1531,7 +1531,7 @@
                        "name":  "VITAMINA E 400 UI",
                        "folder":  "General",
                        "src":  "images/VITAMINA E 400 UI.png",
-                       "stock":  13,
+                       "stock":  12,
                        "stockLinked":  true
                    },
                    {
