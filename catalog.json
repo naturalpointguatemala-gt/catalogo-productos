@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-13T23:49:13.3407910Z",
+    "generatedAt":  "2026-10-13T23:55:59.7783258Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -257,7 +257,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  259,
+                       "stock":  258,
                        "stockLinked":  true
                    },
                    {
@@ -509,7 +509,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1032,
+                       "stock":  1031,
                        "stockLinked":  true
                    },
                    {
@@ -790,13 +790,6 @@
                        "folder":  "General",
                        "src":  "images/JABÓN DE CÚRCUMA.png",
                        "stock":  56,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "JABÓN DE ROMERO",
-                       "folder":  "General",
-                       "src":  "images/JABÓN DE ROMERO.png",
-                       "stock":  0,
                        "stockLinked":  true
                    },
                    {
@@ -1689,6 +1682,13 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "CREATINA DRAGON PHARMA  30 SERVIDAS",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA  30 SERVIDAS.jpeg",
+                       "stock":  1,
+                       "stockLinked":  true
+                   },
+                   {
                        "name":  "CREATINA DRAGON PHARMA 200 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA 200 SERVIDAS.jpeg",
@@ -2268,11 +2268,6 @@
                               "src":  "images_sin_existencia/CREATINA BYTZ  80 TABLETAS MASTICABLES TANGY BLUE RAZZ MUTANT.png"
                           },
                           {
-                              "name":  "CREATINA DRAGON PHARMA  30 SERVIDAS",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/CREATINA DRAGON PHARMA  30 SERVIDAS.jpeg"
-                          },
-                          {
                               "name":  "CREATINA EN GOMITAS GOLI",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/CREATINA EN GOMITAS GOLI.jpeg"
@@ -2411,6 +2406,11 @@
                               "name":  "JABON MANZANILLA Y CALENDULA",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/JABON MANZANILLA Y CALENDULA.jpeg"
+                          },
+                          {
+                              "name":  "JABÓN DE ROMERO",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/JABÓN DE ROMERO.png"
                           },
                           {
                               "name":  "JABÓN SOLO DE MANZANILLA",
