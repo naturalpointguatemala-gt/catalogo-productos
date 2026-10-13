@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-12T23:50:14.4597533Z",
+    "generatedAt":  "2026-10-13T16:17:08.8055831Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -61,14 +61,14 @@
                        "name":  "AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL",
                        "folder":  "General",
                        "src":  "images/AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL.jpeg",
-                       "stock":  50,
+                       "stock":  49,
                        "stockLinked":  true
                    },
                    {
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  101,
+                       "stock":  87,
                        "stockLinked":  true
                    },
                    {
@@ -152,7 +152,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  217,
+                       "stock":  213,
                        "stockLinked":  true
                    },
                    {
@@ -243,7 +243,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  357,
+                       "stock":  321,
                        "stockLinked":  true
                    },
                    {
@@ -341,7 +341,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  348,
+                       "stock":  344,
                        "stockLinked":  true
                    },
                    {
@@ -432,7 +432,7 @@
                        "name":  "COLÁGENO HIDROLIZADO CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/COLÁGENO HIDROLIZADO CÁPSULAS.jpeg",
-                       "stock":  21,
+                       "stock":  20,
                        "stockLinked":  true
                    },
                    {
@@ -488,7 +488,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1070,
+                       "stock":  1036,
                        "stockLinked":  true
                    },
                    {
@@ -754,7 +754,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  164,
+                       "stock":  134,
                        "stockLinked":  true
                    },
                    {
@@ -775,7 +775,7 @@
                        "name":  "JABÓN DE CÚRCUMA",
                        "folder":  "General",
                        "src":  "images/JABÓN DE CÚRCUMA.png",
-                       "stock":  58,
+                       "stock":  57,
                        "stockLinked":  true
                    },
                    {
@@ -1300,7 +1300,7 @@
                        "name":  "SERUM DE ARROZ",
                        "folder":  "General",
                        "src":  "images/SERUM DE ARROZ.jpeg",
-                       "stock":  5,
+                       "stock":  4,
                        "stockLinked":  true
                    },
                    {
@@ -1657,7 +1657,7 @@
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
-                       "stock":  14,
+                       "stock":  12,
                        "stockLinked":  true
                    },
                    {
@@ -1748,7 +1748,7 @@
                        "name":  "CREATINA NUTREX 300  60 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 300  60 SERVIDAS.jpeg",
-                       "stock":  14,
+                       "stock":  13,
                        "stockLinked":  true
                    },
                    {
@@ -2063,13 +2063,6 @@
                        "name":  "PROTEÍNA ANIMAL WHEY  64 SERVIDAS SABOR CHOCOLATE",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA ANIMAL WHEY  64 SERVIDAS SABOR CHOCOLATE.jpeg",
-                       "stock":  1,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "PROTEÍNA ANIMAL WHEY  64 SERVIDAS SABOR VAINILLA",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA ANIMAL WHEY  64 SERVIDAS SABOR VAINILLA.jpeg",
                        "stock":  1,
                        "stockLinked":  true
                    },
@@ -2640,6 +2633,11 @@
                               "name":  "PROTEINA WHEY PHORM VAINILLA Y CHOCOLATE BLANCO  25 SERVIDAS",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PROTEINA WHEY PHORM VAINILLA Y CHOCOLATE BLANCO  25 SERVIDAS.jpeg"
+                          },
+                          {
+                              "name":  "PROTEÍNA ANIMAL WHEY  64 SERVIDAS SABOR VAINILLA",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/PROTEÍNA ANIMAL WHEY  64 SERVIDAS SABOR VAINILLA.jpeg"
                           },
                           {
                               "name":  "PROTEÍNA BPI ISO HD  70 SERVIDAS 4.8LB SABOR VAINILLA COOKIE",
