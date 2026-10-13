@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-13T22:47:23.0024384Z",
+    "generatedAt":  "2026-10-13T22:50:58.7375876Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -68,7 +68,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  80,
+                       "stock":  79,
                        "stockLinked":  true
                    },
                    {
@@ -789,7 +789,7 @@
                        "name":  "JABÓN DE CÚRCUMA",
                        "folder":  "General",
                        "src":  "images/JABÓN DE CÚRCUMA.png",
-                       "stock":  57,
+                       "stock":  56,
                        "stockLinked":  true
                    },
                    {
