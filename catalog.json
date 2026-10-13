@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-13T16:53:11.4024879Z",
+    "generatedAt":  "2026-10-13T16:55:09.6903572Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -257,7 +257,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  315,
+                       "stock":  313,
                        "stockLinked":  true
                    },
                    {
@@ -523,7 +523,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  130,
+                       "stock":  128,
                        "stockLinked":  true
                    },
                    {
@@ -1139,7 +1139,7 @@
                        "name":  "OMEGA 3",
                        "folder":  "General",
                        "src":  "images/OMEGA 3.jpeg",
-                       "stock":  13,
+                       "stock":  12,
                        "stockLinked":  true
                    },
                    {
