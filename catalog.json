@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-14T19:26:18.1083629Z",
+    "generatedAt":  "2026-10-14T19:29:01.7413937Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1252,6 +1252,13 @@
                        "folder":  "General",
                        "src":  "images/PROGESTERONA CREMA.jpeg",
                        "stock":  4,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PROPÓLEO  60 CAPS. NUTRAMEDIX",
+                       "folder":  "General",
+                       "src":  "images/PROPÓLEO  60 CAPS. NUTRAMEDIX.jpeg",
+                       "stock":  3,
                        "stockLinked":  true
                    },
                    {
@@ -2584,11 +2591,6 @@
                               "name":  "PROBIOTICOS MASTICABLES",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PROBIOTICOS MASTICABLES.jpeg"
-                          },
-                          {
-                              "name":  "PROPEOLO",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/PROPEOLO.jpeg"
                           },
                           {
                               "name":  "PROTEIN PHORM DRAGON PHARMA SABOR CHURRO",
