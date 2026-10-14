@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-14T18:13:41.7069060Z",
+    "generatedAt":  "2026-10-14T18:29:01.8932446Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -68,7 +68,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  67,
+                       "stock":  95,
                        "stockLinked":  true
                    },
                    {
@@ -873,7 +873,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  -3,
+                       "stock":  17,
                        "stockLinked":  true
                    },
                    {
