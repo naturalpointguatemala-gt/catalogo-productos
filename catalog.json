@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-14T00:14:19.5778762Z",
+    "generatedAt":  "2026-10-14T16:29:19.9391930Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -68,7 +68,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  76,
+                       "stock":  69,
                        "stockLinked":  true
                    },
                    {
@@ -110,7 +110,7 @@
                        "name":  "ALA",
                        "folder":  "General",
                        "src":  "images/ALA.jpeg",
-                       "stock":  18,
+                       "stock":  16,
                        "stockLinked":  true
                    },
                    {
@@ -166,7 +166,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  249,
+                       "stock":  247,
                        "stockLinked":  true
                    },
                    {
@@ -194,7 +194,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  35,
+                       "stock":  34,
                        "stockLinked":  true
                    },
                    {
@@ -257,7 +257,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  257,
+                       "stock":  225,
                        "stockLinked":  true
                    },
                    {
@@ -362,14 +362,14 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  342,
+                       "stock":  341,
                        "stockLinked":  true
                    },
                    {
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
-                       "stock":  205,
+                       "stock":  204,
                        "stockLinked":  true
                    },
                    {
@@ -453,7 +453,7 @@
                        "name":  "COLÁGENO HIDROLIZADO CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/COLÁGENO HIDROLIZADO CÁPSULAS.jpeg",
-                       "stock":  20,
+                       "stock":  18,
                        "stockLinked":  true
                    },
                    {
@@ -509,7 +509,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1030,
+                       "stock":  1011,
                        "stockLinked":  true
                    },
                    {
@@ -768,7 +768,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  132,
+                       "stock":  131,
                        "stockLinked":  true
                    },
                    {
@@ -880,7 +880,7 @@
                        "name":  "LIPO 6 BLACK QUEMADOR DE GRASA  60 CAPS NUTREX",
                        "folder":  "General",
                        "src":  "images/LIPO 6 BLACK QUEMADOR DE GRASA  60 CAPS NUTREX.jpeg",
-                       "stock":  4,
+                       "stock":  3,
                        "stockLinked":  true
                    },
                    {
@@ -985,7 +985,7 @@
                        "name":  "MELENA DE LEON EXTRACTO",
                        "folder":  "General",
                        "src":  "images/MELENA DE LEON EXTRACTO.jpeg",
-                       "stock":  16,
+                       "stock":  15,
                        "stockLinked":  true
                    },
                    {
@@ -1265,14 +1265,14 @@
                        "name":  "REMOLACHA",
                        "folder":  "General",
                        "src":  "images/REMOLACHA.png",
-                       "stock":  33,
+                       "stock":  32,
                        "stockLinked":  true
                    },
                    {
                        "name":  "RESVERATROL",
                        "folder":  "General",
                        "src":  "images/RESVERATROL.png",
-                       "stock":  43,
+                       "stock":  42,
                        "stockLinked":  true
                    },
                    {
@@ -1286,7 +1286,7 @@
                        "name":  "SAW PALMETTO",
                        "folder":  "General",
                        "src":  "images/SAW PALMETTO.jpeg",
-                       "stock":  32,
+                       "stock":  31,
                        "stockLinked":  true
                    },
                    {
@@ -1335,7 +1335,7 @@
                        "name":  "TAURINA",
                        "folder":  "General",
                        "src":  "images/TAURINA.png",
-                       "stock":  20,
+                       "stock":  19,
                        "stockLinked":  true
                    },
                    {
@@ -1692,7 +1692,7 @@
                        "name":  "CREATINA DRAGON PHARMA 200 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA 200 SERVIDAS.jpeg",
-                       "stock":  8,
+                       "stock":  7,
                        "stockLinked":  true
                    },
                    {
@@ -1713,7 +1713,7 @@
                        "name":  "CREATINA MASTICABLE FRUTOS ROJOS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MASTICABLE FRUTOS ROJOS.jpeg",
-                       "stock":  5,
+                       "stock":  4,
                        "stockLinked":  true
                    },
                    {
@@ -1734,7 +1734,7 @@
                        "name":  "CREATINA MICRONIZADA  60 SERVIDAS SIN SABOR OPTIMUM NUTRITION",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MICRONIZADA  60 SERVIDAS SIN SABOR OPTIMUM NUTRITION.jpeg",
-                       "stock":  11,
+                       "stock":  10,
                        "stockLinked":  true
                    },
                    {
