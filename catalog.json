@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-14T21:13:36.4528081Z",
+    "generatedAt":  "2026-10-14T21:17:53.5149317Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -68,7 +68,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  93,
+                       "stock":  92,
                        "stockLinked":  true
                    },
                    {
@@ -1685,7 +1685,7 @@
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
-                       "stock":  12,
+                       "stock":  11,
                        "stockLinked":  true
                    },
                    {
