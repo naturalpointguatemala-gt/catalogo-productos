@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-15T19:55:22.5760035Z",
+    "generatedAt":  "2026-10-15T20:18:47.3138162Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -77,7 +77,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  133,
+                       "stock":  132,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -165,7 +165,7 @@
                        "name":  "ASHWAGANDHA AMERICANA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA AMERICANA.jpeg",
-                       "stock":  45,
+                       "stock":  44,
                        "offerPrice":  225,
                        "stockLinked":  true
                    },
