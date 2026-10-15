@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-15T19:51:27.5905164Z",
+    "generatedAt":  "2026-10-15T19:55:22.5760035Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -221,7 +221,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  29,
+                       "stock":  27,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -413,7 +413,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  346,
+                       "stock":  345,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
