@@ -7,6 +7,7 @@ $ExcelFileName = [IO.Path]::GetFileName($ExcelPath)
 $SheetName = "Base"
 $StartRow = 3
 $StockColumn = 15
+$PriceColumn = 7     # G - precio oferta
 $PathColumn = 16
 
 $Source = Get-ChildItem $Parent -Directory | Where-Object { $_.Name -like "CAT*LOGO DE PRODUCTOS" } | Select-Object -First 1
@@ -177,6 +178,7 @@ function Get-LiveRows {
     for ($attempt = 1; $attempt -le 3; $attempt++) {
         $ws = $null
         $rng = $null
+        $priceRange = $null
         try {
             if (-not $script:LiveWorkbook) { Connect-LiveWorkbook }
 
@@ -208,6 +210,8 @@ function Get-LiveRows {
 
             $rng = $ws.Range($ws.Cells.Item($StartRow, $StockColumn), $ws.Cells.Item($lastRow, $PathColumn))
             $vals = $rng.Value2
+            $priceRange = $ws.Range($ws.Cells.Item($StartRow, $PriceColumn), $ws.Cells.Item($lastRow, $PriceColumn))
+            $priceVals = $priceRange.Value2
             if ($null -eq $vals) { throw "Excel devolvio un rango vacio." }
 
             $rows = @()
@@ -215,6 +219,7 @@ function Get-LiveRows {
 
             for ($i = 1; $i -le $count; $i++) {
                 $stock = $vals[$i,1]
+                $price = if ($count -eq 1) { $priceVals } else { $priceVals[$i,1] }
                 $path = $vals[$i,2]
                 if ([string]::IsNullOrWhiteSpace([string]$path)) { continue }
 
@@ -222,8 +227,10 @@ function Get-LiveRows {
                     Row = $StartRow + $i - 1
                     Path = [string]$path
                     Stock = $stock
+                    Price = $price
                 }
             }
+            if ($priceRange) { try { [void][Runtime.InteropServices.Marshal]::ReleaseComObject($priceRange) } catch {} }
             return @($rows)
         }
         catch {
@@ -234,6 +241,7 @@ function Get-LiveRows {
             try { Connect-LiveWorkbook } catch {}
         }
         finally {
+            if ($priceRange) { try { [void][Runtime.InteropServices.Marshal]::ReleaseComObject($priceRange) } catch {} }
             if ($rng) { try { [void][Runtime.InteropServices.Marshal]::ReleaseComObject($rng) } catch {} }
             if ($ws)  { try { [void][Runtime.InteropServices.Marshal]::ReleaseComObject($ws) } catch {} }
         }
@@ -245,7 +253,8 @@ function Get-RowsState($rows) {
     foreach ($r in @($rows)) {
         $stockText = if ($null -eq $r.Stock) { "" } else { [string]$r.Stock }
         $pathText  = if ($null -eq $r.Path)  { "" } else { [string]$r.Path }
-        [void]$parts.Add(("{0}|{1}|{2}" -f $r.Row, $stockText, $pathText))
+        $priceText = if ($null -eq $r.Price) { "" } else { [string]$r.Price }
+        [void]$parts.Add(("{0}|{1}|{2}|{3}" -f $r.Row, $stockText, $pathText, $priceText))
     }
     return [string]::Join("`n", $parts.ToArray())
 }
@@ -291,12 +300,12 @@ function Build-CatalogFromSnapshot($rows) {
 
     foreach ($row in $rows) {
         $rk = Relative-Catalog-Key $row.Path
-        if ($rk) { $relative[$rk] = $row.Stock }
+        if ($rk) { $relative[$rk] = [PSCustomObject]@{ Stock = $row.Stock; Price = $row.Price } }
 
         $sk = Stem-Key $row.Path
         if ($sk) {
             if (-not $stemBuckets.ContainsKey($sk)) { $stemBuckets[$sk] = @() }
-            $stemBuckets[$sk] += ,$row.Stock
+            $stemBuckets[$sk] += ,([PSCustomObject]@{ Stock = $row.Stock; Price = $row.Price })
         }
     }
 
@@ -329,17 +338,20 @@ function Build-CatalogFromSnapshot($rows) {
             Copy-Item $f.FullName (Join-Path $td $f.Name) -Force
 
             $stock = $null
+            $price = $null
             $linked = $false
             $rk = Normalize-Text $rel
 
             if ($relative.ContainsKey($rk)) {
-                $stock = $relative[$rk]
+                $stock = $relative[$rk].Stock
+                $price = $relative[$rk].Price
                 $linked = $true
             }
             else {
                 $sk = Stem-Key $f.Name
                 if ($uniqueStem.ContainsKey($sk)) {
-                    $stock = $uniqueStem[$sk]
+                    $stock = $uniqueStem[$sk].Stock
+                    $price = $uniqueStem[$sk].Price
                     $linked = $true
                 }
             }
@@ -351,6 +363,7 @@ function Build-CatalogFromSnapshot($rows) {
                 folder      = if ($dir) { $dir } else { "General" }
                 src         = "images/" + ($rel -replace "\\","/")
                 stock       = $stock
+                offerPrice  = $price
                 stockLinked = $linked
             }
         }
@@ -450,7 +463,8 @@ $needsMigration = $true
 if (Test-Path $catalogPath) {
     try {
         $existingCatalog = Get-Content $catalogPath -Raw | ConvertFrom-Json
-        if ($null -ne $existingCatalog.noStockImages) {
+        if ($null -ne $existingCatalog.noStockImages -and $existingCatalog.images.Count -gt 0 -and
+            ($existingCatalog.images[0].PSObject.Properties.Name -contains "offerPrice")) {
             $needsMigration = $false
         }
     } catch {

@@ -1,11 +1,12 @@
 ﻿{
-    "generatedAt":  "2026-10-15T17:46:09.2044003Z",
+    "generatedAt":  "2026-10-15T17:51:56.4707041Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/ABEDUL 400MG  60 CAPS..jpeg",
                        "stock":  61,
+                       "offerPrice":  70,
                        "stockLinked":  true
                    },
                    {
@@ -13,6 +14,7 @@
                        "folder":  "General",
                        "src":  "images/ACEITE DE COCO EXTRA VIRGEN NATURES WAY.jpeg",
                        "stock":  3,
+                       "offerPrice":  260,
                        "stockLinked":  true
                    },
                    {
@@ -20,6 +22,7 @@
                        "folder":  "General",
                        "src":  "images/ACEITE DE COCO.jpeg",
                        "stock":  6,
+                       "offerPrice":  300,
                        "stockLinked":  true
                    },
                    {
@@ -27,6 +30,7 @@
                        "folder":  "General",
                        "src":  "images/ACEITE DE ORÉGANO 3000MG  60 PERLAS.jpeg",
                        "stock":  16,
+                       "offerPrice":  155,
                        "stockLinked":  true
                    },
                    {
@@ -34,6 +38,7 @@
                        "folder":  "General",
                        "src":  "images/ACEITE DE SALMON.jpeg",
                        "stock":  1,
+                       "offerPrice":  330,
                        "stockLinked":  true
                    },
                    {
@@ -41,6 +46,7 @@
                        "folder":  "General",
                        "src":  "images/ACEITE DE TIBURÓN.jpeg",
                        "stock":  11,
+                       "offerPrice":  100,
                        "stockLinked":  true
                    },
                    {
@@ -48,6 +54,7 @@
                        "folder":  "General",
                        "src":  "images/ACIDO HIALURONICO.jpeg",
                        "stock":  6,
+                       "offerPrice":  230,
                        "stockLinked":  true
                    },
                    {
@@ -55,6 +62,7 @@
                        "folder":  "General",
                        "src":  "images/AGUAJE AMERICANO.png",
                        "stock":  1,
+                       "offerPrice":  200,
                        "stockLinked":  true
                    },
                    {
@@ -62,6 +70,7 @@
                        "folder":  "General",
                        "src":  "images/AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL.jpeg",
                        "stock":  54,
+                       "offerPrice":  195,
                        "stockLinked":  true
                    },
                    {
@@ -69,6 +78,7 @@
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
                        "stock":  135,
+                       "offerPrice":  160,
                        "stockLinked":  true
                    },
                    {
@@ -76,6 +86,7 @@
                        "folder":  "General",
                        "src":  "images/AGUAJE PERUANO 500MG  100 CAPS..jpeg",
                        "stock":  21,
+                       "offerPrice":  135,
                        "stockLinked":  true
                    },
                    {
@@ -83,6 +94,7 @@
                        "folder":  "General",
                        "src":  "images/AGUTROLT COLITIS  60 CAPS. NATURALELI.jpeg",
                        "stock":  6,
+                       "offerPrice":  210,
                        "stockLinked":  true
                    },
                    {
@@ -90,6 +102,7 @@
                        "folder":  "General",
                        "src":  "images/AJO NEGRO 500MG  60 CAPS..jpeg",
                        "stock":  25,
+                       "offerPrice":  100,
                        "stockLinked":  true
                    },
                    {
@@ -97,6 +110,7 @@
                        "folder":  "General",
                        "src":  "images/AJO SIN OLOR AMERICANO.jpeg",
                        "stock":  3,
+                       "offerPrice":  220,
                        "stockLinked":  true
                    },
                    {
@@ -104,6 +118,7 @@
                        "folder":  "General",
                        "src":  "images/AJO SIN OLOR.jpeg",
                        "stock":  13,
+                       "offerPrice":  75,
                        "stockLinked":  true
                    },
                    {
@@ -111,6 +126,7 @@
                        "folder":  "General",
                        "src":  "images/ALA.jpeg",
                        "stock":  16,
+                       "offerPrice":  130,
                        "stockLinked":  true
                    },
                    {
@@ -118,6 +134,7 @@
                        "folder":  "General",
                        "src":  "images/ALCACHOFA.jpeg",
                        "stock":  34,
+                       "offerPrice":  75,
                        "stockLinked":  true
                    },
                    {
@@ -125,6 +142,7 @@
                        "folder":  "General",
                        "src":  "images/ALOE VERA.jpeg",
                        "stock":  12,
+                       "offerPrice":  75,
                        "stockLinked":  true
                    },
                    {
@@ -132,6 +150,7 @@
                        "folder":  "General",
                        "src":  "images/ARCILLA IMPORTADA.jpeg",
                        "stock":  7,
+                       "offerPrice":  180,
                        "stockLinked":  true
                    },
                    {
@@ -139,6 +158,7 @@
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA  60 GOMITAS BBP PARAÍSO NATURAL.jpeg",
                        "stock":  6,
+                       "offerPrice":  200,
                        "stockLinked":  true
                    },
                    {
@@ -146,6 +166,7 @@
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA AMERICANA.jpeg",
                        "stock":  45,
+                       "offerPrice":  225,
                        "stockLinked":  true
                    },
                    {
@@ -153,6 +174,7 @@
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA GOMITAS.jpeg",
                        "stock":  2,
+                       "offerPrice":  230,
                        "stockLinked":  true
                    },
                    {
@@ -160,6 +182,7 @@
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA GOTAS.jpeg",
                        "stock":  2,
+                       "offerPrice":  210,
                        "stockLinked":  true
                    },
                    {
@@ -167,6 +190,7 @@
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
                        "stock":  239,
+                       "offerPrice":  75,
                        "stockLinked":  true
                    },
                    {
@@ -174,6 +198,7 @@
                        "folder":  "General",
                        "src":  "images/ASTAXANTINA 12MG  60 CAPS..jpeg",
                        "stock":  5,
+                       "offerPrice":  300,
                        "stockLinked":  true
                    },
                    {
@@ -181,6 +206,7 @@
                        "folder":  "General",
                        "src":  "images/ASTAXANTINA AMERICANA.jpg",
                        "stock":  1,
+                       "offerPrice":  230,
                        "stockLinked":  true
                    },
                    {
@@ -188,6 +214,7 @@
                        "folder":  "General",
                        "src":  "images/BERBERINA CON CANELA GOTAS 1500MG  60ML ACENTIA LABS.jpeg",
                        "stock":  3,
+                       "offerPrice":  240,
                        "stockLinked":  true
                    },
                    {
@@ -195,6 +222,7 @@
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
                        "stock":  31,
+                       "offerPrice":  135,
                        "stockLinked":  true
                    },
                    {
@@ -202,6 +230,7 @@
                        "folder":  "General",
                        "src":  "images/BOLDO 1000MG  60 CAPS..jpeg",
                        "stock":  31,
+                       "offerPrice":  70,
                        "stockLinked":  true
                    },
                    {
@@ -209,6 +238,7 @@
                        "folder":  "General",
                        "src":  "images/CALCIO CITRATO 1000MG  90 CAPS..jpeg",
                        "stock":  8,
+                       "offerPrice":  80,
                        "stockLinked":  true
                    },
                    {
@@ -216,6 +246,7 @@
                        "folder":  "General",
                        "src":  "images/CALCIO CON VITAMINA D3 GNC.jpeg",
                        "stock":  1,
+                       "offerPrice":  250,
                        "stockLinked":  true
                    },
                    {
@@ -223,6 +254,7 @@
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
                        "stock":  -1392,
+                       "offerPrice":  0,
                        "stockLinked":  true
                    },
                    {
@@ -230,6 +262,7 @@
                        "folder":  "General",
                        "src":  "images/CALOSTRO.jpeg",
                        "stock":  3,
+                       "offerPrice":  285,
                        "stockLinked":  true
                    },
                    {
@@ -237,6 +270,7 @@
                        "folder":  "General",
                        "src":  "images/CANELA 500MG  60 CAPS..jpeg",
                        "stock":  27,
+                       "offerPrice":  70,
                        "stockLinked":  true
                    },
                    {
@@ -244,6 +278,7 @@
                        "folder":  "General",
                        "src":  "images/CARBÓN ACTIVADO 400MG  90 CAPS..jpeg",
                        "stock":  5,
+                       "offerPrice":  70,
                        "stockLinked":  true
                    },
                    {
@@ -251,6 +286,7 @@
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO GOTAS  60 ML HORBAACH.jpeg",
                        "stock":  4,
+                       "offerPrice":  210,
                        "stockLinked":  true
                    },
                    {
@@ -258,6 +294,7 @@
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
                        "stock":  238,
+                       "offerPrice":  75,
                        "stockLinked":  true
                    },
                    {
@@ -265,6 +302,7 @@
                        "folder":  "General",
                        "src":  "images/CARTÍLAGO DE TIBURÓN 500MG  60 CAPS..jpeg",
                        "stock":  10,
+                       "offerPrice":  130,
                        "stockLinked":  true
                    },
                    {
@@ -272,6 +310,7 @@
                        "folder":  "General",
                        "src":  "images/CASTAÑA DE INDIAS.png",
                        "stock":  58,
+                       "offerPrice":  75,
                        "stockLinked":  true
                    },
                    {
@@ -279,6 +318,7 @@
                        "folder":  "General",
                        "src":  "images/CENTRUM ADULTOS.jpeg",
                        "stock":  2,
+                       "offerPrice":  240,
                        "stockLinked":  true
                    },
                    {
@@ -286,6 +326,7 @@
                        "folder":  "General",
                        "src":  "images/CENTRUM MEN + 50.jpeg",
                        "stock":  5,
+                       "offerPrice":  320,
                        "stockLinked":  true
                    },
                    {
@@ -293,6 +334,7 @@
                        "folder":  "General",
                        "src":  "images/CENTRUM MEN 170 GOMITAS AZUL.jpeg",
                        "stock":  1,
+                       "offerPrice":  275,
                        "stockLinked":  true
                    },
                    {
@@ -300,6 +342,7 @@
                        "folder":  "General",
                        "src":  "images/CENTRUM MEN SILVER X 100 TABLETAS.jpeg",
                        "stock":  4,
+                       "offerPrice":  220,
                        "stockLinked":  true
                    },
                    {
@@ -307,6 +350,7 @@
                        "folder":  "General",
                        "src":  "images/CENTRUM MEN.jpeg",
                        "stock":  5,
+                       "offerPrice":  320,
                        "stockLinked":  true
                    },
                    {
@@ -314,6 +358,7 @@
                        "folder":  "General",
                        "src":  "images/CENTRUM PARA NIÑOS GOMITAS.jpeg",
                        "stock":  6,
+                       "offerPrice":  290,
                        "stockLinked":  true
                    },
                    {
@@ -321,6 +366,7 @@
                        "folder":  "General",
                        "src":  "images/CENTRUM WOMEN +50.jpeg",
                        "stock":  3,
+                       "offerPrice":  340,
                        "stockLinked":  true
                    },
                    {
@@ -328,6 +374,7 @@
                        "folder":  "General",
                        "src":  "images/CENTRUM WOMEN 170 GOMITAS.jpeg",
                        "stock":  1,
+                       "offerPrice":  270,
                        "stockLinked":  true
                    },
                    {
@@ -335,6 +382,7 @@
                        "folder":  "General",
                        "src":  "images/CENTRUM WOMEN 200 TABS.jpeg",
                        "stock":  11,
+                       "offerPrice":  300,
                        "stockLinked":  true
                    },
                    {
@@ -342,6 +390,7 @@
                        "folder":  "General",
                        "src":  "images/CENTRUM WOMEN.jpeg",
                        "stock":  2,
+                       "offerPrice":  315,
                        "stockLinked":  true
                    },
                    {
@@ -349,6 +398,7 @@
                        "folder":  "General",
                        "src":  "images/CHANCAPIEDRA.jpeg",
                        "stock":  7,
+                       "offerPrice":  100,
                        "stockLinked":  true
                    },
                    {
@@ -356,6 +406,7 @@
                        "folder":  "General",
                        "src":  "images/CITRATO + GLICINATO DE MAGNESIO POLVO  150G SABOR MANDARINA JOY NATURA.jpeg",
                        "stock":  6,
+                       "offerPrice":  200,
                        "stockLinked":  true
                    },
                    {
@@ -363,6 +414,7 @@
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
                        "stock":  346,
+                       "offerPrice":  80,
                        "stockLinked":  true
                    },
                    {
@@ -370,6 +422,7 @@
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
                        "stock":  204,
+                       "offerPrice":  100,
                        "stockLinked":  true
                    },
                    {
@@ -377,6 +430,7 @@
                        "folder":  "General",
                        "src":  "images/CITRULINA 600GRAMOS KIWI FRESA.jpeg",
                        "stock":  1,
+                       "offerPrice":  480,
                        "stockLinked":  true
                    },
                    {
@@ -384,6 +438,7 @@
                        "folder":  "General",
                        "src":  "images/CITRULINA 600GRAMOS.jpeg",
                        "stock":  1,
+                       "offerPrice":  480,
                        "stockLinked":  true
                    },
                    {
@@ -391,6 +446,7 @@
                        "folder":  "General",
                        "src":  "images/CLORELLA ORGANICA.jpeg",
                        "stock":  16,
+                       "offerPrice":  120,
                        "stockLinked":  true
                    },
                    {
@@ -398,6 +454,7 @@
                        "folder":  "General",
                        "src":  "images/CLOROFILA.jpeg",
                        "stock":  6,
+                       "offerPrice":  220,
                        "stockLinked":  true
                    },
                    {
@@ -405,6 +462,7 @@
                        "folder":  "General",
                        "src":  "images/CLORURO DE MAGNESIO.jpeg",
                        "stock":  6,
+                       "offerPrice":  75,
                        "stockLinked":  true
                    },
                    {
@@ -412,6 +470,7 @@
                        "folder":  "General",
                        "src":  "images/COENZIMA 400MG.jpeg",
                        "stock":  4,
+                       "offerPrice":  385,
                        "stockLinked":  true
                    },
                    {
@@ -419,6 +478,7 @@
                        "folder":  "General",
                        "src":  "images/COENZIMA Q10 AMERICANA.jpeg",
                        "stock":  5,
+                       "offerPrice":  350,
                        "stockLinked":  true
                    },
                    {
@@ -426,6 +486,7 @@
                        "folder":  "General",
                        "src":  "images/COENZIMA Q10 NATURAL POINT.jpeg",
                        "stock":  11,
+                       "offerPrice":  200,
                        "stockLinked":  true
                    },
                    {
@@ -433,6 +494,7 @@
                        "folder":  "General",
                        "src":  "images/COLA DE CABALLO.png",
                        "stock":  8,
+                       "offerPrice":  70,
                        "stockLinked":  true
                    },
                    {
@@ -440,6 +502,7 @@
                        "folder":  "General",
                        "src":  "images/COLÁGENO 6,000MG  290 TABS YOUTHEORY.jpeg",
                        "stock":  1,
+                       "offerPrice":  210,
                        "stockLinked":  true
                    },
                    {
@@ -447,6 +510,7 @@
                        "folder":  "General",
                        "src":  "images/COLÁGENO EN POLVO CON BIOTINA.jpg",
                        "stock":  6,
+                       "offerPrice":  140,
                        "stockLinked":  true
                    },
                    {
@@ -454,6 +518,7 @@
                        "folder":  "General",
                        "src":  "images/COLÁGENO HIDROLIZADO CÁPSULAS.jpeg",
                        "stock":  18,
+                       "offerPrice":  75,
                        "stockLinked":  true
                    },
                    {
@@ -461,6 +526,7 @@
                        "folder":  "General",
                        "src":  "images/COMPLEJO B 8 EN 1 20,000MCG GOTAS  60ML LENM.jpeg",
                        "stock":  5,
+                       "offerPrice":  250,
                        "stockLinked":  true
                    },
                    {
@@ -468,6 +534,7 @@
                        "folder":  "General",
                        "src":  "images/COMPLEJO B COMPLEX 462MG  120 CAPS. NUTRICOST.jpeg",
                        "stock":  10,
+                       "offerPrice":  280,
                        "stockLinked":  true
                    },
                    {
@@ -475,6 +542,7 @@
                        "folder":  "General",
                        "src":  "images/COMPLEJO B NATURE MADE  140 TABS. AMERICANO.jpeg",
                        "stock":  10,
+                       "offerPrice":  210,
                        "stockLinked":  true
                    },
                    {
@@ -482,6 +550,7 @@
                        "folder":  "General",
                        "src":  "images/COMPLEJO B SPORT RESEARCH  60 SOFT GELS.jpeg",
                        "stock":  3,
+                       "offerPrice":  280,
                        "stockLinked":  true
                    },
                    {
@@ -489,6 +558,7 @@
                        "folder":  "General",
                        "src":  "images/CRANBERRY EXTRACTO CON VITAMINA C.jpeg",
                        "stock":  16,
+                       "offerPrice":  115,
                        "stockLinked":  true
                    },
                    {
@@ -496,6 +566,7 @@
                        "folder":  "General",
                        "src":  "images/CREATINA GAT.jpeg",
                        "stock":  3,
+                       "offerPrice":  335,
                        "stockLinked":  true
                    },
                    {
@@ -503,6 +574,7 @@
                        "folder":  "General",
                        "src":  "images/CÁSCARA SAGRADA.jpeg",
                        "stock":  35,
+                       "offerPrice":  70,
                        "stockLinked":  true
                    },
                    {
@@ -510,6 +582,7 @@
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
                        "stock":  996,
+                       "offerPrice":  70,
                        "stockLinked":  true
                    },
                    {
@@ -517,6 +590,7 @@
                        "folder":  "General",
                        "src":  "images/CÚRCUMA PURA.png",
                        "stock":  15,
+                       "offerPrice":  70,
                        "stockLinked":  true
                    },
                    {
@@ -524,6 +598,7 @@
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
                        "stock":  139,
+                       "offerPrice":  105,
                        "stockLinked":  true
                    },
                    {
@@ -531,6 +606,7 @@
                        "folder":  "General",
                        "src":  "images/ELECTROLITROS LIMON.png",
                        "stock":  1,
+                       "offerPrice":  245,
                        "stockLinked":  true
                    },
                    {
@@ -538,6 +614,7 @@
                        "folder":  "General",
                        "src":  "images/ENZIMAS DE PAPAYA.png",
                        "stock":  11,
+                       "offerPrice":  100,
                        "stockLinked":  true
                    },
                    {
@@ -545,6 +622,7 @@
                        "folder":  "General",
                        "src":  "images/EQUINÁCEA.png",
                        "stock":  19,
+                       "offerPrice":  75,
                        "stockLinked":  true
                    },
                    {
@@ -552,6 +630,7 @@
                        "folder":  "General",
                        "src":  "images/ESPIRULINA.jpeg",
                        "stock":  20,
+                       "offerPrice":  120,
                        "stockLinked":  true
                    },
                    {
@@ -559,6 +638,7 @@
                        "folder":  "General",
                        "src":  "images/FENOGRECO.png",
                        "stock":  19,
+                       "offerPrice":  75,
                        "stockLinked":  true
                    },
                    {
@@ -566,6 +646,7 @@
                        "folder":  "General",
                        "src":  "images/FIBRA.jpeg",
                        "stock":  2,
+                       "offerPrice":  350,
                        "stockLinked":  true
                    },
                    {
@@ -573,6 +654,7 @@
                        "folder":  "General",
                        "src":  "images/GABA 750MG  240 CAPS NUTRICOST.jpeg",
                        "stock":  2,
+                       "offerPrice":  345,
                        "stockLinked":  true
                    },
                    {
@@ -580,6 +662,7 @@
                        "folder":  "General",
                        "src":  "images/GARCINIA CAMBOGIA.jpeg",
                        "stock":  16,
+                       "offerPrice":  75,
                        "stockLinked":  true
                    },
                    {
@@ -587,6 +670,7 @@
                        "folder":  "General",
                        "src":  "images/GINKGO BILOBA.png",
                        "stock":  41,
+                       "offerPrice":  75,
                        "stockLinked":  true
                    },
                    {
@@ -594,6 +678,7 @@
                        "folder":  "General",
                        "src":  "images/GINSENG COREANO.png",
                        "stock":  8,
+                       "offerPrice":  110,
                        "stockLinked":  true
                    },
                    {
@@ -601,6 +686,7 @@
                        "folder":  "General",
                        "src":  "images/GLICEROL LÍQUIDO SANDIA MANZANA VERDE.png",
                        "stock":  2,
+                       "offerPrice":  450,
                        "stockLinked":  true
                    },
                    {
@@ -608,6 +694,7 @@
                        "folder":  "General",
                        "src":  "images/GLUCOSAMINA + CODROITINA + MSM + CURCUMA NATURAL P.jpeg",
                        "stock":  3,
+                       "offerPrice":  180,
                        "stockLinked":  true
                    },
                    {
@@ -615,6 +702,7 @@
                        "folder":  "General",
                        "src":  "images/GLUCOSAMINA + CONDROITINA NATURE MADE.jpeg",
                        "stock":  3,
+                       "offerPrice":  320,
                        "stockLinked":  true
                    },
                    {
@@ -622,6 +710,7 @@
                        "folder":  "General",
                        "src":  "images/GLUCOSAMINA CONDROITINA MSM Y VITAMINA D3 PURITANS PRIDE 80 CAPS.jpeg",
                        "stock":  3,
+                       "offerPrice":  360,
                        "stockLinked":  true
                    },
                    {
@@ -629,6 +718,7 @@
                        "folder":  "General",
                        "src":  "images/GLUCOSAMINA Y CONDROITINA NUTRAMEDIX.jpeg",
                        "stock":  4,
+                       "offerPrice":  250,
                        "stockLinked":  true
                    },
                    {
@@ -636,6 +726,7 @@
                        "folder":  "General",
                        "src":  "images/GLUTATION LIPOSOMAL NP.jpeg",
                        "stock":  42,
+                       "offerPrice":  145,
                        "stockLinked":  true
                    },
                    {
@@ -643,6 +734,7 @@
                        "folder":  "General",
                        "src":  "images/GLUTATION NOW 60 CAPS.jpeg",
                        "stock":  3,
+                       "offerPrice":  345,
                        "stockLinked":  true
                    },
                    {
@@ -650,6 +742,7 @@
                        "folder":  "General",
                        "src":  "images/GOLDEN SEAL.png",
                        "stock":  18,
+                       "offerPrice":  80,
                        "stockLinked":  true
                    },
                    {
@@ -657,6 +750,7 @@
                        "folder":  "General",
                        "src":  "images/GOLI MELATONINA.jpeg",
                        "stock":  2,
+                       "offerPrice":  230,
                        "stockLinked":  true
                    },
                    {
@@ -664,6 +758,7 @@
                        "folder":  "General",
                        "src":  "images/GOTAS CALLO DERMA.png",
                        "stock":  null,
+                       "offerPrice":  null,
                        "stockLinked":  false
                    },
                    {
@@ -671,6 +766,7 @@
                        "folder":  "General",
                        "src":  "images/GRAVIOLA (GUANÁBANA).png",
                        "stock":  25,
+                       "offerPrice":  75,
                        "stockLinked":  true
                    },
                    {
@@ -678,6 +774,7 @@
                        "folder":  "General",
                        "src":  "images/GUARANÁ EXTRACTO.png",
                        "stock":  23,
+                       "offerPrice":  90,
                        "stockLinked":  true
                    },
                    {
@@ -685,6 +782,7 @@
                        "folder":  "General",
                        "src":  "images/GYMNEMA SYLVESTRE.png",
                        "stock":  39,
+                       "offerPrice":  75,
                        "stockLinked":  true
                    },
                    {
@@ -692,6 +790,7 @@
                        "folder":  "General",
                        "src":  "images/HAIR, SKIN \u0026 NAILS  90 GOMITAS FLAMZY.jpeg",
                        "stock":  4,
+                       "offerPrice":  185,
                        "stockLinked":  true
                    },
                    {
@@ -699,6 +798,7 @@
                        "folder":  "General",
                        "src":  "images/HAIR, SKIN AND NAILS  140 GOMITAS. NATURE´S BOUNTY ROSADO.jpeg",
                        "stock":  5,
+                       "offerPrice":  235,
                        "stockLinked":  true
                    },
                    {
@@ -706,6 +806,7 @@
                        "folder":  "General",
                        "src":  "images/HAIR, SKIN AND NAILS ADVANCE  200 GOMITAS. NATURE´S BOUNTY MORADO.jpeg",
                        "stock":  3,
+                       "offerPrice":  295,
                        "stockLinked":  true
                    },
                    {
@@ -713,6 +814,7 @@
                        "folder":  "General",
                        "src":  "images/HAIR, SKIN AND NAILS CON BIOTINA  200 GOMITAS. NARANJA NATURE´S BOUNTY.jpeg",
                        "stock":  1,
+                       "offerPrice":  300,
                        "stockLinked":  true
                    },
                    {
@@ -720,6 +822,7 @@
                        "folder":  "General",
                        "src":  "images/HAIR, SKIN AND NAILS CON BIOTINA  80 GOMITAS NARANJA NATURE´S BOUNTY.jpeg",
                        "stock":  5,
+                       "offerPrice":  180,
                        "stockLinked":  true
                    },
                    {
@@ -727,6 +830,7 @@
                        "folder":  "General",
                        "src":  "images/HEPA REVIVE .jpg",
                        "stock":  91,
+                       "offerPrice":  130,
                        "stockLinked":  true
                    },
                    {
@@ -734,6 +838,7 @@
                        "folder":  "General",
                        "src":  "images/HGH HORMONA DEL CRECIMIENTO.jpeg",
                        "stock":  5,
+                       "offerPrice":  320,
                        "stockLinked":  true
                    },
                    {
@@ -741,6 +846,7 @@
                        "folder":  "General",
                        "src":  "images/HIERRO 65 MG.jpeg",
                        "stock":  1,
+                       "offerPrice":  200,
                        "stockLinked":  true
                    },
                    {
@@ -748,6 +854,7 @@
                        "folder":  "General",
                        "src":  "images/HYDROXYCUT HARDCORE ELITE  100 CÁPSULAS MUSCLETECH.jpeg",
                        "stock":  5,
+                       "offerPrice":  330,
                        "stockLinked":  true
                    },
                    {
@@ -755,6 +862,7 @@
                        "folder":  "General",
                        "src":  "images/INOSITOL DORADO.jpeg",
                        "stock":  3,
+                       "offerPrice":  290,
                        "stockLinked":  true
                    },
                    {
@@ -762,6 +870,7 @@
                        "folder":  "General",
                        "src":  "images/INOSITOL MYO \u0026 D-CHIRO POLVO 227GR. DEAL SUPPLEMENT.jpeg",
                        "stock":  1,
+                       "offerPrice":  285,
                        "stockLinked":  true
                    },
                    {
@@ -769,6 +878,7 @@
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
                        "stock":  123,
+                       "offerPrice":  120,
                        "stockLinked":  true
                    },
                    {
@@ -776,6 +886,7 @@
                        "folder":  "General",
                        "src":  "images/ISOFLAVONAS.png",
                        "stock":  28,
+                       "offerPrice":  120,
                        "stockLinked":  true
                    },
                    {
@@ -783,6 +894,7 @@
                        "folder":  "General",
                        "src":  "images/JABÓN DE ARROZ.png",
                        "stock":  14,
+                       "offerPrice":  50,
                        "stockLinked":  true
                    },
                    {
@@ -790,6 +902,7 @@
                        "folder":  "General",
                        "src":  "images/JABÓN DE CÚRCUMA.png",
                        "stock":  56,
+                       "offerPrice":  50,
                        "stockLinked":  true
                    },
                    {
@@ -797,6 +910,7 @@
                        "folder":  "General",
                        "src":  "images/JENGIBRE.png",
                        "stock":  17,
+                       "offerPrice":  70,
                        "stockLinked":  true
                    },
                    {
@@ -804,6 +918,7 @@
                        "folder":  "General",
                        "src":  "images/KELP EXTRACTO.jpeg",
                        "stock":  31,
+                       "offerPrice":  90,
                        "stockLinked":  true
                    },
                    {
@@ -811,6 +926,7 @@
                        "folder":  "General",
                        "src":  "images/KIT A CHAMPIONS APPROACH RONNIE COLEMAN   2 FRASCOS DE 120 CAPS (OMEGA 3 \u0026 VITAMÍNICO).jpeg",
                        "stock":  5,
+                       "offerPrice":  360,
                        "stockLinked":  true
                    },
                    {
@@ -818,6 +934,7 @@
                        "folder":  "General",
                        "src":  "images/L-ARGININA 500MG  90 CAPS..jpeg",
                        "stock":  47,
+                       "offerPrice":  110,
                        "stockLinked":  true
                    },
                    {
@@ -825,6 +942,7 @@
                        "folder":  "General",
                        "src":  "images/L-CARNITINA BEBIBLE.jpeg",
                        "stock":  4,
+                       "offerPrice":  300,
                        "stockLinked":  true
                    },
                    {
@@ -832,6 +950,7 @@
                        "folder":  "General",
                        "src":  "images/L-CARNITINA CAPSULAS.jpeg",
                        "stock":  2,
+                       "offerPrice":  145,
                        "stockLinked":  true
                    },
                    {
@@ -839,6 +958,7 @@
                        "folder":  "General",
                        "src":  "images/L-CITRULINA 250G NUTRICOST SIN SABOR.jpeg",
                        "stock":  3,
+                       "offerPrice":  345,
                        "stockLinked":  true
                    },
                    {
@@ -846,6 +966,7 @@
                        "folder":  "General",
                        "src":  "images/L-LISINA.jpeg",
                        "stock":  8,
+                       "offerPrice":  90,
                        "stockLinked":  true
                    },
                    {
@@ -853,6 +974,7 @@
                        "folder":  "General",
                        "src":  "images/L-TRIPTÓFANO.png",
                        "stock":  22,
+                       "offerPrice":  120,
                        "stockLinked":  true
                    },
                    {
@@ -860,6 +982,7 @@
                        "folder":  "General",
                        "src":  "images/LECHE DORADA POLVO.jpg",
                        "stock":  8,
+                       "offerPrice":  120,
                        "stockLinked":  true
                    },
                    {
@@ -867,6 +990,7 @@
                        "folder":  "General",
                        "src":  "images/LECITINA DE SOYA.png",
                        "stock":  2,
+                       "offerPrice":  175,
                        "stockLinked":  true
                    },
                    {
@@ -874,6 +998,7 @@
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
                        "stock":  16,
+                       "offerPrice":  160,
                        "stockLinked":  true
                    },
                    {
@@ -881,6 +1006,7 @@
                        "folder":  "General",
                        "src":  "images/LIPO 6 BLACK QUEMADOR DE GRASA  60 CAPS NUTREX.jpeg",
                        "stock":  3,
+                       "offerPrice":  300,
                        "stockLinked":  true
                    },
                    {
@@ -888,6 +1014,7 @@
                        "folder":  "General",
                        "src":  "images/LONGJACK TONGKAT ALI.jpeg",
                        "stock":  1,
+                       "offerPrice":  230,
                        "stockLinked":  true
                    },
                    {
@@ -895,6 +1022,7 @@
                        "folder":  "General",
                        "src":  "images/LONJACK POINT.jpeg",
                        "stock":  9,
+                       "offerPrice":  180,
                        "stockLinked":  true
                    },
                    {
@@ -902,6 +1030,7 @@
                        "folder":  "General",
                        "src":  "images/LUTEIN LUTIGOLD 40MG.jpeg",
                        "stock":  5,
+                       "offerPrice":  290,
                        "stockLinked":  true
                    },
                    {
@@ -909,6 +1038,7 @@
                        "folder":  "General",
                        "src":  "images/MACA.png",
                        "stock":  23,
+                       "offerPrice":  190,
                        "stockLinked":  true
                    },
                    {
@@ -916,6 +1046,7 @@
                        "folder":  "General",
                        "src":  "images/MAGNESIO 3 EN 1 POLVO  300 GRAMOS ZEBORA.jpeg",
                        "stock":  2,
+                       "offerPrice":  310,
                        "stockLinked":  true
                    },
                    {
@@ -923,6 +1054,7 @@
                        "folder":  "General",
                        "src":  "images/MAGNESIO COMPLEX.jpeg",
                        "stock":  26,
+                       "offerPrice":  230,
                        "stockLinked":  true
                    },
                    {
@@ -930,6 +1062,7 @@
                        "folder":  "General",
                        "src":  "images/MAGNESIO GLICINATO GOLI.jpeg",
                        "stock":  1,
+                       "offerPrice":  260,
                        "stockLinked":  true
                    },
                    {
@@ -937,6 +1070,7 @@
                        "folder":  "General",
                        "src":  "images/MAGNESIO PARA NIÑOS  30 GOMITAS  NATROL KIDS.jpeg",
                        "stock":  6,
+                       "offerPrice":  205,
                        "stockLinked":  true
                    },
                    {
@@ -944,6 +1078,7 @@
                        "folder":  "General",
                        "src":  "images/MAGNESIO SUPER.jpeg",
                        "stock":  6,
+                       "offerPrice":  235,
                        "stockLinked":  true
                    },
                    {
@@ -951,6 +1086,7 @@
                        "folder":  "General",
                        "src":  "images/MAGNESIO Y POTASIO AMERICANO.jpeg",
                        "stock":  6,
+                       "offerPrice":  285,
                        "stockLinked":  true
                    },
                    {
@@ -958,6 +1094,7 @@
                        "folder":  "General",
                        "src":  "images/MELATONINA ADULTOS CARLYLE.jpeg",
                        "stock":  1,
+                       "offerPrice":  235,
                        "stockLinked":  true
                    },
                    {
@@ -965,6 +1102,7 @@
                        "folder":  "General",
                        "src":  "images/MELATONINA ADULTOS NATROL.jpeg",
                        "stock":  1,
+                       "offerPrice":  245,
                        "stockLinked":  true
                    },
                    {
@@ -972,6 +1110,7 @@
                        "folder":  "General",
                        "src":  "images/MELATONINA KIDS NATROL.jpeg",
                        "stock":  5,
+                       "offerPrice":  210,
                        "stockLinked":  true
                    },
                    {
@@ -979,6 +1118,7 @@
                        "folder":  "General",
                        "src":  "images/MELATONINA.png",
                        "stock":  14,
+                       "offerPrice":  125,
                        "stockLinked":  true
                    },
                    {
@@ -986,6 +1126,7 @@
                        "folder":  "General",
                        "src":  "images/MELENA DE LEON EXTRACTO.jpeg",
                        "stock":  15,
+                       "offerPrice":  130,
                        "stockLinked":  true
                    },
                    {
@@ -993,6 +1134,7 @@
                        "folder":  "General",
                        "src":  "images/MINOXIDIL  60ML KIRLAND.jpeg",
                        "stock":  17,
+                       "offerPrice":  130,
                        "stockLinked":  true
                    },
                    {
@@ -1000,6 +1142,7 @@
                        "folder":  "General",
                        "src":  "images/MORINGA.png",
                        "stock":  14,
+                       "offerPrice":  70,
                        "stockLinked":  true
                    },
                    {
@@ -1007,6 +1150,7 @@
                        "folder":  "General",
                        "src":  "images/MSM (AZUFRE ORGÁNICO) 500MG  90 CAPS..jpeg",
                        "stock":  10,
+                       "offerPrice":  110,
                        "stockLinked":  true
                    },
                    {
@@ -1014,6 +1158,7 @@
                        "folder":  "General",
                        "src":  "images/MULTI COLÁGENO PÉPTIDOS POLVO CODE AGE  342GRM..jpeg",
                        "stock":  8,
+                       "offerPrice":  230,
                        "stockLinked":  true
                    },
                    {
@@ -1021,6 +1166,7 @@
                        "folder":  "General",
                        "src":  "images/MULTIVITAMÍNICO MENS MULTI+TEST 150 TABS GAT SPORT.jpeg",
                        "stock":  5,
+                       "offerPrice":  350,
                        "stockLinked":  true
                    },
                    {
@@ -1028,6 +1174,7 @@
                        "folder":  "General",
                        "src":  "images/MULTIVITAMÍNICO NUTRICOST CON PROBIÓTICOS.jpeg",
                        "stock":  3,
+                       "offerPrice":  270,
                        "stockLinked":  true
                    },
                    {
@@ -1035,6 +1182,7 @@
                        "folder":  "General",
                        "src":  "images/MULTIVITAMÍNICO PARA NIÑOS OLLY  70 GUSANITOS DE GOMA.jpeg",
                        "stock":  1,
+                       "offerPrice":  250,
                        "stockLinked":  true
                    },
                    {
@@ -1042,6 +1190,7 @@
                        "folder":  "General",
                        "src":  "images/NAC.png",
                        "stock":  48,
+                       "offerPrice":  120,
                        "stockLinked":  true
                    },
                    {
@@ -1049,6 +1198,7 @@
                        "folder":  "General",
                        "src":  "images/NIACIN VITAMINA B3 NUTRICOST.jpeg",
                        "stock":  3,
+                       "offerPrice":  240,
                        "stockLinked":  true
                    },
                    {
@@ -1056,6 +1206,7 @@
                        "folder":  "General",
                        "src":  "images/NOPAL.png",
                        "stock":  23,
+                       "offerPrice":  70,
                        "stockLinked":  true
                    },
                    {
@@ -1063,6 +1214,7 @@
                        "folder":  "General",
                        "src":  "images/OMEGA 3 FISH OIL 1200MG 900MG DHA X 90 CAPS BIO SCHWARTZ.jpeg",
                        "stock":  3,
+                       "offerPrice":  360,
                        "stockLinked":  true
                    },
                    {
@@ -1070,6 +1222,7 @@
                        "folder":  "General",
                        "src":  "images/OMEGA 3 GAT SPORT.jpeg",
                        "stock":  13,
+                       "offerPrice":  330,
                        "stockLinked":  true
                    },
                    {
@@ -1077,6 +1230,7 @@
                        "folder":  "General",
                        "src":  "images/OMEGA 3 GNC LIMÓN X 90 CAPS.jpeg",
                        "stock":  1,
+                       "offerPrice":  245,
                        "stockLinked":  true
                    },
                    {
@@ -1084,6 +1238,7 @@
                        "folder":  "General",
                        "src":  "images/OMEGA 3 KIDS VEVISS.jpeg",
                        "stock":  4,
+                       "offerPrice":  295,
                        "stockLinked":  true
                    },
                    {
@@ -1091,6 +1246,7 @@
                        "folder":  "General",
                        "src":  "images/OMEGA 3 NIÑOS DR MORITZ.jpeg",
                        "stock":  4,
+                       "offerPrice":  290,
                        "stockLinked":  true
                    },
                    {
@@ -1098,6 +1254,7 @@
                        "folder":  "General",
                        "src":  "images/OMEGA 3 NORDIC.jpeg",
                        "stock":  2,
+                       "offerPrice":  365,
                        "stockLinked":  true
                    },
                    {
@@ -1105,6 +1262,7 @@
                        "folder":  "General",
                        "src":  "images/OMEGA 3 SPORT RESEARCH ALASKAN  90 SOFT GEL.jpeg",
                        "stock":  3,
+                       "offerPrice":  440,
                        "stockLinked":  true
                    },
                    {
@@ -1112,6 +1270,7 @@
                        "folder":  "General",
                        "src":  "images/OMEGA 3 VIVA NATURALS.jpeg",
                        "stock":  8,
+                       "offerPrice":  380,
                        "stockLinked":  true
                    },
                    {
@@ -1119,6 +1278,7 @@
                        "folder":  "General",
                        "src":  "images/OMEGA 3 ZEBORA.jpeg",
                        "stock":  3,
+                       "offerPrice":  325,
                        "stockLinked":  true
                    },
                    {
@@ -1126,6 +1286,7 @@
                        "folder":  "General",
                        "src":  "images/OMEGA 3.jpeg",
                        "stock":  12,
+                       "offerPrice":  110,
                        "stockLinked":  true
                    },
                    {
@@ -1133,6 +1294,7 @@
                        "folder":  "General",
                        "src":  "images/ONE A DAY MENS 200 TABS.jpeg",
                        "stock":  3,
+                       "offerPrice":  290,
                        "stockLinked":  true
                    },
                    {
@@ -1140,6 +1302,7 @@
                        "folder":  "General",
                        "src":  "images/ONE A DAY PRENATAL ADVANCED.jpeg",
                        "stock":  3,
+                       "offerPrice":  460,
                        "stockLinked":  true
                    },
                    {
@@ -1147,6 +1310,7 @@
                        "folder":  "General",
                        "src":  "images/ONE A DAY SOPORTE PARA MENOPAUSIA  50 TABS BAYER.jpeg",
                        "stock":  1,
+                       "offerPrice":  330,
                        "stockLinked":  true
                    },
                    {
@@ -1154,6 +1318,7 @@
                        "folder":  "General",
                        "src":  "images/ONE A DAY WOMEN 200 TABS.jpeg",
                        "stock":  3,
+                       "offerPrice":  290,
                        "stockLinked":  true
                    },
                    {
@@ -1161,6 +1326,7 @@
                        "folder":  "General",
                        "src":  "images/ORTIGA.png",
                        "stock":  27,
+                       "offerPrice":  70,
                        "stockLinked":  true
                    },
                    {
@@ -1168,6 +1334,7 @@
                        "folder":  "General",
                        "src":  "images/OXIDO NITRICO.jpeg",
                        "stock":  2,
+                       "offerPrice":  280,
                        "stockLinked":  true
                    },
                    {
@@ -1175,6 +1342,7 @@
                        "folder":  "General",
                        "src":  "images/P+ H-D SUP. VAGINALES DE ÁCIDO BÓRICO 600MG  24 UN. WOMEN OWNED.jpeg",
                        "stock":  3,
+                       "offerPrice":  320,
                        "stockLinked":  true
                    },
                    {
@@ -1182,6 +1350,7 @@
                        "folder":  "General",
                        "src":  "images/PASIFLORA COMPUESTA.jpeg",
                        "stock":  11,
+                       "offerPrice":  75,
                        "stockLinked":  true
                    },
                    {
@@ -1189,6 +1358,7 @@
                        "folder":  "General",
                        "src":  "images/PASTILLERO.jpeg",
                        "stock":  10,
+                       "offerPrice":  75,
                        "stockLinked":  true
                    },
                    {
@@ -1196,6 +1366,7 @@
                        "folder":  "General",
                        "src":  "images/POMADAS CALLO DERMA.png",
                        "stock":  null,
+                       "offerPrice":  null,
                        "stockLinked":  false
                    },
                    {
@@ -1203,6 +1374,7 @@
                        "folder":  "General",
                        "src":  "images/PROBIOTICOS CANLIST.jpeg",
                        "stock":  19,
+                       "offerPrice":  210,
                        "stockLinked":  true
                    },
                    {
@@ -1210,6 +1382,7 @@
                        "folder":  "General",
                        "src":  "images/PROBIOTICOS PARA NIÑOS NATURES WAY.jpeg",
                        "stock":  2,
+                       "offerPrice":  230,
                        "stockLinked":  true
                    },
                    {
@@ -1217,6 +1390,7 @@
                        "folder":  "General",
                        "src":  "images/PROBIOTICOS WOMENS.jpeg",
                        "stock":  2,
+                       "offerPrice":  400,
                        "stockLinked":  true
                    },
                    {
@@ -1224,6 +1398,7 @@
                        "folder":  "General",
                        "src":  "images/PROBIOTIVOS VITALIBRE.jpeg",
                        "stock":  3,
+                       "offerPrice":  205,
                        "stockLinked":  true
                    },
                    {
@@ -1231,6 +1406,7 @@
                        "folder":  "General",
                        "src":  "images/PROBIÓTICOS NATURE´S BOUNTY  120 TABS..jpeg",
                        "stock":  5,
+                       "offerPrice":  195,
                        "stockLinked":  true
                    },
                    {
@@ -1238,6 +1414,7 @@
                        "folder":  "General",
                        "src":  "images/PROBIÓTICOS PARA MUJERES ZEBORA.jpeg",
                        "stock":  1,
+                       "offerPrice":  220,
                        "stockLinked":  true
                    },
                    {
@@ -1245,6 +1422,7 @@
                        "folder":  "General",
                        "src":  "images/PROBIÓTICOS Y PREBIÓTICOS FORTIFY.jpeg",
                        "stock":  5,
+                       "offerPrice":  330,
                        "stockLinked":  true
                    },
                    {
@@ -1252,6 +1430,7 @@
                        "folder":  "General",
                        "src":  "images/PROGESTERONA CREMA.jpeg",
                        "stock":  4,
+                       "offerPrice":  450,
                        "stockLinked":  true
                    },
                    {
@@ -1259,6 +1438,7 @@
                        "folder":  "General",
                        "src":  "images/PROPÓLEO  60 CAPS. NUTRAMEDIX.jpeg",
                        "stock":  3,
+                       "offerPrice":  220,
                        "stockLinked":  true
                    },
                    {
@@ -1266,6 +1446,7 @@
                        "folder":  "General",
                        "src":  "images/REISHI GANODERMA.png",
                        "stock":  20,
+                       "offerPrice":  110,
                        "stockLinked":  true
                    },
                    {
@@ -1273,6 +1454,7 @@
                        "folder":  "General",
                        "src":  "images/REMOLACHA.png",
                        "stock":  31,
+                       "offerPrice":  75,
                        "stockLinked":  true
                    },
                    {
@@ -1280,6 +1462,7 @@
                        "folder":  "General",
                        "src":  "images/RESVERATROL.png",
                        "stock":  42,
+                       "offerPrice":  120,
                        "stockLinked":  true
                    },
                    {
@@ -1287,6 +1470,7 @@
                        "folder":  "General",
                        "src":  "images/RHODIOLA.png",
                        "stock":  3,
+                       "offerPrice":  80,
                        "stockLinked":  true
                    },
                    {
@@ -1294,6 +1478,7 @@
                        "folder":  "General",
                        "src":  "images/SAW PALMETTO.jpeg",
                        "stock":  31,
+                       "offerPrice":  120,
                        "stockLinked":  true
                    },
                    {
@@ -1301,6 +1486,7 @@
                        "folder":  "General",
                        "src":  "images/SELENIO.png",
                        "stock":  15,
+                       "offerPrice":  120,
                        "stockLinked":  true
                    },
                    {
@@ -1308,6 +1494,7 @@
                        "folder":  "General",
                        "src":  "images/SERENIREST.jpeg",
                        "stock":  21,
+                       "offerPrice":  100,
                        "stockLinked":  true
                    },
                    {
@@ -1315,6 +1502,7 @@
                        "folder":  "General",
                        "src":  "images/SERUM DE ARROZ.jpeg",
                        "stock":  4,
+                       "offerPrice":  135,
                        "stockLinked":  true
                    },
                    {
@@ -1322,6 +1510,7 @@
                        "folder":  "General",
                        "src":  "images/SHILAJIT  60 GOMITAS BBP PARAÍSO NATURAL.jpeg",
                        "stock":  12,
+                       "offerPrice":  200,
                        "stockLinked":  true
                    },
                    {
@@ -1329,6 +1518,7 @@
                        "folder":  "General",
                        "src":  "images/SHILAJIT ULTRA COMPLEX NP.jpeg",
                        "stock":  3,
+                       "offerPrice":  165,
                        "stockLinked":  true
                    },
                    {
@@ -1336,6 +1526,7 @@
                        "folder":  "General",
                        "src":  "images/SMARTY PANTS MULTIVITAMÍNICO PAR ADOLESCENTES HOMBRES  60 GOMITAS.jpeg",
                        "stock":  3,
+                       "offerPrice":  295,
                        "stockLinked":  true
                    },
                    {
@@ -1343,6 +1534,7 @@
                        "folder":  "General",
                        "src":  "images/TAURINA.png",
                        "stock":  19,
+                       "offerPrice":  100,
                        "stockLinked":  true
                    },
                    {
@@ -1350,6 +1542,7 @@
                        "folder":  "General",
                        "src":  "images/TESTOSTERONA BOOSTER BPI.jpeg",
                        "stock":  1,
+                       "offerPrice":  400,
                        "stockLinked":  true
                    },
                    {
@@ -1357,6 +1550,7 @@
                        "folder":  "General",
                        "src":  "images/TESTOSTERONA BOOSTER.jpeg",
                        "stock":  6,
+                       "offerPrice":  330,
                        "stockLinked":  true
                    },
                    {
@@ -1364,6 +1558,7 @@
                        "folder":  "General",
                        "src":  "images/TIROIDES SOPORTE.jpeg",
                        "stock":  1,
+                       "offerPrice":  295,
                        "stockLinked":  true
                    },
                    {
@@ -1371,6 +1566,7 @@
                        "folder":  "General",
                        "src":  "images/TORONJA.png",
                        "stock":  26,
+                       "offerPrice":  80,
                        "stockLinked":  true
                    },
                    {
@@ -1378,6 +1574,7 @@
                        "folder":  "General",
                        "src":  "images/TRIBULUS TERRESTRIS TESTOSTERONA.jpeg",
                        "stock":  2,
+                       "offerPrice":  235,
                        "stockLinked":  true
                    },
                    {
@@ -1385,6 +1582,7 @@
                        "folder":  "General",
                        "src":  "images/ULTRA OMEGA 3 NOW X 90.jpeg",
                        "stock":  11,
+                       "offerPrice":  345,
                        "stockLinked":  true
                    },
                    {
@@ -1392,6 +1590,7 @@
                        "folder":  "General",
                        "src":  "images/URO PROBIOTICOS VAGINALES.jpeg",
                        "stock":  5,
+                       "offerPrice":  405,
                        "stockLinked":  true
                    },
                    {
@@ -1399,6 +1598,7 @@
                        "folder":  "General",
                        "src":  "images/UÑA DE GATO.png",
                        "stock":  40,
+                       "offerPrice":  70,
                        "stockLinked":  true
                    },
                    {
@@ -1406,6 +1606,7 @@
                        "folder":  "General",
                        "src":  "images/VENAS Y VARICES LEG VEINS.jpeg",
                        "stock":  3,
+                       "offerPrice":  285,
                        "stockLinked":  true
                    },
                    {
@@ -1413,6 +1614,7 @@
                        "folder":  "General",
                        "src":  "images/VINAGRE DE MANZANA  60 GOMITAS BBP PARAÍSO NATURAL.jpeg",
                        "stock":  6,
+                       "offerPrice":  210,
                        "stockLinked":  true
                    },
                    {
@@ -1420,6 +1622,7 @@
                        "folder":  "General",
                        "src":  "images/VINAGRE DE MANZANA GOLÍ.jpeg",
                        "stock":  2,
+                       "offerPrice":  230,
                        "stockLinked":  true
                    },
                    {
@@ -1427,6 +1630,7 @@
                        "folder":  "General",
                        "src":  "images/VINAGRE DE MANZANA.png",
                        "stock":  11,
+                       "offerPrice":  75,
                        "stockLinked":  true
                    },
                    {
@@ -1434,6 +1638,7 @@
                        "folder":  "General",
                        "src":  "images/VITAMINA A (RETINOL).png",
                        "stock":  20,
+                       "offerPrice":  120,
                        "stockLinked":  true
                    },
                    {
@@ -1441,6 +1646,7 @@
                        "folder":  "General",
                        "src":  "images/VITAMINA B1 (TIAMINA).png",
                        "stock":  7,
+                       "offerPrice":  160,
                        "stockLinked":  true
                    },
                    {
@@ -1448,6 +1654,7 @@
                        "folder":  "General",
                        "src":  "images/VITAMINA B12.jpeg",
                        "stock":  17,
+                       "offerPrice":  200,
                        "stockLinked":  true
                    },
                    {
@@ -1455,6 +1662,7 @@
                        "folder":  "General",
                        "src":  "images/VITAMINA B2 (RIBOFLAVINA).png",
                        "stock":  13,
+                       "offerPrice":  160,
                        "stockLinked":  true
                    },
                    {
@@ -1462,6 +1670,7 @@
                        "folder":  "General",
                        "src":  "images/VITAMINA B3 (NIACINAMIDA).jpeg",
                        "stock":  3,
+                       "offerPrice":  135,
                        "stockLinked":  true
                    },
                    {
@@ -1469,6 +1678,7 @@
                        "folder":  "General",
                        "src":  "images/VITAMINA B5 (ACIDO PANTOTÉNICO).jpeg",
                        "stock":  40,
+                       "offerPrice":  160,
                        "stockLinked":  true
                    },
                    {
@@ -1476,6 +1686,7 @@
                        "folder":  "General",
                        "src":  "images/VITAMINA B6.jpeg",
                        "stock":  2,
+                       "offerPrice":  175,
                        "stockLinked":  true
                    },
                    {
@@ -1483,6 +1694,7 @@
                        "folder":  "General",
                        "src":  "images/VITAMINA B7 (BIOTINA).png",
                        "stock":  9,
+                       "offerPrice":  160,
                        "stockLinked":  true
                    },
                    {
@@ -1490,6 +1702,7 @@
                        "folder":  "General",
                        "src":  "images/VITAMINA B9 (ÁCIDO FOLICO).png",
                        "stock":  19,
+                       "offerPrice":  120,
                        "stockLinked":  true
                    },
                    {
@@ -1497,6 +1710,7 @@
                        "folder":  "General",
                        "src":  "images/VITAMINA C + ZINC + EQUINACEA  60 GOMITAS.jpeg",
                        "stock":  6,
+                       "offerPrice":  220,
                        "stockLinked":  true
                    },
                    {
@@ -1504,6 +1718,7 @@
                        "folder":  "General",
                        "src":  "images/VITAMINA C.jpeg",
                        "stock":  26,
+                       "offerPrice":  75,
                        "stockLinked":  true
                    },
                    {
@@ -1511,6 +1726,7 @@
                        "folder":  "General",
                        "src":  "images/VITAMINA E 1000 UI.png",
                        "stock":  9,
+                       "offerPrice":  180,
                        "stockLinked":  true
                    },
                    {
@@ -1518,6 +1734,7 @@
                        "folder":  "General",
                        "src":  "images/VITAMINA E 400 UI.png",
                        "stock":  12,
+                       "offerPrice":  110,
                        "stockLinked":  true
                    },
                    {
@@ -1525,6 +1742,7 @@
                        "folder":  "General",
                        "src":  "images/VITAMINA E 700MG  90 CAPS USO FACIAL.jpeg",
                        "stock":  12,
+                       "offerPrice":  210,
                        "stockLinked":  true
                    },
                    {
@@ -1532,6 +1750,7 @@
                        "folder":  "General",
                        "src":  "images/VITAMINA K.png",
                        "stock":  11,
+                       "offerPrice":  170,
                        "stockLinked":  true
                    },
                    {
@@ -1539,6 +1758,7 @@
                        "folder":  "General",
                        "src":  "images/VITAMINAS ADOLESCENTES HOMBRES.jpeg",
                        "stock":  1,
+                       "offerPrice":  300,
                        "stockLinked":  true
                    },
                    {
@@ -1546,6 +1766,7 @@
                        "folder":  "General",
                        "src":  "images/VITAMINAS ALIVE DAILY ENERGY.jpeg",
                        "stock":  17,
+                       "offerPrice":  200,
                        "stockLinked":  true
                    },
                    {
@@ -1553,6 +1774,7 @@
                        "folder":  "General",
                        "src":  "images/VITAMINAS SMARTY PANTS.jpeg",
                        "stock":  6,
+                       "offerPrice":  370,
                        "stockLinked":  true
                    },
                    {
@@ -1560,6 +1782,7 @@
                        "folder":  "General",
                        "src":  "images/VITEX.png",
                        "stock":  26,
+                       "offerPrice":  80,
                        "stockLinked":  true
                    },
                    {
@@ -1567,6 +1790,7 @@
                        "folder":  "General",
                        "src":  "images/YODO GOTAS 150MCG  118ML CARLYLE.jpeg",
                        "stock":  4,
+                       "offerPrice":  170,
                        "stockLinked":  true
                    },
                    {
@@ -1574,6 +1798,7 @@
                        "folder":  "General",
                        "src":  "images/YOHIMBE POLVO.jpeg",
                        "stock":  9,
+                       "offerPrice":  70,
                        "stockLinked":  true
                    },
                    {
@@ -1581,6 +1806,7 @@
                        "folder":  "General",
                        "src":  "images/YOHIMBINA EXTRACTO.jpeg",
                        "stock":  13,
+                       "offerPrice":  140,
                        "stockLinked":  true
                    },
                    {
@@ -1588,6 +1814,7 @@
                        "folder":  "General",
                        "src":  "images/ZARZA PARRILLA.jpeg",
                        "stock":  29,
+                       "offerPrice":  70,
                        "stockLinked":  true
                    },
                    {
@@ -1595,6 +1822,7 @@
                        "folder":  "General",
                        "src":  "images/ZINC 50 MG.jpeg",
                        "stock":  2,
+                       "offerPrice":  185,
                        "stockLinked":  true
                    },
                    {
@@ -1602,6 +1830,7 @@
                        "folder":  "General",
                        "src":  "images/ZINC 50MG GNC.jpeg",
                        "stock":  1,
+                       "offerPrice":  270,
                        "stockLinked":  true
                    },
                    {
@@ -1609,6 +1838,7 @@
                        "folder":  "General",
                        "src":  "images/ZINC PARA HOMBRES 11 INGREDIENTES.jpeg",
                        "stock":  1,
+                       "offerPrice":  280,
                        "stockLinked":  true
                    },
                    {
@@ -1616,6 +1846,7 @@
                        "folder":  "General",
                        "src":  "images/ZINC.jpeg",
                        "stock":  8,
+                       "offerPrice":  85,
                        "stockLinked":  true
                    },
                    {
@@ -1623,6 +1854,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/AMINO ENERGY FRESA.jpeg",
                        "stock":  2,
+                       "offerPrice":  320,
                        "stockLinked":  true
                    },
                    {
@@ -1630,6 +1862,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/AMINOÁCIDOS BPI SABOR GOMITAS.jpeg",
                        "stock":  1,
+                       "offerPrice":  315,
                        "stockLinked":  true
                    },
                    {
@@ -1637,6 +1870,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/AMINOÁCIDOS ESENCIALES AMINOX EAAS (BSN)  25 SERVIDAS STRAW BERRY DRAGON FRUIT.jpeg",
                        "stock":  4,
+                       "offerPrice":  370,
                        "stockLinked":  true
                    },
                    {
@@ -1644,6 +1878,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/ANABOL NUTREX.jpeg",
                        "stock":  4,
+                       "offerPrice":  330,
                        "stockLinked":  true
                    },
                    {
@@ -1651,6 +1886,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA  90 TABLETAS MASTICABLES MUSCLETECH SABOR LIMÓN.jpeg",
                        "stock":  3,
+                       "offerPrice":  390,
                        "stockLinked":  true
                    },
                    {
@@ -1658,6 +1894,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA BPI 300GR.jpeg",
                        "stock":  3,
+                       "offerPrice":  315,
                        "stockLinked":  true
                    },
                    {
@@ -1665,6 +1902,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA BYTZ  80 TABLETAS MASTICABLES BERRIED ALIVE MUTANT.jpeg",
                        "stock":  1,
+                       "offerPrice":  290,
                        "stockLinked":  true
                    },
                    {
@@ -1672,6 +1910,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA CREAKONG  250 SERVIDAS 1KG.jpeg",
                        "stock":  10,
+                       "offerPrice":  475,
                        "stockLinked":  true
                    },
                    {
@@ -1679,6 +1918,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA CREAKONG.jpeg",
                        "stock":  11,
+                       "offerPrice":  275,
                        "stockLinked":  true
                    },
                    {
@@ -1686,6 +1926,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
                        "stock":  9,
+                       "offerPrice":  325,
                        "stockLinked":  true
                    },
                    {
@@ -1693,6 +1934,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA 200 SERVIDAS.jpeg",
                        "stock":  5,
+                       "offerPrice":  500,
                        "stockLinked":  true
                    },
                    {
@@ -1700,6 +1942,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA GAT.jpeg",
                        "stock":  3,
+                       "offerPrice":  335,
                        "stockLinked":  true
                    },
                    {
@@ -1707,6 +1950,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA GO META  200 + 10  SERVIDAS 1050G SIN SABOR META NUTRITION.jpeg",
                        "stock":  5,
+                       "offerPrice":  435,
                        "stockLinked":  true
                    },
                    {
@@ -1714,6 +1958,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MASTICABLE FRUTOS ROJOS.jpeg",
                        "stock":  4,
+                       "offerPrice":  365,
                        "stockLinked":  true
                    },
                    {
@@ -1721,6 +1966,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA META NUTRITION 100 SERVIDAS SIN SABOR.jpeg",
                        "stock":  6,
+                       "offerPrice":  315,
                        "stockLinked":  true
                    },
                    {
@@ -1728,6 +1974,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MICRONIZADA  120 SERVIDAS SIN SABOR OPTIMUM NUTRITION.jpeg",
                        "stock":  4,
+                       "offerPrice":  415,
                        "stockLinked":  true
                    },
                    {
@@ -1735,6 +1982,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MICRONIZADA  60 SERVIDAS SIN SABOR OPTIMUM NUTRITION.jpeg",
                        "stock":  10,
+                       "offerPrice":  290,
                        "stockLinked":  true
                    },
                    {
@@ -1742,6 +1990,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MONOHIDRATADA  100 SERVIDAS SIN SABOR NUTRICOST.jpeg",
                        "stock":  5,
+                       "offerPrice":  385,
                        "stockLinked":  true
                    },
                    {
@@ -1749,6 +1998,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MONOHIDRATADA  90 SERVIDAS BIRDMAN.jpeg",
                        "stock":  10,
+                       "offerPrice":  390,
                        "stockLinked":  true
                    },
                    {
@@ -1756,6 +2006,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MONOHIDRATADA ANIMAL  300GR.jpeg",
                        "stock":  5,
+                       "offerPrice":  325,
                        "stockLinked":  true
                    },
                    {
@@ -1763,6 +2014,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MUSCLETECH 80 SERVIDAS 400GR.jpeg",
                        "stock":  13,
+                       "offerPrice":  395,
                        "stockLinked":  true
                    },
                    {
@@ -1770,6 +2022,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 1KG  200 SERVIDAS.jpeg",
                        "stock":  8,
+                       "offerPrice":  415,
                        "stockLinked":  true
                    },
                    {
@@ -1777,6 +2030,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 300  60 SERVIDAS.jpeg",
                        "stock":  3,
+                       "offerPrice":  275,
                        "stockLinked":  true
                    },
                    {
@@ -1784,6 +2038,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA RAW SIN SABOR 100 SERVIDAS.jpeg",
                        "stock":  3,
+                       "offerPrice":  400,
                        "stockLinked":  true
                    },
                    {
@@ -1791,6 +2046,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA RAW.jpeg",
                        "stock":  7,
+                       "offerPrice":  315,
                        "stockLinked":  true
                    },
                    {
@@ -1798,6 +2054,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA RC.jpeg",
                        "stock":  16,
+                       "offerPrice":  315,
                        "stockLinked":  true
                    },
                    {
@@ -1805,6 +2062,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA RONNIE COLEMAN 1KG.jpeg",
                        "stock":  12,
+                       "offerPrice":  470,
                        "stockLinked":  true
                    },
                    {
@@ -1812,6 +2070,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/GANADOR DE PESO BULK MUSCLE XL CHOCOLATE.jpeg",
                        "stock":  1,
+                       "offerPrice":  810,
                        "stockLinked":  true
                    },
                    {
@@ -1819,6 +2078,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/GANADOR DE PESO CARNIVOR MASS  14.8LB CHOCOLATE FUDGE.jpeg",
                        "stock":  3,
+                       "offerPrice":  1100,
                        "stockLinked":  true
                    },
                    {
@@ -1826,6 +2086,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/GANADOR DE PESO MUTANT MASS  49 SERVIDAS 15LB TRIPLE CHOCOLATE.jpeg",
                        "stock":  1,
+                       "offerPrice":  770,
                        "stockLinked":  true
                    },
                    {
@@ -1833,6 +2094,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/GANADOR DE PESO MUTANT MASS  49 SERVIDAS 15LB VAINILLA.jpeg",
                        "stock":  2,
+                       "offerPrice":  770,
                        "stockLinked":  true
                    },
                    {
@@ -1840,6 +2102,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/GANADORA DE PESO MUTANT MASS EXTREME 2500  32 SERVIDAS VAINILLA ICE CREAM.jpeg",
                        "stock":  2,
+                       "offerPrice":  975,
                        "stockLinked":  true
                    },
                    {
@@ -1847,6 +2110,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/GANADORA DE PESO SERIOUS MASS  16 SERVIDAS 12LB SABOR BANANA OPTIMUM NUTRITION.jpeg",
                        "stock":  2,
+                       "offerPrice":  815,
                        "stockLinked":  true
                    },
                    {
@@ -1854,6 +2118,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/GANADORA DE PESO SERIOUS MASS  16 SERVIDAS 12LB SABOR CHOCOLATE OPTIMUM NUTRITION.jpeg",
                        "stock":  1,
+                       "offerPrice":  815,
                        "stockLinked":  true
                    },
                    {
@@ -1861,6 +2126,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/GANADORA DE PESO SERIOUS MASS  16 SERVIDAS 12LB SABOR VAINILLA OPTIMUM NUTRITION.jpeg",
                        "stock":  2,
+                       "offerPrice":  815,
                        "stockLinked":  true
                    },
                    {
@@ -1868,6 +2134,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/GLUTAMINA.jpeg",
                        "stock":  3,
+                       "offerPrice":  300,
                        "stockLinked":  true
                    },
                    {
@@ -1875,6 +2142,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE ENTRENO NITRAFLEX  30 SERVIDAS SABOR BLUE RASPBERRY GAT SPORT.jpeg",
                        "stock":  3,
+                       "offerPrice":  380,
                        "stockLinked":  true
                    },
                    {
@@ -1882,6 +2150,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE ENTRENO NITRAFLEX  30 SERVIDAS SABOR SANDÍA GAT SPORT.jpeg",
                        "stock":  1,
+                       "offerPrice":  365,
                        "stockLinked":  true
                    },
                    {
@@ -1889,6 +2158,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE ENTRENO NITRAFLEX  30 SERVIDAS SABOR UVA GAT SPORT.jpeg",
                        "stock":  1,
+                       "offerPrice":  365,
                        "stockLinked":  true
                    },
                    {
@@ -1896,6 +2166,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE ENTRENO RYSE  30 SERVIDAS SABOR LIMONADA DE CEREZA RYSE UP.jpeg",
                        "stock":  1,
+                       "offerPrice":  400,
                        "stockLinked":  true
                    },
                    {
@@ -1903,6 +2174,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE ENTRENO RYSE  30 SERVIDAS SABOR SANDÍA RYSE UP.jpeg",
                        "stock":  1,
+                       "offerPrice":  400,
                        "stockLinked":  true
                    },
                    {
@@ -1910,6 +2182,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE ENTRENO VENOM ESSENTIAL  30 SERVIDAS DRAGON PHARMA MANGONADA.jpeg",
                        "stock":  2,
+                       "offerPrice":  350,
                        "stockLinked":  true
                    },
                    {
@@ -1917,6 +2190,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC GOLD  35 SERVIDAS SABOR FRUIT PUNCH.jpeg",
                        "stock":  1,
+                       "offerPrice":  360,
                        "stockLinked":  true
                    },
                    {
@@ -1924,6 +2198,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC GOLD  35 SERVIDAS SABOR GRAPE.jpeg",
                        "stock":  1,
+                       "offerPrice":  360,
                        "stockLinked":  true
                    },
                    {
@@ -1931,6 +2206,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC GOLD  35 SERVIDAS SABOR GUMMY CANDY.jpeg",
                        "stock":  1,
+                       "offerPrice":  360,
                        "stockLinked":  true
                    },
                    {
@@ -1938,6 +2214,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC ROJO  30 SERVIDAS EN SOBRES TRES SABORES.jpeg",
                        "stock":  2,
+                       "offerPrice":  415,
                        "stockLinked":  true
                    },
                    {
@@ -1945,6 +2222,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC ROJO  35 SERVIDAS SABOR BLUE LEMONADE.jpeg",
                        "stock":  1,
+                       "offerPrice":  345,
                        "stockLinked":  true
                    },
                    {
@@ -1952,6 +2230,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC ROJO  35 SERVIDAS SABOR BLUE RASPBERRY.jpeg",
                        "stock":  1,
+                       "offerPrice":  345,
                        "stockLinked":  true
                    },
                    {
@@ -1959,6 +2238,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC ROJO  35 SERVIDAS SABOR CHERRY LIMEADE.jpeg",
                        "stock":  1,
+                       "offerPrice":  345,
                        "stockLinked":  true
                    },
                    {
@@ -1966,6 +2246,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC ROJO  35 SERVIDAS SABOR COTTON CANDY.jpeg",
                        "stock":  1,
+                       "offerPrice":  345,
                        "stockLinked":  true
                    },
                    {
@@ -1973,6 +2254,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC ROJO  35 SERVIDAS SABOR FRUIT PUNCH.jpeg",
                        "stock":  1,
+                       "offerPrice":  345,
                        "stockLinked":  true
                    },
                    {
@@ -1980,6 +2262,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC SAW  30 SERVIDAS SABOR FRUIT PUNCH.jpeg",
                        "stock":  1,
+                       "offerPrice":  365,
                        "stockLinked":  true
                    },
                    {
@@ -1987,6 +2270,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC SAW  30 SERVIDAS SABOR SANDÍA (WATER MELON).jpeg",
                        "stock":  8,
+                       "offerPrice":  365,
                        "stockLinked":  true
                    },
                    {
@@ -1994,6 +2278,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC SAW  60 SERVIDAS SABOR GRAPE.jpeg",
                        "stock":  1,
+                       "offerPrice":  495,
                        "stockLinked":  true
                    },
                    {
@@ -2001,6 +2286,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC SAW 30 SERVIDAS SABOR BLUE RASPBERRY.jpeg",
                        "stock":  2,
+                       "offerPrice":  365,
                        "stockLinked":  true
                    },
                    {
@@ -2008,6 +2294,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC SAW 30 SERVIDAS SABOR GRAPE.jpeg",
                        "stock":  2,
+                       "offerPrice":  365,
                        "stockLinked":  true
                    },
                    {
@@ -2015,6 +2302,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO RAW BUM ESSENTIALS 30 SERVIDAS BLUE RASPBERRY.jpeg",
                        "stock":  1,
+                       "offerPrice":  335,
                        "stockLinked":  true
                    },
                    {
@@ -2022,6 +2310,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO RAW BUM ESSENTIALS 30 SERVIDAS CHAMPION MENTALITY CITRUS SLUSH.jpeg",
                        "stock":  1,
+                       "offerPrice":  335,
                        "stockLinked":  true
                    },
                    {
@@ -2029,6 +2318,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO RAW BUM ESSENTIALS 30 SERVIDAS CITRUS GRAPEFRUIT.jpeg",
                        "stock":  1,
+                       "offerPrice":  335,
                        "stockLinked":  true
                    },
                    {
@@ -2036,6 +2326,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO RAW BUM ESSENTIALS 30 SERVIDAS FRUIT BURST.jpeg",
                        "stock":  1,
+                       "offerPrice":  335,
                        "stockLinked":  true
                    },
                    {
@@ -2043,6 +2334,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO RAW BUM ESSENTIALS 30 SERVIDAS MANGO CHAMOY.jpeg",
                        "stock":  1,
+                       "offerPrice":  335,
                        "stockLinked":  true
                    },
                    {
@@ -2050,6 +2342,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO VENOM INFERNO  40 SERVIDAS DRAGON LYCHEE DRAGON PHARMA.jpeg",
                        "stock":  5,
+                       "offerPrice":  365,
                        "stockLinked":  true
                    },
                    {
@@ -2057,6 +2350,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PREENTRENO PSYCHOTIC ROJO 30 SERVIDAS GUMMY CANDY.png",
                        "stock":  1,
+                       "offerPrice":  345,
                        "stockLinked":  true
                    },
                    {
@@ -2064,6 +2358,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PREENTRENO VENOM ESSENTIAL NARANJA.jpeg",
                        "stock":  3,
+                       "offerPrice":  350,
                        "stockLinked":  true
                    },
                    {
@@ -2071,6 +2366,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PREENTRENO VENOM ESSENTIAL UVA.jpeg",
                        "stock":  3,
+                       "offerPrice":  350,
                        "stockLinked":  true
                    },
                    {
@@ -2078,6 +2374,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEIN PHORM 28 SERVIDAS SABOR CHURRO.jpeg",
                        "stock":  1,
+                       "offerPrice":  465,
                        "stockLinked":  true
                    },
                    {
@@ -2085,6 +2382,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEIN PHORM 28 SERVIDAS SABOR MILKSHAKE.jpeg",
                        "stock":  12,
+                       "offerPrice":  465,
                        "stockLinked":  true
                    },
                    {
@@ -2092,6 +2390,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA ANIMAL WHEY  64 SERVIDAS SABOR CHOCOLATE.jpeg",
                        "stock":  1,
+                       "offerPrice":  675,
                        "stockLinked":  true
                    },
                    {
@@ -2099,6 +2398,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA BPI ISO HD  69 SERVIDAS 4.9LB SABOR BROWNIE CHOCOLATE.jpeg",
                        "stock":  3,
+                       "offerPrice":  850,
                        "stockLinked":  true
                    },
                    {
@@ -2106,6 +2406,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA BPI ISO HD  69 SERVIDAS 4.9LB SABOR COOKIES AND CREAM.jpeg",
                        "stock":  1,
+                       "offerPrice":  850,
                        "stockLinked":  true
                    },
                    {
@@ -2113,6 +2414,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA BPI ISO HD  70 SERVIDAS 4.93LB SABOR CEREAL CRUNCH.jpeg",
                        "stock":  3,
+                       "offerPrice":  850,
                        "stockLinked":  true
                    },
                    {
@@ -2120,6 +2422,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA CARNIVOR  56 SERVIDAS 4.19LB  MUSCLEMEDS CHOCOLATE.jpeg",
                        "stock":  1,
+                       "offerPrice":  675,
                        "stockLinked":  true
                    },
                    {
@@ -2127,6 +2430,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA DRAGON PHARMA WHEY PHORM  52 SERVIDAS 4.08LB SABOR CAPUCHINO.jpeg",
                        "stock":  4,
+                       "offerPrice":  845,
                        "stockLinked":  true
                    },
                    {
@@ -2134,6 +2438,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA DRAGON PHARMA WHEY PHORM  52 SERVIDAS 4.23LB SABOR COCONUT ICE CREAM.jpeg",
                        "stock":  3,
+                       "offerPrice":  845,
                        "stockLinked":  true
                    },
                    {
@@ -2141,6 +2446,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA DRAGON PHARMA WHEY PHORM  52 SERVIDAS 4.2LB SABOR CHOCOLATE BLANCO Y VAINILLA.jpeg",
                        "stock":  7,
+                       "offerPrice":  845,
                        "stockLinked":  true
                    },
                    {
@@ -2148,6 +2454,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA DRAGON PHARMA WHEY PHORM  52 SERVIDAS 4.59LB SABOR DOUBLE CHOCOLATE BROWNIE.jpeg",
                        "stock":  4,
+                       "offerPrice":  845,
                        "stockLinked":  true
                    },
                    {
@@ -2155,6 +2462,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA HARDCORE WHEY  70 SERVIDAS VAINILLA ICE CREAM MUTANT.jpeg",
                        "stock":  1,
+                       "offerPrice":  799,
                        "stockLinked":  true
                    },
                    {
@@ -2162,6 +2470,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA KING WHEY SPORT  51 SERVIDAS CHOCOLATE MILK RONNIE COLEMAN.jpeg",
                        "stock":  24,
+                       "offerPrice":  600,
                        "stockLinked":  true
                    },
                    {
@@ -2169,6 +2478,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA MUTANT WHEY  48 SERVIDAS DOBLE SABOR TRIPLE CHOCOLATE \u0026 ICE CREAM.jpeg",
                        "stock":  2,
+                       "offerPrice":  600,
                        "stockLinked":  true
                    },
                    {
@@ -2176,6 +2486,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA ULTRA VEGAN  75 SERVIDAS VAINILLA GOURMET MPS NUTRITION.jpeg",
                        "stock":  2,
+                       "offerPrice":  875,
                        "stockLinked":  true
                    },
                    {
@@ -2183,6 +2494,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA VEGANA ABOUTTIME VE  32 SERVIDAS.jpeg",
                        "stock":  2,
+                       "offerPrice":  280,
                        "stockLinked":  true
                    }
                ],

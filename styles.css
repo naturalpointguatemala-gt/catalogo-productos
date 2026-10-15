@@ -22,3 +22,4 @@ dialog img{display:block;max-width:94vw;max-height:80vh;background:#111}
   #catalogTabs{display:grid;grid-template-columns:1fr 1fr}
   .tab{padding:10px 7px;font-size:13px}
 }
+.offer-price{margin:0 10px 12px;padding:7px 9px;border-radius:8px;background:#fff2df;color:#8b4700;font-weight:800;font-size:14px}

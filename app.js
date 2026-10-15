@@ -17,6 +17,14 @@ function cl(x){
   return'stock available'
 }
 
+function priceLabel(x){
+  if(!x.stockLinked||x.offerPrice===null||x.offerPrice===undefined||x.offerPrice==='')return '';
+  const raw=String(x.offerPrice).trim();
+  if(!raw)return '';
+  const num=Number(raw.replace(/Q/gi,'').replace(/,/g,''));
+  return '<div class="offer-price">PRECIO OFERTA: '+(Number.isFinite(num)?'Q'+num.toFixed(2):raw)+'</div>';
+}
+
 function ensureTabs(){
   if(document.getElementById('catalogTabs'))return;
   const tabs=document.createElement('div');
@@ -57,10 +65,10 @@ function render(){
     e.className='card';
 
     if(mode==='available'){
-      e.innerHTML=`<img loading="lazy" src="${x.src}"><div class="name">${x.name}</div><div class="${cl(x)}">${st(x)}</div>`;
+      e.innerHTML=`<img loading="lazy" src="${x.src}"><div class="name">${x.name}</div><div class="${cl(x)}">${st(x)}</div>${priceLabel(x)}`;
       e.onclick=()=>{
         vi.src=x.src;
-        vn.innerHTML=`${x.name}<div class="${cl(x)}">${st(x)}</div>`;
+        vn.innerHTML=`${x.name}<div class="${cl(x)}">${st(x)}</div>${priceLabel(x)}`;
         v.showModal()
       };
     }else{
