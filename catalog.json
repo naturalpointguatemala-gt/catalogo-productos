@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-15T19:19:55.9788476Z",
+    "generatedAt":  "2026-10-15T19:26:24.9076156Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -85,7 +85,7 @@
                        "name":  "AGUAJE PERUANO 500MG  100 CAPS.",
                        "folder":  "General",
                        "src":  "images/AGUAJE PERUANO 500MG  100 CAPS..jpeg",
-                       "stock":  21,
+                       "stock":  20,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  233,
+                       "stock":  232,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -581,7 +581,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  994,
+                       "stock":  993,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1925,7 +1925,7 @@
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
-                       "stock":  9,
+                       "stock":  8,
                        "offerPrice":  325,
                        "stockLinked":  true
                    },
