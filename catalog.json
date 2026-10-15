@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-15T17:07:48.7852626Z",
+    "generatedAt":  "2026-10-15T17:19:55.5901409Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -68,7 +68,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  89,
+                       "stock":  137,
                        "stockLinked":  true
                    },
                    {
@@ -257,7 +257,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  193,
+                       "stock":  239,
                        "stockLinked":  true
                    },
                    {
