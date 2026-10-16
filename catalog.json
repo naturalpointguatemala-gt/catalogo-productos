@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-16T21:42:55.9230216Z",
+    "generatedAt":  "2026-10-16T21:47:32.6054136Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  241,
+                       "stock":  240,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -581,7 +581,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  972,
+                       "stock":  971,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1837,7 +1837,7 @@
                        "name":  "ZINC PARA HOMBRES 11 INGREDIENTES",
                        "folder":  "General",
                        "src":  "images/ZINC PARA HOMBRES 11 INGREDIENTES.jpeg",
-                       "stock":  1,
+                       "stock":  0,
                        "offerPrice":  280,
                        "stockLinked":  true
                    },
