@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-16T20:07:10.2832708Z",
+    "generatedAt":  "2026-10-16T20:10:41.7470244Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -599,6 +599,14 @@
                        "src":  "images/DIENTE DE LEÓN.jpeg",
                        "stock":  135,
                        "offerPrice":  105,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
+                       "folder":  "General",
+                       "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
+                       "stock":  25,
+                       "offerPrice":  265,
                        "stockLinked":  true
                    },
                    {
