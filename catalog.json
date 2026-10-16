@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-16T21:33:28.3529065Z",
+    "generatedAt":  "2026-10-16T21:39:15.0039499Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -29,7 +29,7 @@
                        "name":  "ACEITE DE ORÉGANO 3000MG  60 PERLAS",
                        "folder":  "General",
                        "src":  "images/ACEITE DE ORÉGANO 3000MG  60 PERLAS.jpeg",
-                       "stock":  16,
+                       "stock":  15,
                        "offerPrice":  155,
                        "stockLinked":  true
                    },
@@ -1373,7 +1373,7 @@
                        "name":  "PROBIOTICOS CANLIST",
                        "folder":  "General",
                        "src":  "images/PROBIOTICOS CANLIST.jpeg",
-                       "stock":  19,
+                       "stock":  18,
                        "offerPrice":  210,
                        "stockLinked":  true
                    },
@@ -1630,7 +1630,7 @@
                        "folder":  "General",
                        "src":  "images/VINAGRE DE MANZANA.png",
                        "stock":  10,
-                       "offerPrice":  75,
+                       "offerPrice":  0,
                        "stockLinked":  true
                    },
                    {
