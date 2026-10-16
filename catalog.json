@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-16T20:33:07.4964241Z",
+    "generatedAt":  "2026-10-16T20:42:47.9142105Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  253,
+                       "stock":  252,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -413,7 +413,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  342,
+                       "stock":  341,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -605,7 +605,7 @@
                        "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
                        "folder":  "General",
                        "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
-                       "stock":  21,
+                       "stock":  20,
                        "offerPrice":  265,
                        "stockLinked":  true
                    },
