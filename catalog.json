@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-16T22:00:23.6140605Z",
+    "generatedAt":  "2026-10-16T22:13:49.2314414Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -29,7 +29,7 @@
                        "name":  "ACEITE DE ORÉGANO 3000MG  60 PERLAS",
                        "folder":  "General",
                        "src":  "images/ACEITE DE ORÉGANO 3000MG  60 PERLAS.jpeg",
-                       "stock":  15,
+                       "stock":  14,
                        "offerPrice":  155,
                        "stockLinked":  true
                    },
@@ -605,7 +605,7 @@
                        "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
                        "folder":  "General",
                        "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
-                       "stock":  6,
+                       "stock":  5,
                        "offerPrice":  265,
                        "stockLinked":  true
                    },
@@ -1373,7 +1373,7 @@
                        "name":  "PROBIOTICOS CANLIST",
                        "folder":  "General",
                        "src":  "images/PROBIOTICOS CANLIST.jpeg",
-                       "stock":  18,
+                       "stock":  17,
                        "offerPrice":  210,
                        "stockLinked":  true
                    },
@@ -1925,7 +1925,7 @@
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
-                       "stock":  8,
+                       "stock":  7,
                        "offerPrice":  325,
                        "stockLinked":  true
                    },
@@ -1933,7 +1933,7 @@
                        "name":  "CREATINA DRAGON PHARMA 200 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA 200 SERVIDAS.jpeg",
-                       "stock":  3,
+                       "stock":  4,
                        "offerPrice":  500,
                        "stockLinked":  true
                    },
