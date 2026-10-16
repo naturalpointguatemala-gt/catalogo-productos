@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-16T21:27:33.7252323Z",
+    "generatedAt":  "2026-10-16T21:31:10.6393186Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -605,7 +605,7 @@
                        "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
                        "folder":  "General",
                        "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
-                       "stock":  11,
+                       "stock":  9,
                        "offerPrice":  265,
                        "stockLinked":  true
                    },
@@ -1157,7 +1157,7 @@
                        "name":  "MULTI COLÁGENO PÉPTIDOS POLVO CODE AGE  342GRM.",
                        "folder":  "General",
                        "src":  "images/MULTI COLÁGENO PÉPTIDOS POLVO CODE AGE  342GRM..jpeg",
-                       "stock":  8,
+                       "stock":  7,
                        "offerPrice":  230,
                        "stockLinked":  true
                    },
