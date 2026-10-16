@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-16T20:26:56.7077787Z",
+    "generatedAt":  "2026-10-16T20:33:07.4964241Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -605,7 +605,7 @@
                        "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
                        "folder":  "General",
                        "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
-                       "stock":  23,
+                       "stock":  21,
                        "offerPrice":  265,
                        "stockLinked":  true
                    },
@@ -1858,14 +1858,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "AMINOÁCIDOS BPI SABOR GOMITAS",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/AMINOÁCIDOS BPI SABOR GOMITAS.jpeg",
-                       "stock":  0,
-                       "offerPrice":  315,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "AMINOÁCIDOS ESENCIALES AMINOX EAAS (BSN)  25 SERVIDAS STRAW BERRY DRAGON FRUIT",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/AMINOÁCIDOS ESENCIALES AMINOX EAAS (BSN)  25 SERVIDAS STRAW BERRY DRAGON FRUIT.jpeg",
@@ -2508,6 +2500,11 @@
                               "name":  "AMINO ENERGY SANDÍA",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/AMINO ENERGY SANDÍA.jpeg"
+                          },
+                          {
+                              "name":  "AMINOÁCIDOS BPI SABOR GOMITAS",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/AMINOÁCIDOS BPI SABOR GOMITAS.jpeg"
                           },
                           {
                               "name":  "BORO AMERICANO",
