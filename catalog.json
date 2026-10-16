@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-16T00:09:29.7949710Z",
+    "generatedAt":  "2026-10-16T18:08:57.4220757Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -69,7 +69,7 @@
                        "name":  "AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL",
                        "folder":  "General",
                        "src":  "images/AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL.jpeg",
-                       "stock":  63,
+                       "stock":  61,
                        "offerPrice":  195,
                        "stockLinked":  true
                    },
@@ -77,7 +77,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  130,
+                       "stock":  178,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  238,
+                       "stock":  253,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -221,7 +221,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  27,
+                       "stock":  26,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -237,7 +237,7 @@
                        "name":  "CALCIO CITRATO 1000MG  90 CAPS.",
                        "folder":  "General",
                        "src":  "images/CALCIO CITRATO 1000MG  90 CAPS..jpeg",
-                       "stock":  8,
+                       "stock":  7,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -253,7 +253,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1392,
+                       "stock":  -1393,
                        "offerPrice":  0,
                        "stockLinked":  true
                    },
@@ -269,7 +269,7 @@
                        "name":  "CANELA 500MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/CANELA 500MG  60 CAPS..jpeg",
-                       "stock":  27,
+                       "stock":  26,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  225,
+                       "stock":  244,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -413,7 +413,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  345,
+                       "stock":  342,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -421,7 +421,7 @@
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
-                       "stock":  204,
+                       "stock":  203,
                        "offerPrice":  100,
                        "stockLinked":  true
                    },
@@ -581,7 +581,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  990,
+                       "stock":  976,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -597,7 +597,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  139,
+                       "stock":  137,
                        "offerPrice":  105,
                        "stockLinked":  true
                    },
@@ -629,7 +629,7 @@
                        "name":  "ESPIRULINA",
                        "folder":  "General",
                        "src":  "images/ESPIRULINA.jpeg",
-                       "stock":  20,
+                       "stock":  19,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
@@ -807,14 +807,6 @@
                        "src":  "images/HAIR, SKIN AND NAILS ADVANCE  200 GOMITAS. NATURE´S BOUNTY MORADO.jpeg",
                        "stock":  3,
                        "offerPrice":  295,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "HAIR, SKIN AND NAILS CON BIOTINA  200 GOMITAS. NARANJA NATURE´S BOUNTY",
-                       "folder":  "General",
-                       "src":  "images/HAIR, SKIN AND NAILS CON BIOTINA  200 GOMITAS. NARANJA NATURE´S BOUNTY.jpeg",
-                       "stock":  1,
-                       "offerPrice":  300,
                        "stockLinked":  true
                    },
                    {
@@ -997,7 +989,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  16,
+                       "stock":  15,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -1125,7 +1117,7 @@
                        "name":  "MELENA DE LEON EXTRACTO",
                        "folder":  "General",
                        "src":  "images/MELENA DE LEON EXTRACTO.jpeg",
-                       "stock":  15,
+                       "stock":  14,
                        "offerPrice":  130,
                        "stockLinked":  true
                    },
@@ -1285,7 +1277,7 @@
                        "name":  "OMEGA 3",
                        "folder":  "General",
                        "src":  "images/OMEGA 3.jpeg",
-                       "stock":  12,
+                       "stock":  11,
                        "offerPrice":  110,
                        "stockLinked":  true
                    },
@@ -1493,7 +1485,7 @@
                        "name":  "SERENIREST",
                        "folder":  "General",
                        "src":  "images/SERENIREST.jpeg",
-                       "stock":  21,
+                       "stock":  20,
                        "offerPrice":  100,
                        "stockLinked":  true
                    },
@@ -1509,7 +1501,7 @@
                        "name":  "SHILAJIT  60 GOMITAS BBP PARAÍSO NATURAL",
                        "folder":  "General",
                        "src":  "images/SHILAJIT  60 GOMITAS BBP PARAÍSO NATURAL.jpeg",
-                       "stock":  12,
+                       "stock":  11,
                        "offerPrice":  200,
                        "stockLinked":  true
                    },
@@ -1597,7 +1589,7 @@
                        "name":  "UÑA DE GATO",
                        "folder":  "General",
                        "src":  "images/UÑA DE GATO.png",
-                       "stock":  40,
+                       "stock":  39,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1717,7 +1709,7 @@
                        "name":  "VITAMINA C",
                        "folder":  "General",
                        "src":  "images/VITAMINA C.jpeg",
-                       "stock":  26,
+                       "stock":  25,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -1925,7 +1917,7 @@
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
-                       "stock":  9,
+                       "stock":  8,
                        "offerPrice":  325,
                        "stockLinked":  true
                    },
@@ -1933,7 +1925,7 @@
                        "name":  "CREATINA DRAGON PHARMA 200 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA 200 SERVIDAS.jpeg",
-                       "stock":  5,
+                       "stock":  4,
                        "offerPrice":  500,
                        "stockLinked":  true
                    },
@@ -1957,7 +1949,7 @@
                        "name":  "CREATINA MASTICABLE FRUTOS ROJOS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MASTICABLE FRUTOS ROJOS.jpeg",
-                       "stock":  4,
+                       "stock":  5,
                        "offerPrice":  365,
                        "stockLinked":  true
                    },
@@ -2357,7 +2349,7 @@
                        "name":  "PREENTRENO VENOM ESSENTIAL NARANJA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PREENTRENO VENOM ESSENTIAL NARANJA.jpeg",
-                       "stock":  3,
+                       "stock":  2,
                        "offerPrice":  350,
                        "stockLinked":  true
                    },
@@ -2703,6 +2695,11 @@
                               "name":  "HAIR, SKIN AND NAILS  200 GOMITAS. NATURE´S BOUNTY ROSADO",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/HAIR, SKIN AND NAILS  200 GOMITAS. NATURE´S BOUNTY ROSADO.jpeg"
+                          },
+                          {
+                              "name":  "HAIR, SKIN AND NAILS CON BIOTINA  200 GOMITAS. NARANJA NATURE´S BOUNTY",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/HAIR, SKIN AND NAILS CON BIOTINA  200 GOMITAS. NARANJA NATURE´S BOUNTY.jpeg"
                           },
                           {
                               "name":  "HAIR, SKIN AND NAILS CON BIOTINA  80 GOMITAS ROSADO",
