@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-17T16:21:01.3328350Z",
+    "generatedAt":  "2026-10-17T16:23:56.6628073Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -77,7 +77,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  177,
+                       "stock":  189,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  248,
+                       "stock":  274,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -581,7 +581,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  966,
+                       "stock":  1006,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1549,7 +1549,7 @@
                        "name":  "SHILAJIT ULTRA COMPLEX NP",
                        "folder":  "General",
                        "src":  "images/SHILAJIT ULTRA COMPLEX NP.jpeg",
-                       "stock":  3,
+                       "stock":  9,
                        "offerPrice":  165,
                        "stockLinked":  true
                    },
@@ -1885,7 +1885,7 @@
                        "name":  "ZINC",
                        "folder":  "General",
                        "src":  "images/ZINC.jpeg",
-                       "stock":  7,
+                       "stock":  17,
                        "offerPrice":  85,
                        "stockLinked":  true
                    },
