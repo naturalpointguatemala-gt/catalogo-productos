@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-17T17:25:51.8332677Z",
+    "generatedAt":  "2026-10-17T17:27:28.4000905Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1957,7 +1957,7 @@
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
-                       "stock":  8,
+                       "stock":  44,
                        "offerPrice":  325,
                        "stockLinked":  true
                    },
@@ -2061,7 +2061,7 @@
                        "name":  "CREATINA NUTREX 300  60 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 300  60 SERVIDAS.jpeg",
-                       "stock":  3,
+                       "stock":  27,
                        "offerPrice":  275,
                        "stockLinked":  true
                    },
