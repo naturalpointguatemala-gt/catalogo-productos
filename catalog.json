@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-17T17:32:20.2955681Z",
+    "generatedAt":  "2026-10-17T17:35:26.9620640Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -413,7 +413,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  336,
+                       "stock":  334,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
