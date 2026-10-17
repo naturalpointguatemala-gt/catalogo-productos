@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-17T16:51:49.5464318Z",
+    "generatedAt":  "2026-10-17T17:02:38.6354237Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1165,7 +1165,7 @@
                        "name":  "MORINGA",
                        "folder":  "General",
                        "src":  "images/MORINGA.png",
-                       "stock":  14,
+                       "stock":  12,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
