@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-17T17:02:38.6354237Z",
+    "generatedAt":  "2026-10-17T17:06:04.1825819Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -605,7 +605,7 @@
                        "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
                        "folder":  "General",
                        "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
-                       "stock":  4,
+                       "stock":  3,
                        "offerPrice":  265,
                        "stockLinked":  true
                    },
@@ -1541,7 +1541,7 @@
                        "name":  "SHILAJIT EXTRA FUERTE  90 CAPS UHECO",
                        "folder":  "General",
                        "src":  "images/SHILAJIT EXTRA FUERTE  90 CAPS UHECO.jpeg",
-                       "stock":  20,
+                       "stock":  19,
                        "offerPrice":  330,
                        "stockLinked":  true
                    },
