@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-17T17:35:26.9620640Z",
+    "generatedAt":  "2026-10-17T17:45:14.8395189Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -221,7 +221,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  24,
+                       "stock":  22,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -597,7 +597,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  135,
+                       "stock":  134,
                        "offerPrice":  105,
                        "stockLinked":  true
                    },
