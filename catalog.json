@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-16T23:39:13.4466434Z",
+    "generatedAt":  "2026-10-17T16:21:01.3328350Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -77,7 +77,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  179,
+                       "stock":  177,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  249,
+                       "stock":  248,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -277,7 +277,7 @@
                        "name":  "CARBÓN ACTIVADO 400MG  90 CAPS.",
                        "folder":  "General",
                        "src":  "images/CARBÓN ACTIVADO 400MG  90 CAPS..jpeg",
-                       "stock":  5,
+                       "stock":  4,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  233,
+                       "stock":  218,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -309,7 +309,7 @@
                        "name":  "CASTAÑA DE INDIAS",
                        "folder":  "General",
                        "src":  "images/CASTAÑA DE INDIAS.png",
-                       "stock":  56,
+                       "stock":  55,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -413,7 +413,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  338,
+                       "stock":  336,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -421,7 +421,7 @@
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
-                       "stock":  203,
+                       "stock":  202,
                        "offerPrice":  100,
                        "stockLinked":  true
                    },
@@ -541,7 +541,7 @@
                        "name":  "COMPLEJO B NATURE MADE  140 TABS. AMERICANO",
                        "folder":  "General",
                        "src":  "images/COMPLEJO B NATURE MADE  140 TABS. AMERICANO.jpeg",
-                       "stock":  10,
+                       "stock":  9,
                        "offerPrice":  210,
                        "stockLinked":  true
                    },
@@ -581,7 +581,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  968,
+                       "stock":  966,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -810,6 +810,22 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "HAIR, SKIN AND NAILS  150 SOFTGELS. NATURE´S BOUNTY",
+                       "folder":  "General",
+                       "src":  "images/HAIR, SKIN AND NAILS  150 SOFTGELS. NATURE´S BOUNTY.jpeg",
+                       "stock":  5,
+                       "offerPrice":  215,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "HAIR, SKIN AND NAILS  200 GOMITAS. NATURE´S BOUNTY ROSADO",
+                       "folder":  "General",
+                       "src":  "images/HAIR, SKIN AND NAILS  200 GOMITAS. NATURE´S BOUNTY ROSADO.jpeg",
+                       "stock":  4,
+                       "offerPrice":  235,
+                       "stockLinked":  true
+                   },
+                   {
                        "name":  "HAIR, SKIN AND NAILS ADVANCE  200 GOMITAS. NATURE´S BOUNTY MORADO",
                        "folder":  "General",
                        "src":  "images/HAIR, SKIN AND NAILS ADVANCE  200 GOMITAS. NATURE´S BOUNTY MORADO.jpeg",
@@ -821,6 +837,14 @@
                        "name":  "HAIR, SKIN AND NAILS CON BIOTINA  80 GOMITAS NARANJA NATURE´S BOUNTY",
                        "folder":  "General",
                        "src":  "images/HAIR, SKIN AND NAILS CON BIOTINA  80 GOMITAS NARANJA NATURE´S BOUNTY.jpeg",
+                       "stock":  5,
+                       "offerPrice":  180,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "HAIR, SKIN AND NAILS CON BIOTINA  80 GOMITAS ROSADO NATURE´S BOUNTY",
+                       "folder":  "General",
+                       "src":  "images/HAIR, SKIN AND NAILS CON BIOTINA  80 GOMITAS ROSADO NATURE´S BOUNTY.jpeg",
                        "stock":  5,
                        "offerPrice":  180,
                        "stockLinked":  true
@@ -1373,7 +1397,7 @@
                        "name":  "PROBIOTICOS CANLIST",
                        "folder":  "General",
                        "src":  "images/PROBIOTICOS CANLIST.jpeg",
-                       "stock":  17,
+                       "stock":  16,
                        "offerPrice":  210,
                        "stockLinked":  true
                    },
@@ -1727,6 +1751,14 @@
                        "src":  "images/VITAMINA C.jpeg",
                        "stock":  25,
                        "offerPrice":  75,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "VITAMINA D3 CON K2",
+                       "folder":  "General",
+                       "src":  "images/VITAMINA D3 CON K2.jpeg",
+                       "stock":  20,
+                       "offerPrice":  150,
                        "stockLinked":  true
                    },
                    {
@@ -2690,11 +2722,6 @@
                               "src":  "images_sin_existencia/GOTAS PARA OJOS.jpeg"
                           },
                           {
-                              "name":  "HAIR SKIN \u0026 NAILS BIOTINA",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/HAIR SKIN \u0026 NAILS BIOTINA.jpeg"
-                          },
-                          {
                               "name":  "HAIR, SKIN \u0026 NAILS  GOMITAS NARANJA",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/HAIR, SKIN \u0026 NAILS  GOMITAS NARANJA.jpeg"
@@ -2705,19 +2732,9 @@
                               "src":  "images_sin_existencia/HAIR, SKIN \u0026 NAILS BOTE POR 250 CAPS.jpeg"
                           },
                           {
-                              "name":  "HAIR, SKIN AND NAILS  200 GOMITAS. NATURE´S BOUNTY ROSADO",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/HAIR, SKIN AND NAILS  200 GOMITAS. NATURE´S BOUNTY ROSADO.jpeg"
-                          },
-                          {
                               "name":  "HAIR, SKIN AND NAILS CON BIOTINA  200 GOMITAS. NARANJA NATURE´S BOUNTY",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/HAIR, SKIN AND NAILS CON BIOTINA  200 GOMITAS. NARANJA NATURE´S BOUNTY.jpeg"
-                          },
-                          {
-                              "name":  "HAIR, SKIN AND NAILS CON BIOTINA  80 GOMITAS ROSADO",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/HAIR, SKIN AND NAILS CON BIOTINA  80 GOMITAS ROSADO.jpeg"
                           },
                           {
                               "name":  "ISO PHORM 5LB CHOCOLATE BLANCO Y MANTEQUILLA DE MANI",
@@ -3133,11 +3150,6 @@
                               "name":  "VITAMINA C MASTICABLES",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/VITAMINA C MASTICABLES.png"
-                          },
-                          {
-                              "name":  "VITAMINA D3 CON K2",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/VITAMINA D3 CON K2.jpeg"
                           },
                           {
                               "name":  "VITAMINAS ADOLESCENTES HOMBRES",
