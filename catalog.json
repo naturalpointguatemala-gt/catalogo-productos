@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-19T16:19:20.7157758Z",
+    "generatedAt":  "2026-10-19T16:20:42.8933298Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1653,9 +1653,9 @@
                        "name":  "VINAGRE DE MANZANA 500MG  90 CAPS.",
                        "folder":  "General",
                        "src":  "images/VINAGRE DE MANZANA 500MG  90 CAPS..jpg",
-                       "stock":  null,
-                       "offerPrice":  null,
-                       "stockLinked":  false
+                       "stock":  10,
+                       "offerPrice":  100,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "VINAGRE DE MANZANA GOLÍ",
