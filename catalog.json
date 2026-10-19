@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-19T16:20:42.8933298Z",
+    "generatedAt":  "2026-10-19T16:22:35.7857067Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1893,9 +1893,9 @@
                        "name":  "ZMAG-T (ZINC , MAGNESIO, B6, BORON)  90 CAPS. GAT SPORT",
                        "folder":  "General",
                        "src":  "images/ZMAG-T (ZINC , MAGNESIO, B6, BORON)  90 CAPS. GAT SPORT.jpg",
-                       "stock":  null,
-                       "offerPrice":  null,
-                       "stockLinked":  false
+                       "stock":  5,
+                       "offerPrice":  245,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "AMINO ENERGY FRESA",
