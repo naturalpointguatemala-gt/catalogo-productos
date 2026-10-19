@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-19T16:22:35.7857067Z",
+    "generatedAt":  "2026-10-19T16:25:35.3768621Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1077,9 +1077,9 @@
                        "name":  "MAGNESIO EN POLVO CALM  453G SABOR FRAMBUESA Y LIMÓN NATURAL VITALITY",
                        "folder":  "General",
                        "src":  "images/MAGNESIO EN POLVO CALM  453G SABOR FRAMBUESA Y LIMÓN NATURAL VITALITY.jpg",
-                       "stock":  null,
-                       "offerPrice":  null,
-                       "stockLinked":  false
+                       "stock":  2,
+                       "offerPrice":  340,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "MAGNESIO GLICINATO GOLI",
