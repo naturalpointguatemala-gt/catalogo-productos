@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-19T18:29:14.6018931Z",
+    "generatedAt":  "2026-10-19T18:41:40.8814007Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -221,7 +221,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  20,
+                       "stock":  15,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -893,7 +893,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  123,
+                       "stock":  118,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
