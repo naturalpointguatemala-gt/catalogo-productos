@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-19T16:35:52.9931352Z",
+    "generatedAt":  "2026-10-19T16:44:33.6971385Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -421,7 +421,7 @@
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
-                       "stock":  202,
+                       "stock":  241,
                        "offerPrice":  100,
                        "stockLinked":  true
                    },
@@ -893,7 +893,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  122,
+                       "stock":  129,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
