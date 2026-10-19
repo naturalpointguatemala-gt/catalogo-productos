@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-17T18:34:24.0165470Z",
+    "generatedAt":  "2026-10-19T15:44:45.0712677Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -77,7 +77,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  188,
+                       "stock":  186,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  272,
+                       "stock":  268,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  208,
+                       "stock":  191,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -413,7 +413,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  334,
+                       "stock":  332,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -509,7 +509,7 @@
                        "name":  "COLÁGENO EN POLVO CON BIOTINA",
                        "folder":  "General",
                        "src":  "images/COLÁGENO EN POLVO CON BIOTINA.jpg",
-                       "stock":  4,
+                       "stock":  3,
                        "offerPrice":  140,
                        "stockLinked":  true
                    },
@@ -581,7 +581,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  1005,
+                       "stock":  995,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -599,14 +599,6 @@
                        "src":  "images/DIENTE DE LEÓN.jpeg",
                        "stock":  134,
                        "offerPrice":  105,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
-                       "folder":  "General",
-                       "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
-                       "stock":  2,
-                       "offerPrice":  265,
                        "stockLinked":  true
                    },
                    {
@@ -677,7 +669,7 @@
                        "name":  "GINKGO BILOBA",
                        "folder":  "General",
                        "src":  "images/GINKGO BILOBA.png",
-                       "stock":  41,
+                       "stock":  40,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -1021,7 +1013,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  14,
+                       "stock":  13,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -2640,6 +2632,11 @@
                               "name":  "DHEA 25MG LIFE EX",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/DHEA 25MG LIFE EX.png"
+                          },
+                          {
+                              "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg"
                           },
                           {
                               "name":  "ELECTROLITROS FRAMBUESA",
