@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-19T16:17:26.6406738Z",
+    "generatedAt":  "2026-10-19T16:19:20.7157758Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1165,9 +1165,9 @@
                        "name":  "MORINGA 500MG  90 CAPS.",
                        "folder":  "General",
                        "src":  "images/MORINGA 500MG  90 CAPS..jpg",
-                       "stock":  null,
-                       "offerPrice":  null,
-                       "stockLinked":  false
+                       "stock":  12,
+                       "offerPrice":  80,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "MSM (AZUFRE ORGÁNICO) 500MG  90 CAPS.",
