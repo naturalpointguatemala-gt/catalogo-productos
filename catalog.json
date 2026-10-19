@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-19T16:11:17.4027295Z",
+    "generatedAt":  "2026-10-19T16:15:06.2145564Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1154,14 +1154,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "MORINGA",
-                       "folder":  "General",
-                       "src":  "images/MORINGA.png",
-                       "stock":  12,
-                       "offerPrice":  80,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "MSM (AZUFRE ORGÁNICO) 500MG  90 CAPS.",
                        "folder":  "General",
                        "src":  "images/MSM (AZUFRE ORGÁNICO) 500MG  90 CAPS..jpeg",
@@ -1647,14 +1639,6 @@
                        "src":  "images/VINAGRE DE MANZANA GOLÍ.jpeg",
                        "stock":  2,
                        "offerPrice":  230,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "VINAGRE DE MANZANA",
-                       "folder":  "General",
-                       "src":  "images/VINAGRE DE MANZANA.png",
-                       "stock":  10,
-                       "offerPrice":  100,
                        "stockLinked":  true
                    },
                    {
