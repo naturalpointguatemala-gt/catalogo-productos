@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-19T18:15:38.2221477Z",
+    "generatedAt":  "2026-10-19T18:22:37.2271100Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1069,7 +1069,7 @@
                        "name":  "MAGNESIO COMPLEX",
                        "folder":  "General",
                        "src":  "images/MAGNESIO COMPLEX.jpeg",
-                       "stock":  26,
+                       "stock":  25,
                        "offerPrice":  230,
                        "stockLinked":  true
                    },
