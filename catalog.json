@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-19T23:45:55.5948772Z",
+    "generatedAt":  "2026-10-20T18:24:12.6903558Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -69,7 +69,7 @@
                        "name":  "AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL",
                        "folder":  "General",
                        "src":  "images/AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL.jpeg",
-                       "stock":  58,
+                       "stock":  57,
                        "offerPrice":  195,
                        "stockLinked":  true
                    },
@@ -77,7 +77,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  184,
+                       "stock":  180,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  253,
+                       "stock":  284,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -221,7 +221,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  15,
+                       "stock":  13,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -253,7 +253,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1393,
+                       "stock":  -1395,
                        "offerPrice":  0,
                        "stockLinked":  true
                    },
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  153,
+                       "stock":  165,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -309,7 +309,7 @@
                        "name":  "CASTAÑA DE INDIAS",
                        "folder":  "General",
                        "src":  "images/CASTAÑA DE INDIAS.png",
-                       "stock":  55,
+                       "stock":  53,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -413,7 +413,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  324,
+                       "stock":  322,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -517,7 +517,7 @@
                        "name":  "COLÁGENO HIDROLIZADO CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/COLÁGENO HIDROLIZADO CÁPSULAS.jpeg",
-                       "stock":  18,
+                       "stock":  17,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -581,7 +581,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  965,
+                       "stock":  982,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -637,7 +637,7 @@
                        "name":  "FENOGRECO",
                        "folder":  "General",
                        "src":  "images/FENOGRECO.png",
-                       "stock":  19,
+                       "stock":  18,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -893,7 +893,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  116,
+                       "stock":  115,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
@@ -917,7 +917,7 @@
                        "name":  "JABÓN DE CÚRCUMA",
                        "folder":  "General",
                        "src":  "images/JABÓN DE CÚRCUMA.png",
-                       "stock":  56,
+                       "stock":  55,
                        "offerPrice":  50,
                        "stockLinked":  true
                    },
@@ -1069,7 +1069,7 @@
                        "name":  "MAGNESIO COMPLEX",
                        "folder":  "General",
                        "src":  "images/MAGNESIO COMPLEX.jpeg",
-                       "stock":  24,
+                       "stock":  23,
                        "offerPrice":  230,
                        "stockLinked":  true
                    },
@@ -1181,7 +1181,7 @@
                        "name":  "MULTI COLÁGENO PÉPTIDOS POLVO CODE AGE  342GRM.",
                        "folder":  "General",
                        "src":  "images/MULTI COLÁGENO PÉPTIDOS POLVO CODE AGE  342GRM..jpeg",
-                       "stock":  6,
+                       "stock":  5,
                        "offerPrice":  230,
                        "stockLinked":  true
                    },
@@ -1357,7 +1357,7 @@
                        "name":  "OXIDO NITRICO",
                        "folder":  "General",
                        "src":  "images/OXIDO NITRICO.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "offerPrice":  280,
                        "stockLinked":  true
                    },
