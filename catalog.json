@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-20T22:04:39.0045936Z",
+    "generatedAt":  "2026-10-20T22:12:03.2250272Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -141,7 +141,7 @@
                        "name":  "ALOE VERA",
                        "folder":  "General",
                        "src":  "images/ALOE VERA.jpeg",
-                       "stock":  12,
+                       "stock":  11,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
