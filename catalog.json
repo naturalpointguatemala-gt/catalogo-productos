@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-20T21:41:25.7211803Z",
+    "generatedAt":  "2026-10-20T21:53:02.3163872Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1309,7 +1309,7 @@
                        "name":  "OMEGA 3",
                        "folder":  "General",
                        "src":  "images/OMEGA 3.jpeg",
-                       "stock":  11,
+                       "stock":  10,
                        "offerPrice":  110,
                        "stockLinked":  true
                    },
