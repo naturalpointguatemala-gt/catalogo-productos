@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-20T20:14:53.5653283Z",
+    "generatedAt":  "2026-10-20T20:50:47.1118352Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  281,
+                       "stock":  282,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -1085,7 +1085,7 @@
                        "name":  "MAGNESIO GLICINATO GOLI",
                        "folder":  "General",
                        "src":  "images/MAGNESIO GLICINATO GOLI.jpeg",
-                       "stock":  1,
+                       "stock":  0,
                        "offerPrice":  260,
                        "stockLinked":  true
                    },
