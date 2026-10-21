@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-21T18:38:36.0033889Z",
+    "generatedAt":  "2026-10-21T18:46:29.7466812Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -29,7 +29,7 @@
                        "name":  "ACEITE DE ORÉGANO 3000MG  60 PERLAS",
                        "folder":  "General",
                        "src":  "images/ACEITE DE ORÉGANO 3000MG  60 PERLAS.jpeg",
-                       "stock":  11,
+                       "stock":  10,
                        "offerPrice":  155,
                        "stockLinked":  true
                    },
@@ -1357,7 +1357,7 @@
                        "name":  "P+ H-D SUP. VAGINALES DE ÁCIDO BÓRICO 600MG  24 UN. WOMEN OWNED",
                        "folder":  "General",
                        "src":  "images/P+ H-D SUP. VAGINALES DE ÁCIDO BÓRICO 600MG  24 UN. WOMEN OWNED.jpeg",
-                       "stock":  3,
+                       "stock":  2,
                        "offerPrice":  320,
                        "stockLinked":  true
                    },
