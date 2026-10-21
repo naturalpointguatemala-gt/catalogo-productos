@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-21T17:46:28.9126507Z",
+    "generatedAt":  "2026-10-21T17:53:38.2242306Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -29,7 +29,7 @@
                        "name":  "ACEITE DE ORÉGANO 3000MG  60 PERLAS",
                        "folder":  "General",
                        "src":  "images/ACEITE DE ORÉGANO 3000MG  60 PERLAS.jpeg",
-                       "stock":  8,
+                       "stock":  11,
                        "offerPrice":  155,
                        "stockLinked":  true
                    },
@@ -149,7 +149,7 @@
                        "name":  "ARCILLA IMPORTADA",
                        "folder":  "General",
                        "src":  "images/ARCILLA IMPORTADA.jpeg",
-                       "stock":  3,
+                       "stock":  5,
                        "offerPrice":  180,
                        "stockLinked":  true
                    },
@@ -301,7 +301,7 @@
                        "name":  "CASTAÑA DE INDIAS",
                        "folder":  "General",
                        "src":  "images/CASTAÑA DE INDIAS.png",
-                       "stock":  45,
+                       "stock":  49,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -389,7 +389,7 @@
                        "name":  "CHANCAPIEDRA",
                        "folder":  "General",
                        "src":  "images/CHANCAPIEDRA.jpeg",
-                       "stock":  3,
+                       "stock":  5,
                        "offerPrice":  100,
                        "stockLinked":  true
                    },
@@ -405,7 +405,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  314,
+                       "stock":  317,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -549,7 +549,7 @@
                        "name":  "CRANBERRY EXTRACTO CON VITAMINA C",
                        "folder":  "General",
                        "src":  "images/CRANBERRY EXTRACTO CON VITAMINA C.jpeg",
-                       "stock":  8,
+                       "stock":  11,
                        "offerPrice":  115,
                        "stockLinked":  true
                    },
@@ -581,7 +581,7 @@
                        "name":  "CÚRCUMA PURA",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA PURA.png",
-                       "stock":  9,
+                       "stock":  12,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -613,7 +613,7 @@
                        "name":  "EQUINÁCEA",
                        "folder":  "General",
                        "src":  "images/EQUINÁCEA.png",
-                       "stock":  13,
+                       "stock":  16,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -781,7 +781,7 @@
                        "name":  "GYMNEMA SYLVESTRE",
                        "folder":  "General",
                        "src":  "images/GYMNEMA SYLVESTRE.png",
-                       "stock":  36,
+                       "stock":  39,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -845,7 +845,7 @@
                        "name":  "HEPA REVIVE ",
                        "folder":  "General",
                        "src":  "images/HEPA REVIVE .jpg",
-                       "stock":  77,
+                       "stock":  83,
                        "offerPrice":  130,
                        "stockLinked":  true
                    },
@@ -1013,7 +1013,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  5,
+                       "stock":  8,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -1149,7 +1149,7 @@
                        "name":  "MINOXIDIL  60ML KIRLAND",
                        "folder":  "General",
                        "src":  "images/MINOXIDIL  60ML KIRLAND.jpeg",
-                       "stock":  11,
+                       "stock":  14,
                        "offerPrice":  130,
                        "stockLinked":  true
                    },
@@ -1157,7 +1157,7 @@
                        "name":  "MORINGA 500MG  90 CAPS.",
                        "folder":  "General",
                        "src":  "images/MORINGA 500MG  90 CAPS..jpg",
-                       "stock":  6,
+                       "stock":  9,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -1173,7 +1173,7 @@
                        "name":  "MULTI COLÁGENO PÉPTIDOS POLVO CODE AGE  342GRM.",
                        "folder":  "General",
                        "src":  "images/MULTI COLÁGENO PÉPTIDOS POLVO CODE AGE  342GRM..jpeg",
-                       "stock":  2,
+                       "stock":  3,
                        "offerPrice":  230,
                        "stockLinked":  true
                    },
@@ -1221,7 +1221,7 @@
                        "name":  "NOPAL",
                        "folder":  "General",
                        "src":  "images/NOPAL.png",
-                       "stock":  17,
+                       "stock":  20,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1493,7 +1493,7 @@
                        "name":  "SAW PALMETTO",
                        "folder":  "General",
                        "src":  "images/SAW PALMETTO.jpeg",
-                       "stock":  27,
+                       "stock":  29,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
