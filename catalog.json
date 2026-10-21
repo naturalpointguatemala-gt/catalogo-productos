@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-21T20:56:44.7748274Z",
+    "generatedAt":  "2026-10-21T20:59:49.6649989Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -901,7 +901,7 @@
                        "name":  "ISOFLAVONAS",
                        "folder":  "General",
                        "src":  "images/ISOFLAVONAS.png",
-                       "stock":  24,
+                       "stock":  23,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
