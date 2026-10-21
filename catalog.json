@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-21T15:29:13.8141821Z",
+    "generatedAt":  "2026-10-21T15:32:15.3204215Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -285,7 +285,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  129,
+                       "stock":  169,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -573,7 +573,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  945,
+                       "stock":  978,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -685,7 +685,7 @@
                        "name":  "GLICINATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/GLICINATO DE MAGNESIO.jpeg",
-                       "stock":  1,
+                       "stock":  7,
                        "offerPrice":  125,
                        "stockLinked":  true
                    },
@@ -693,7 +693,7 @@
                        "name":  "GLUCOSAMINA + CODROITINA + MSM + CURCUMA NATURAL P",
                        "folder":  "General",
                        "src":  "images/GLUCOSAMINA + CODROITINA + MSM + CURCUMA NATURAL P.jpeg",
-                       "stock":  3,
+                       "stock":  23,
                        "offerPrice":  180,
                        "stockLinked":  true
                    },
