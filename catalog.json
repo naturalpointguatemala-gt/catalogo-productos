@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-21T03:05:38.0805986Z",
+    "generatedAt":  "2026-10-21T15:22:23.6450359Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -101,7 +101,7 @@
                        "name":  "AJO NEGRO 500MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/AJO NEGRO 500MG  60 CAPS..jpeg",
-                       "stock":  25,
+                       "stock":  24,
                        "offerPrice":  100,
                        "stockLinked":  true
                    },
@@ -133,7 +133,7 @@
                        "name":  "ALCACHOFA",
                        "folder":  "General",
                        "src":  "images/ALCACHOFA.jpeg",
-                       "stock":  30,
+                       "stock":  29,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  275,
+                       "stock":  268,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -253,7 +253,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1396,
+                       "stock":  -1398,
                        "offerPrice":  0,
                        "stockLinked":  true
                    },
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  142,
+                       "stock":  129,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -413,7 +413,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  319,
+                       "stock":  317,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -421,7 +421,7 @@
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
-                       "stock":  240,
+                       "stock":  239,
                        "offerPrice":  100,
                        "stockLinked":  true
                    },
@@ -557,7 +557,7 @@
                        "name":  "CRANBERRY EXTRACTO CON VITAMINA C",
                        "folder":  "General",
                        "src":  "images/CRANBERRY EXTRACTO CON VITAMINA C.jpeg",
-                       "stock":  13,
+                       "stock":  11,
                        "offerPrice":  115,
                        "stockLinked":  true
                    },
@@ -581,7 +581,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  957,
+                       "stock":  945,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -893,7 +893,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  115,
+                       "stock":  114,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
@@ -901,7 +901,7 @@
                        "name":  "ISOFLAVONAS",
                        "folder":  "General",
                        "src":  "images/ISOFLAVONAS.png",
-                       "stock":  25,
+                       "stock":  24,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
@@ -925,7 +925,7 @@
                        "name":  "JENGIBRE",
                        "folder":  "General",
                        "src":  "images/JENGIBRE.png",
-                       "stock":  17,
+                       "stock":  16,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1082,14 +1082,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "MAGNESIO GLICINATO GOLI",
-                       "folder":  "General",
-                       "src":  "images/MAGNESIO GLICINATO GOLI.jpeg",
-                       "stock":  0,
-                       "offerPrice":  260,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "MAGNESIO PARA NIÑOS  30 GOMITAS  NATROL KIDS",
                        "folder":  "General",
                        "src":  "images/MAGNESIO PARA NIÑOS  30 GOMITAS  NATROL KIDS.jpeg",
@@ -1181,7 +1173,7 @@
                        "name":  "MULTI COLÁGENO PÉPTIDOS POLVO CODE AGE  342GRM.",
                        "folder":  "General",
                        "src":  "images/MULTI COLÁGENO PÉPTIDOS POLVO CODE AGE  342GRM..jpeg",
-                       "stock":  4,
+                       "stock":  3,
                        "offerPrice":  230,
                        "stockLinked":  true
                    },
@@ -1349,7 +1341,7 @@
                        "name":  "ORTIGA",
                        "folder":  "General",
                        "src":  "images/ORTIGA.png",
-                       "stock":  24,
+                       "stock":  23,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1493,7 +1485,7 @@
                        "name":  "RHODIOLA",
                        "folder":  "General",
                        "src":  "images/RHODIOLA.png",
-                       "stock":  3,
+                       "stock":  2,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -1757,7 +1749,7 @@
                        "name":  "VITAMINA D3 CON K2",
                        "folder":  "General",
                        "src":  "images/VITAMINA D3 CON K2.jpeg",
-                       "stock":  20,
+                       "stock":  18,
                        "offerPrice":  150,
                        "stockLinked":  true
                    },
@@ -1874,14 +1866,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "ZINC PARA HOMBRES 11 INGREDIENTES",
-                       "folder":  "General",
-                       "src":  "images/ZINC PARA HOMBRES 11 INGREDIENTES.jpeg",
-                       "stock":  0,
-                       "offerPrice":  280,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "ZINC",
                        "folder":  "General",
                        "src":  "images/ZINC.jpeg",
@@ -1965,7 +1949,7 @@
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
-                       "stock":  43,
+                       "stock":  42,
                        "offerPrice":  325,
                        "stockLinked":  true
                    },
@@ -2800,6 +2784,11 @@
                               "src":  "images_sin_existencia/LIPO 6 BLACK QUEMADOR DE GRASA.jpeg"
                           },
                           {
+                              "name":  "MAGNESIO GLICINATO GOLI",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/MAGNESIO GLICINATO GOLI.jpeg"
+                          },
+                          {
                               "name":  "MAGNESIO GOMITAS GOLI",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/MAGNESIO GOMITAS GOLI.jpg"
@@ -3183,6 +3172,11 @@
                               "name":  "VITAMINAS PARA NIÑOS GOMITAS",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/VITAMINAS PARA NIÑOS GOMITAS.jpeg"
+                          },
+                          {
+                              "name":  "ZINC PARA HOMBRES 11 INGREDIENTES",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/ZINC PARA HOMBRES 11 INGREDIENTES.jpeg"
                           }
                       ]
 }
