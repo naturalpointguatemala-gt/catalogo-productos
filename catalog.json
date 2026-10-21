@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-21T22:10:36.8004654Z",
+    "generatedAt":  "2026-10-21T22:22:59.0990215Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -341,7 +341,7 @@
                        "name":  "CENTRUM MEN",
                        "folder":  "General",
                        "src":  "images/CENTRUM MEN.jpeg",
-                       "stock":  5,
+                       "stock":  4,
                        "offerPrice":  320,
                        "stockLinked":  true
                    },
