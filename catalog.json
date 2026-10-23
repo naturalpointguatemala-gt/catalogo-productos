@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-23T21:49:06.1010184Z",
+    "generatedAt":  "2026-10-23T21:56:24.7352197Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1029,7 +1029,7 @@
                        "name":  "LONGJACK TONGKAT ALI",
                        "folder":  "General",
                        "src":  "images/LONGJACK TONGKAT ALI.jpeg",
-                       "stock":  1,
+                       "stock":  0,
                        "offerPrice":  230,
                        "stockLinked":  true
                    },
