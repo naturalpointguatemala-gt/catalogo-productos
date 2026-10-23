@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-23T21:56:24.7352197Z",
+    "generatedAt":  "2026-10-23T21:58:32.9963984Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1023,14 +1023,6 @@
                        "src":  "images/LIPO 6 BLACK QUEMADOR DE GRASA  60 CAPS NUTREX.jpeg",
                        "stock":  2,
                        "offerPrice":  300,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "LONGJACK TONGKAT ALI",
-                       "folder":  "General",
-                       "src":  "images/LONGJACK TONGKAT ALI.jpeg",
-                       "stock":  0,
-                       "offerPrice":  230,
                        "stockLinked":  true
                    },
                    {
@@ -2782,6 +2774,11 @@
                               "name":  "LIPO 6 BLACK QUEMADOR DE GRASA",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/LIPO 6 BLACK QUEMADOR DE GRASA.jpeg"
+                          },
+                          {
+                              "name":  "LONGJACK TONGKAT ALI",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/LONGJACK TONGKAT ALI.jpeg"
                           },
                           {
                               "name":  "MAGNESIO GLICINATO GOLI",
