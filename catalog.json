@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-23T01:36:21.2980994Z",
+    "generatedAt":  "2026-10-23T15:02:56.8567985Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -29,7 +29,7 @@
                        "name":  "ACEITE DE ORÉGANO 3000MG  60 PERLAS",
                        "folder":  "General",
                        "src":  "images/ACEITE DE ORÉGANO 3000MG  60 PERLAS.jpeg",
-                       "stock":  10,
+                       "stock":  16,
                        "offerPrice":  155,
                        "stockLinked":  true
                    },
@@ -69,7 +69,7 @@
                        "name":  "AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL",
                        "folder":  "General",
                        "src":  "images/AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL.jpeg",
-                       "stock":  56,
+                       "stock":  55,
                        "offerPrice":  195,
                        "stockLinked":  true
                    },
@@ -77,7 +77,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  170,
+                       "stock":  168,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  257,
+                       "stock":  255,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -221,7 +221,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  42,
+                       "stock":  41,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -237,7 +237,7 @@
                        "name":  "CALCIO CITRATO 1000MG  90 CAPS.",
                        "folder":  "General",
                        "src":  "images/CALCIO CITRATO 1000MG  90 CAPS..jpeg",
-                       "stock":  7,
+                       "stock":  15,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -285,7 +285,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  159,
+                       "stock":  184,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -301,7 +301,7 @@
                        "name":  "CASTAÑA DE INDIAS",
                        "folder":  "General",
                        "src":  "images/CASTAÑA DE INDIAS.png",
-                       "stock":  49,
+                       "stock":  47,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -405,7 +405,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  317,
+                       "stock":  316,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -501,7 +501,7 @@
                        "name":  "COLÁGENO EN POLVO CON BIOTINA",
                        "folder":  "General",
                        "src":  "images/COLÁGENO EN POLVO CON BIOTINA.jpg",
-                       "stock":  3,
+                       "stock":  8,
                        "offerPrice":  140,
                        "stockLinked":  true
                    },
@@ -573,7 +573,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  965,
+                       "stock":  971,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -685,7 +685,7 @@
                        "name":  "GLICINATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/GLICINATO DE MAGNESIO.jpeg",
-                       "stock":  7,
+                       "stock":  20,
                        "offerPrice":  125,
                        "stockLinked":  true
                    },
@@ -1301,7 +1301,7 @@
                        "name":  "OMEGA 3",
                        "folder":  "General",
                        "src":  "images/OMEGA 3.jpeg",
-                       "stock":  10,
+                       "stock":  16,
                        "offerPrice":  110,
                        "stockLinked":  true
                    },
@@ -1717,7 +1717,7 @@
                        "name":  "VITAMINA B7 (BIOTINA)",
                        "folder":  "General",
                        "src":  "images/VITAMINA B7 (BIOTINA).png",
-                       "stock":  8,
+                       "stock":  14,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -1741,7 +1741,7 @@
                        "name":  "VITAMINA C",
                        "folder":  "General",
                        "src":  "images/VITAMINA C.jpeg",
-                       "stock":  25,
+                       "stock":  24,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -1949,7 +1949,7 @@
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
-                       "stock":  39,
+                       "stock":  37,
                        "offerPrice":  325,
                        "stockLinked":  true
                    },
@@ -2069,7 +2069,7 @@
                        "name":  "CREATINA RAW",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA RAW.jpeg",
-                       "stock":  7,
+                       "stock":  6,
                        "offerPrice":  315,
                        "stockLinked":  true
                    },
