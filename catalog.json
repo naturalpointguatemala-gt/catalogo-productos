@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-23T21:09:50.8674834Z",
+    "generatedAt":  "2026-10-23T21:25:42.2024342Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -141,7 +141,7 @@
                        "name":  "ALOE VERA",
                        "folder":  "General",
                        "src":  "images/ALOE VERA.jpeg",
-                       "stock":  11,
+                       "stock":  10,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  255,
+                       "stock":  254,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -285,7 +285,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  155,
+                       "stock":  154,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -405,7 +405,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  316,
+                       "stock":  315,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
