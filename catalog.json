@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-23T22:34:08.7674381Z",
+    "generatedAt":  "2026-10-23T22:56:42.8791747Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -285,7 +285,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  150,
+                       "stock":  148,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -573,7 +573,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  953,
+                       "stock":  951,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1269,7 +1269,7 @@
                        "name":  "OMEGA 3 SPORT RESEARCH ALASKAN  90 SOFT GEL",
                        "folder":  "General",
                        "src":  "images/OMEGA 3 SPORT RESEARCH ALASKAN  90 SOFT GEL.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "offerPrice":  440,
                        "stockLinked":  true
                    },
