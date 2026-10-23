@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-23T21:58:32.9963984Z",
+    "generatedAt":  "2026-10-23T22:08:41.2424138Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -301,7 +301,7 @@
                        "name":  "CASTAÑA DE INDIAS",
                        "folder":  "General",
                        "src":  "images/CASTAÑA DE INDIAS.png",
-                       "stock":  47,
+                       "stock":  46,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -589,7 +589,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  134,
+                       "stock":  133,
                        "offerPrice":  105,
                        "stockLinked":  true
                    },
