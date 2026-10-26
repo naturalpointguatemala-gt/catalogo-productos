@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-26T17:25:46.2890574Z",
+    "generatedAt":  "2026-10-26T17:33:30.6482207Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -613,7 +613,7 @@
                        "name":  "EQUINÁCEA",
                        "folder":  "General",
                        "src":  "images/EQUINÁCEA.png",
-                       "stock":  16,
+                       "stock":  14,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
