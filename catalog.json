@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-26T20:29:23.1163015Z",
+    "generatedAt":  "2026-10-26T20:39:29.5214075Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -285,7 +285,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  132,
+                       "stock":  131,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -573,7 +573,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  971,
+                       "stock":  970,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -685,7 +685,7 @@
                        "name":  "GLICINATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/GLICINATO DE MAGNESIO.jpeg",
-                       "stock":  20,
+                       "stock":  18,
                        "offerPrice":  125,
                        "stockLinked":  true
                    },
