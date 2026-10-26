@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-23T23:31:33.1085019Z",
+    "generatedAt":  "2026-10-26T16:17:52.4663615Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -77,7 +77,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  163,
+                       "stock":  160,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -125,7 +125,7 @@
                        "name":  "ALA",
                        "folder":  "General",
                        "src":  "images/ALA.jpeg",
-                       "stock":  12,
+                       "stock":  11,
                        "offerPrice":  130,
                        "stockLinked":  true
                    },
@@ -149,7 +149,7 @@
                        "name":  "ARCILLA IMPORTADA",
                        "folder":  "General",
                        "src":  "images/ARCILLA IMPORTADA.jpeg",
-                       "stock":  5,
+                       "stock":  4,
                        "offerPrice":  180,
                        "stockLinked":  true
                    },
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  254,
+                       "stock":  251,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -221,7 +221,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  39,
+                       "stock":  38,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -253,7 +253,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1405,
+                       "stock":  -1406,
                        "offerPrice":  0,
                        "stockLinked":  true
                    },
@@ -285,7 +285,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  148,
+                       "stock":  120,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -405,7 +405,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  315,
+                       "stock":  314,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -413,7 +413,7 @@
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
-                       "stock":  239,
+                       "stock":  238,
                        "offerPrice":  100,
                        "stockLinked":  true
                    },
@@ -509,7 +509,7 @@
                        "name":  "COLÁGENO HIDROLIZADO CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/COLÁGENO HIDROLIZADO CÁPSULAS.jpeg",
-                       "stock":  17,
+                       "stock":  15,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -573,7 +573,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  953,
+                       "stock":  944,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -669,7 +669,7 @@
                        "name":  "GINSENG COREANO",
                        "folder":  "General",
                        "src":  "images/GINSENG COREANO.png",
-                       "stock":  8,
+                       "stock":  7,
                        "offerPrice":  110,
                        "stockLinked":  true
                    },
@@ -765,7 +765,7 @@
                        "name":  "GRAVIOLA (GUANÁBANA)",
                        "folder":  "General",
                        "src":  "images/GRAVIOLA (GUANÁBANA).png",
-                       "stock":  25,
+                       "stock":  24,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -893,7 +893,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  112,
+                       "stock":  111,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
@@ -933,7 +933,7 @@
                        "name":  "KELP EXTRACTO",
                        "folder":  "General",
                        "src":  "images/KELP EXTRACTO.jpeg",
-                       "stock":  29,
+                       "stock":  28,
                        "offerPrice":  90,
                        "stockLinked":  true
                    },
@@ -1013,7 +1013,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  7,
+                       "stock":  2,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -1213,7 +1213,7 @@
                        "name":  "NOPAL",
                        "folder":  "General",
                        "src":  "images/NOPAL.png",
-                       "stock":  19,
+                       "stock":  17,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1311,14 +1311,6 @@
                        "src":  "images/ONE A DAY PRENATAL ADVANCED.jpeg",
                        "stock":  3,
                        "offerPrice":  460,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "ONE A DAY SOPORTE PARA MENOPAUSIA  50 TABS BAYER",
-                       "folder":  "General",
-                       "src":  "images/ONE A DAY SOPORTE PARA MENOPAUSIA  50 TABS BAYER.jpeg",
-                       "stock":  1,
-                       "offerPrice":  330,
                        "stockLinked":  true
                    },
                    {
@@ -1941,7 +1933,7 @@
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
-                       "stock":  35,
+                       "stock":  34,
                        "offerPrice":  325,
                        "stockLinked":  true
                    },
@@ -2045,7 +2037,7 @@
                        "name":  "CREATINA NUTREX 300  60 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 300  60 SERVIDAS.jpeg",
-                       "stock":  21,
+                       "stock":  13,
                        "offerPrice":  275,
                        "stockLinked":  true
                    },
@@ -2061,7 +2053,7 @@
                        "name":  "CREATINA RAW",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA RAW.jpeg",
-                       "stock":  7,
+                       "stock":  6,
                        "offerPrice":  315,
                        "stockLinked":  true
                    },
@@ -2859,6 +2851,11 @@
                               "name":  "OMEGA 3 NORDIC 90 CAPS",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/OMEGA 3 NORDIC 90 CAPS.jpeg"
+                          },
+                          {
+                              "name":  "ONE A DAY SOPORTE PARA MENOPAUSIA  50 TABS BAYER",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/ONE A DAY SOPORTE PARA MENOPAUSIA  50 TABS BAYER.jpeg"
                           },
                           {
                               "name":  "PRE-ENTRENO NO EXLPODE VASO",
