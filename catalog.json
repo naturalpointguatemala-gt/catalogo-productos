@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-26T19:31:26.6522108Z",
+    "generatedAt":  "2026-10-26T19:38:16.6390638Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -133,7 +133,7 @@
                        "name":  "ALCACHOFA",
                        "folder":  "General",
                        "src":  "images/ALCACHOFA.jpeg",
-                       "stock":  29,
+                       "stock":  28,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -549,7 +549,7 @@
                        "name":  "CRANBERRY EXTRACTO CON VITAMINA C",
                        "folder":  "General",
                        "src":  "images/CRANBERRY EXTRACTO CON VITAMINA C.jpeg",
-                       "stock":  11,
+                       "stock":  10,
                        "offerPrice":  115,
                        "stockLinked":  true
                    },
