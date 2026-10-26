@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-26T16:17:52.4663615Z",
+    "generatedAt":  "2026-10-26T16:40:54.0712270Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -141,7 +141,7 @@
                        "name":  "ALOE VERA",
                        "folder":  "General",
                        "src":  "images/ALOE VERA.jpeg",
-                       "stock":  10,
+                       "stock":  16,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  251,
+                       "stock":  271,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -285,7 +285,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  120,
+                       "stock":  158,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -573,7 +573,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  944,
+                       "stock":  971,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -605,7 +605,7 @@
                        "name":  "ENZIMAS DE PAPAYA",
                        "folder":  "General",
                        "src":  "images/ENZIMAS DE PAPAYA.png",
-                       "stock":  6,
+                       "stock":  19,
                        "offerPrice":  100,
                        "stockLinked":  true
                    },
