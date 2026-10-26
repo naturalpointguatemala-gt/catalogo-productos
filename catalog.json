@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-26T18:51:36.9322833Z",
+    "generatedAt":  "2026-10-26T19:03:36.7285712Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -402,9 +402,9 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "CITRATO DE MAGNESIO",
+                       "name":  "CITRATO DE MAGNESIO 500MG  60 CAPS.",
                        "folder":  "General",
-                       "src":  "images/CITRATO DE MAGNESIO.jpeg",
+                       "src":  "images/CITRATO DE MAGNESIO 500MG  60 CAPS..jpeg",
                        "stock":  314,
                        "offerPrice":  80,
                        "stockLinked":  true
@@ -2037,7 +2037,7 @@
                        "name":  "CREATINA NUTREX 300  60 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 300  60 SERVIDAS.jpeg",
-                       "stock":  13,
+                       "stock":  11,
                        "offerPrice":  275,
                        "stockLinked":  true
                    },
