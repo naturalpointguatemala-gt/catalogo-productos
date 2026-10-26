@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-26T22:11:23.0696028Z",
+    "generatedAt":  "2026-10-26T22:17:41.0038951Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -141,7 +141,7 @@
                        "name":  "ALOE VERA",
                        "folder":  "General",
                        "src":  "images/ALOE VERA.jpeg",
-                       "stock":  16,
+                       "stock":  15,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  269,
+                       "stock":  265,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -405,7 +405,7 @@
                        "name":  "CITRATO DE MAGNESIO 500MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO 500MG  60 CAPS..jpeg",
-                       "stock":  312,
+                       "stock":  308,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -1722,6 +1722,14 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "VITAMINA C MASTICABLE 500MG  60 TABS.",
+                       "folder":  "General",
+                       "src":  "images/VITAMINA C MASTICABLE 500MG  60 TABS..jpeg",
+                       "stock":  10,
+                       "offerPrice":  80,
+                       "stockLinked":  true
+                   },
+                   {
                        "name":  "VITAMINA C",
                        "folder":  "General",
                        "src":  "images/VITAMINA C.jpeg",
@@ -2194,6 +2202,14 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "PRE ENTRENO VENOM ESSENTIAL  30 SERVIDAS DRAGON PHARMA PEPINO LIMÓN",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE ENTRENO VENOM ESSENTIAL  30 SERVIDAS DRAGON PHARMA PEPINO LIMÓN.jpeg",
+                       "stock":  null,
+                       "offerPrice":  null,
+                       "stockLinked":  false
+                   },
+                   {
                        "name":  "PRE-ENTRENO PSYCHOTIC GOLD  35 SERVIDAS SABOR FRUIT PUNCH",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC GOLD  35 SERVIDAS SABOR FRUIT PUNCH.jpeg",
@@ -2344,6 +2360,30 @@
                        "stock":  1,
                        "offerPrice":  335,
                        "stockLinked":  true
+                   },
+                   {
+                       "name":  "PRE-ENTRENO VENOM INFERNO  20 SERVIDAS PEPINO LIMÓN CHAMOY DRAGON PHARMA",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO VENOM INFERNO  20 SERVIDAS PEPINO LIMÓN CHAMOY DRAGON PHARMA.jpeg",
+                       "stock":  null,
+                       "offerPrice":  null,
+                       "stockLinked":  false
+                   },
+                   {
+                       "name":  "PRE-ENTRENO VENOM INFERNO  20 SERVIDAS SANDILLADA DRAGON PHARMA",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO VENOM INFERNO  20 SERVIDAS SANDILLADA DRAGON PHARMA.jpeg",
+                       "stock":  null,
+                       "offerPrice":  null,
+                       "stockLinked":  false
+                   },
+                   {
+                       "name":  "PRE-ENTRENO VENOM INFERNO  20 SERVIDAS TAMARINDO CHAMOY DRAGON PHARMA",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO VENOM INFERNO  20 SERVIDAS TAMARINDO CHAMOY DRAGON PHARMA.jpeg",
+                       "stock":  null,
+                       "offerPrice":  null,
+                       "stockLinked":  false
                    },
                    {
                        "name":  "PRE-ENTRENO VENOM INFERNO  40 SERVIDAS DRAGON LYCHEE DRAGON PHARMA",
