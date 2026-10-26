@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-26T17:16:42.2601529Z",
+    "generatedAt":  "2026-10-26T17:22:26.0392932Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  271,
+                       "stock":  269,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -285,7 +285,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  152,
+                       "stock":  149,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -405,7 +405,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  314,
+                       "stock":  354,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -1013,7 +1013,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  2,
+                       "stock":  17,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
