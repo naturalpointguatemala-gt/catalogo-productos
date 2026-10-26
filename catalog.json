@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-26T23:11:05.4760474Z",
+    "generatedAt":  "2026-10-26T23:32:00.4458062Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -270,6 +270,14 @@
                        "folder":  "General",
                        "src":  "images/CANELA 500MG  60 CAPS..jpeg",
                        "stock":  22,
+                       "offerPrice":  70,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "CARBÓN ACTIVADO 400MG  90 CAPS.",
+                       "folder":  "General",
+                       "src":  "images/CARBÓN ACTIVADO 400MG  90 CAPS..jpeg",
+                       "stock":  3,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -2566,11 +2574,6 @@
                               "name":  "BORO AMERICANO",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/BORO AMERICANO.jpeg"
-                          },
-                          {
-                              "name":  "CARBÓN ACTIVADO 400MG  90 CAPS.",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/CARBÓN ACTIVADO 400MG  90 CAPS..jpeg"
                           },
                           {
                               "name":  "CENTRUM ENERGÍA",
