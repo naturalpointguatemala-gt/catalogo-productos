@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-26T17:22:26.0392932Z",
+    "generatedAt":  "2026-10-26T17:25:46.2890574Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -405,7 +405,7 @@
                        "name":  "CITRATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO.jpeg",
-                       "stock":  354,
+                       "stock":  314,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -893,7 +893,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  111,
+                       "stock":  151,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
