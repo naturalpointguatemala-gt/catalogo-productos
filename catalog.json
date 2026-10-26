@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-26T17:33:30.6482207Z",
+    "generatedAt":  "2026-10-26T18:42:12.7412209Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -221,7 +221,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  38,
+                       "stock":  37,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -253,7 +253,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1406,
+                       "stock":  -1407,
                        "offerPrice":  0,
                        "stockLinked":  true
                    },
@@ -285,7 +285,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  149,
+                       "stock":  140,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -341,7 +341,7 @@
                        "name":  "CENTRUM MEN",
                        "folder":  "General",
                        "src":  "images/CENTRUM MEN.jpeg",
-                       "stock":  3,
+                       "stock":  2,
                        "offerPrice":  320,
                        "stockLinked":  true
                    },
@@ -357,7 +357,7 @@
                        "name":  "CENTRUM WOMEN +50",
                        "folder":  "General",
                        "src":  "images/CENTRUM WOMEN +50.jpeg",
-                       "stock":  3,
+                       "stock":  2,
                        "offerPrice":  340,
                        "stockLinked":  true
                    },
@@ -493,7 +493,7 @@
                        "name":  "COLÁGENO 6,000MG  290 TABS YOUTHEORY",
                        "folder":  "General",
                        "src":  "images/COLÁGENO 6,000MG  290 TABS YOUTHEORY.jpeg",
-                       "stock":  1,
+                       "stock":  0,
                        "offerPrice":  210,
                        "stockLinked":  true
                    },
@@ -573,7 +573,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  971,
+                       "stock":  969,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1589,7 +1589,7 @@
                        "name":  "ULTRA OMEGA 3 NOW X 90",
                        "folder":  "General",
                        "src":  "images/ULTRA OMEGA 3 NOW X 90.jpeg",
-                       "stock":  11,
+                       "stock":  10,
                        "offerPrice":  345,
                        "stockLinked":  true
                    },
