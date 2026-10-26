@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-26T22:17:41.0038951Z",
+    "generatedAt":  "2026-10-26T22:22:11.6680308Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -2205,9 +2205,9 @@
                        "name":  "PRE ENTRENO VENOM ESSENTIAL  30 SERVIDAS DRAGON PHARMA PEPINO LIMÓN",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE ENTRENO VENOM ESSENTIAL  30 SERVIDAS DRAGON PHARMA PEPINO LIMÓN.jpeg",
-                       "stock":  null,
-                       "offerPrice":  null,
-                       "stockLinked":  false
+                       "stock":  3,
+                       "offerPrice":  350,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "PRE-ENTRENO PSYCHOTIC GOLD  35 SERVIDAS SABOR FRUIT PUNCH",
@@ -2365,25 +2365,25 @@
                        "name":  "PRE-ENTRENO VENOM INFERNO  20 SERVIDAS PEPINO LIMÓN CHAMOY DRAGON PHARMA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO VENOM INFERNO  20 SERVIDAS PEPINO LIMÓN CHAMOY DRAGON PHARMA.jpeg",
-                       "stock":  null,
-                       "offerPrice":  null,
-                       "stockLinked":  false
+                       "stock":  3,
+                       "offerPrice":  350,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "PRE-ENTRENO VENOM INFERNO  20 SERVIDAS SANDILLADA DRAGON PHARMA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO VENOM INFERNO  20 SERVIDAS SANDILLADA DRAGON PHARMA.jpeg",
-                       "stock":  null,
-                       "offerPrice":  null,
-                       "stockLinked":  false
+                       "stock":  3,
+                       "offerPrice":  350,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "PRE-ENTRENO VENOM INFERNO  20 SERVIDAS TAMARINDO CHAMOY DRAGON PHARMA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO VENOM INFERNO  20 SERVIDAS TAMARINDO CHAMOY DRAGON PHARMA.jpeg",
-                       "stock":  null,
-                       "offerPrice":  null,
-                       "stockLinked":  false
+                       "stock":  3,
+                       "offerPrice":  350,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "PRE-ENTRENO VENOM INFERNO  40 SERVIDAS DRAGON LYCHEE DRAGON PHARMA",
