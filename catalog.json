@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-27T19:05:16.0468894Z",
+    "generatedAt":  "2026-10-27T19:15:11.4930786Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -133,7 +133,7 @@
                        "name":  "ALCACHOFA",
                        "folder":  "General",
                        "src":  "images/ALCACHOFA.jpeg",
-                       "stock":  28,
+                       "stock":  27,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -573,7 +573,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  941,
+                       "stock":  939,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1061,7 +1061,7 @@
                        "name":  "MAGNESIO COMPLEX",
                        "folder":  "General",
                        "src":  "images/MAGNESIO COMPLEX.jpeg",
-                       "stock":  18,
+                       "stock":  17,
                        "offerPrice":  230,
                        "stockLinked":  true
                    },
