@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-27T19:40:47.1059450Z",
+    "generatedAt":  "2026-10-27T19:48:48.4944651Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  140,
+                       "stock":  139,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -573,7 +573,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  938,
+                       "stock":  937,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1013,14 +1013,22 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  14,
+                       "stock":  13,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
                    {
-                       "name":  "LIPO 6 BLACK QUEMADOR DE GRASA  60 CAPS NUTREX",
+                       "name":  "LIPO 6 BLACK QUEMADOR DE GRASA  120 CAPS NUTREX",
                        "folder":  "General",
-                       "src":  "images/LIPO 6 BLACK QUEMADOR DE GRASA  60 CAPS NUTREX.jpeg",
+                       "src":  "images/LIPO 6 BLACK QUEMADOR DE GRASA  120 CAPS NUTREX.jpeg",
+                       "stock":  9,
+                       "offerPrice":  350,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "LIPO 6 BLACK QUEMADOR DE GRASA ULTRA  60 CAPS NUTREX",
+                       "folder":  "General",
+                       "src":  "images/LIPO 6 BLACK QUEMADOR DE GRASA ULTRA  60 CAPS NUTREX.jpeg",
                        "stock":  2,
                        "offerPrice":  300,
                        "stockLinked":  true
@@ -3178,11 +3186,6 @@
                               "name":  "VITAMINA C LIQUIDO",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/VITAMINA C LIQUIDO.jpeg"
-                          },
-                          {
-                              "name":  "VITAMINA C MASTICABLES",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/VITAMINA C MASTICABLES.png"
                           },
                           {
                               "name":  "VITAMINAS ADOLESCENTES HOMBRES",
