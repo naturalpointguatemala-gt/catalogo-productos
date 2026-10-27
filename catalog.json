@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-26T23:48:42.5691414Z",
+    "generatedAt":  "2026-10-27T00:03:09.1010635Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -229,7 +229,7 @@
                        "name":  "BOLDO 1000MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/BOLDO 1000MG  60 CAPS..jpeg",
-                       "stock":  18,
+                       "stock":  17,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1637,7 +1637,7 @@
                        "name":  "VINAGRE DE MANZANA 500MG  90 CAPS.",
                        "folder":  "General",
                        "src":  "images/VINAGRE DE MANZANA 500MG  90 CAPS..jpg",
-                       "stock":  10,
+                       "stock":  9,
                        "offerPrice":  100,
                        "stockLinked":  true
                    },
