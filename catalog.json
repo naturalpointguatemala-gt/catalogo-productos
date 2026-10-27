@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-27T19:48:48.4944651Z",
+    "generatedAt":  "2026-10-27T19:54:15.8594151Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -551,6 +551,14 @@
                        "src":  "images/CRANBERRY EXTRACTO CON VITAMINA C.jpeg",
                        "stock":  10,
                        "offerPrice":  115,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "CREATINA DRAGON PHARMA  30 SERVIDAS",
+                       "folder":  "General",
+                       "src":  "images/CREATINA DRAGON PHARMA  30 SERVIDAS.jpeg",
+                       "stock":  101,
+                       "offerPrice":  235,
                        "stockLinked":  true
                    },
                    {
@@ -1949,7 +1957,7 @@
                        "name":  "CREATINA DRAGON PHARMA 200 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA 200 SERVIDAS.jpeg",
-                       "stock":  38,
+                       "stock":  37,
                        "offerPrice":  500,
                        "stockLinked":  true
                    },
@@ -2450,14 +2458,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "PROTEÍNA BPI ISO HD  69 SERVIDAS 4.9LB SABOR COOKIES AND CREAM",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA BPI ISO HD  69 SERVIDAS 4.9LB SABOR COOKIES AND CREAM.jpeg",
-                       "stock":  1,
-                       "offerPrice":  850,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "PROTEÍNA BPI ISO HD  70 SERVIDAS 4.93LB SABOR CEREAL CRUNCH",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA BPI ISO HD  70 SERVIDAS 4.93LB SABOR CEREAL CRUNCH.jpeg",
@@ -2638,11 +2638,6 @@
                               "src":  "images_sin_existencia/CREATINA BYTZ  80 TABLETAS MASTICABLES TANGY BLUE RAZZ MUTANT.png"
                           },
                           {
-                              "name":  "CREATINA DRAGON PHARMA  30 SERVIDAS",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/CREATINA DRAGON PHARMA  30 SERVIDAS.jpeg"
-                          },
-                          {
                               "name":  "CREATINA EN GOMITAS GOLI",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/CREATINA EN GOMITAS GOLI.jpeg"
@@ -2801,11 +2796,6 @@
                               "name":  "KING WHEY RONNIE COLEMAN VAINILLA ICE CREAM",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/KING WHEY RONNIE COLEMAN VAINILLA ICE CREAM.jpeg"
-                          },
-                          {
-                              "name":  "LIPO 6 BLACK QUEMADOR DE GRASA",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/LIPO 6 BLACK QUEMADOR DE GRASA.jpeg"
                           },
                           {
                               "name":  "LONGJACK TONGKAT ALI",
@@ -3056,6 +3046,11 @@
                               "name":  "PROTEÍNA ANIMAL WHEY  64 SERVIDAS SABOR VAINILLA",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PROTEÍNA ANIMAL WHEY  64 SERVIDAS SABOR VAINILLA.jpeg"
+                          },
+                          {
+                              "name":  "PROTEÍNA BPI ISO HD  69 SERVIDAS 4.9LB SABOR COOKIES AND CREAM",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/PROTEÍNA BPI ISO HD  69 SERVIDAS 4.9LB SABOR COOKIES AND CREAM.jpeg"
                           },
                           {
                               "name":  "PROTEÍNA BPI ISO HD  70 SERVIDAS 4.8LB SABOR VAINILLA COOKIE",
