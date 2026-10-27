@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-27T19:54:15.8594151Z",
+    "generatedAt":  "2026-10-27T20:03:35.2618632Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -637,7 +637,7 @@
                        "name":  "FENOGRECO",
                        "folder":  "General",
                        "src":  "images/FENOGRECO.png",
-                       "stock":  15,
+                       "stock":  14,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -1341,7 +1341,7 @@
                        "name":  "ORTIGA",
                        "folder":  "General",
                        "src":  "images/ORTIGA.png",
-                       "stock":  23,
+                       "stock":  22,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1485,7 +1485,7 @@
                        "name":  "SAW PALMETTO",
                        "folder":  "General",
                        "src":  "images/SAW PALMETTO.jpeg",
-                       "stock":  27,
+                       "stock":  26,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
