@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-27T00:10:51.2017320Z",
+    "generatedAt":  "2026-10-27T16:30:29.3271635Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -77,7 +77,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  159,
+                       "stock":  153,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -133,7 +133,7 @@
                        "name":  "ALCACHOFA",
                        "folder":  "General",
                        "src":  "images/ALCACHOFA.jpeg",
-                       "stock":  30,
+                       "stock":  28,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -141,7 +141,7 @@
                        "name":  "ALOE VERA",
                        "folder":  "General",
                        "src":  "images/ALOE VERA.jpeg",
-                       "stock":  15,
+                       "stock":  14,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  267,
+                       "stock":  280,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -221,7 +221,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  35,
+                       "stock":  27,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -277,7 +277,7 @@
                        "name":  "CARBÓN ACTIVADO 400MG  90 CAPS.",
                        "folder":  "General",
                        "src":  "images/CARBÓN ACTIVADO 400MG  90 CAPS..jpeg",
-                       "stock":  3,
+                       "stock":  20,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  154,
+                       "stock":  162,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -309,7 +309,7 @@
                        "name":  "CASTAÑA DE INDIAS",
                        "folder":  "General",
                        "src":  "images/CASTAÑA DE INDIAS.png",
-                       "stock":  47,
+                       "stock":  45,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -413,7 +413,7 @@
                        "name":  "CITRATO DE MAGNESIO 500MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO 500MG  60 CAPS..jpeg",
-                       "stock":  308,
+                       "stock":  307,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -421,7 +421,7 @@
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
-                       "stock":  238,
+                       "stock":  237,
                        "offerPrice":  100,
                        "stockLinked":  true
                    },
@@ -495,14 +495,6 @@
                        "src":  "images/COLA DE CABALLO.png",
                        "stock":  4,
                        "offerPrice":  70,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "COLÁGENO 6,000MG  290 TABS YOUTHEORY",
-                       "folder":  "General",
-                       "src":  "images/COLÁGENO 6,000MG  290 TABS YOUTHEORY.jpeg",
-                       "stock":  0,
-                       "offerPrice":  210,
                        "stockLinked":  true
                    },
                    {
@@ -581,7 +573,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  978,
+                       "stock":  955,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -597,7 +589,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  135,
+                       "stock":  134,
                        "offerPrice":  105,
                        "stockLinked":  true
                    },
@@ -693,7 +685,7 @@
                        "name":  "GLICINATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/GLICINATO DE MAGNESIO.jpeg",
-                       "stock":  18,
+                       "stock":  17,
                        "offerPrice":  125,
                        "stockLinked":  true
                    },
@@ -853,7 +845,7 @@
                        "name":  "HEPA REVIVE ",
                        "folder":  "General",
                        "src":  "images/HEPA REVIVE .jpg",
-                       "stock":  83,
+                       "stock":  82,
                        "offerPrice":  130,
                        "stockLinked":  true
                    },
@@ -989,7 +981,7 @@
                        "name":  "L-LISINA",
                        "folder":  "General",
                        "src":  "images/L-LISINA.jpeg",
-                       "stock":  8,
+                       "stock":  6,
                        "offerPrice":  90,
                        "stockLinked":  true
                    },
@@ -1021,7 +1013,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  17,
+                       "stock":  15,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -1069,7 +1061,7 @@
                        "name":  "MAGNESIO COMPLEX",
                        "folder":  "General",
                        "src":  "images/MAGNESIO COMPLEX.jpeg",
-                       "stock":  22,
+                       "stock":  18,
                        "offerPrice":  230,
                        "stockLinked":  true
                    },
@@ -1157,7 +1149,7 @@
                        "name":  "MORINGA 500MG  90 CAPS.",
                        "folder":  "General",
                        "src":  "images/MORINGA 500MG  90 CAPS..jpg",
-                       "stock":  9,
+                       "stock":  8,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -1418,14 +1410,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "PROBIÓTICOS PARA MUJERES ZEBORA",
-                       "folder":  "General",
-                       "src":  "images/PROBIÓTICOS PARA MUJERES ZEBORA.jpeg",
-                       "stock":  1,
-                       "offerPrice":  220,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "PROBIÓTICOS Y PREBIÓTICOS FORTIFY",
                        "folder":  "General",
                        "src":  "images/PROBIÓTICOS Y PREBIÓTICOS FORTIFY.jpeg",
@@ -1469,7 +1453,7 @@
                        "name":  "RESVERATROL",
                        "folder":  "General",
                        "src":  "images/RESVERATROL.png",
-                       "stock":  40,
+                       "stock":  38,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
@@ -1797,7 +1781,7 @@
                        "name":  "VITAMINAS ALIVE DAILY ENERGY",
                        "folder":  "General",
                        "src":  "images/VITAMINAS ALIVE DAILY ENERGY.jpeg",
-                       "stock":  17,
+                       "stock":  16,
                        "offerPrice":  200,
                        "stockLinked":  true
                    },
@@ -1949,7 +1933,7 @@
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
-                       "stock":  34,
+                       "stock":  32,
                        "offerPrice":  325,
                        "stockLinked":  true
                    },
@@ -2053,7 +2037,7 @@
                        "name":  "CREATINA NUTREX 300  60 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 300  60 SERVIDAS.jpeg",
-                       "stock":  9,
+                       "stock":  8,
                        "offerPrice":  275,
                        "stockLinked":  true
                    },
@@ -2626,6 +2610,11 @@
                               "src":  "images_sin_existencia/COENZIMA Q10 SUERO FACIAL.jpeg"
                           },
                           {
+                              "name":  "COLÁGENO 6,000MG  290 TABS YOUTHEORY",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/COLÁGENO 6,000MG  290 TABS YOUTHEORY.jpeg"
+                          },
+                          {
                               "name":  "CRAETINA PARA MUJER DURAZNO MANGO",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/CRAETINA PARA MUJER DURAZNO MANGO.jpeg"
@@ -2969,6 +2958,11 @@
                               "name":  "PROBIOTICOS MASTICABLES",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PROBIOTICOS MASTICABLES.jpeg"
+                          },
+                          {
+                              "name":  "PROBIÓTICOS PARA MUJERES ZEBORA",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/PROBIÓTICOS PARA MUJERES ZEBORA.jpeg"
                           },
                           {
                               "name":  "PROTEIN PHORM DRAGON PHARMA SABOR CHURRO",
