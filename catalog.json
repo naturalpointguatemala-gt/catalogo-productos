@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-27T18:21:54.0820751Z",
+    "generatedAt":  "2026-10-27T18:26:37.9223439Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -589,7 +589,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  134,
+                       "stock":  133,
                        "offerPrice":  105,
                        "stockLinked":  true
                    },
