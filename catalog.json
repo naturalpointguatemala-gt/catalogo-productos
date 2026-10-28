@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-28T18:02:25.6134907Z",
+    "generatedAt":  "2026-10-28T18:05:21.0449939Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -559,14 +559,6 @@
                        "src":  "images/CRANBERRY EXTRACTO CON VITAMINA C.jpeg",
                        "stock":  10,
                        "offerPrice":  115,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "CREATINA DRAGON PHARMA  30 SERVIDAS",
-                       "folder":  "General",
-                       "src":  "images/CREATINA DRAGON PHARMA  30 SERVIDAS.jpeg",
-                       "stock":  100,
-                       "offerPrice":  235,
                        "stockLinked":  true
                    },
                    {
@@ -1999,6 +1991,14 @@
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
                        "stock":  29,
                        "offerPrice":  325,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "CREATINA DRAGON PHARMA  30 SERVIDAS",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA  30 SERVIDAS.jpeg",
+                       "stock":  100,
+                       "offerPrice":  235,
                        "stockLinked":  true
                    },
                    {
