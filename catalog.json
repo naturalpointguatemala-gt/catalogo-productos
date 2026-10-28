@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-28T18:00:57.3707804Z",
+    "generatedAt":  "2026-10-28T18:02:25.6134907Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -229,7 +229,7 @@
                        "name":  "BOLDO 1000MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/BOLDO 1000MG  60 CAPS..jpeg",
-                       "stock":  17,
+                       "stock":  24,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  92,
+                       "stock":  137,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -613,7 +613,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  133,
+                       "stock":  151,
                        "offerPrice":  105,
                        "stockLinked":  true
                    },
@@ -1093,7 +1093,7 @@
                        "name":  "MACA",
                        "folder":  "General",
                        "src":  "images/MACA.png",
-                       "stock":  22,
+                       "stock":  28,
                        "offerPrice":  190,
                        "stockLinked":  true
                    },
@@ -1197,7 +1197,7 @@
                        "name":  "MORINGA 500MG  90 CAPS.",
                        "folder":  "General",
                        "src":  "images/MORINGA 500MG  90 CAPS..jpg",
-                       "stock":  8,
+                       "stock":  12,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -1485,7 +1485,7 @@
                        "name":  "REISHI GANODERMA",
                        "folder":  "General",
                        "src":  "images/REISHI GANODERMA.png",
-                       "stock":  19,
+                       "stock":  23,
                        "offerPrice":  110,
                        "stockLinked":  true
                    },
