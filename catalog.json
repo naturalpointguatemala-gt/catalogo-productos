@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-28T16:37:47.4080545Z",
+    "generatedAt":  "2026-10-28T16:50:44.9439202Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -85,7 +85,7 @@
                        "name":  "AGUAJE PERUANO 500MG  100 CAPS.",
                        "folder":  "General",
                        "src":  "images/AGUAJE PERUANO 500MG  100 CAPS..jpeg",
-                       "stock":  20,
+                       "stock":  19,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -221,7 +221,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  24,
+                       "stock":  23,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -413,7 +413,7 @@
                        "name":  "CITRATO DE MAGNESIO 500MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO 500MG  60 CAPS..jpeg",
-                       "stock":  305,
+                       "stock":  303,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -421,7 +421,7 @@
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
-                       "stock":  237,
+                       "stock":  235,
                        "offerPrice":  100,
                        "stockLinked":  true
                    },
