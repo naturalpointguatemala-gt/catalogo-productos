@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-28T22:06:27.7281206Z",
+    "generatedAt":  "2026-10-28T22:41:30.0484297Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1733,7 +1733,7 @@
                        "name":  "VITAMINA B7 (BIOTINA)",
                        "folder":  "General",
                        "src":  "images/VITAMINA B7 (BIOTINA).png",
-                       "stock":  14,
+                       "stock":  13,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
