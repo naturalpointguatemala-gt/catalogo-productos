@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-28T20:09:32.3611034Z",
+    "generatedAt":  "2026-10-28T20:32:44.1736905Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -397,7 +397,7 @@
                        "name":  "CHANCAPIEDRA",
                        "folder":  "General",
                        "src":  "images/CHANCAPIEDRA.jpeg",
-                       "stock":  5,
+                       "stock":  3,
                        "offerPrice":  100,
                        "stockLinked":  true
                    },
@@ -421,7 +421,7 @@
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
-                       "stock":  234,
+                       "stock":  232,
                        "offerPrice":  100,
                        "stockLinked":  true
                    },
@@ -605,7 +605,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  151,
+                       "stock":  149,
                        "offerPrice":  105,
                        "stockLinked":  true
                    },
@@ -917,7 +917,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  147,
+                       "stock":  144,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
