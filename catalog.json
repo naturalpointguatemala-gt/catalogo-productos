@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-28T16:55:36.9040872Z",
+    "generatedAt":  "2026-10-28T17:04:29.8102359Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -253,7 +253,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1413,
+                       "stock":  -1414,
                        "offerPrice":  0,
                        "stockLinked":  true
                    },
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  105,
+                       "stock":  102,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -581,7 +581,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  903,
+                       "stock":  902,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -853,7 +853,7 @@
                        "name":  "HEPA REVIVE ",
                        "folder":  "General",
                        "src":  "images/HEPA REVIVE .jpg",
-                       "stock":  82,
+                       "stock":  81,
                        "offerPrice":  130,
                        "stockLinked":  true
                    },
@@ -2618,11 +2618,6 @@
                               "src":  "images_sin_existencia/COENZIMA Q10 SUERO FACIAL.jpeg"
                           },
                           {
-                              "name":  "COLÁGENO 6,000MG  290 TABS YOUTHEORY",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/COLÁGENO 6,000MG  290 TABS YOUTHEORY.jpeg"
-                          },
-                          {
                               "name":  "CRAETINA PARA MUJER DURAZNO MANGO",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/CRAETINA PARA MUJER DURAZNO MANGO.jpeg"
@@ -2636,11 +2631,6 @@
                               "name":  "CREATINA BYTZ  80 TABLETAS MASTICABLES TANGY BLUE RAZZ MUTANT",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/CREATINA BYTZ  80 TABLETAS MASTICABLES TANGY BLUE RAZZ MUTANT.png"
-                          },
-                          {
-                              "name":  "CREATINA EN GOMITAS GOLI",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/CREATINA EN GOMITAS GOLI.jpeg"
                           },
                           {
                               "name":  "CREATINA GAT 1KG",
@@ -2801,11 +2791,6 @@
                               "name":  "LONGJACK TONGKAT ALI",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/LONGJACK TONGKAT ALI.jpeg"
-                          },
-                          {
-                              "name":  "MAGNESIO GLICINATO GOLI",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/MAGNESIO GLICINATO GOLI.jpeg"
                           },
                           {
                               "name":  "MAGNESIO GOMITAS GOLI",
