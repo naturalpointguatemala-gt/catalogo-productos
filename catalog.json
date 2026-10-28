@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-28T17:47:24.9731115Z",
+    "generatedAt":  "2026-10-28T17:50:21.6723801Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  97,
+                       "stock":  96,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -709,9 +709,9 @@
                        "name":  "GLICINATO DE MAGNESIO 200MG  60 GOMITAS GOLÍ",
                        "folder":  "General",
                        "src":  "images/GLICINATO DE MAGNESIO 200MG  60 GOMITAS GOLÍ.jpeg",
-                       "stock":  null,
-                       "offerPrice":  null,
-                       "stockLinked":  false
+                       "stock":  2,
+                       "offerPrice":  265,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "GLICINATO DE MAGNESIO",
