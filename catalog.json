@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-28T17:40:14.0374802Z",
+    "generatedAt":  "2026-10-28T17:47:24.9731115Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -581,9 +581,9 @@
                        "name":  "CREATINA MONOHIDRATADA EN GOMITAS  60 UNIDADES GOLÍ",
                        "folder":  "General",
                        "src":  "images/CREATINA MONOHIDRATADA EN GOMITAS  60 UNIDADES GOLÍ.jpeg",
-                       "stock":  null,
-                       "offerPrice":  null,
-                       "stockLinked":  false
+                       "stock":  2,
+                       "offerPrice":  265,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CÁSCARA SAGRADA",
@@ -981,9 +981,9 @@
                        "name":  "KIT PARA CABELLO BIOTINA + COLÁGENO SHAMPOO TRATAMIENTO Y ACONDICIONADOR ACTIVEE",
                        "folder":  "General",
                        "src":  "images/KIT PARA CABELLO BIOTINA + COLÁGENO SHAMPOO TRATAMIENTO Y ACONDICIONADOR ACTIVEE.jpeg",
-                       "stock":  null,
-                       "offerPrice":  null,
-                       "stockLinked":  false
+                       "stock":  2,
+                       "offerPrice":  225,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "L-ARGININA 500MG  90 CAPS.",
@@ -1853,9 +1853,9 @@
                        "name":  "VIU COLÁGENO + CALCIO  300GR KIWI FRESA",
                        "folder":  "General",
                        "src":  "images/VIU COLÁGENO + CALCIO  300GR KIWI FRESA.jpeg",
-                       "stock":  null,
-                       "offerPrice":  null,
-                       "stockLinked":  false
+                       "stock":  3,
+                       "offerPrice":  250,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "YODO GOTAS 150MCG  118ML CARLYLE",
@@ -1869,9 +1869,9 @@
                        "name":  "YOGGIES PROBIÓTICOS FRESA  30 BOLSAS DE 20G NATURES GARDEN",
                        "folder":  "General",
                        "src":  "images/YOGGIES PROBIÓTICOS FRESA  30 BOLSAS DE 20G NATURES GARDEN.jpeg",
-                       "stock":  null,
-                       "offerPrice":  null,
-                       "stockLinked":  false
+                       "stock":  2,
+                       "offerPrice":  265,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "YOHIMBE POLVO",
