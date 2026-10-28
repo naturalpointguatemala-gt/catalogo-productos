@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-28T17:29:49.8032267Z",
+    "generatedAt":  "2026-10-28T17:40:14.0374802Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  270,
+                       "stock":  267,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  98,
+                       "stock":  97,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -309,7 +309,7 @@
                        "name":  "CASTAÑA DE INDIAS",
                        "folder":  "General",
                        "src":  "images/CASTAÑA DE INDIAS.png",
-                       "stock":  45,
+                       "stock":  44,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -597,7 +597,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  900,
+                       "stock":  899,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1189,7 +1189,7 @@
                        "name":  "MINOXIDIL  60ML KIRLAND",
                        "folder":  "General",
                        "src":  "images/MINOXIDIL  60ML KIRLAND.jpeg",
-                       "stock":  13,
+                       "stock":  12,
                        "offerPrice":  130,
                        "stockLinked":  true
                    },
