@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-29T19:32:47.7615476Z",
+    "generatedAt":  "2026-10-29T19:38:18.5812510Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -517,7 +517,7 @@
                        "name":  "COLÁGENO HIDROLIZADO CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/COLÁGENO HIDROLIZADO CÁPSULAS.jpeg",
-                       "stock":  13,
+                       "stock":  11,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -1525,7 +1525,7 @@
                        "name":  "SERENIREST",
                        "folder":  "General",
                        "src":  "images/SERENIREST.jpeg",
-                       "stock":  20,
+                       "stock":  19,
                        "offerPrice":  100,
                        "stockLinked":  true
                    },
@@ -2485,7 +2485,7 @@
                        "name":  "PROTEIN PHORM 28 SERVIDAS SABOR MILKSHAKE",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEIN PHORM 28 SERVIDAS SABOR MILKSHAKE.jpeg",
-                       "stock":  8,
+                       "stock":  13,
                        "offerPrice":  465,
                        "stockLinked":  true
                    },
