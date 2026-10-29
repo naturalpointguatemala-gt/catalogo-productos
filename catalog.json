@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-28T23:46:46.3285903Z",
+    "generatedAt":  "2026-10-29T00:11:28.3383348Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -605,7 +605,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  149,
+                       "stock":  148,
                        "offerPrice":  105,
                        "stockLinked":  true
                    },
@@ -1413,7 +1413,7 @@
                        "name":  "PROBIOTICOS CANLIST",
                        "folder":  "General",
                        "src":  "images/PROBIOTICOS CANLIST.jpeg",
-                       "stock":  16,
+                       "stock":  15,
                        "offerPrice":  210,
                        "stockLinked":  true
                    },
