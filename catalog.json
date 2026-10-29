@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-29T17:23:39.1833931Z",
+    "generatedAt":  "2026-10-29T17:27:16.1683988Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  106,
+                       "stock":  166,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -925,7 +925,7 @@
                        "name":  "ISOFLAVONAS",
                        "folder":  "General",
                        "src":  "images/ISOFLAVONAS.png",
-                       "stock":  23,
+                       "stock":  38,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
@@ -1069,7 +1069,7 @@
                        "name":  "LONJACK POINT",
                        "folder":  "General",
                        "src":  "images/LONJACK POINT.jpeg",
-                       "stock":  9,
+                       "stock":  30,
                        "offerPrice":  180,
                        "stockLinked":  true
                    },
