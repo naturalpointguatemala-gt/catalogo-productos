@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-29T17:37:05.7892485Z",
+    "generatedAt":  "2026-10-29T17:48:54.6787092Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1589,7 +1589,7 @@
                        "name":  "TESTOSTERONA BOOSTER",
                        "folder":  "General",
                        "src":  "images/TESTOSTERONA BOOSTER.jpeg",
-                       "stock":  5,
+                       "stock":  4,
                        "offerPrice":  330,
                        "stockLinked":  true
                    },
@@ -2101,7 +2101,7 @@
                        "name":  "CREATINA NUTREX 300  60 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 300  60 SERVIDAS.jpeg",
-                       "stock":  23,
+                       "stock":  22,
                        "offerPrice":  275,
                        "stockLinked":  true
                    },
@@ -2485,7 +2485,7 @@
                        "name":  "PROTEIN PHORM 28 SERVIDAS SABOR MILKSHAKE",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEIN PHORM 28 SERVIDAS SABOR MILKSHAKE.jpeg",
-                       "stock":  9,
+                       "stock":  8,
                        "offerPrice":  465,
                        "stockLinked":  true
                    },
