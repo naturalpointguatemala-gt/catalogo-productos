@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-29T22:44:07.8518439Z",
+    "generatedAt":  "2026-10-29T22:50:40.3429201Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -253,7 +253,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1417,
+                       "stock":  -1418,
                        "offerPrice":  0,
                        "stockLinked":  true
                    },
@@ -413,7 +413,7 @@
                        "name":  "CITRATO DE MAGNESIO 500MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO 500MG  60 CAPS..jpeg",
-                       "stock":  298,
+                       "stock":  297,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -421,7 +421,7 @@
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
-                       "stock":  230,
+                       "stock":  229,
                        "offerPrice":  100,
                        "stockLinked":  true
                    },
@@ -1765,7 +1765,7 @@
                        "name":  "VITAMINA C",
                        "folder":  "General",
                        "src":  "images/VITAMINA C.jpeg",
-                       "stock":  24,
+                       "stock":  22,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -1893,7 +1893,7 @@
                        "name":  "ZINC 50 MG",
                        "folder":  "General",
                        "src":  "images/ZINC 50 MG.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "offerPrice":  185,
                        "stockLinked":  true
                    },
