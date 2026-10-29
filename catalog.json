@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-29T16:35:52.7134838Z",
+    "generatedAt":  "2026-10-29T16:38:50.9121283Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1061,7 +1061,7 @@
                        "name":  "LIPO 6 BLACK QUEMADOR DE GRASA ULTRA  60 CAPS NUTREX",
                        "folder":  "General",
                        "src":  "images/LIPO 6 BLACK QUEMADOR DE GRASA ULTRA  60 CAPS NUTREX.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "offerPrice":  300,
                        "stockLinked":  true
                    },
@@ -1085,7 +1085,7 @@
                        "name":  "MACA",
                        "folder":  "General",
                        "src":  "images/MACA.png",
-                       "stock":  28,
+                       "stock":  27,
                        "offerPrice":  190,
                        "stockLinked":  true
                    },
