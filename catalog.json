@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-29T16:38:50.9121283Z",
+    "generatedAt":  "2026-10-29T16:54:35.3784617Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -213,7 +213,7 @@
                        "name":  "BERBERINA CON CANELA GOTAS 1500MG  60ML ACENTIA LABS",
                        "folder":  "General",
                        "src":  "images/BERBERINA CON CANELA GOTAS 1500MG  60ML ACENTIA LABS.jpeg",
-                       "stock":  3,
+                       "stock":  2,
                        "offerPrice":  240,
                        "stockLinked":  true
                    },
@@ -221,7 +221,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  20,
+                       "stock":  18,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -2093,7 +2093,7 @@
                        "name":  "CREATINA NUTREX 1KG  200 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 1KG  200 SERVIDAS.jpeg",
-                       "stock":  8,
+                       "stock":  7,
                        "offerPrice":  415,
                        "stockLinked":  true
                    },
