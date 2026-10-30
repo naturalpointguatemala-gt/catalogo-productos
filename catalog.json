@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-30T18:51:01.3258581Z",
+    "generatedAt":  "2026-10-30T19:02:49.8591680Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -837,7 +837,7 @@
                        "name":  "HAIR, SKIN AND NAILS  200 GOMITAS. NATURE´S BOUNTY ROSADO",
                        "folder":  "General",
                        "src":  "images/HAIR, SKIN AND NAILS  200 GOMITAS. NATURE´S BOUNTY ROSADO.jpeg",
-                       "stock":  4,
+                       "stock":  3,
                        "offerPrice":  235,
                        "stockLinked":  true
                    },
@@ -1085,7 +1085,7 @@
                        "name":  "MACA",
                        "folder":  "General",
                        "src":  "images/MACA.png",
-                       "stock":  27,
+                       "stock":  26,
                        "offerPrice":  190,
                        "stockLinked":  true
                    },
