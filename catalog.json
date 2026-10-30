@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-30T18:23:47.2282700Z",
+    "generatedAt":  "2026-10-30T18:31:44.8580919Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -149,7 +149,7 @@
                        "name":  "ARCILLA IMPORTADA",
                        "folder":  "General",
                        "src":  "images/ARCILLA IMPORTADA.jpeg",
-                       "stock":  4,
+                       "stock":  16,
                        "offerPrice":  180,
                        "stockLinked":  true
                    },
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  256,
+                       "stock":  254,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
