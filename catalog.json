@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-30T18:31:44.8580919Z",
+    "generatedAt":  "2026-10-30T18:40:36.5817093Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  167,
+                       "stock":  166,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -589,7 +589,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  835,
+                       "stock":  834,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
