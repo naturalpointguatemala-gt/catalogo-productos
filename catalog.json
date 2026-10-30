@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-30T17:30:35.6216976Z",
+    "generatedAt":  "2026-10-30T17:48:50.9224192Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1367,14 +1367,6 @@
                        "src":  "images/ORTIGA.png",
                        "stock":  22,
                        "offerPrice":  70,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "OXIDO NITRICO",
-                       "folder":  "General",
-                       "src":  "images/OXIDO NITRICO.jpeg",
-                       "stock":  0,
-                       "offerPrice":  280,
                        "stockLinked":  true
                    },
                    {
@@ -2919,6 +2911,11 @@
                               "name":  "ONE A DAY SOPORTE PARA MENOPAUSIA  50 TABS BAYER",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/ONE A DAY SOPORTE PARA MENOPAUSIA  50 TABS BAYER.jpeg"
+                          },
+                          {
+                              "name":  "OXIDO NITRICO",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/OXIDO NITRICO.jpeg"
                           },
                           {
                               "name":  "PRE-ENTRENO NO EXLPODE VASO",
