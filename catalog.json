@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-30T18:17:46.4218342Z",
+    "generatedAt":  "2026-10-30T18:23:47.2282700Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  258,
+                       "stock":  256,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  168,
+                       "stock":  167,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -1893,7 +1893,7 @@
                        "name":  "ZINC 50MG GNC",
                        "folder":  "General",
                        "src":  "images/ZINC 50MG GNC.jpeg",
-                       "stock":  1,
+                       "stock":  0,
                        "offerPrice":  270,
                        "stockLinked":  true
                    },
@@ -2045,7 +2045,7 @@
                        "name":  "CREATINA MICRONIZADA  60 SERVIDAS SIN SABOR OPTIMUM NUTRITION",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MICRONIZADA  60 SERVIDAS SIN SABOR OPTIMUM NUTRITION.jpeg",
-                       "stock":  7,
+                       "stock":  6,
                        "offerPrice":  290,
                        "stockLinked":  true
                    },
