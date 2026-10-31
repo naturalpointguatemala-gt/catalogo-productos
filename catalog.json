@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-31T20:11:20.7933421Z",
+    "generatedAt":  "2026-10-31T20:19:10.1070767Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -613,7 +613,7 @@
                        "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
                        "folder":  "General",
                        "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
-                       "stock":  -11,
+                       "stock":  -12,
                        "offerPrice":  265,
                        "stockLinked":  true
                    },
@@ -1989,7 +1989,7 @@
                        "name":  "CREATINA DRAGON PHARMA  30 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA  30 SERVIDAS.jpeg",
-                       "stock":  97,
+                       "stock":  96,
                        "offerPrice":  235,
                        "stockLinked":  true
                    },
@@ -2479,14 +2479,6 @@
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEIN PHORM 28 SERVIDAS SABOR MILKSHAKE.jpeg",
                        "stock":  11,
                        "offerPrice":  465,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "PROTEÍNA ANIMAL WHEY  64 SERVIDAS SABOR CHOCOLATE",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA ANIMAL WHEY  64 SERVIDAS SABOR CHOCOLATE.jpeg",
-                       "stock":  1,
-                       "offerPrice":  675,
                        "stockLinked":  true
                    },
                    {
@@ -3058,6 +3050,11 @@
                               "name":  "PROTEINA WHEY PHORM VAINILLA Y CHOCOLATE BLANCO  25 SERVIDAS",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PROTEINA WHEY PHORM VAINILLA Y CHOCOLATE BLANCO  25 SERVIDAS.jpeg"
+                          },
+                          {
+                              "name":  "PROTEÍNA ANIMAL WHEY  64 SERVIDAS SABOR CHOCOLATE",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/PROTEÍNA ANIMAL WHEY  64 SERVIDAS SABOR CHOCOLATE.jpeg"
                           },
                           {
                               "name":  "PROTEÍNA ANIMAL WHEY  64 SERVIDAS SABOR VAINILLA",
