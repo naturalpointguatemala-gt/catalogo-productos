@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-31T21:16:14.9365083Z",
+    "generatedAt":  "2026-10-31T21:21:50.2649660Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -269,7 +269,7 @@
                        "name":  "CANELA 500MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/CANELA 500MG  60 CAPS..jpeg",
-                       "stock":  22,
+                       "stock":  20,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -613,7 +613,7 @@
                        "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
                        "folder":  "General",
                        "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
-                       "stock":  -22,
+                       "stock":  -24,
                        "offerPrice":  265,
                        "stockLinked":  true
                    },
@@ -1109,7 +1109,7 @@
                        "name":  "MAGNESIO COMPLEX",
                        "folder":  "General",
                        "src":  "images/MAGNESIO COMPLEX.jpeg",
-                       "stock":  15,
+                       "stock":  14,
                        "offerPrice":  230,
                        "stockLinked":  true
                    },
