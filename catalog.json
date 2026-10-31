@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-31T18:11:44.8735137Z",
+    "generatedAt":  "2026-10-31T18:17:47.0904527Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  207,
+                       "stock":  206,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -589,7 +589,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  858,
+                       "stock":  857,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1533,7 +1533,7 @@
                        "name":  "SHILAJIT  60 GOMITAS BBP PARAÍSO NATURAL",
                        "folder":  "General",
                        "src":  "images/SHILAJIT  60 GOMITAS BBP PARAÍSO NATURAL.jpeg",
-                       "stock":  10,
+                       "stock":  9,
                        "offerPrice":  200,
                        "stockLinked":  true
                    },
