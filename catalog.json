@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-31T00:13:11.5514094Z",
+    "generatedAt":  "2026-10-31T15:25:10.3144460Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -253,7 +253,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1418,
+                       "stock":  -1419,
                        "offerPrice":  0,
                        "stockLinked":  true
                    },
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  163,
+                       "stock":  161,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -589,7 +589,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  831,
+                       "stock":  829,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -709,7 +709,7 @@
                        "name":  "GLICINATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/GLICINATO DE MAGNESIO.jpeg",
-                       "stock":  31,
+                       "stock":  29,
                        "offerPrice":  125,
                        "stockLinked":  true
                    },
@@ -1501,7 +1501,7 @@
                        "name":  "SAW PALMETTO",
                        "folder":  "General",
                        "src":  "images/SAW PALMETTO.jpeg",
-                       "stock":  24,
+                       "stock":  23,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
@@ -1981,7 +1981,7 @@
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
-                       "stock":  28,
+                       "stock":  27,
                        "offerPrice":  325,
                        "stockLinked":  true
                    },
