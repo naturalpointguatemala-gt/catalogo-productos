@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-31T20:06:19.8913335Z",
+    "generatedAt":  "2026-10-31T20:11:20.7933421Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -77,7 +77,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  136,
+                       "stock":  135,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -613,7 +613,7 @@
                        "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
                        "folder":  "General",
                        "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
-                       "stock":  -10,
+                       "stock":  -11,
                        "offerPrice":  265,
                        "stockLinked":  true
                    },
