@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-31T21:36:37.1484289Z",
+    "generatedAt":  "2026-10-31T21:47:48.4483941Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -205,7 +205,7 @@
                        "name":  "ASTAXANTINA AMERICANA",
                        "folder":  "General",
                        "src":  "images/ASTAXANTINA AMERICANA.jpg",
-                       "stock":  1,
+                       "stock":  6,
                        "offerPrice":  230,
                        "stockLinked":  true
                    },
@@ -213,7 +213,7 @@
                        "name":  "BERBERINA CON CANELA GOTAS 1500MG  60ML ACENTIA LABS",
                        "folder":  "General",
                        "src":  "images/BERBERINA CON CANELA GOTAS 1500MG  60ML ACENTIA LABS.jpeg",
-                       "stock":  2,
+                       "stock":  17,
                        "offerPrice":  240,
                        "stockLinked":  true
                    },
@@ -613,7 +613,7 @@
                        "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
                        "folder":  "General",
                        "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
-                       "stock":  21,
+                       "stock":  19,
                        "offerPrice":  265,
                        "stockLinked":  true
                    },
@@ -917,7 +917,7 @@
                        "name":  "INOSITOL MYO \u0026 D-CHIRO POLVO 227GR. DEAL SUPPLEMENT",
                        "folder":  "General",
                        "src":  "images/INOSITOL MYO \u0026 D-CHIRO POLVO 227GR. DEAL SUPPLEMENT.jpeg",
-                       "stock":  1,
+                       "stock":  3,
                        "offerPrice":  285,
                        "stockLinked":  true
                    },
@@ -1549,7 +1549,7 @@
                        "name":  "SHILAJIT EXTRA FUERTE  90 CAPS UHECO",
                        "folder":  "General",
                        "src":  "images/SHILAJIT EXTRA FUERTE  90 CAPS UHECO.jpeg",
-                       "stock":  19,
+                       "stock":  24,
                        "offerPrice":  330,
                        "stockLinked":  true
                    },
