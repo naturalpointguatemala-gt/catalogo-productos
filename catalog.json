@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-31T15:50:39.0944819Z",
+    "generatedAt":  "2026-10-31T16:12:11.7113379Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1973,7 +1973,7 @@
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
-                       "stock":  27,
+                       "stock":  26,
                        "offerPrice":  325,
                        "stockLinked":  true
                    },
@@ -2469,7 +2469,7 @@
                        "name":  "PROTEIN PHORM 28 SERVIDAS SABOR MILKSHAKE",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEIN PHORM 28 SERVIDAS SABOR MILKSHAKE.jpeg",
-                       "stock":  12,
+                       "stock":  11,
                        "offerPrice":  465,
                        "stockLinked":  true
                    },
