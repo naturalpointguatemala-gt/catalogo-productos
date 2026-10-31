@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-31T17:53:08.8078187Z",
+    "generatedAt":  "2026-10-31T18:11:44.8735137Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -589,7 +589,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  859,
+                       "stock":  858,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1757,7 +1757,7 @@
                        "name":  "VITAMINA C",
                        "folder":  "General",
                        "src":  "images/VITAMINA C.jpeg",
-                       "stock":  22,
+                       "stock":  21,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
