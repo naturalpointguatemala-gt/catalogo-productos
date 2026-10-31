@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-31T22:08:15.4231623Z",
+    "generatedAt":  "2026-10-31T22:12:38.8057254Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -29,7 +29,7 @@
                        "name":  "ACEITE DE ORÉGANO 3000MG  60 PERLAS",
                        "folder":  "General",
                        "src":  "images/ACEITE DE ORÉGANO 3000MG  60 PERLAS.jpeg",
-                       "stock":  15,
+                       "stock":  14,
                        "offerPrice":  155,
                        "stockLinked":  true
                    },
@@ -613,7 +613,7 @@
                        "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
                        "folder":  "General",
                        "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
-                       "stock":  15,
+                       "stock":  14,
                        "offerPrice":  265,
                        "stockLinked":  true
                    },
