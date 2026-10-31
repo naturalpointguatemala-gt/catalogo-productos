@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-31T15:29:59.6987763Z",
+    "generatedAt":  "2026-10-31T15:37:43.9332843Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1890,14 +1890,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "ZINC 50MG GNC",
-                       "folder":  "General",
-                       "src":  "images/ZINC 50MG GNC.jpeg",
-                       "stock":  0,
-                       "offerPrice":  270,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "ZINC",
                        "folder":  "General",
                        "src":  "images/ZINC.jpeg",
@@ -2093,7 +2085,7 @@
                        "name":  "CREATINA NUTREX 300  60 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 300  60 SERVIDAS.jpeg",
-                       "stock":  17,
+                       "stock":  16,
                        "offerPrice":  275,
                        "stockLinked":  true
                    },
@@ -2477,7 +2469,7 @@
                        "name":  "PROTEIN PHORM 28 SERVIDAS SABOR MILKSHAKE",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEIN PHORM 28 SERVIDAS SABOR MILKSHAKE.jpeg",
-                       "stock":  13,
+                       "stock":  12,
                        "offerPrice":  465,
                        "stockLinked":  true
                    },
@@ -2503,14 +2495,6 @@
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA BPI ISO HD  70 SERVIDAS 4.93LB SABOR CEREAL CRUNCH.jpeg",
                        "stock":  6,
                        "offerPrice":  850,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "PROTEÍNA CARNIVOR  56 SERVIDAS 4.19LB  MUSCLEMEDS CHOCOLATE",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA CARNIVOR  56 SERVIDAS 4.19LB  MUSCLEMEDS CHOCOLATE.jpeg",
-                       "stock":  0,
-                       "offerPrice":  675,
                        "stockLinked":  true
                    },
                    {
@@ -3093,6 +3077,11 @@
                               "src":  "images_sin_existencia/PROTEÍNA CARNIVOR  56 SERVIDAS 3.9LB  MUSCLEMEDS VAINILLA CARAMELO.jpeg"
                           },
                           {
+                              "name":  "PROTEÍNA CARNIVOR  56 SERVIDAS 4.19LB  MUSCLEMEDS CHOCOLATE",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/PROTEÍNA CARNIVOR  56 SERVIDAS 4.19LB  MUSCLEMEDS CHOCOLATE.jpeg"
+                          },
+                          {
                               "name":  "PROTEÍNA HARDCORE WHEY  68 SERVIDAS CHOCOLATE MILKSHAKE MUTANT",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PROTEÍNA HARDCORE WHEY  68 SERVIDAS CHOCOLATE MILKSHAKE MUTANT.jpeg"
@@ -3231,6 +3220,11 @@
                               "name":  "VITAMINAS PARA NIÑOS GOMITAS",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/VITAMINAS PARA NIÑOS GOMITAS.jpeg"
+                          },
+                          {
+                              "name":  "ZINC 50MG GNC",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/ZINC 50MG GNC.jpeg"
                           },
                           {
                               "name":  "ZINC PARA HOMBRES 11 INGREDIENTES",
