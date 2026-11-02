@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-02T20:44:01.5798837Z",
+    "generatedAt":  "2026-11-02T20:53:58.9180060Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  174,
+                       "stock":  173,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -589,7 +589,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  840,
+                       "stock":  839,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1741,7 +1741,7 @@
                        "name":  "VITAMINA B7 (BIOTINA)",
                        "folder":  "General",
                        "src":  "images/VITAMINA B7 (BIOTINA).png",
-                       "stock":  12,
+                       "stock":  11,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
