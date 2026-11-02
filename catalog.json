@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-02T18:18:41.3779571Z",
+    "generatedAt":  "2026-11-02T18:26:28.4573938Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1250,6 +1250,14 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "NAD LIPOSOMAL  60 SOFTGELS.",
+                       "folder":  "General",
+                       "src":  "images/NAD LIPOSOMAL  60 SOFTGELS..jpeg",
+                       "stock":  6,
+                       "offerPrice":  315,
+                       "stockLinked":  true
+                   },
+                   {
                        "name":  "NIACIN VITAMINA B3 NUTRICOST",
                        "folder":  "General",
                        "src":  "images/NIACIN VITAMINA B3 NUTRICOST.jpeg",
@@ -1589,7 +1597,7 @@
                        "name":  "TESTOSTERONA BOOSTER",
                        "folder":  "General",
                        "src":  "images/TESTOSTERONA BOOSTER.jpeg",
-                       "stock":  4,
+                       "stock":  3,
                        "offerPrice":  330,
                        "stockLinked":  true
                    },
