@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-02T16:40:42.3375460Z",
+    "generatedAt":  "2026-11-02T16:49:12.6322157Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  189,
+                       "stock":  187,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -589,7 +589,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  844,
+                       "stock":  843,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -2037,7 +2037,7 @@
                        "name":  "CREATINA MICRONIZADA  120 SERVIDAS SIN SABOR OPTIMUM NUTRITION",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MICRONIZADA  120 SERVIDAS SIN SABOR OPTIMUM NUTRITION.jpeg",
-                       "stock":  4,
+                       "stock":  3,
                        "offerPrice":  415,
                        "stockLinked":  true
                    },
