@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-02T21:35:16.0979666Z",
+    "generatedAt":  "2026-11-02T21:40:09.5873153Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -77,7 +77,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  132,
+                       "stock":  130,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -589,7 +589,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  836,
+                       "stock":  835,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1053,7 +1053,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  11,
+                       "stock":  10,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
