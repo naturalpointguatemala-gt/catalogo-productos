@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-02T23:31:07.5654344Z",
+    "generatedAt":  "2026-11-02T23:40:36.4694160Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -413,7 +413,7 @@
                        "name":  "CITRATO DE MAGNESIO 500MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO 500MG  60 CAPS..jpeg",
-                       "stock":  293,
+                       "stock":  294,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -589,7 +589,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  824,
+                       "stock":  823,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -2544,14 +2544,6 @@
                        "stock":  2,
                        "offerPrice":  875,
                        "stockLinked":  true
-                   },
-                   {
-                       "name":  "PROTEÍNA VEGANA ABOUTTIME VE  32 SERVIDAS",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA VEGANA ABOUTTIME VE  32 SERVIDAS.jpeg",
-                       "stock":  0,
-                       "offerPrice":  280,
-                       "stockLinked":  true
                    }
                ],
     "noStockImages":  [
@@ -3104,6 +3096,11 @@
                               "name":  "PROTEÍNA NITROTECH 69 SERVIDAS",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PROTEÍNA NITROTECH 69 SERVIDAS.jpeg"
+                          },
+                          {
+                              "name":  "PROTEÍNA VEGANA ABOUTTIME VE  32 SERVIDAS",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/PROTEÍNA VEGANA ABOUTTIME VE  32 SERVIDAS.jpeg"
                           },
                           {
                               "name":  "PROTEÍNA WHEY GOLD ESTÁNDAR BOLSA CHOCOLATE",
