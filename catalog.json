@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-02T21:09:13.2744633Z",
+    "generatedAt":  "2026-11-02T21:15:07.6877674Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1778,14 +1778,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "VITAMINA D3 CON K2",
-                       "folder":  "General",
-                       "src":  "images/VITAMINA D3 CON K2.jpeg",
-                       "stock":  15,
-                       "offerPrice":  150,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "VITAMINA E 1000 UI",
                        "folder":  "General",
                        "src":  "images/VITAMINA E 1000 UI.png",
@@ -3205,6 +3197,11 @@
                               "name":  "VITAMINA C LIQUIDO",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/VITAMINA C LIQUIDO.jpeg"
+                          },
+                          {
+                              "name":  "VITAMINA D3 CON K2",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/VITAMINA D3 CON K2.jpeg"
                           },
                           {
                               "name":  "VITAMINAS ADOLESCENTES HOMBRES",
