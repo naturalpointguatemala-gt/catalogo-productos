@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-31T22:24:12.5630887Z",
+    "generatedAt":  "2026-11-02T16:30:46.0324216Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -141,7 +141,7 @@
                        "name":  "ALOE VERA",
                        "folder":  "General",
                        "src":  "images/ALOE VERA.jpeg",
-                       "stock":  13,
+                       "stock":  11,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -165,7 +165,7 @@
                        "name":  "ASHWAGANDHA AMERICANA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA AMERICANA.jpeg",
-                       "stock":  44,
+                       "stock":  43,
                        "offerPrice":  225,
                        "stockLinked":  true
                    },
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  243,
+                       "stock":  241,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -221,7 +221,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  47,
+                       "stock":  45,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -253,7 +253,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1420,
+                       "stock":  -1421,
                        "offerPrice":  0,
                        "stockLinked":  true
                    },
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  196,
+                       "stock":  190,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -413,7 +413,7 @@
                        "name":  "CITRATO DE MAGNESIO 500MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO 500MG  60 CAPS..jpeg",
-                       "stock":  296,
+                       "stock":  295,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -589,7 +589,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  852,
+                       "stock":  844,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -613,7 +613,7 @@
                        "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
                        "folder":  "General",
                        "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
-                       "stock":  14,
+                       "stock":  9,
                        "offerPrice":  265,
                        "stockLinked":  true
                    },
@@ -917,7 +917,7 @@
                        "name":  "INOSITOL MYO \u0026 D-CHIRO POLVO 227GR. DEAL SUPPLEMENT",
                        "folder":  "General",
                        "src":  "images/INOSITOL MYO \u0026 D-CHIRO POLVO 227GR. DEAL SUPPLEMENT.jpeg",
-                       "stock":  3,
+                       "stock":  2,
                        "offerPrice":  285,
                        "stockLinked":  true
                    },
@@ -1773,7 +1773,7 @@
                        "name":  "VITAMINA D3 CON K2",
                        "folder":  "General",
                        "src":  "images/VITAMINA D3 CON K2.jpeg",
-                       "stock":  17,
+                       "stock":  15,
                        "offerPrice":  150,
                        "stockLinked":  true
                    },
@@ -2239,14 +2239,6 @@
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE ENTRENO RYSE  30 SERVIDAS SABOR SANDÍA RYSE UP.jpeg",
                        "stock":  1,
                        "offerPrice":  400,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "PRE ENTRENO VENOM ESSENTIAL  30 SERVIDAS DRAGON PHARMA MANGONADA",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE ENTRENO VENOM ESSENTIAL  30 SERVIDAS DRAGON PHARMA MANGONADA.jpeg",
-                       "stock":  1,
-                       "offerPrice":  350,
                        "stockLinked":  true
                    },
                    {
@@ -2895,6 +2887,11 @@
                               "name":  "OXIDO NITRICO",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/OXIDO NITRICO.jpeg"
+                          },
+                          {
+                              "name":  "PRE ENTRENO VENOM ESSENTIAL  30 SERVIDAS DRAGON PHARMA MANGONADA",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/PRE ENTRENO VENOM ESSENTIAL  30 SERVIDAS DRAGON PHARMA MANGONADA.jpeg"
                           },
                           {
                               "name":  "PRE-ENTRENO NO EXLPODE VASO",
