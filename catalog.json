@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-02T17:03:25.8321568Z",
+    "generatedAt":  "2026-11-02T17:24:43.8149619Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -101,7 +101,7 @@
                        "name":  "AJO NEGRO 500MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/AJO NEGRO 500MG  60 CAPS..jpeg",
-                       "stock":  24,
+                       "stock":  23,
                        "offerPrice":  100,
                        "stockLinked":  true
                    },
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  241,
+                       "stock":  239,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -605,7 +605,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  145,
+                       "stock":  144,
                        "offerPrice":  105,
                        "stockLinked":  true
                    },
