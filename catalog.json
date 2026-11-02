@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-02T17:24:43.8149619Z",
+    "generatedAt":  "2026-11-02T17:29:25.9800658Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  239,
+                       "stock":  238,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  187,
+                       "stock":  186,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -717,7 +717,7 @@
                        "name":  "GLICINATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/GLICINATO DE MAGNESIO.jpeg",
-                       "stock":  29,
+                       "stock":  28,
                        "offerPrice":  125,
                        "stockLinked":  true
                    },
