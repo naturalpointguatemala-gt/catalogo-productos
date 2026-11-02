@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-02T18:48:19.1983597Z",
+    "generatedAt":  "2026-11-02T19:11:01.6549922Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  238,
+                       "stock":  237,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -253,7 +253,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1422,
+                       "stock":  -1423,
                        "offerPrice":  0,
                        "stockLinked":  true
                    },
@@ -1253,7 +1253,7 @@
                        "name":  "NAD LIPOSOMAL  60 SOFTGELS.",
                        "folder":  "General",
                        "src":  "images/NAD LIPOSOMAL  60 SOFTGELS..jpeg",
-                       "stock":  6,
+                       "stock":  3,
                        "offerPrice":  315,
                        "stockLinked":  true
                    },
@@ -1997,7 +1997,7 @@
                        "name":  "CREATINA DRAGON PHARMA  30 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA  30 SERVIDAS.jpeg",
-                       "stock":  95,
+                       "stock":  94,
                        "offerPrice":  235,
                        "stockLinked":  true
                    },
