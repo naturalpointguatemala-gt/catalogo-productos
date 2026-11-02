@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-02T22:26:08.0647424Z",
+    "generatedAt":  "2026-11-02T22:28:47.3189942Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  163,
+                       "stock":  161,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -573,7 +573,7 @@
                        "name":  "CREATINA MONOHIDRATADA EN GOMITAS  60 UNIDADES GOLÍ",
                        "folder":  "General",
                        "src":  "images/CREATINA MONOHIDRATADA EN GOMITAS  60 UNIDADES GOLÍ.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "offerPrice":  265,
                        "stockLinked":  true
                    },
