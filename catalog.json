@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-02T20:57:46.3205081Z",
+    "generatedAt":  "2026-11-02T21:09:13.2744633Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -589,7 +589,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  838,
+                       "stock":  837,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -613,7 +613,7 @@
                        "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
                        "folder":  "General",
                        "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
-                       "stock":  1,
+                       "stock":  0,
                        "offerPrice":  265,
                        "stockLinked":  true
                    },
