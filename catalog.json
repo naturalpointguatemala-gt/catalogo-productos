@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-03T17:04:35.6640238Z",
+    "generatedAt":  "2026-11-03T17:06:53.0226508Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -229,7 +229,7 @@
                        "name":  "BOLDO 1000MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/BOLDO 1000MG  60 CAPS..jpeg",
-                       "stock":  24,
+                       "stock":  23,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -301,7 +301,7 @@
                        "name":  "CARTÍLAGO DE TIBURÓN 500MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/CARTÍLAGO DE TIBURÓN 500MG  60 CAPS..jpeg",
-                       "stock":  10,
+                       "stock":  9,
                        "offerPrice":  130,
                        "stockLinked":  true
                    },
