@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-03T21:36:04.8934457Z",
+    "generatedAt":  "2026-11-03T21:40:41.9313051Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -535,6 +535,14 @@
                        "src":  "images/COLÁGENO HIDROLIZADO CÁPSULAS.jpeg",
                        "stock":  11,
                        "offerPrice":  75,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "COLÁGENO PEPTIDOS  1LB VITAWEL",
+                       "folder":  "General",
+                       "src":  "images/COLÁGENO PEPTIDOS  1LB VITAWEL.jpeg",
+                       "stock":  5,
+                       "offerPrice":  380,
                        "stockLinked":  true
                    },
                    {
@@ -1186,6 +1194,14 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "MENOPAUSE SUPPORT  60 CAPS NATURES CRAFT",
+                       "folder":  "General",
+                       "src":  "images/MENOPAUSE SUPPORT  60 CAPS NATURES CRAFT.jpeg",
+                       "stock":  2,
+                       "offerPrice":  315,
+                       "stockLinked":  true
+                   },
+                   {
                        "name":  "MINOXIDIL  60ML KIRLAND",
                        "folder":  "General",
                        "src":  "images/MINOXIDIL  60ML KIRLAND.jpeg",
@@ -1271,6 +1287,14 @@
                        "src":  "images/NOPAL.png",
                        "stock":  17,
                        "offerPrice":  70,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "OLLY KIDS VITAMÍNICO CON PROBIÓTICOS  70 GOMITAS",
+                       "folder":  "General",
+                       "src":  "images/OLLY KIDS VITAMÍNICO CON PROBIÓTICOS  70 GOMITAS.jpeg",
+                       "stock":  3,
+                       "offerPrice":  220,
                        "stockLinked":  true
                    },
                    {
