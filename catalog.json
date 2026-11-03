@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-03T17:27:52.7369230Z",
+    "generatedAt":  "2026-11-03T17:31:59.8119465Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -237,7 +237,7 @@
                        "name":  "CALCIO CITRATO 1000MG  90 CAPS.",
                        "folder":  "General",
                        "src":  "images/CALCIO CITRATO 1000MG  90 CAPS..jpeg",
-                       "stock":  15,
+                       "stock":  14,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -501,7 +501,7 @@
                        "name":  "COLÁGENO 6,000MG  290 TABS YOUTHEORY",
                        "folder":  "General",
                        "src":  "images/COLÁGENO 6,000MG  290 TABS YOUTHEORY.jpeg",
-                       "stock":  10,
+                       "stock":  8,
                        "offerPrice":  210,
                        "stockLinked":  true
                    },
