@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-03T21:06:38.5807875Z",
+    "generatedAt":  "2026-11-03T21:11:28.1461397Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -2069,7 +2069,7 @@
                        "name":  "CREATINA NUTREX 300  60 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 300  60 SERVIDAS.jpeg",
-                       "stock":  12,
+                       "stock":  11,
                        "offerPrice":  275,
                        "stockLinked":  true
                    },
@@ -2509,7 +2509,7 @@
                        "name":  "PROTEÍNA KING WHEY SPORT  51 SERVIDAS CHOCOLATE MILK RONNIE COLEMAN",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA KING WHEY SPORT  51 SERVIDAS CHOCOLATE MILK RONNIE COLEMAN.jpeg",
-                       "stock":  24,
+                       "stock":  23,
                        "offerPrice":  565,
                        "stockLinked":  true
                    },
