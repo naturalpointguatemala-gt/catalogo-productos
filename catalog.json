@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-03T20:12:31.6419729Z",
+    "generatedAt":  "2026-11-03T20:26:28.6327214Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -991,14 +991,6 @@
                        "src":  "images/L-CARNITINA BEBIBLE.jpeg",
                        "stock":  4,
                        "offerPrice":  300,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "L-CARNITINA CAPSULAS",
-                       "folder":  "General",
-                       "src":  "images/L-CARNITINA CAPSULAS.jpeg",
-                       "stock":  0,
-                       "offerPrice":  145,
                        "stockLinked":  true
                    },
                    {
@@ -2077,7 +2069,7 @@
                        "name":  "CREATINA NUTREX 300  60 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 300  60 SERVIDAS.jpeg",
-                       "stock":  14,
+                       "stock":  12,
                        "offerPrice":  275,
                        "stockLinked":  true
                    },
@@ -2778,6 +2770,11 @@
                               "name":  "KING WHEY RONNIE COLEMAN VAINILLA ICE CREAM",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/KING WHEY RONNIE COLEMAN VAINILLA ICE CREAM.jpeg"
+                          },
+                          {
+                              "name":  "L-CARNITINA CAPSULAS",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/L-CARNITINA CAPSULAS.jpeg"
                           },
                           {
                               "name":  "LONGJACK TONGKAT ALI",
