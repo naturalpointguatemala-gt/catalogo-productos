@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-03T21:40:41.9313051Z",
+    "generatedAt":  "2026-11-03T21:43:57.2844529Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  226,
+                       "stock":  224,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -2855,11 +2855,6 @@
                               "name":  "NAD LIPOSOMAL ZENUP",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/NAD LIPOSOMAL ZENUP.jpeg"
-                          },
-                          {
-                              "name":  "NAD RESVERATROL",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/NAD RESVERATROL.jpeg"
                           },
                           {
                               "name":  "OLLY CABELLO, PIEL Y UÑAS GOMITAS  60 GOMITAS",
