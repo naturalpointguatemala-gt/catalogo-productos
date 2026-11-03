@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-03T17:41:52.1475300Z",
+    "generatedAt":  "2026-11-03T17:50:16.5243664Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -221,7 +221,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  37,
+                       "stock":  36,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  125,
+                       "stock":  123,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -589,7 +589,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  798,
+                       "stock":  796,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1101,7 +1101,7 @@
                        "name":  "MAGNESIO COMPLEX",
                        "folder":  "General",
                        "src":  "images/MAGNESIO COMPLEX.jpeg",
-                       "stock":  14,
+                       "stock":  13,
                        "offerPrice":  230,
                        "stockLinked":  true
                    },
@@ -1181,7 +1181,7 @@
                        "name":  "MINOXIDIL  60ML KIRLAND",
                        "folder":  "General",
                        "src":  "images/MINOXIDIL  60ML KIRLAND.jpeg",
-                       "stock":  9,
+                       "stock":  8,
                        "offerPrice":  130,
                        "stockLinked":  true
                    },
@@ -1893,7 +1893,7 @@
                        "name":  "ZINC",
                        "folder":  "General",
                        "src":  "images/ZINC.jpeg",
-                       "stock":  17,
+                       "stock":  16,
                        "offerPrice":  85,
                        "stockLinked":  true
                    },
