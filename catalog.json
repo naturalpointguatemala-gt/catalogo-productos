@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-03T19:25:22.9546360Z",
+    "generatedAt":  "2026-11-03T19:29:45.1887442Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -997,7 +997,7 @@
                        "name":  "L-CARNITINA CAPSULAS",
                        "folder":  "General",
                        "src":  "images/L-CARNITINA CAPSULAS.jpeg",
-                       "stock":  2,
+                       "stock":  0,
                        "offerPrice":  145,
                        "stockLinked":  true
                    },
