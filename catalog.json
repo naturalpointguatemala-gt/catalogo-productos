@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-03T18:11:27.6591009Z",
+    "generatedAt":  "2026-11-03T18:16:55.5662364Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -589,7 +589,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  795,
+                       "stock":  792,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -621,7 +621,7 @@
                        "name":  "ENZIMAS DE PAPAYA",
                        "folder":  "General",
                        "src":  "images/ENZIMAS DE PAPAYA.png",
-                       "stock":  20,
+                       "stock":  19,
                        "offerPrice":  100,
                        "stockLinked":  true
                    },
