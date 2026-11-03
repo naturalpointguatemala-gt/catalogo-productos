@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-03T22:05:55.0367198Z",
+    "generatedAt":  "2026-11-03T22:12:55.0029801Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -125,7 +125,7 @@
                        "name":  "ALA",
                        "folder":  "General",
                        "src":  "images/ALA.jpeg",
-                       "stock":  16,
+                       "stock":  15,
                        "offerPrice":  130,
                        "stockLinked":  true
                    },
