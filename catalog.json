@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-03T18:21:21.7195088Z",
+    "generatedAt":  "2026-11-03T18:25:29.0500162Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  232,
+                       "stock":  230,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  120,
+                       "stock":  173,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -445,7 +445,7 @@
                        "name":  "CLORELLA ORGANICA",
                        "folder":  "General",
                        "src":  "images/CLORELLA ORGANICA.jpeg",
-                       "stock":  16,
+                       "stock":  29,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
@@ -1509,7 +1509,7 @@
                        "name":  "SAW PALMETTO",
                        "folder":  "General",
                        "src":  "images/SAW PALMETTO.jpeg",
-                       "stock":  23,
+                       "stock":  32,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
@@ -1879,14 +1879,6 @@
                        "src":  "images/ZARZA PARRILLA.jpeg",
                        "stock":  29,
                        "offerPrice":  70,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "ZINC 50 MG",
-                       "folder":  "General",
-                       "src":  "images/ZINC 50 MG.jpeg",
-                       "stock":  0,
-                       "offerPrice":  185,
                        "stockLinked":  true
                    },
                    {
@@ -3216,6 +3208,11 @@
                               "name":  "VITAMINAS PARA NIÑOS GOMITAS",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/VITAMINAS PARA NIÑOS GOMITAS.jpeg"
+                          },
+                          {
+                              "name":  "ZINC 50 MG",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/ZINC 50 MG.jpeg"
                           },
                           {
                               "name":  "ZINC 50MG GNC",
