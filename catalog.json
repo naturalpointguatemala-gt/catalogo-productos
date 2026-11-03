@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-03T22:44:18.3475148Z",
+    "generatedAt":  "2026-11-03T22:57:02.2545045Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1917,7 +1917,7 @@
                        "name":  "ZINC",
                        "folder":  "General",
                        "src":  "images/ZINC.jpeg",
-                       "stock":  16,
+                       "stock":  14,
                        "offerPrice":  85,
                        "stockLinked":  true
                    },
