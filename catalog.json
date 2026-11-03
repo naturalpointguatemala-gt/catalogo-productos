@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-03T21:28:26.8957034Z",
+    "generatedAt":  "2026-11-03T21:36:04.8934457Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -362,6 +362,14 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "CENTRUM SILVER WOMEN +50  100 TABS.",
+                       "folder":  "General",
+                       "src":  "images/CENTRUM SILVER WOMEN +50  100 TABS..jpeg",
+                       "stock":  4,
+                       "offerPrice":  230,
+                       "stockLinked":  true
+                   },
+                   {
                        "name":  "CENTRUM WOMEN +50",
                        "folder":  "General",
                        "src":  "images/CENTRUM WOMEN +50.jpeg",
@@ -383,6 +391,14 @@
                        "src":  "images/CENTRUM WOMEN 200 TABS.jpeg",
                        "stock":  11,
                        "offerPrice":  300,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "CENTRUM WOMEN MULTIVITAMÍNICO  120 TABS",
+                       "folder":  "General",
+                       "src":  "images/CENTRUM WOMEN MULTIVITAMÍNICO  120 TABS.jpeg",
+                       "stock":  2,
+                       "offerPrice":  250,
                        "stockLinked":  true
                    },
                    {
@@ -2575,11 +2591,6 @@
                               "name":  "CENTRUM WOMEN 100 GOMITAS TROPICAL",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/CENTRUM WOMEN 100 GOMITAS TROPICAL.jpeg"
-                          },
-                          {
-                              "name":  "CENTRUM WOMEN SILVER X 100 TABLETAS",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/CENTRUM WOMEN SILVER X 100 TABLETAS.jpeg"
                           },
                           {
                               "name":  "CENTRUM WOMEN X 65 TABLETAS",
