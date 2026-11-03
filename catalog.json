@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-03T19:49:46.5201462Z",
+    "generatedAt":  "2026-11-03T20:01:23.6376265Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  230,
+                       "stock":  228,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -413,7 +413,7 @@
                        "name":  "CITRATO DE MAGNESIO 500MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO 500MG  60 CAPS..jpeg",
-                       "stock":  292,
+                       "stock":  291,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
