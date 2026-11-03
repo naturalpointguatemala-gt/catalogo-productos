@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-02T23:45:18.5315000Z",
+    "generatedAt":  "2026-11-03T16:55:22.9379025Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -29,7 +29,7 @@
                        "name":  "ACEITE DE ORÉGANO 3000MG  60 PERLAS",
                        "folder":  "General",
                        "src":  "images/ACEITE DE ORÉGANO 3000MG  60 PERLAS.jpeg",
-                       "stock":  14,
+                       "stock":  13,
                        "offerPrice":  155,
                        "stockLinked":  true
                    },
@@ -77,7 +77,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  129,
+                       "stock":  127,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  236,
+                       "stock":  234,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -221,7 +221,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  43,
+                       "stock":  37,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -253,7 +253,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1424,
+                       "stock":  -1425,
                        "offerPrice":  0,
                        "stockLinked":  true
                    },
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  154,
+                       "stock":  125,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -413,7 +413,7 @@
                        "name":  "CITRATO DE MAGNESIO 500MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO 500MG  60 CAPS..jpeg",
-                       "stock":  294,
+                       "stock":  293,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -589,7 +589,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  823,
+                       "stock":  798,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -709,7 +709,7 @@
                        "name":  "GLICINATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/GLICINATO DE MAGNESIO.jpeg",
-                       "stock":  18,
+                       "stock":  17,
                        "offerPrice":  125,
                        "stockLinked":  true
                    },
@@ -917,7 +917,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  122,
+                       "stock":  115,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
@@ -941,7 +941,7 @@
                        "name":  "JABÓN DE CÚRCUMA",
                        "folder":  "General",
                        "src":  "images/JABÓN DE CÚRCUMA.png",
-                       "stock":  50,
+                       "stock":  49,
                        "offerPrice":  50,
                        "stockLinked":  true
                    },
@@ -1045,7 +1045,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  10,
+                       "stock":  8,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -1213,7 +1213,7 @@
                        "name":  "MULTIVITAMÍNICO MENS MULTI+TEST 150 TABS GAT SPORT",
                        "folder":  "General",
                        "src":  "images/MULTIVITAMÍNICO MENS MULTI+TEST 150 TABS GAT SPORT.jpeg",
-                       "stock":  5,
+                       "stock":  4,
                        "offerPrice":  350,
                        "stockLinked":  true
                    },
@@ -1885,7 +1885,7 @@
                        "name":  "ZINC 50 MG",
                        "folder":  "General",
                        "src":  "images/ZINC 50 MG.jpeg",
-                       "stock":  1,
+                       "stock":  0,
                        "offerPrice":  185,
                        "stockLinked":  true
                    },
@@ -1981,7 +1981,7 @@
                        "name":  "CREATINA DRAGON PHARMA  30 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA  30 SERVIDAS.jpeg",
-                       "stock":  94,
+                       "stock":  93,
                        "offerPrice":  235,
                        "stockLinked":  true
                    },
@@ -2413,7 +2413,7 @@
                        "name":  "PRE-ENTRENO VENOM INFERNO  20 SERVIDAS TAMARINDO CHAMOY DRAGON PHARMA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO VENOM INFERNO  20 SERVIDAS TAMARINDO CHAMOY DRAGON PHARMA.jpeg",
-                       "stock":  3,
+                       "stock":  2,
                        "offerPrice":  350,
                        "stockLinked":  true
                    },
