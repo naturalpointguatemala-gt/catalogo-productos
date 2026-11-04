@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-04T20:53:28.0023094Z",
+    "generatedAt":  "2026-11-04T20:57:03.7072336Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1285,7 +1285,7 @@
                        "name":  "NOPAL",
                        "folder":  "General",
                        "src":  "images/NOPAL.png",
-                       "stock":  17,
+                       "stock":  16,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
