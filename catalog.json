@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-04T20:45:06.8165642Z",
+    "generatedAt":  "2026-11-04T20:49:27.5687292Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -2583,6 +2583,14 @@
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA ULTRA VEGAN  75 SERVIDAS VAINILLA GOURMET MPS NUTRITION.jpeg",
                        "stock":  2,
                        "offerPrice":  875,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "PROTEÍNA WHEY PHORM  25 SERVIDAS HORCHATA DRAGON PHARMA",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA WHEY PHORM  25 SERVIDAS HORCHATA DRAGON PHARMA.jpeg",
+                       "stock":  12,
+                       "offerPrice":  465,
                        "stockLinked":  true
                    }
                ],
