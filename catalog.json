@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-04T21:40:02.4132413Z",
+    "generatedAt":  "2026-11-04T21:51:22.4803427Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  181,
+                       "stock":  180,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -421,7 +421,7 @@
                        "name":  "CITRATO DE MAGNESIO 500MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO 500MG  60 CAPS..jpeg",
-                       "stock":  289,
+                       "stock":  283,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -429,7 +429,7 @@
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
-                       "stock":  227,
+                       "stock":  225,
                        "offerPrice":  100,
                        "stockLinked":  true
                    },
