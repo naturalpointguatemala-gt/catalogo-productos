@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-04T21:32:28.8248421Z",
+    "generatedAt":  "2026-11-04T21:40:02.4132413Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  182,
+                       "stock":  181,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -407,14 +407,6 @@
                        "src":  "images/CENTRUM WOMEN.jpeg",
                        "stock":  2,
                        "offerPrice":  315,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "CHANCAPIEDRA",
-                       "folder":  "General",
-                       "src":  "images/CHANCAPIEDRA.jpeg",
-                       "stock":  2,
-                       "offerPrice":  100,
                        "stockLinked":  true
                    },
                    {
@@ -1541,7 +1533,7 @@
                        "name":  "SAW PALMETTO",
                        "folder":  "General",
                        "src":  "images/SAW PALMETTO.jpeg",
-                       "stock":  32,
+                       "stock":  31,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
@@ -2644,6 +2636,11 @@
                               "name":  "CENTRUM WOMEN X 65 TABLETAS",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/CENTRUM WOMEN X 65 TABLETAS.jpeg"
+                          },
+                          {
+                              "name":  "CHANCAPIEDRA",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/CHANCAPIEDRA.jpeg"
                           },
                           {
                               "name":  "CITRATO DE MAGNESIO FRANK SUÁREZ",
