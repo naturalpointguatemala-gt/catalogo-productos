@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-04T18:40:14.3712139Z",
+    "generatedAt":  "2026-11-04T19:06:40.5903895Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  132,
+                       "stock":  130,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -1725,7 +1725,7 @@
                        "name":  "VITAMINA B12",
                        "folder":  "General",
                        "src":  "images/VITAMINA B12.jpeg",
-                       "stock":  15,
+                       "stock":  14,
                        "offerPrice":  200,
                        "stockLinked":  true
                    },
