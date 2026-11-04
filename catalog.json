@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-04T22:13:44.0290730Z",
+    "generatedAt":  "2026-11-04T22:18:40.7864301Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -77,7 +77,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  125,
+                       "stock":  123,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -2541,7 +2541,7 @@
                        "name":  "PROTEÍNA DRAGON PHARMA WHEY PHORM  52 SERVIDAS 4.59LB SABOR DOUBLE CHOCOLATE BROWNIE",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA DRAGON PHARMA WHEY PHORM  52 SERVIDAS 4.59LB SABOR DOUBLE CHOCOLATE BROWNIE.jpeg",
-                       "stock":  4,
+                       "stock":  3,
                        "offerPrice":  845,
                        "stockLinked":  true
                    },
