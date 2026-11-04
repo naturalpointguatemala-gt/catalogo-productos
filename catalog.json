@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-03T23:33:29.1968416Z",
+    "generatedAt":  "2026-11-04T00:00:36.0015566Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1914,6 +1914,14 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "ZINC 50MG GNC",
+                       "folder":  "General",
+                       "src":  "images/ZINC 50MG GNC.jpeg",
+                       "stock":  1,
+                       "offerPrice":  270,
+                       "stockLinked":  true
+                   },
+                   {
                        "name":  "ZINC",
                        "folder":  "General",
                        "src":  "images/ZINC.jpeg",
@@ -3243,11 +3251,6 @@
                               "name":  "ZINC 50 MG",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/ZINC 50 MG.jpeg"
-                          },
-                          {
-                              "name":  "ZINC 50MG GNC",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/ZINC 50MG GNC.jpeg"
                           },
                           {
                               "name":  "ZINC PARA HOMBRES 11 INGREDIENTES",
