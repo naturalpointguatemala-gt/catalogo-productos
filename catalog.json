@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-04T19:35:32.5333147Z",
+    "generatedAt":  "2026-11-04T19:36:56.3456197Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -373,9 +373,9 @@
                        "name":  "CENTRUM WOMEN  200 TABS.",
                        "folder":  "General",
                        "src":  "images/CENTRUM WOMEN  200 TABS..jpeg",
-                       "stock":  null,
-                       "offerPrice":  null,
-                       "stockLinked":  false
+                       "stock":  11,
+                       "offerPrice":  150,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CENTRUM WOMEN +50",
