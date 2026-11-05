@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-05T22:49:25.3790128Z",
+    "generatedAt":  "2026-11-05T23:04:12.0362459Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -623,6 +623,14 @@
                        "src":  "images/DIENTE DE LEÓN.jpeg",
                        "stock":  144,
                        "offerPrice":  105,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
+                       "folder":  "General",
+                       "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
+                       "stock":  -1,
+                       "offerPrice":  265,
                        "stockLinked":  true
                    },
                    {
@@ -2675,11 +2683,6 @@
                               "name":  "DHEA 25MG LIFE EX",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/DHEA 25MG LIFE EX.png"
-                          },
-                          {
-                              "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg"
                           },
                           {
                               "name":  "ELECTROLITROS FRAMBUESA",
