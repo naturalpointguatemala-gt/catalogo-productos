@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-05T00:06:54.1162737Z",
+    "generatedAt":  "2026-11-05T16:43:03.8609785Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -45,7 +45,7 @@
                        "name":  "ACEITE DE TIBURÓN",
                        "folder":  "General",
                        "src":  "images/ACEITE DE TIBURÓN.jpeg",
-                       "stock":  11,
+                       "stock":  10,
                        "offerPrice":  100,
                        "stockLinked":  true
                    },
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  177,
+                       "stock":  220,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -501,7 +501,7 @@
                        "name":  "COLA DE CABALLO",
                        "folder":  "General",
                        "src":  "images/COLA DE CABALLO.png",
-                       "stock":  4,
+                       "stock":  17,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -605,7 +605,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  809,
+                       "stock":  825,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -933,7 +933,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  95,
+                       "stock":  93,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
@@ -1789,7 +1789,7 @@
                        "name":  "VITAMINA C",
                        "folder":  "General",
                        "src":  "images/VITAMINA C.jpeg",
-                       "stock":  21,
+                       "stock":  41,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -1957,7 +1957,7 @@
                        "name":  "CREATINA  90 TABLETAS MASTICABLES MUSCLETECH SABOR LIMÓN",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA  90 TABLETAS MASTICABLES MUSCLETECH SABOR LIMÓN.jpeg",
-                       "stock":  3,
+                       "stock":  2,
                        "offerPrice":  390,
                        "stockLinked":  true
                    },
@@ -2109,7 +2109,7 @@
                        "name":  "CREATINA NUTREX 300  60 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 300  60 SERVIDAS.jpeg",
-                       "stock":  12,
+                       "stock":  10,
                        "offerPrice":  275,
                        "stockLinked":  true
                    },
