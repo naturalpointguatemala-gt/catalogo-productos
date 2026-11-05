@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-05T20:06:18.2346335Z",
+    "generatedAt":  "2026-11-05T20:15:57.0905033Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1970,14 +1970,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "CREATINA BYTZ  80 TABLETAS MASTICABLES BERRIED ALIVE MUTANT",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA BYTZ  80 TABLETAS MASTICABLES BERRIED ALIVE MUTANT.jpeg",
-                       "stock":  0,
-                       "offerPrice":  290,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "CREATINA CREAKONG  250 SERVIDAS 1KG",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA CREAKONG  250 SERVIDAS 1KG.jpeg",
@@ -2666,6 +2658,11 @@
                               "name":  "CRANBERRY",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/CRANBERRY.png"
+                          },
+                          {
+                              "name":  "CREATINA BYTZ  80 TABLETAS MASTICABLES BERRIED ALIVE MUTANT",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/CREATINA BYTZ  80 TABLETAS MASTICABLES BERRIED ALIVE MUTANT.jpeg"
                           },
                           {
                               "name":  "CREATINA BYTZ  80 TABLETAS MASTICABLES TANGY BLUE RAZZ MUTANT",
