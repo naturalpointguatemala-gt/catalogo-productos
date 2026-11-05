@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-05T22:02:16.6627583Z",
+    "generatedAt":  "2026-11-05T22:35:51.7578884Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1063,14 +1063,6 @@
                        "src":  "images/LIPO 6 BLACK QUEMADOR DE GRASA  120 CAPS NUTREX.jpeg",
                        "stock":  9,
                        "offerPrice":  350,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "LIPO 6 BLACK QUEMADOR DE GRASA ULTRA  60 CAPS NUTREX",
-                       "folder":  "General",
-                       "src":  "images/LIPO 6 BLACK QUEMADOR DE GRASA ULTRA  60 CAPS NUTREX.jpeg",
-                       "stock":  0,
-                       "offerPrice":  300,
                        "stockLinked":  true
                    },
                    {
@@ -2828,6 +2820,11 @@
                               "name":  "L-CARNITINA CAPSULAS",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/L-CARNITINA CAPSULAS.jpeg"
+                          },
+                          {
+                              "name":  "LIPO 6 BLACK QUEMADOR DE GRASA ULTRA  60 CAPS NUTREX",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/LIPO 6 BLACK QUEMADOR DE GRASA ULTRA  60 CAPS NUTREX.jpeg"
                           },
                           {
                               "name":  "LONGJACK TONGKAT ALI",
