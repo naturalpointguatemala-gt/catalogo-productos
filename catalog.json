@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-05T17:12:25.6210147Z",
+    "generatedAt":  "2026-11-05T17:24:50.7697178Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -933,7 +933,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  93,
+                       "stock":  92,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
@@ -1789,7 +1789,7 @@
                        "name":  "VITAMINA C",
                        "folder":  "General",
                        "src":  "images/VITAMINA C.jpeg",
-                       "stock":  41,
+                       "stock":  40,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
