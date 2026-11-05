@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-05T18:38:20.4419340Z",
+    "generatedAt":  "2026-11-05T18:45:27.9368706Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  211,
+                       "stock":  209,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -1973,7 +1973,7 @@
                        "name":  "CREATINA BYTZ  80 TABLETAS MASTICABLES BERRIED ALIVE MUTANT",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA BYTZ  80 TABLETAS MASTICABLES BERRIED ALIVE MUTANT.jpeg",
-                       "stock":  1,
+                       "stock":  0,
                        "offerPrice":  290,
                        "stockLinked":  true
                    },
@@ -2077,7 +2077,7 @@
                        "name":  "CREATINA MONOHIDRATADA  90 SERVIDAS BIRDMAN",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MONOHIDRATADA  90 SERVIDAS BIRDMAN.jpeg",
-                       "stock":  10,
+                       "stock":  9,
                        "offerPrice":  390,
                        "stockLinked":  true
                    },
