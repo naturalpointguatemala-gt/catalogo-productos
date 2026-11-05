@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-05T16:43:03.8609785Z",
+    "generatedAt":  "2026-11-05T16:54:15.1879677Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -117,7 +117,7 @@
                        "name":  "AJO SIN OLOR",
                        "folder":  "General",
                        "src":  "images/AJO SIN OLOR.jpeg",
-                       "stock":  12,
+                       "stock":  10,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
