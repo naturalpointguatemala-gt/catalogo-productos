@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-06T20:15:48.9151733Z",
+    "generatedAt":  "2026-11-06T20:19:52.0737318Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  252,
+                       "stock":  250,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
