@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-06T17:26:51.0071937Z",
+    "generatedAt":  "2026-11-06T17:29:17.5999652Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1109,7 +1109,7 @@
                        "name":  "MAGNESIO COMPLEX",
                        "folder":  "General",
                        "src":  "images/MAGNESIO COMPLEX.jpeg",
-                       "stock":  13,
+                       "stock":  12,
                        "offerPrice":  230,
                        "stockLinked":  true
                    },
@@ -2438,7 +2438,7 @@
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO VENOM INFERNO  40 SERVIDAS DRAGON LYCHEE DRAGON PHARMA.jpeg",
                        "stock":  5,
-                       "offerPrice":  365,
+                       "offerPrice":  350,
                        "stockLinked":  true
                    },
                    {
