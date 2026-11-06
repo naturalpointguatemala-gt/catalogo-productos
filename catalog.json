@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-06T19:37:07.4634219Z",
+    "generatedAt":  "2026-11-06T19:41:03.7303035Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -461,7 +461,7 @@
                        "name":  "CLOROFILA",
                        "folder":  "General",
                        "src":  "images/CLOROFILA.jpeg",
-                       "stock":  5,
+                       "stock":  4,
                        "offerPrice":  220,
                        "stockLinked":  true
                    },
@@ -941,7 +941,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  89,
+                       "stock":  88,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
