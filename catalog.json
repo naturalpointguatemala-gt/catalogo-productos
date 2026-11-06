@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-06T20:02:40.4151803Z",
+    "generatedAt":  "2026-11-06T20:08:25.1564920Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -77,7 +77,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  119,
+                       "stock":  118,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  219,
+                       "stock":  217,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -605,7 +605,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  840,
+                       "stock":  838,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -2029,7 +2029,7 @@
                        "name":  "CREATINA MASTICABLE FRUTOS ROJOS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MASTICABLE FRUTOS ROJOS.jpeg",
-                       "stock":  5,
+                       "stock":  4,
                        "offerPrice":  365,
                        "stockLinked":  true
                    },
