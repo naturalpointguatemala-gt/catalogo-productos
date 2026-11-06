@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-06T00:13:02.7148108Z",
+    "generatedAt":  "2026-11-06T17:07:57.7780432Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -77,7 +77,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  122,
+                       "stock":  119,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  235,
+                       "stock":  255,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -221,7 +221,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  32,
+                       "stock":  31,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  189,
+                       "stock":  232,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -605,7 +605,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  811,
+                       "stock":  842,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -629,7 +629,7 @@
                        "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
                        "folder":  "General",
                        "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
-                       "stock":  60,
+                       "stock":  16,
                        "offerPrice":  265,
                        "stockLinked":  true
                    },
@@ -941,7 +941,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  92,
+                       "stock":  90,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
@@ -965,7 +965,7 @@
                        "name":  "JABÓN DE CÚRCUMA",
                        "folder":  "General",
                        "src":  "images/JABÓN DE CÚRCUMA.png",
-                       "stock":  49,
+                       "stock":  48,
                        "offerPrice":  50,
                        "stockLinked":  true
                    },
@@ -1061,7 +1061,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  7,
+                       "stock":  6,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -1197,7 +1197,7 @@
                        "name":  "MINOXIDIL  60ML KIRLAND",
                        "folder":  "General",
                        "src":  "images/MINOXIDIL  60ML KIRLAND.jpeg",
-                       "stock":  8,
+                       "stock":  7,
                        "offerPrice":  130,
                        "stockLinked":  true
                    },
@@ -1413,7 +1413,7 @@
                        "name":  "PASIFLORA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/PASIFLORA COMPUESTA.jpeg",
-                       "stock":  11,
+                       "stock":  9,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -1989,7 +1989,7 @@
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
-                       "stock":  23,
+                       "stock":  22,
                        "offerPrice":  325,
                        "stockLinked":  true
                    },
