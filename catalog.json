@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-06T20:08:25.1564920Z",
+    "generatedAt":  "2026-11-06T20:13:16.1182429Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  217,
+                       "stock":  216,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -605,7 +605,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  838,
+                       "stock":  837,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -629,7 +629,7 @@
                        "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
                        "folder":  "General",
                        "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
-                       "stock":  11,
+                       "stock":  10,
                        "offerPrice":  265,
                        "stockLinked":  true
                    },
@@ -2005,7 +2005,7 @@
                        "name":  "CREATINA DRAGON PHARMA 200 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA 200 SERVIDAS.jpeg",
-                       "stock":  34,
+                       "stock":  33,
                        "offerPrice":  500,
                        "stockLinked":  true
                    },
