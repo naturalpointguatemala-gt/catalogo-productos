@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-06T17:07:57.7780432Z",
+    "generatedAt":  "2026-11-06T17:12:19.9569228Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -253,7 +253,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1429,
+                       "stock":  -1430,
                        "offerPrice":  0,
                        "stockLinked":  true
                    },
@@ -941,7 +941,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  90,
+                       "stock":  89,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
