@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-06T20:51:48.0298731Z",
+    "generatedAt":  "2026-11-06T21:05:00.5325346Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -221,7 +221,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  28,
+                       "stock":  27,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  212,
+                       "stock":  209,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -605,7 +605,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  833,
+                       "stock":  830,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1997,7 +1997,7 @@
                        "name":  "CREATINA DRAGON PHARMA  30 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA  30 SERVIDAS.jpeg",
-                       "stock":  87,
+                       "stock":  86,
                        "offerPrice":  235,
                        "stockLinked":  true
                    },
@@ -2525,7 +2525,7 @@
                        "name":  "PROTEÍNA DRAGON PHARMA WHEY PHORM  52 SERVIDAS 4.2LB SABOR CHOCOLATE BLANCO Y VAINILLA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA DRAGON PHARMA WHEY PHORM  52 SERVIDAS 4.2LB SABOR CHOCOLATE BLANCO Y VAINILLA.jpeg",
-                       "stock":  7,
+                       "stock":  6,
                        "offerPrice":  845,
                        "stockLinked":  true
                    },
