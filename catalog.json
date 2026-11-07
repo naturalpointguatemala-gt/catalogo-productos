@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-07T15:51:39.1735429Z",
+    "generatedAt":  "2026-11-07T15:56:40.7028915Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -501,7 +501,7 @@
                        "name":  "COLA DE CABALLO",
                        "folder":  "General",
                        "src":  "images/COLA DE CABALLO.png",
-                       "stock":  12,
+                       "stock":  11,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
