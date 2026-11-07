@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-07T18:30:08.1393841Z",
+    "generatedAt":  "2026-11-07T18:51:27.9791099Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -221,7 +221,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  19,
+                       "stock":  18,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  227,
+                       "stock":  226,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
