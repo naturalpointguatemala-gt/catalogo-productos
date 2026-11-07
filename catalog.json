@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-07T16:35:29.0945233Z",
+    "generatedAt":  "2026-11-07T16:59:19.0549877Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -69,7 +69,7 @@
                        "name":  "AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL",
                        "folder":  "General",
                        "src":  "images/AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL.jpeg",
-                       "stock":  50,
+                       "stock":  49,
                        "offerPrice":  195,
                        "stockLinked":  true
                    },
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  251,
+                       "stock":  249,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
