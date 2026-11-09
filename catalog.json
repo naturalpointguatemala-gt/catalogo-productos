@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-09T17:36:01.2228233Z",
+    "generatedAt":  "2026-11-09T17:39:48.0264997Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  213,
+                       "stock":  212,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -1981,7 +1981,7 @@
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
-                       "stock":  22,
+                       "stock":  21,
                        "offerPrice":  325,
                        "stockLinked":  true
                    },
