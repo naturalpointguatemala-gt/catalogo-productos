@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-07T20:10:26.2005294Z",
+    "generatedAt":  "2026-11-09T16:28:45.3442783Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -29,7 +29,7 @@
                        "name":  "ACEITE DE ORÉGANO 3000MG  60 PERLAS",
                        "folder":  "General",
                        "src":  "images/ACEITE DE ORÉGANO 3000MG  60 PERLAS.jpeg",
-                       "stock":  11,
+                       "stock":  9,
                        "offerPrice":  155,
                        "stockLinked":  true
                    },
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  249,
+                       "stock":  243,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -253,7 +253,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1433,
+                       "stock":  -1434,
                        "offerPrice":  0,
                        "stockLinked":  true
                    },
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  223,
+                       "stock":  219,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -421,7 +421,7 @@
                        "name":  "CITRATO DE MAGNESIO 500MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO 500MG  60 CAPS..jpeg",
-                       "stock":  278,
+                       "stock":  277,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -573,7 +573,7 @@
                        "name":  "CRANBERRY EXTRACTO CON VITAMINA C",
                        "folder":  "General",
                        "src":  "images/CRANBERRY EXTRACTO CON VITAMINA C.jpeg",
-                       "stock":  11,
+                       "stock":  10,
                        "offerPrice":  115,
                        "stockLinked":  true
                    },
@@ -605,7 +605,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  845,
+                       "stock":  844,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -661,7 +661,7 @@
                        "name":  "FENOGRECO",
                        "folder":  "General",
                        "src":  "images/FENOGRECO.png",
-                       "stock":  13,
+                       "stock":  12,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -701,7 +701,7 @@
                        "name":  "GINSENG COREANO",
                        "folder":  "General",
                        "src":  "images/GINSENG COREANO.png",
-                       "stock":  6,
+                       "stock":  5,
                        "offerPrice":  110,
                        "stockLinked":  true
                    },
@@ -933,7 +933,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  84,
+                       "stock":  141,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
@@ -1461,7 +1461,7 @@
                        "name":  "PROBIÓTICOS NATURE´S BOUNTY  120 TABS.",
                        "folder":  "General",
                        "src":  "images/PROBIÓTICOS NATURE´S BOUNTY  120 TABS..jpeg",
-                       "stock":  4,
+                       "stock":  3,
                        "offerPrice":  195,
                        "stockLinked":  true
                    },
@@ -1997,7 +1997,7 @@
                        "name":  "CREATINA DRAGON PHARMA 200 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA 200 SERVIDAS.jpeg",
-                       "stock":  33,
+                       "stock":  32,
                        "offerPrice":  500,
                        "stockLinked":  true
                    },
