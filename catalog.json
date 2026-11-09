@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-09T19:43:33.4768534Z",
+    "generatedAt":  "2026-11-09T19:55:52.0335388Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  208,
+                       "stock":  205,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -605,7 +605,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  837,
+                       "stock":  835,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1925,7 +1925,7 @@
                        "name":  "AMINO ENERGY FRESA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/AMINO ENERGY FRESA.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "offerPrice":  320,
                        "stockLinked":  true
                    },
@@ -1989,7 +1989,7 @@
                        "name":  "CREATINA DRAGON PHARMA  30 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA  30 SERVIDAS.jpeg",
-                       "stock":  86,
+                       "stock":  85,
                        "offerPrice":  235,
                        "stockLinked":  true
                    },
