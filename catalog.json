@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-09T17:32:04.1995287Z",
+    "generatedAt":  "2026-11-09T17:36:01.2228233Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -29,7 +29,7 @@
                        "name":  "ACEITE DE ORÉGANO 3000MG  60 PERLAS",
                        "folder":  "General",
                        "src":  "images/ACEITE DE ORÉGANO 3000MG  60 PERLAS.jpeg",
-                       "stock":  9,
+                       "stock":  8,
                        "offerPrice":  155,
                        "stockLinked":  true
                    },
@@ -605,7 +605,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  841,
+                       "stock":  840,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
