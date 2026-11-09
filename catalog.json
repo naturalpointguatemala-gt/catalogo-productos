@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-09T22:32:26.1314836Z",
+    "generatedAt":  "2026-11-09T22:47:07.1835789Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -949,7 +949,7 @@
                        "name":  "JABÓN DE ARROZ",
                        "folder":  "General",
                        "src":  "images/JABÓN DE ARROZ.png",
-                       "stock":  14,
+                       "stock":  13,
                        "offerPrice":  50,
                        "stockLinked":  true
                    },
