@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-09T16:44:22.1648314Z",
+    "generatedAt":  "2026-11-09T17:05:22.6392712Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -69,7 +69,7 @@
                        "name":  "AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL",
                        "folder":  "General",
                        "src":  "images/AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL.jpeg",
-                       "stock":  45,
+                       "stock":  42,
                        "offerPrice":  195,
                        "stockLinked":  true
                    },
@@ -77,7 +77,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  114,
+                       "stock":  113,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  243,
+                       "stock":  241,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  219,
+                       "stock":  218,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -309,7 +309,7 @@
                        "name":  "CASTAÑA DE INDIAS",
                        "folder":  "General",
                        "src":  "images/CASTAÑA DE INDIAS.png",
-                       "stock":  41,
+                       "stock":  40,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -421,7 +421,7 @@
                        "name":  "CITRATO DE MAGNESIO 500MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO 500MG  60 CAPS..jpeg",
-                       "stock":  276,
+                       "stock":  273,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -509,7 +509,7 @@
                        "name":  "COLÁGENO 6,000MG  290 TABS YOUTHEORY",
                        "folder":  "General",
                        "src":  "images/COLÁGENO 6,000MG  290 TABS YOUTHEORY.jpeg",
-                       "stock":  10,
+                       "stock":  9,
                        "offerPrice":  210,
                        "stockLinked":  true
                    },
@@ -605,7 +605,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  844,
+                       "stock":  842,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -621,7 +621,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  143,
+                       "stock":  142,
                        "offerPrice":  105,
                        "stockLinked":  true
                    },
@@ -1781,7 +1781,7 @@
                        "name":  "VITAMINA C",
                        "folder":  "General",
                        "src":  "images/VITAMINA C.jpeg",
-                       "stock":  40,
+                       "stock":  35,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -2093,7 +2093,7 @@
                        "name":  "CREATINA NUTREX 300  60 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 300  60 SERVIDAS.jpeg",
-                       "stock":  15,
+                       "stock":  13,
                        "offerPrice":  275,
                        "stockLinked":  true
                    },
