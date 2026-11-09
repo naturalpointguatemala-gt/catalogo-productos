@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-09T23:31:59.9014835Z",
+    "generatedAt":  "2026-11-09T23:38:09.4152797Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  179,
+                       "stock":  178,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -605,7 +605,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  817,
+                       "stock":  816,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -2469,7 +2469,7 @@
                        "name":  "PROTEIN PHORM 28 SERVIDAS SABOR MILKSHAKE",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEIN PHORM 28 SERVIDAS SABOR MILKSHAKE.jpeg",
-                       "stock":  11,
+                       "stock":  10,
                        "offerPrice":  465,
                        "stockLinked":  true
                    },
