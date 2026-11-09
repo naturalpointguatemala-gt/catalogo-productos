@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-09T21:49:54.3573410Z",
+    "generatedAt":  "2026-11-09T21:53:59.4323093Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -29,7 +29,7 @@
                        "name":  "ACEITE DE ORÉGANO 3000MG  60 PERLAS",
                        "folder":  "General",
                        "src":  "images/ACEITE DE ORÉGANO 3000MG  60 PERLAS.jpeg",
-                       "stock":  8,
+                       "stock":  7,
                        "offerPrice":  155,
                        "stockLinked":  true
                    },
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  183,
+                       "stock":  182,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -605,7 +605,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  820,
+                       "stock":  819,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1213,7 +1213,7 @@
                        "name":  "MULTI COLÁGENO PÉPTIDOS POLVO CODE AGE  342GRM.",
                        "folder":  "General",
                        "src":  "images/MULTI COLÁGENO PÉPTIDOS POLVO CODE AGE  342GRM..jpeg",
-                       "stock":  22,
+                       "stock":  21,
                        "offerPrice":  230,
                        "stockLinked":  true
                    },
