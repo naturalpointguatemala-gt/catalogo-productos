@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-09T21:31:00.7900236Z",
+    "generatedAt":  "2026-11-09T21:33:24.9446713Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  187,
+                       "stock":  188,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -1101,7 +1101,7 @@
                        "name":  "MAGNESIO COMPLEX",
                        "folder":  "General",
                        "src":  "images/MAGNESIO COMPLEX.jpeg",
-                       "stock":  12,
+                       "stock":  11,
                        "offerPrice":  230,
                        "stockLinked":  true
                    },
