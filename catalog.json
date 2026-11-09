@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-09T17:05:22.6392712Z",
+    "generatedAt":  "2026-11-09T17:07:14.9715290Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -605,7 +605,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  842,
+                       "stock":  841,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -621,7 +621,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  142,
+                       "stock":  141,
                        "offerPrice":  105,
                        "stockLinked":  true
                    },
