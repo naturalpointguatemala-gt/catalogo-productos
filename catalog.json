@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-10T00:11:49.8671860Z",
+    "generatedAt":  "2026-11-10T17:37:05.8651014Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE AMERICANO",
                        "folder":  "General",
                        "src":  "images/AGUAJE AMERICANO.png",
-                       "stock":  1,
+                       "stock":  0,
                        "offerPrice":  200,
                        "stockLinked":  true
                    },
@@ -69,7 +69,7 @@
                        "name":  "AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL",
                        "folder":  "General",
                        "src":  "images/AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL.jpeg",
-                       "stock":  41,
+                       "stock":  38,
                        "offerPrice":  195,
                        "stockLinked":  true
                    },
@@ -77,7 +77,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  112,
+                       "stock":  108,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -85,7 +85,7 @@
                        "name":  "AGUAJE PERUANO 500MG  100 CAPS.",
                        "folder":  "General",
                        "src":  "images/AGUAJE PERUANO 500MG  100 CAPS..jpeg",
-                       "stock":  17,
+                       "stock":  16,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -189,7 +189,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  234,
+                       "stock":  226,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -221,7 +221,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  12,
+                       "stock":  5,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  174,
+                       "stock":  191,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -421,7 +421,7 @@
                        "name":  "CITRATO DE MAGNESIO 500MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO 500MG  60 CAPS..jpeg",
-                       "stock":  273,
+                       "stock":  264,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -429,7 +429,7 @@
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
-                       "stock":  224,
+                       "stock":  221,
                        "offerPrice":  100,
                        "stockLinked":  true
                    },
@@ -605,7 +605,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  812,
+                       "stock":  825,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1053,7 +1053,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  5,
+                       "stock":  12,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -1101,7 +1101,7 @@
                        "name":  "MAGNESIO COMPLEX",
                        "folder":  "General",
                        "src":  "images/MAGNESIO COMPLEX.jpeg",
-                       "stock":  11,
+                       "stock":  10,
                        "offerPrice":  230,
                        "stockLinked":  true
                    },
@@ -1213,7 +1213,7 @@
                        "name":  "MULTI COLÁGENO PÉPTIDOS POLVO CODE AGE  342GRM.",
                        "folder":  "General",
                        "src":  "images/MULTI COLÁGENO PÉPTIDOS POLVO CODE AGE  342GRM..jpeg",
-                       "stock":  21,
+                       "stock":  20,
                        "offerPrice":  230,
                        "stockLinked":  true
                    },
@@ -1677,7 +1677,7 @@
                        "name":  "VINAGRE DE MANZANA 500MG  90 CAPS.",
                        "folder":  "General",
                        "src":  "images/VINAGRE DE MANZANA 500MG  90 CAPS..jpg",
-                       "stock":  9,
+                       "stock":  7,
                        "offerPrice":  100,
                        "stockLinked":  true
                    },
@@ -1781,7 +1781,7 @@
                        "name":  "VITAMINA C",
                        "folder":  "General",
                        "src":  "images/VITAMINA C.jpeg",
-                       "stock":  35,
+                       "stock":  34,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -1853,7 +1853,7 @@
                        "name":  "VIU COLÁGENO + CALCIO  300GR KIWI FRESA",
                        "folder":  "General",
                        "src":  "images/VIU COLÁGENO + CALCIO  300GR KIWI FRESA.jpeg",
-                       "stock":  3,
+                       "stock":  2,
                        "offerPrice":  250,
                        "stockLinked":  true
                    },
@@ -1989,7 +1989,7 @@
                        "name":  "CREATINA DRAGON PHARMA  30 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA  30 SERVIDAS.jpeg",
-                       "stock":  85,
+                       "stock":  84,
                        "offerPrice":  235,
                        "stockLinked":  true
                    },
@@ -2093,7 +2093,7 @@
                        "name":  "CREATINA NUTREX 300  60 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 300  60 SERVIDAS.jpeg",
-                       "stock":  13,
+                       "stock":  8,
                        "offerPrice":  275,
                        "stockLinked":  true
                    },
@@ -2469,7 +2469,7 @@
                        "name":  "PROTEIN PHORM 28 SERVIDAS SABOR MILKSHAKE",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEIN PHORM 28 SERVIDAS SABOR MILKSHAKE.jpeg",
-                       "stock":  9,
+                       "stock":  8,
                        "offerPrice":  465,
                        "stockLinked":  true
                    },
@@ -2565,7 +2565,7 @@
                        "name":  "PROTEÍNA WHEY PHORM  25 SERVIDAS HORCHATA DRAGON PHARMA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA WHEY PHORM  25 SERVIDAS HORCHATA DRAGON PHARMA.jpeg",
-                       "stock":  12,
+                       "stock":  11,
                        "offerPrice":  465,
                        "stockLinked":  true
                    }
