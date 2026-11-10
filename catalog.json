@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-10T22:05:22.2990003Z",
+    "generatedAt":  "2026-11-10T22:14:52.1827515Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL",
                        "folder":  "General",
                        "src":  "images/AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL.jpeg",
-                       "stock":  36,
+                       "stock":  35,
                        "offerPrice":  195,
                        "stockLinked":  true
                    },
@@ -213,7 +213,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  1,
+                       "stock":  0,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -245,7 +245,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1440,
+                       "stock":  -1441,
                        "offerPrice":  0,
                        "stockLinked":  true
                    },
@@ -421,7 +421,7 @@
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
-                       "stock":  221,
+                       "stock":  220,
                        "offerPrice":  100,
                        "stockLinked":  true
                    },
@@ -613,7 +613,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  141,
+                       "stock":  140,
                        "offerPrice":  105,
                        "stockLinked":  true
                    },
@@ -621,7 +621,7 @@
                        "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
                        "folder":  "General",
                        "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
-                       "stock":  -1,
+                       "stock":  -3,
                        "offerPrice":  265,
                        "stockLinked":  true
                    },
