@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-10T17:49:45.3767749Z",
+    "generatedAt":  "2026-11-10T17:52:26.1367780Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -55,14 +55,6 @@
                        "src":  "images/ACIDO HIALURONICO.jpeg",
                        "stock":  6,
                        "offerPrice":  230,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "AGUAJE AMERICANO",
-                       "folder":  "General",
-                       "src":  "images/AGUAJE AMERICANO.png",
-                       "stock":  0,
-                       "offerPrice":  200,
                        "stockLinked":  true
                    },
                    {
@@ -2575,6 +2567,11 @@
                               "name":  "ACIDO BORICO",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/ACIDO BORICO.jpeg"
+                          },
+                          {
+                              "name":  "AGUAJE AMERICANO",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/AGUAJE AMERICANO.png"
                           },
                           {
                               "name":  "AMINO ENERGY SANDÍA",
