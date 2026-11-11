@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-11T21:59:05.2206635Z",
+    "generatedAt":  "2026-11-11T22:02:02.4942529Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -181,7 +181,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  204,
+                       "stock":  203,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -293,7 +293,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  156,
+                       "stock":  155,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -421,7 +421,7 @@
                        "name":  "CITRATO DE MAGNESIO 500MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO 500MG  60 CAPS..jpeg",
-                       "stock":  262,
+                       "stock":  261,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -1519,6 +1519,14 @@
                        "src":  "images/PROPÓLEO  60 CAPS. NUTRAMEDIX.jpeg",
                        "stock":  3,
                        "offerPrice":  220,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "REGALIZ RAÍZ 500MG  90 CAPS",
+                       "folder":  "General",
+                       "src":  "images/REGALIZ RAÍZ 500MG  90 CAPS.jpeg",
+                       "stock":  21,
+                       "offerPrice":  70,
                        "stockLinked":  true
                    },
                    {
