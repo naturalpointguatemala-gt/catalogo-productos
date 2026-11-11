@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-11T21:39:35.9278545Z",
+    "generatedAt":  "2026-11-11T21:43:09.4927579Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -261,9 +261,9 @@
                        "name":  "CANDIDA CLEANSE  60 CAPS",
                        "folder":  "General",
                        "src":  "images/CANDIDA CLEANSE  60 CAPS.jpeg",
-                       "stock":  null,
-                       "offerPrice":  null,
-                       "stockLinked":  false
+                       "stock":  10,
+                       "offerPrice":  260,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "CANELA 500MG  60 CAPS.",
@@ -1949,9 +1949,9 @@
                        "name":  "ZINC PICOLINATO 50MG  120 CAPS NOW",
                        "folder":  "General",
                        "src":  "images/ZINC PICOLINATO 50MG  120 CAPS NOW.jpeg",
-                       "stock":  null,
-                       "offerPrice":  null,
-                       "stockLinked":  false
+                       "stock":  5,
+                       "offerPrice":  205,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ZINC",
