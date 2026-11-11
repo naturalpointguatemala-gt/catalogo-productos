@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-11T21:54:01.4052607Z",
+    "generatedAt":  "2026-11-11T21:59:05.2206635Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -69,7 +69,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  103,
+                       "stock":  102,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -1069,9 +1069,9 @@
                        "name":  "LONGJACK TONGKAT ALI  90 CAPS.  FUTUREBIOTICS",
                        "folder":  "General",
                        "src":  "images/LONGJACK TONGKAT ALI  90 CAPS.  FUTUREBIOTICS.jpeg",
-                       "stock":  null,
-                       "offerPrice":  null,
-                       "stockLinked":  false
+                       "stock":  3,
+                       "offerPrice":  220,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "LONJACK POINT",
@@ -1245,9 +1245,9 @@
                        "name":  "MULTIVITAMÍNICO PARA ADOLESCENTES NIÑAS  60 CAPS CARLYLE",
                        "folder":  "General",
                        "src":  "images/MULTIVITAMÍNICO PARA ADOLESCENTES NIÑAS  60 CAPS CARLYLE.jpeg",
-                       "stock":  null,
-                       "offerPrice":  null,
-                       "stockLinked":  false
+                       "stock":  3,
+                       "offerPrice":  220,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "MULTIVITAMÍNICO PARA NIÑOS OLLY  70 GUSANITOS DE GOMA",
@@ -1461,9 +1461,9 @@
                        "name":  "PROBIOTICOS PARA MUJERES  90 TABS. ZEBORA",
                        "folder":  "General",
                        "src":  "images/PROBIOTICOS PARA MUJERES  90 TABS. ZEBORA.jpeg",
-                       "stock":  null,
-                       "offerPrice":  null,
-                       "stockLinked":  false
+                       "stock":  3,
+                       "offerPrice":  210,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "PROBIOTICOS PARA NIÑOS NATURES WAY",
@@ -1818,6 +1818,14 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "VITAMINA D3 CON K2",
+                       "folder":  "General",
+                       "src":  "images/VITAMINA D3 CON K2.jpeg",
+                       "stock":  5,
+                       "offerPrice":  150,
+                       "stockLinked":  true
+                   },
+                   {
                        "name":  "VITAMINA E 1000 UI",
                        "folder":  "General",
                        "src":  "images/VITAMINA E 1000 UI.png",
@@ -1933,9 +1941,9 @@
                        "name":  "ZINC 50MG  90 CAPS. LIFE EXTENSION",
                        "folder":  "General",
                        "src":  "images/ZINC 50MG  90 CAPS. LIFE EXTENSION.jpeg",
-                       "stock":  null,
-                       "offerPrice":  null,
-                       "stockLinked":  false
+                       "stock":  10,
+                       "offerPrice":  180,
+                       "stockLinked":  true
                    },
                    {
                        "name":  "ZINC 50MG GNC",
@@ -3253,11 +3261,6 @@
                               "name":  "VITAMINA C LIQUIDO",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/VITAMINA C LIQUIDO.jpeg"
-                          },
-                          {
-                              "name":  "VITAMINA D3 CON K2",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/VITAMINA D3 CON K2.jpeg"
                           },
                           {
                               "name":  "VITAMINAS ADOLESCENTES HOMBRES",
