@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-13T23:22:04.0279978Z",
+    "generatedAt":  "2026-11-13T23:30:48.4504369Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL",
                        "folder":  "General",
                        "src":  "images/AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL.jpeg",
-                       "stock":  22,
+                       "stock":  21,
                        "offerPrice":  195,
                        "stockLinked":  true
                    },
@@ -2125,7 +2125,7 @@
                        "name":  "CREATINA MICRONIZADA  60 SERVIDAS SIN SABOR OPTIMUM NUTRITION",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MICRONIZADA  60 SERVIDAS SIN SABOR OPTIMUM NUTRITION.jpeg",
-                       "stock":  4,
+                       "stock":  3,
                        "offerPrice":  290,
                        "stockLinked":  true
                    },
