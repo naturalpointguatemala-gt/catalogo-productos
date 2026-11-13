@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-13T19:18:29.1252201Z",
+    "generatedAt":  "2026-11-13T19:32:46.4276039Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -301,7 +301,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  157,
+                       "stock":  155,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -2509,7 +2509,7 @@
                        "name":  "PRE-ENTRENO VENOM INFERNO  40 SERVIDAS DRAGON LYCHEE DRAGON PHARMA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO VENOM INFERNO  40 SERVIDAS DRAGON LYCHEE DRAGON PHARMA.jpeg",
-                       "stock":  5,
+                       "stock":  4,
                        "offerPrice":  350,
                        "stockLinked":  true
                    },
