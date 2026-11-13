@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-13T17:44:25.4612671Z",
+    "generatedAt":  "2026-11-13T18:15:11.6780541Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -301,7 +301,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  157,
+                       "stock":  156,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -1069,7 +1069,7 @@
                        "name":  "LIPO 6 BLACK QUEMADOR DE GRASA  120 CAPS NUTREX",
                        "folder":  "General",
                        "src":  "images/LIPO 6 BLACK QUEMADOR DE GRASA  120 CAPS NUTREX.jpeg",
-                       "stock":  9,
+                       "stock":  8,
                        "offerPrice":  350,
                        "stockLinked":  true
                    },
