@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-13T22:56:10.9196157Z",
+    "generatedAt":  "2026-11-13T23:07:12.6555666Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -469,7 +469,7 @@
                        "name":  "CLOROFILA",
                        "folder":  "General",
                        "src":  "images/CLOROFILA.jpeg",
-                       "stock":  4,
+                       "stock":  10,
                        "offerPrice":  220,
                        "stockLinked":  true
                    },
@@ -1717,7 +1717,7 @@
                        "name":  "VENAS Y VARICES LEG VEINS",
                        "folder":  "General",
                        "src":  "images/VENAS Y VARICES LEG VEINS.jpeg",
-                       "stock":  1,
+                       "stock":  7,
                        "offerPrice":  285,
                        "stockLinked":  true
                    },
