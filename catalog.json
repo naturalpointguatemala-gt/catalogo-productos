@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-12T00:14:51.6316397Z",
+    "generatedAt":  "2026-11-13T17:08:55.2811330Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL",
                        "folder":  "General",
                        "src":  "images/AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL.jpeg",
-                       "stock":  31,
+                       "stock":  25,
                        "offerPrice":  195,
                        "stockLinked":  true
                    },
@@ -69,7 +69,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  101,
+                       "stock":  90,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -77,7 +77,7 @@
                        "name":  "AGUAJE PERUANO 500MG  100 CAPS.",
                        "folder":  "General",
                        "src":  "images/AGUAJE PERUANO 500MG  100 CAPS..jpeg",
-                       "stock":  16,
+                       "stock":  24,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -117,7 +117,7 @@
                        "name":  "ALA",
                        "folder":  "General",
                        "src":  "images/ALA.jpeg",
-                       "stock":  10,
+                       "stock":  9,
                        "offerPrice":  130,
                        "stockLinked":  true
                    },
@@ -157,7 +157,7 @@
                        "name":  "ASHWAGANDHA AMERICANA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA AMERICANA.jpeg",
-                       "stock":  43,
+                       "stock":  42,
                        "offerPrice":  225,
                        "stockLinked":  true
                    },
@@ -165,7 +165,7 @@
                        "name":  "ASHWAGANDHA GOMITAS",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA GOMITAS.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "offerPrice":  230,
                        "stockLinked":  true
                    },
@@ -181,7 +181,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  202,
+                       "stock":  208,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -197,8 +197,16 @@
                        "name":  "ASTAXANTINA AMERICANA",
                        "folder":  "General",
                        "src":  "images/ASTAXANTINA AMERICANA.jpg",
-                       "stock":  6,
+                       "stock":  5,
                        "offerPrice":  230,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "ASTAXANTINA CON LICOPENO  90 CAPS ASTA ZEN",
+                       "folder":  "General",
+                       "src":  "images/ASTAXANTINA CON LICOPENO  90 CAPS ASTA ZEN.jpeg",
+                       "stock":  5,
+                       "offerPrice":  210,
                        "stockLinked":  true
                    },
                    {
@@ -213,7 +221,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  31,
+                       "stock":  27,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -293,7 +301,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  149,
+                       "stock":  163,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -309,7 +317,7 @@
                        "name":  "CASTAÑA DE INDIAS",
                        "folder":  "General",
                        "src":  "images/CASTAÑA DE INDIAS.png",
-                       "stock":  39,
+                       "stock":  38,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -317,7 +325,7 @@
                        "name":  "CENTRUM ADULTOS",
                        "folder":  "General",
                        "src":  "images/CENTRUM ADULTOS.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "offerPrice":  240,
                        "stockLinked":  true
                    },
@@ -349,7 +357,7 @@
                        "name":  "CENTRUM MEN",
                        "folder":  "General",
                        "src":  "images/CENTRUM MEN.jpeg",
-                       "stock":  4,
+                       "stock":  3,
                        "offerPrice":  320,
                        "stockLinked":  true
                    },
@@ -357,7 +365,7 @@
                        "name":  "CENTRUM PARA NIÑOS GOMITAS",
                        "folder":  "General",
                        "src":  "images/CENTRUM PARA NIÑOS GOMITAS.jpeg",
-                       "stock":  3,
+                       "stock":  2,
                        "offerPrice":  290,
                        "stockLinked":  true
                    },
@@ -421,7 +429,7 @@
                        "name":  "CITRATO DE MAGNESIO 500MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO 500MG  60 CAPS..jpeg",
-                       "stock":  261,
+                       "stock":  252,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -525,7 +533,7 @@
                        "name":  "COLÁGENO HIDROLIZADO CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/COLÁGENO HIDROLIZADO CÁPSULAS.jpeg",
-                       "stock":  11,
+                       "stock":  10,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -533,7 +541,7 @@
                        "name":  "COLÁGENO PEPTIDOS  1LB VITAWEL",
                        "folder":  "General",
                        "src":  "images/COLÁGENO PEPTIDOS  1LB VITAWEL.jpeg",
-                       "stock":  5,
+                       "stock":  4,
                        "offerPrice":  380,
                        "stockLinked":  true
                    },
@@ -605,7 +613,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  776,
+                       "stock":  750,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -661,7 +669,7 @@
                        "name":  "FENOGRECO",
                        "folder":  "General",
                        "src":  "images/FENOGRECO.png",
-                       "stock":  11,
+                       "stock":  10,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -725,7 +733,7 @@
                        "name":  "GLICINATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/GLICINATO DE MAGNESIO.jpeg",
-                       "stock":  16,
+                       "stock":  13,
                        "offerPrice":  125,
                        "stockLinked":  true
                    },
@@ -805,7 +813,7 @@
                        "name":  "GRAVIOLA (GUANÁBANA)",
                        "folder":  "General",
                        "src":  "images/GRAVIOLA (GUANÁBANA).png",
-                       "stock":  24,
+                       "stock":  22,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -853,7 +861,7 @@
                        "name":  "HAIR, SKIN AND NAILS  200 GOMITAS. NATURE´S BOUNTY ROSADO",
                        "folder":  "General",
                        "src":  "images/HAIR, SKIN AND NAILS  200 GOMITAS. NATURE´S BOUNTY ROSADO.jpeg",
-                       "stock":  3,
+                       "stock":  2,
                        "offerPrice":  235,
                        "stockLinked":  true
                    },
@@ -885,7 +893,7 @@
                        "name":  "HEPA REVIVE ",
                        "folder":  "General",
                        "src":  "images/HEPA REVIVE .jpg",
-                       "stock":  81,
+                       "stock":  79,
                        "offerPrice":  130,
                        "stockLinked":  true
                    },
@@ -933,7 +941,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  127,
+                       "stock":  125,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
@@ -941,7 +949,7 @@
                        "name":  "ISOFLAVONAS",
                        "folder":  "General",
                        "src":  "images/ISOFLAVONAS.png",
-                       "stock":  38,
+                       "stock":  37,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
@@ -997,7 +1005,7 @@
                        "name":  "L-ARGININA 500MG  90 CAPS.",
                        "folder":  "General",
                        "src":  "images/L-ARGININA 500MG  90 CAPS..jpeg",
-                       "stock":  46,
+                       "stock":  44,
                        "offerPrice":  110,
                        "stockLinked":  true
                    },
@@ -1053,7 +1061,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  12,
+                       "stock":  11,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -1063,6 +1071,14 @@
                        "src":  "images/LIPO 6 BLACK QUEMADOR DE GRASA  120 CAPS NUTREX.jpeg",
                        "stock":  9,
                        "offerPrice":  350,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "LIPOSOMAL IMMUNE  120 SOFTGELS CYBER CERIX",
+                       "folder":  "General",
+                       "src":  "images/LIPOSOMAL IMMUNE  120 SOFTGELS CYBER CERIX.jpeg",
+                       "stock":  6,
+                       "offerPrice":  250,
                        "stockLinked":  true
                    },
                    {
@@ -1093,7 +1109,7 @@
                        "name":  "MACA",
                        "folder":  "General",
                        "src":  "images/MACA.png",
-                       "stock":  26,
+                       "stock":  25,
                        "offerPrice":  190,
                        "stockLinked":  true
                    },
@@ -1109,7 +1125,7 @@
                        "name":  "MAGNESIO COMPLEX",
                        "folder":  "General",
                        "src":  "images/MAGNESIO COMPLEX.jpeg",
-                       "stock":  8,
+                       "stock":  7,
                        "offerPrice":  230,
                        "stockLinked":  true
                    },
@@ -1333,7 +1349,7 @@
                        "name":  "OMEGA 3 NIÑOS DR MORITZ",
                        "folder":  "General",
                        "src":  "images/OMEGA 3 NIÑOS DR MORITZ.jpeg",
-                       "stock":  4,
+                       "stock":  3,
                        "offerPrice":  290,
                        "stockLinked":  true
                    },
@@ -1357,7 +1373,7 @@
                        "name":  "OMEGA 3 VIVA NATURALS",
                        "folder":  "General",
                        "src":  "images/OMEGA 3 VIVA NATURALS.jpeg",
-                       "stock":  8,
+                       "stock":  7,
                        "offerPrice":  380,
                        "stockLinked":  true
                    },
@@ -1549,7 +1565,7 @@
                        "name":  "RESVERATROL",
                        "folder":  "General",
                        "src":  "images/RESVERATROL.png",
-                       "stock":  38,
+                       "stock":  36,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
@@ -1589,7 +1605,7 @@
                        "name":  "SERUM DE ARROZ",
                        "folder":  "General",
                        "src":  "images/SERUM DE ARROZ.jpeg",
-                       "stock":  4,
+                       "stock":  3,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -1933,7 +1949,7 @@
                        "name":  "YOHIMBINA EXTRACTO",
                        "folder":  "General",
                        "src":  "images/YOHIMBINA EXTRACTO.jpeg",
-                       "stock":  12,
+                       "stock":  11,
                        "offerPrice":  140,
                        "stockLinked":  true
                    },
@@ -2037,7 +2053,7 @@
                        "name":  "CREATINA CREAKONG",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA CREAKONG.jpeg",
-                       "stock":  11,
+                       "stock":  10,
                        "offerPrice":  275,
                        "stockLinked":  true
                    },
@@ -2053,7 +2069,7 @@
                        "name":  "CREATINA DRAGON PHARMA  30 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA  30 SERVIDAS.jpeg",
-                       "stock":  82,
+                       "stock":  79,
                        "offerPrice":  235,
                        "stockLinked":  true
                    },
@@ -2157,7 +2173,7 @@
                        "name":  "CREATINA NUTREX 300  60 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 300  60 SERVIDAS.jpeg",
-                       "stock":  8,
+                       "stock":  4,
                        "offerPrice":  275,
                        "stockLinked":  true
                    },
@@ -2533,7 +2549,7 @@
                        "name":  "PROTEIN PHORM 28 SERVIDAS SABOR MILKSHAKE",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEIN PHORM 28 SERVIDAS SABOR MILKSHAKE.jpeg",
-                       "stock":  7,
+                       "stock":  6,
                        "offerPrice":  465,
                        "stockLinked":  true
                    },
@@ -2557,7 +2573,7 @@
                        "name":  "PROTEÍNA BPI ISO HD  70 SERVIDAS 4.93LB SABOR CEREAL CRUNCH",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA BPI ISO HD  70 SERVIDAS 4.93LB SABOR CEREAL CRUNCH.jpeg",
-                       "stock":  6,
+                       "stock":  5,
                        "offerPrice":  850,
                        "stockLinked":  true
                    },
@@ -2589,7 +2605,7 @@
                        "name":  "PROTEÍNA DRAGON PHARMA WHEY PHORM  52 SERVIDAS 4.59LB SABOR DOUBLE CHOCOLATE BROWNIE",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA DRAGON PHARMA WHEY PHORM  52 SERVIDAS 4.59LB SABOR DOUBLE CHOCOLATE BROWNIE.jpeg",
-                       "stock":  3,
+                       "stock":  2,
                        "offerPrice":  845,
                        "stockLinked":  true
                    },
