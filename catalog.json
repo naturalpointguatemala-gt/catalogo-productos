@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-13T20:39:29.1577953Z",
+    "generatedAt":  "2026-11-13T20:44:29.2476509Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL",
                        "folder":  "General",
                        "src":  "images/AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL.jpeg",
-                       "stock":  23,
+                       "stock":  22,
                        "offerPrice":  195,
                        "stockLinked":  true
                    },
@@ -301,7 +301,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  151,
+                       "stock":  150,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -613,7 +613,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  748,
+                       "stock":  747,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
