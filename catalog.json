@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-13T20:44:29.2476509Z",
+    "generatedAt":  "2026-11-13T20:50:33.2137206Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1109,7 +1109,7 @@
                        "name":  "MACA",
                        "folder":  "General",
                        "src":  "images/MACA.png",
-                       "stock":  25,
+                       "stock":  23,
                        "offerPrice":  190,
                        "stockLinked":  true
                    },
@@ -1909,7 +1909,7 @@
                        "name":  "VITEX",
                        "folder":  "General",
                        "src":  "images/VITEX.png",
-                       "stock":  23,
+                       "stock":  21,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
