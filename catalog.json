@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-13T18:21:44.9886417Z",
+    "generatedAt":  "2026-11-13T19:11:50.9412210Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -301,7 +301,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  156,
+                       "stock":  158,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -613,7 +613,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  749,
+                       "stock":  750,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1061,7 +1061,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  11,
+                       "stock":  12,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -2173,7 +2173,7 @@
                        "name":  "CREATINA NUTREX 300  60 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 300  60 SERVIDAS.jpeg",
-                       "stock":  4,
+                       "stock":  6,
                        "offerPrice":  275,
                        "stockLinked":  true
                    },
