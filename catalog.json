@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-13T17:28:03.0956059Z",
+    "generatedAt":  "2026-11-13T17:34:28.5167385Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -733,7 +733,7 @@
                        "name":  "GLICINATO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/GLICINATO DE MAGNESIO.jpeg",
-                       "stock":  13,
+                       "stock":  12,
                        "offerPrice":  125,
                        "stockLinked":  true
                    },
@@ -1189,7 +1189,7 @@
                        "name":  "MELATONINA",
                        "folder":  "General",
                        "src":  "images/MELATONINA.png",
-                       "stock":  14,
+                       "stock":  13,
                        "offerPrice":  125,
                        "stockLinked":  true
                    },
