@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-16T20:18:09.9861163Z",
+    "generatedAt":  "2026-11-16T20:27:47.1109770Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -69,7 +69,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  83,
+                       "stock":  81,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -221,7 +221,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  23,
+                       "stock":  20,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -301,7 +301,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  128,
+                       "stock":  125,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -605,7 +605,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  746,
+                       "stock":  743,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1501,7 +1501,7 @@
                        "name":  "PROBIÓTICOS NATURE´S BOUNTY  120 TABS.",
                        "folder":  "General",
                        "src":  "images/PROBIÓTICOS NATURE´S BOUNTY  120 TABS..jpeg",
-                       "stock":  3,
+                       "stock":  2,
                        "offerPrice":  195,
                        "stockLinked":  true
                    },
