@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-16T21:58:21.0700133Z",
+    "generatedAt":  "2026-11-16T22:01:25.1154852Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -317,7 +317,7 @@
                        "name":  "CASTAÑA DE INDIAS",
                        "folder":  "General",
                        "src":  "images/CASTAÑA DE INDIAS.png",
-                       "stock":  38,
+                       "stock":  36,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
