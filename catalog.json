@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-16T19:41:11.6274778Z",
+    "generatedAt":  "2026-11-16T19:47:14.3929423Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -109,7 +109,7 @@
                        "name":  "AJO SIN OLOR",
                        "folder":  "General",
                        "src":  "images/AJO SIN OLOR.jpeg",
-                       "stock":  9,
+                       "stock":  8,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -301,7 +301,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  129,
+                       "stock":  128,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
