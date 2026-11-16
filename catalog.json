@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-16T19:59:34.8358225Z",
+    "generatedAt":  "2026-11-16T20:03:07.5086927Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1559,14 +1559,6 @@
                        "src":  "images/RESVERATROL.png",
                        "stock":  36,
                        "offerPrice":  120,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "RHODIOLA",
-                       "folder":  "General",
-                       "src":  "images/RHODIOLA.png",
-                       "stock":  0,
-                       "offerPrice":  80,
                        "stockLinked":  true
                    },
                    {
@@ -3227,6 +3219,11 @@
                               "name":  "PSYCHOTIC GOLD SANDIA",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PSYCHOTIC GOLD SANDIA.png"
+                          },
+                          {
+                              "name":  "RHODIOLA",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/RHODIOLA.png"
                           },
                           {
                               "name":  "SABORIZANTE SIN CALORÍAS CHOCOLATE",
