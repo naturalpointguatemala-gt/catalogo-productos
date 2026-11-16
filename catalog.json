@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-16T17:13:00.2879886Z",
+    "generatedAt":  "2026-11-16T17:21:58.8625015Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -181,7 +181,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  203,
+                       "stock":  202,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -301,7 +301,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  142,
+                       "stock":  141,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -605,7 +605,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  749,
+                       "stock":  747,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -2413,7 +2413,7 @@
                        "name":  "PRE-ENTRENO PSYCHOTIC SAW  60 SERVIDAS SABOR GRAPE",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC SAW  60 SERVIDAS SABOR GRAPE.jpeg",
-                       "stock":  1,
+                       "stock":  0,
                        "offerPrice":  495,
                        "stockLinked":  true
                    },
