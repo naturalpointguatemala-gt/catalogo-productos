@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-16T23:13:27.1686722Z",
+    "generatedAt":  "2026-11-16T23:28:12.1503719Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -301,7 +301,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  106,
+                       "stock":  104,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
