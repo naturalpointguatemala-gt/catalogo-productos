@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-16T15:06:39.9764515Z",
+    "generatedAt":  "2026-11-16T15:18:46.9830258Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -181,7 +181,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  204,
+                       "stock":  203,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -957,7 +957,7 @@
                        "name":  "JABÓN DE ARROZ",
                        "folder":  "General",
                        "src":  "images/JABÓN DE ARROZ.png",
-                       "stock":  13,
+                       "stock":  12,
                        "offerPrice":  50,
                        "stockLinked":  true
                    },
@@ -1741,7 +1741,7 @@
                        "name":  "VINAGRE DE MANZANA GOLÍ",
                        "folder":  "General",
                        "src":  "images/VINAGRE DE MANZANA GOLÍ.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "offerPrice":  230,
                        "stockLinked":  true
                    },
