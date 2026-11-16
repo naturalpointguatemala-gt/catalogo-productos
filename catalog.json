@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-16T15:25:42.1641013Z",
+    "generatedAt":  "2026-11-16T15:30:53.2100657Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -301,7 +301,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  97,
+                       "stock":  95,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -2165,7 +2165,7 @@
                        "name":  "CREATINA NUTREX 300  60 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 300  60 SERVIDAS.jpeg",
-                       "stock":  6,
+                       "stock":  4,
                        "offerPrice":  275,
                        "stockLinked":  true
                    },
