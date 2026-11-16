@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-16T23:28:12.1503719Z",
+    "generatedAt":  "2026-11-16T23:33:14.1033284Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -29,7 +29,7 @@
                        "name":  "ACEITE DE ORÉGANO 3000MG  60 PERLAS",
                        "folder":  "General",
                        "src":  "images/ACEITE DE ORÉGANO 3000MG  60 PERLAS.jpeg",
-                       "stock":  22,
+                       "stock":  21,
                        "offerPrice":  155,
                        "stockLinked":  true
                    },
@@ -301,7 +301,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  104,
+                       "stock":  103,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -429,7 +429,7 @@
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
-                       "stock":  220,
+                       "stock":  219,
                        "offerPrice":  100,
                        "stockLinked":  true
                    },
@@ -605,7 +605,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  732,
+                       "stock":  731,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1717,7 +1717,7 @@
                        "name":  "VINAGRE DE MANZANA 500MG  90 CAPS.",
                        "folder":  "General",
                        "src":  "images/VINAGRE DE MANZANA 500MG  90 CAPS..jpg",
-                       "stock":  6,
+                       "stock":  5,
                        "offerPrice":  100,
                        "stockLinked":  true
                    },
