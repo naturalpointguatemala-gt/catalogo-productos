@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-16T19:07:30.9853748Z",
+    "generatedAt":  "2026-11-16T19:12:12.8372502Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -301,7 +301,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  136,
+                       "stock":  133,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -2317,7 +2317,7 @@
                        "name":  "PRE ENTRENO VENOM ESSENTIAL  30 SERVIDAS DRAGON PHARMA PEPINO LIMÓN",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE ENTRENO VENOM ESSENTIAL  30 SERVIDAS DRAGON PHARMA PEPINO LIMÓN.jpeg",
-                       "stock":  3,
+                       "stock":  2,
                        "offerPrice":  350,
                        "stockLinked":  true
                    },
