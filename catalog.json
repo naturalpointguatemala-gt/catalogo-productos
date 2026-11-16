@@ -1,11 +1,11 @@
 ﻿{
-    "generatedAt":  "2026-11-13T23:53:40.2541556Z",
+    "generatedAt":  "2026-11-16T15:06:39.9764515Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/ABEDUL 400MG  60 CAPS..jpeg",
-                       "stock":  57,
+                       "stock":  56,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL",
                        "folder":  "General",
                        "src":  "images/AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL.jpeg",
-                       "stock":  21,
+                       "stock":  18,
                        "offerPrice":  195,
                        "stockLinked":  true
                    },
@@ -69,7 +69,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  88,
+                       "stock":  85,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -181,7 +181,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  206,
+                       "stock":  204,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -221,7 +221,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  27,
+                       "stock":  25,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -229,7 +229,7 @@
                        "name":  "BOLDO 1000MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/BOLDO 1000MG  60 CAPS..jpeg",
-                       "stock":  23,
+                       "stock":  22,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -253,7 +253,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1445,
+                       "stock":  -1447,
                        "offerPrice":  0,
                        "stockLinked":  true
                    },
@@ -301,7 +301,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  138,
+                       "stock":  97,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -341,7 +341,7 @@
                        "name":  "CENTRUM MEN 170 GOMITAS AZUL",
                        "folder":  "General",
                        "src":  "images/CENTRUM MEN 170 GOMITAS AZUL.jpeg",
-                       "stock":  1,
+                       "stock":  0,
                        "offerPrice":  275,
                        "stockLinked":  true
                    },
@@ -413,7 +413,7 @@
                        "name":  "CENTRUM WOMEN",
                        "folder":  "General",
                        "src":  "images/CENTRUM WOMEN.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "offerPrice":  315,
                        "stockLinked":  true
                    },
@@ -613,7 +613,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  745,
+                       "stock":  730,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -701,7 +701,7 @@
                        "name":  "GINKGO BILOBA",
                        "folder":  "General",
                        "src":  "images/GINKGO BILOBA.png",
-                       "stock":  40,
+                       "stock":  39,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -893,7 +893,7 @@
                        "name":  "HEPA REVIVE ",
                        "folder":  "General",
                        "src":  "images/HEPA REVIVE .jpg",
-                       "stock":  79,
+                       "stock":  78,
                        "offerPrice":  130,
                        "stockLinked":  true
                    },
@@ -941,7 +941,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  124,
+                       "stock":  121,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
@@ -1061,7 +1061,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  12,
+                       "stock":  11,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -1125,7 +1125,7 @@
                        "name":  "MAGNESIO COMPLEX",
                        "folder":  "General",
                        "src":  "images/MAGNESIO COMPLEX.jpeg",
-                       "stock":  7,
+                       "stock":  6,
                        "offerPrice":  230,
                        "stockLinked":  true
                    },
@@ -1237,7 +1237,7 @@
                        "name":  "MULTI COLÁGENO PÉPTIDOS POLVO CODE AGE  342GRM.",
                        "folder":  "General",
                        "src":  "images/MULTI COLÁGENO PÉPTIDOS POLVO CODE AGE  342GRM..jpeg",
-                       "stock":  20,
+                       "stock":  18,
                        "offerPrice":  230,
                        "stockLinked":  true
                    },
@@ -2061,7 +2061,7 @@
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
-                       "stock":  18,
+                       "stock":  17,
                        "offerPrice":  325,
                        "stockLinked":  true
                    },
@@ -2069,7 +2069,7 @@
                        "name":  "CREATINA DRAGON PHARMA  30 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA  30 SERVIDAS.jpeg",
-                       "stock":  79,
+                       "stock":  78,
                        "offerPrice":  235,
                        "stockLinked":  true
                    },
@@ -2125,7 +2125,7 @@
                        "name":  "CREATINA MICRONIZADA  60 SERVIDAS SIN SABOR OPTIMUM NUTRITION",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MICRONIZADA  60 SERVIDAS SIN SABOR OPTIMUM NUTRITION.jpeg",
-                       "stock":  3,
+                       "stock":  2,
                        "offerPrice":  290,
                        "stockLinked":  true
                    },
