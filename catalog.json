@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-16T15:54:55.0136968Z",
+    "generatedAt":  "2026-11-16T16:09:52.9082634Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -69,7 +69,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  85,
+                       "stock":  84,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -1117,7 +1117,7 @@
                        "name":  "MAGNESIO COMPLEX",
                        "folder":  "General",
                        "src":  "images/MAGNESIO COMPLEX.jpeg",
-                       "stock":  6,
+                       "stock":  5,
                        "offerPrice":  230,
                        "stockLinked":  true
                    },
