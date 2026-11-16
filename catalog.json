@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-16T15:18:46.9830258Z",
+    "generatedAt":  "2026-11-16T15:25:42.1641013Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -338,14 +338,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "CENTRUM MEN 170 GOMITAS AZUL",
-                       "folder":  "General",
-                       "src":  "images/CENTRUM MEN 170 GOMITAS AZUL.jpeg",
-                       "stock":  0,
-                       "offerPrice":  275,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "CENTRUM MEN SILVER X 100 TABLETAS",
                        "folder":  "General",
                        "src":  "images/CENTRUM MEN SILVER X 100 TABLETAS.jpeg",
@@ -613,7 +605,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  730,
+                       "stock":  726,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1733,7 +1725,7 @@
                        "name":  "VINAGRE DE MANZANA 500MG  90 CAPS.",
                        "folder":  "General",
                        "src":  "images/VINAGRE DE MANZANA 500MG  90 CAPS..jpg",
-                       "stock":  7,
+                       "stock":  6,
                        "offerPrice":  100,
                        "stockLinked":  true
                    },
@@ -2680,6 +2672,11 @@
                               "name":  "CENTRUM ENERGÍA",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/CENTRUM ENERGÍA.jpeg"
+                          },
+                          {
+                              "name":  "CENTRUM MEN 170 GOMITAS AZUL",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/CENTRUM MEN 170 GOMITAS AZUL.jpeg"
                           },
                           {
                               "name":  "CENTRUM MEN GOMITAS",
