@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-17T20:54:06.6206729Z",
+    "generatedAt":  "2026-11-17T20:57:56.9757116Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1541,7 +1541,7 @@
                        "name":  "REISHI GANODERMA",
                        "folder":  "General",
                        "src":  "images/REISHI GANODERMA.png",
-                       "stock":  21,
+                       "stock":  20,
                        "offerPrice":  110,
                        "stockLinked":  true
                    },
