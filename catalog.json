@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-17T19:48:00.9852839Z",
+    "generatedAt":  "2026-11-17T20:08:16.8245733Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -109,7 +109,7 @@
                        "name":  "AJO SIN OLOR",
                        "folder":  "General",
                        "src":  "images/AJO SIN OLOR.jpeg",
-                       "stock":  7,
+                       "stock":  6,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -301,7 +301,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  142,
+                       "stock":  134,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -421,7 +421,7 @@
                        "name":  "CITRATO DE MAGNESIO 500MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO 500MG  60 CAPS..jpeg",
-                       "stock":  301,
+                       "stock":  299,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -605,7 +605,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  762,
+                       "stock":  761,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -821,7 +821,7 @@
                        "name":  "GYMNEMA SYLVESTRE",
                        "folder":  "General",
                        "src":  "images/GYMNEMA SYLVESTRE.png",
-                       "stock":  38,
+                       "stock":  37,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
