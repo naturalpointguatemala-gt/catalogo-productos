@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-17T19:33:13.9790702Z",
+    "generatedAt":  "2026-11-17T19:41:51.9630334Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1733,7 +1733,7 @@
                        "name":  "VITAMINA A (RETINOL)",
                        "folder":  "General",
                        "src":  "images/VITAMINA A (RETINOL).png",
-                       "stock":  20,
+                       "stock":  19,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
