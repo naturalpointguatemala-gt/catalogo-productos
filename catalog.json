@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-17T17:27:09.4941397Z",
+    "generatedAt":  "2026-11-17T17:49:01.5270378Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -253,7 +253,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1448,
+                       "stock":  -1449,
                        "offerPrice":  0,
                        "stockLinked":  true
                    },
@@ -301,7 +301,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  93,
+                       "stock":  92,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
