@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-17T16:47:20.0077532Z",
+    "generatedAt":  "2026-11-17T17:01:06.5002107Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -181,7 +181,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  186,
+                       "stock":  184,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -2157,7 +2157,7 @@
                        "name":  "CREATINA NUTREX 300  60 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 300  60 SERVIDAS.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "offerPrice":  275,
                        "stockLinked":  true
                    },
