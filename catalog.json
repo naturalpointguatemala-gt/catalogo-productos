@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-17T00:00:10.8687707Z",
+    "generatedAt":  "2026-11-17T16:34:39.8951313Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -109,7 +109,7 @@
                        "name":  "AJO SIN OLOR",
                        "folder":  "General",
                        "src":  "images/AJO SIN OLOR.jpeg",
-                       "stock":  8,
+                       "stock":  7,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -181,7 +181,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  190,
+                       "stock":  188,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -221,7 +221,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  20,
+                       "stock":  19,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -301,7 +301,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  102,
+                       "stock":  96,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -501,7 +501,7 @@
                        "name":  "COLA DE CABALLO",
                        "folder":  "General",
                        "src":  "images/COLA DE CABALLO.png",
-                       "stock":  10,
+                       "stock":  9,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -605,7 +605,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  730,
+                       "stock":  728,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -621,7 +621,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  136,
+                       "stock":  135,
                        "offerPrice":  105,
                        "stockLinked":  true
                    },
@@ -933,7 +933,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  150,
+                       "stock":  149,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
@@ -1293,7 +1293,7 @@
                        "name":  "NOPAL",
                        "folder":  "General",
                        "src":  "images/NOPAL.png",
-                       "stock":  14,
+                       "stock":  13,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1549,7 +1549,7 @@
                        "name":  "REMOLACHA",
                        "folder":  "General",
                        "src":  "images/REMOLACHA.png",
-                       "stock":  31,
+                       "stock":  30,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -1741,7 +1741,7 @@
                        "name":  "VITAMINA B1 (TIAMINA)",
                        "folder":  "General",
                        "src":  "images/VITAMINA B1 (TIAMINA).png",
-                       "stock":  7,
+                       "stock":  6,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -2045,7 +2045,7 @@
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
-                       "stock":  29,
+                       "stock":  28,
                        "offerPrice":  325,
                        "stockLinked":  true
                    },
@@ -2157,7 +2157,7 @@
                        "name":  "CREATINA NUTREX 300  60 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 300  60 SERVIDAS.jpeg",
-                       "stock":  4,
+                       "stock":  2,
                        "offerPrice":  275,
                        "stockLinked":  true
                    },
