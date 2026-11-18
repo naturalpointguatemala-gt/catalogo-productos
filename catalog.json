@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-18T00:02:39.8485297Z",
+    "generatedAt":  "2026-11-18T00:13:38.9321793Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -69,7 +69,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  72,
+                       "stock":  73,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -93,7 +93,7 @@
                        "name":  "AJO NEGRO 500MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/AJO NEGRO 500MG  60 CAPS..jpeg",
-                       "stock":  23,
+                       "stock":  24,
                        "offerPrice":  100,
                        "stockLinked":  true
                    },
@@ -149,7 +149,7 @@
                        "name":  "ASHWAGANDHA  60 GOMITAS BBP PARAÍSO NATURAL",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA  60 GOMITAS BBP PARAÍSO NATURAL.jpeg",
-                       "stock":  4,
+                       "stock":  5,
                        "offerPrice":  200,
                        "stockLinked":  true
                    },
@@ -181,7 +181,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  181,
+                       "stock":  180,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -301,7 +301,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  146,
+                       "stock":  150,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -605,7 +605,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  764,
+                       "stock":  766,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -621,7 +621,7 @@
                        "name":  "DIENTE DE LEÓN",
                        "folder":  "General",
                        "src":  "images/DIENTE DE LEÓN.jpeg",
-                       "stock":  134,
+                       "stock":  135,
                        "offerPrice":  105,
                        "stockLinked":  true
                    },
@@ -1117,7 +1117,7 @@
                        "name":  "MAGNESIO COMPLEX",
                        "folder":  "General",
                        "src":  "images/MAGNESIO COMPLEX.jpeg",
-                       "stock":  2,
+                       "stock":  4,
                        "offerPrice":  230,
                        "stockLinked":  true
                    },
@@ -2157,7 +2157,7 @@
                        "name":  "CREATINA NUTREX 300  60 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 300  60 SERVIDAS.jpeg",
-                       "stock":  13,
+                       "stock":  15,
                        "offerPrice":  275,
                        "stockLinked":  true
                    },
