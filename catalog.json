@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-18T22:40:49.4935743Z",
+    "generatedAt":  "2026-11-18T22:59:40.9296413Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -231,6 +231,22 @@
                        "src":  "images/BOLDO 1000MG  60 CAPS..jpeg",
                        "stock":  22,
                        "offerPrice":  70,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "CALCIO 1200MG CON VITAMINA D3  120 SOFTGELS NATURES BOUNTY",
+                       "folder":  "General",
+                       "src":  "images/CALCIO 1200MG CON VITAMINA D3  120 SOFTGELS NATURES BOUNTY.jpeg",
+                       "stock":  4,
+                       "offerPrice":  195,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "CALCIO 600MG CON VITAMINA D3  200 TABS CALTRATE",
+                       "folder":  "General",
+                       "src":  "images/CALCIO 600MG CON VITAMINA D3  200 TABS CALTRATE.jpeg",
+                       "stock":  2,
+                       "offerPrice":  320,
                        "stockLinked":  true
                    },
                    {
@@ -906,6 +922,14 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "HONGO SHIITAKE 3000MG  200 CAPS CARLYLE",
+                       "folder":  "General",
+                       "src":  "images/HONGO SHIITAKE 3000MG  200 CAPS CARLYLE.jpeg",
+                       "stock":  5,
+                       "offerPrice":  260,
+                       "stockLinked":  true
+                   },
+                   {
                        "name":  "HYDROXYCUT HARDCORE ELITE  100 CÁPSULAS MUSCLETECH",
                        "folder":  "General",
                        "src":  "images/HYDROXYCUT HARDCORE ELITE  100 CÁPSULAS MUSCLETECH.jpeg",
@@ -1047,6 +1071,14 @@
                        "src":  "images/LECITINA DE SOYA.png",
                        "stock":  2,
                        "offerPrice":  175,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "LEVADURA DE CERVEZA 500MG  240 TABS BEST NATURALS",
+                       "folder":  "General",
+                       "src":  "images/LEVADURA DE CERVEZA 500MG  240 TABS BEST NATURALS.jpeg",
+                       "stock":  6,
+                       "offerPrice":  200,
                        "stockLinked":  true
                    },
                    {
