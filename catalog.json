@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-18T22:02:51.7874917Z",
+    "generatedAt":  "2026-11-18T22:12:32.6639945Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1645,7 +1645,7 @@
                        "name":  "TESTOSTERONA BOOSTER",
                        "folder":  "General",
                        "src":  "images/TESTOSTERONA BOOSTER.jpeg",
-                       "stock":  2,
+                       "stock":  3,
                        "offerPrice":  330,
                        "stockLinked":  true
                    },
@@ -2493,7 +2493,7 @@
                        "name":  "PRE-ENTRENO VENOM INFERNO  40 SERVIDAS DRAGON LYCHEE DRAGON PHARMA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO VENOM INFERNO  40 SERVIDAS DRAGON LYCHEE DRAGON PHARMA.jpeg",
-                       "stock":  4,
+                       "stock":  3,
                        "offerPrice":  350,
                        "stockLinked":  true
                    },
