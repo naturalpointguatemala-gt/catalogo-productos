@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-19T23:01:19.2735246Z",
+    "generatedAt":  "2026-11-19T23:11:44.7038710Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1445,7 +1445,7 @@
                        "name":  "ONE A DAY SOPORTE PARA MENOPAUSIA  50 TABS BAYER",
                        "folder":  "General",
                        "src":  "images/ONE A DAY SOPORTE PARA MENOPAUSIA  50 TABS BAYER.jpeg",
-                       "stock":  5,
+                       "stock":  4,
                        "offerPrice":  330,
                        "stockLinked":  true
                    },
@@ -2442,14 +2442,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "PRE-ENTRENO PSYCHOTIC SAW  60 SERVIDAS SABOR GRAPE",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC SAW  60 SERVIDAS SABOR GRAPE.jpeg",
-                       "stock":  0,
-                       "offerPrice":  495,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "PRE-ENTRENO PSYCHOTIC SAW 30 SERVIDAS SABOR BLUE RASPBERRY",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC SAW 30 SERVIDAS SABOR BLUE RASPBERRY.jpeg",
@@ -2463,14 +2455,6 @@
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO PSYCHOTIC SAW 30 SERVIDAS SABOR GRAPE.jpeg",
                        "stock":  2,
                        "offerPrice":  365,
-                       "stockLinked":  true
-                   },
-                   {
-                       "name":  "PRE-ENTRENO RAW BUM ESSENTIALS 30 SERVIDAS BLUE RASPBERRY",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO RAW BUM ESSENTIALS 30 SERVIDAS BLUE RASPBERRY.jpeg",
-                       "stock":  0,
-                       "offerPrice":  335,
                        "stockLinked":  true
                    },
                    {
@@ -3026,9 +3010,19 @@
                               "src":  "images_sin_existencia/PRE-ENTRENO PSYCHOTIC SAW  60 SERVIDAS SABOR FRUIT PUNCH.jpeg"
                           },
                           {
+                              "name":  "PRE-ENTRENO PSYCHOTIC SAW  60 SERVIDAS SABOR GRAPE",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/PRE-ENTRENO PSYCHOTIC SAW  60 SERVIDAS SABOR GRAPE.jpeg"
+                          },
+                          {
                               "name":  "PRE-ENTRENO PSYCHOTIC SAW  60 SERVIDAS SABOR WATERMELON",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PRE-ENTRENO PSYCHOTIC SAW  60 SERVIDAS SABOR WATERMELON.jpeg"
+                          },
+                          {
+                              "name":  "PRE-ENTRENO RAW BUM ESSENTIALS 30 SERVIDAS BLUE RASPBERRY",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/PRE-ENTRENO RAW BUM ESSENTIALS 30 SERVIDAS BLUE RASPBERRY.jpeg"
                           },
                           {
                               "name":  "PREENTRENO C4 SPORT",
