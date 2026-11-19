@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-19T00:12:06.5038861Z",
+    "generatedAt":  "2026-11-19T18:22:32.8919056Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -149,7 +149,7 @@
                        "name":  "ASHWAGANDHA  60 GOMITAS BBP PARAÍSO NATURAL",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA  60 GOMITAS BBP PARAÍSO NATURAL.jpeg",
-                       "stock":  5,
+                       "stock":  4,
                        "offerPrice":  200,
                        "stockLinked":  true
                    },
@@ -181,7 +181,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  171,
+                       "stock":  167,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -221,7 +221,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  17,
+                       "stock":  14,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -269,7 +269,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1455,
+                       "stock":  -1456,
                        "offerPrice":  0,
                        "stockLinked":  true
                    },
@@ -285,7 +285,7 @@
                        "name":  "CANDIDA CLEANSE  60 CAPS",
                        "folder":  "General",
                        "src":  "images/CANDIDA CLEANSE  60 CAPS.jpeg",
-                       "stock":  10,
+                       "stock":  9,
                        "offerPrice":  260,
                        "stockLinked":  true
                    },
@@ -317,7 +317,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  157,
+                       "stock":  129,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -621,7 +621,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  754,
+                       "stock":  750,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -909,7 +909,7 @@
                        "name":  "HEPA REVIVE ",
                        "folder":  "General",
                        "src":  "images/HEPA REVIVE .jpg",
-                       "stock":  78,
+                       "stock":  77,
                        "offerPrice":  130,
                        "stockLinked":  true
                    },
@@ -973,7 +973,7 @@
                        "name":  "ISOFLAVONAS",
                        "folder":  "General",
                        "src":  "images/ISOFLAVONAS.png",
-                       "stock":  37,
+                       "stock":  36,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
@@ -1093,7 +1093,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  9,
+                       "stock":  8,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -1157,7 +1157,7 @@
                        "name":  "MAGNESIO COMPLEX",
                        "folder":  "General",
                        "src":  "images/MAGNESIO COMPLEX.jpeg",
-                       "stock":  4,
+                       "stock":  2,
                        "offerPrice":  230,
                        "stockLinked":  true
                    },
