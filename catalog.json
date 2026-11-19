@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-19T20:37:40.1797252Z",
+    "generatedAt":  "2026-11-19T20:42:04.0651911Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -965,7 +965,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  138,
+                       "stock":  136,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
