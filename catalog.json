@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-20T19:23:28.9646298Z",
+    "generatedAt":  "2026-11-20T19:35:15.3624185Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -221,7 +221,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  13,
+                       "stock":  12,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -317,7 +317,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  149,
+                       "stock":  148,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -621,7 +621,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  735,
+                       "stock":  734,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -957,7 +957,7 @@
                        "name":  "INOSITOL MYO \u0026 D-CHIRO POLVO 227GR. DEAL SUPPLEMENT",
                        "folder":  "General",
                        "src":  "images/INOSITOL MYO \u0026 D-CHIRO POLVO 227GR. DEAL SUPPLEMENT.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "offerPrice":  285,
                        "stockLinked":  true
                    },
