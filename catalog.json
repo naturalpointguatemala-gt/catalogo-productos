@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-20T00:13:52.0477402Z",
+    "generatedAt":  "2026-11-20T19:08:44.5949045Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL",
                        "folder":  "General",
                        "src":  "images/AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL.jpeg",
-                       "stock":  8,
+                       "stock":  6,
                        "offerPrice":  195,
                        "stockLinked":  true
                    },
@@ -69,7 +69,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  66,
+                       "stock":  64,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -117,7 +117,7 @@
                        "name":  "ALA",
                        "folder":  "General",
                        "src":  "images/ALA.jpeg",
-                       "stock":  9,
+                       "stock":  8,
                        "offerPrice":  130,
                        "stockLinked":  true
                    },
@@ -181,7 +181,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  167,
+                       "stock":  164,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -269,7 +269,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1458,
+                       "stock":  -1459,
                        "offerPrice":  0,
                        "stockLinked":  true
                    },
@@ -317,7 +317,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  117,
+                       "stock":  152,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -621,7 +621,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  743,
+                       "stock":  738,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -645,7 +645,7 @@
                        "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
                        "folder":  "General",
                        "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
-                       "stock":  73,
+                       "stock":  70,
                        "offerPrice":  265,
                        "stockLinked":  true
                    },
@@ -965,7 +965,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  136,
+                       "stock":  134,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
@@ -1093,7 +1093,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  8,
+                       "stock":  23,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -1269,7 +1269,7 @@
                        "name":  "MULTI COLÁGENO PÉPTIDOS POLVO CODE AGE  342GRM.",
                        "folder":  "General",
                        "src":  "images/MULTI COLÁGENO PÉPTIDOS POLVO CODE AGE  342GRM..jpeg",
-                       "stock":  18,
+                       "stock":  17,
                        "offerPrice":  230,
                        "stockLinked":  true
                    },
@@ -1762,14 +1762,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "VINAGRE DE MANZANA GOLÍ",
-                       "folder":  "General",
-                       "src":  "images/VINAGRE DE MANZANA GOLÍ.jpeg",
-                       "stock":  1,
-                       "offerPrice":  230,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "VITAMINA A (RETINOL)",
                        "folder":  "General",
                        "src":  "images/VITAMINA A (RETINOL).png",
@@ -2093,7 +2085,7 @@
                        "name":  "CREATINA DRAGON PHARMA  30 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA  30 SERVIDAS.jpeg",
-                       "stock":  76,
+                       "stock":  75,
                        "offerPrice":  235,
                        "stockLinked":  true
                    },
@@ -2197,7 +2189,7 @@
                        "name":  "CREATINA NUTREX 300  60 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 300  60 SERVIDAS.jpeg",
-                       "stock":  14,
+                       "stock":  9,
                        "offerPrice":  275,
                        "stockLinked":  true
                    },
@@ -2517,7 +2509,7 @@
                        "name":  "PRE-ENTRENO VENOM INFERNO  40 SERVIDAS DRAGON LYCHEE DRAGON PHARMA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO VENOM INFERNO  40 SERVIDAS DRAGON LYCHEE DRAGON PHARMA.jpeg",
-                       "stock":  3,
+                       "stock":  2,
                        "offerPrice":  350,
                        "stockLinked":  true
                    },
@@ -2565,7 +2557,7 @@
                        "name":  "PROTEÍNA BPI ISO HD  69 SERVIDAS 4.9LB SABOR BROWNIE CHOCOLATE",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA BPI ISO HD  69 SERVIDAS 4.9LB SABOR BROWNIE CHOCOLATE.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "offerPrice":  850,
                        "stockLinked":  true
                    },
@@ -3293,6 +3285,11 @@
                               "name":  "TESTO FX",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/TESTO FX.jpeg"
+                          },
+                          {
+                              "name":  "VINAGRE DE MANZANA GOLÍ",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/VINAGRE DE MANZANA GOLÍ.jpeg"
                           },
                           {
                               "name":  "VITAMINA B3 NIACINA LIFE EXTENSION",
