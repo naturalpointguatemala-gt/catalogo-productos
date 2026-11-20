@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-20T20:04:00.5378981Z",
+    "generatedAt":  "2026-11-20T20:16:37.3907153Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -645,7 +645,7 @@
                        "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
                        "folder":  "General",
                        "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
-                       "stock":  69,
+                       "stock":  68,
                        "offerPrice":  265,
                        "stockLinked":  true
                    },
@@ -2557,7 +2557,7 @@
                        "name":  "PROTEÍNA BPI ISO HD  69 SERVIDAS 4.9LB SABOR BROWNIE CHOCOLATE",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA BPI ISO HD  69 SERVIDAS 4.9LB SABOR BROWNIE CHOCOLATE.jpeg",
-                       "stock":  1,
+                       "stock":  0,
                        "offerPrice":  850,
                        "stockLinked":  true
                    },
