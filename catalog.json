@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-20T22:02:18.7996298Z",
+    "generatedAt":  "2026-11-20T22:09:22.6538760Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -317,7 +317,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  141,
+                       "stock":  140,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -893,7 +893,7 @@
                        "name":  "HAIR, SKIN AND NAILS CON BIOTINA  80 GOMITAS NARANJA NATURE´S BOUNTY",
                        "folder":  "General",
                        "src":  "images/HAIR, SKIN AND NAILS CON BIOTINA  80 GOMITAS NARANJA NATURE´S BOUNTY.jpeg",
-                       "stock":  5,
+                       "stock":  4,
                        "offerPrice":  180,
                        "stockLinked":  true
                    },
