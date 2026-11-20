@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-20T23:37:44.3688522Z",
+    "generatedAt":  "2026-11-20T23:46:05.7196575Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1469,7 +1469,7 @@
                        "name":  "P+ H-D SUP. VAGINALES DE ÁCIDO BÓRICO 600MG  24 UN. WOMEN OWNED",
                        "folder":  "General",
                        "src":  "images/P+ H-D SUP. VAGINALES DE ÁCIDO BÓRICO 600MG  24 UN. WOMEN OWNED.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "offerPrice":  320,
                        "stockLinked":  true
                    },
@@ -1725,7 +1725,7 @@
                        "name":  "URO PROBIOTICOS VAGINALES",
                        "folder":  "General",
                        "src":  "images/URO PROBIOTICOS VAGINALES.jpeg",
-                       "stock":  5,
+                       "stock":  4,
                        "offerPrice":  405,
                        "stockLinked":  true
                    },
