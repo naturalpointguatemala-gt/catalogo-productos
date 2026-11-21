@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-21T19:40:14.6508595Z",
+    "generatedAt":  "2026-11-21T19:53:09.6734445Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -69,7 +69,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  55,
+                       "stock":  53,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -317,7 +317,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  147,
+                       "stock":  146,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -423,6 +423,14 @@
                        "src":  "images/CENTRUM WOMEN.jpeg",
                        "stock":  1,
                        "offerPrice":  315,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "CHANCAPIEDRA",
+                       "folder":  "General",
+                       "src":  "images/CHANCAPIEDRA.jpeg",
+                       "stock":  14,
+                       "offerPrice":  100,
                        "stockLinked":  true
                    },
                    {
@@ -621,7 +629,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  704,
+                       "stock":  703,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1031,6 +1039,14 @@
                        "src":  "images/L-CARNITINA BEBIBLE.jpeg",
                        "stock":  4,
                        "offerPrice":  300,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "L-CARNITINA CAPSULAS",
+                       "folder":  "General",
+                       "src":  "images/L-CARNITINA CAPSULAS.jpeg",
+                       "stock":  9,
+                       "offerPrice":  145,
                        "stockLinked":  true
                    },
                    {
@@ -2696,11 +2712,6 @@
                               "src":  "images_sin_existencia/CENTRUM WOMEN X 65 TABLETAS.jpeg"
                           },
                           {
-                              "name":  "CHANCAPIEDRA",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/CHANCAPIEDRA.jpeg"
-                          },
-                          {
                               "name":  "CITRATO DE MAGNESIO FRANK SUÁREZ",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/CITRATO DE MAGNESIO FRANK SUÁREZ.jpeg"
@@ -2889,11 +2900,6 @@
                               "name":  "KING WHEY RONNIE COLEMAN VAINILLA ICE CREAM",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/KING WHEY RONNIE COLEMAN VAINILLA ICE CREAM.jpeg"
-                          },
-                          {
-                              "name":  "L-CARNITINA CAPSULAS",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/L-CARNITINA CAPSULAS.jpeg"
                           },
                           {
                               "name":  "LIPO 6 BLACK QUEMADOR DE GRASA ULTRA  60 CAPS NUTREX",
