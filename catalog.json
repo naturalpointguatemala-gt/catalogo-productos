@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-21T20:17:09.0608374Z",
+    "generatedAt":  "2026-11-21T20:36:37.3043808Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -69,7 +69,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  53,
+                       "stock":  52,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -317,7 +317,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  199,
+                       "stock":  198,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -629,7 +629,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  723,
+                       "stock":  722,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -2042,6 +2042,14 @@
                        "stockLinked":  true
                    },
                    {
+                       "name":  "AMINO ENERGY SANDÍA",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/AMINO ENERGY SANDÍA.jpeg",
+                       "stock":  2,
+                       "offerPrice":  320,
+                       "stockLinked":  true
+                   },
+                   {
                        "name":  "AMINOÁCIDOS ESENCIALES AMINOX EAAS (BSN)  25 SERVIDAS STRAW BERRY DRAGON FRUIT",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/AMINOÁCIDOS ESENCIALES AMINOX EAAS (BSN)  25 SERVIDAS STRAW BERRY DRAGON FRUIT.jpeg",
@@ -2668,11 +2676,6 @@
                               "name":  "AGUAJE AMERICANO",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/AGUAJE AMERICANO.png"
-                          },
-                          {
-                              "name":  "AMINO ENERGY SANDÍA",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/AMINO ENERGY SANDÍA.jpeg"
                           },
                           {
                               "name":  "AMINOÁCIDOS BPI SABOR GOMITAS",
