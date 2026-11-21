@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-21T20:51:02.7930330Z",
+    "generatedAt":  "2026-11-21T21:25:39.0052285Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -69,7 +69,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  53,
+                       "stock":  52,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -109,7 +109,7 @@
                        "name":  "AJO SIN OLOR",
                        "folder":  "General",
                        "src":  "images/AJO SIN OLOR.jpeg",
-                       "stock":  6,
+                       "stock":  19,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -317,7 +317,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  146,
+                       "stock":  194,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -629,7 +629,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  703,
+                       "stock":  722,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -653,7 +653,7 @@
                        "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
                        "folder":  "General",
                        "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
-                       "stock":  54,
+                       "stock":  52,
                        "offerPrice":  265,
                        "stockLinked":  true
                    },
@@ -2205,7 +2205,7 @@
                        "name":  "CREATINA NUTREX 1KG  200 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 1KG  200 SERVIDAS.jpeg",
-                       "stock":  10,
+                       "stock":  9,
                        "offerPrice":  415,
                        "stockLinked":  true
                    },
