@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-21T00:28:03.3421695Z",
+    "generatedAt":  "2026-11-21T17:46:12.0726791Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL",
                        "folder":  "General",
                        "src":  "images/AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL.jpeg",
-                       "stock":  6,
+                       "stock":  4,
                        "offerPrice":  195,
                        "stockLinked":  true
                    },
@@ -69,7 +69,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  62,
+                       "stock":  55,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -117,7 +117,7 @@
                        "name":  "ALA",
                        "folder":  "General",
                        "src":  "images/ALA.jpeg",
-                       "stock":  8,
+                       "stock":  7,
                        "offerPrice":  130,
                        "stockLinked":  true
                    },
@@ -141,7 +141,7 @@
                        "name":  "ARCILLA IMPORTADA",
                        "folder":  "General",
                        "src":  "images/ARCILLA IMPORTADA.jpeg",
-                       "stock":  16,
+                       "stock":  15,
                        "offerPrice":  180,
                        "stockLinked":  true
                    },
@@ -221,7 +221,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  10,
+                       "stock":  30,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -229,7 +229,7 @@
                        "name":  "BOLDO 1000MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/BOLDO 1000MG  60 CAPS..jpeg",
-                       "stock":  22,
+                       "stock":  21,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -269,7 +269,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1459,
+                       "stock":  -1460,
                        "offerPrice":  0,
                        "stockLinked":  true
                    },
@@ -317,7 +317,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  130,
+                       "stock":  162,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -333,7 +333,7 @@
                        "name":  "CASTAÑA DE INDIAS",
                        "folder":  "General",
                        "src":  "images/CASTAÑA DE INDIAS.png",
-                       "stock":  36,
+                       "stock":  35,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -621,7 +621,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  723,
+                       "stock":  711,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -645,7 +645,7 @@
                        "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
                        "folder":  "General",
                        "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
-                       "stock":  61,
+                       "stock":  59,
                        "offerPrice":  265,
                        "stockLinked":  true
                    },
@@ -954,18 +954,10 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "INOSITOL MYO \u0026 D-CHIRO POLVO 227GR. DEAL SUPPLEMENT",
-                       "folder":  "General",
-                       "src":  "images/INOSITOL MYO \u0026 D-CHIRO POLVO 227GR. DEAL SUPPLEMENT.jpeg",
-                       "stock":  1,
-                       "offerPrice":  285,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  134,
+                       "stock":  129,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
@@ -1101,7 +1093,7 @@
                        "name":  "LIPO 6 BLACK QUEMADOR DE GRASA  120 CAPS NUTREX",
                        "folder":  "General",
                        "src":  "images/LIPO 6 BLACK QUEMADOR DE GRASA  120 CAPS NUTREX.jpeg",
-                       "stock":  7,
+                       "stock":  6,
                        "offerPrice":  350,
                        "stockLinked":  true
                    },
@@ -1189,7 +1181,7 @@
                        "name":  "MAGNESIO Y POTASIO AMERICANO",
                        "folder":  "General",
                        "src":  "images/MAGNESIO Y POTASIO AMERICANO.jpeg",
-                       "stock":  6,
+                       "stock":  5,
                        "offerPrice":  285,
                        "stockLinked":  true
                    },
@@ -1461,7 +1453,7 @@
                        "name":  "ORTIGA",
                        "folder":  "General",
                        "src":  "images/ORTIGA.png",
-                       "stock":  22,
+                       "stock":  21,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1653,7 +1645,7 @@
                        "name":  "SHILAJIT ULTRA COMPLEX NP",
                        "folder":  "General",
                        "src":  "images/SHILAJIT ULTRA COMPLEX NP.jpeg",
-                       "stock":  7,
+                       "stock":  5,
                        "offerPrice":  165,
                        "stockLinked":  true
                    },
@@ -2005,7 +1997,7 @@
                        "name":  "ZINC",
                        "folder":  "General",
                        "src":  "images/ZINC.jpeg",
-                       "stock":  14,
+                       "stock":  13,
                        "offerPrice":  85,
                        "stockLinked":  true
                    },
@@ -2093,7 +2085,7 @@
                        "name":  "CREATINA DRAGON PHARMA 200 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA 200 SERVIDAS.jpeg",
-                       "stock":  32,
+                       "stock":  31,
                        "offerPrice":  500,
                        "stockLinked":  true
                    },
@@ -2133,7 +2125,7 @@
                        "name":  "CREATINA MICRONIZADA  120 SERVIDAS SIN SABOR OPTIMUM NUTRITION",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MICRONIZADA  120 SERVIDAS SIN SABOR OPTIMUM NUTRITION.jpeg",
-                       "stock":  3,
+                       "stock":  2,
                        "offerPrice":  415,
                        "stockLinked":  true
                    },
@@ -2181,7 +2173,7 @@
                        "name":  "CREATINA NUTREX 1KG  200 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 1KG  200 SERVIDAS.jpeg",
-                       "stock":  12,
+                       "stock":  10,
                        "offerPrice":  415,
                        "stockLinked":  true
                    },
@@ -2189,7 +2181,7 @@
                        "name":  "CREATINA NUTREX 300  60 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 300  60 SERVIDAS.jpeg",
-                       "stock":  7,
+                       "stock":  5,
                        "offerPrice":  275,
                        "stockLinked":  true
                    },
@@ -2565,7 +2557,7 @@
                        "name":  "PROTEÍNA BPI ISO HD  70 SERVIDAS 4.93LB SABOR CEREAL CRUNCH",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA BPI ISO HD  70 SERVIDAS 4.93LB SABOR CEREAL CRUNCH.jpeg",
-                       "stock":  5,
+                       "stock":  4,
                        "offerPrice":  850,
                        "stockLinked":  true
                    },
@@ -2847,6 +2839,11 @@
                               "name":  "HAIR, SKIN AND NAILS CON BIOTINA  200 GOMITAS. NARANJA NATURE´S BOUNTY",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/HAIR, SKIN AND NAILS CON BIOTINA  200 GOMITAS. NARANJA NATURE´S BOUNTY.jpeg"
+                          },
+                          {
+                              "name":  "INOSITOL MYO \u0026 D-CHIRO POLVO 227GR. DEAL SUPPLEMENT",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/INOSITOL MYO \u0026 D-CHIRO POLVO 227GR. DEAL SUPPLEMENT.jpeg"
                           },
                           {
                               "name":  "ISO PHORM 5LB CHOCOLATE BLANCO Y MANTEQUILLA DE MANI",
