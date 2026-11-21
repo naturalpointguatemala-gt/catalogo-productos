@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-21T19:53:09.6734445Z",
+    "generatedAt":  "2026-11-21T20:09:07.9559628Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1471,6 +1471,14 @@
                        "src":  "images/ORTIGA.png",
                        "stock":  21,
                        "offerPrice":  70,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "OXIDO NITRICO",
+                       "folder":  "General",
+                       "src":  "images/OXIDO NITRICO.jpeg",
+                       "stock":  20,
+                       "offerPrice":  280,
                        "stockLinked":  true
                    },
                    {
@@ -2970,11 +2978,6 @@
                               "name":  "OMEGA 3 NORDIC 90 CAPS",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/OMEGA 3 NORDIC 90 CAPS.jpeg"
-                          },
-                          {
-                              "name":  "OXIDO NITRICO",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/OXIDO NITRICO.jpeg"
                           },
                           {
                               "name":  "PRE ENTRENO VENOM ESSENTIAL  30 SERVIDAS DRAGON PHARMA MANGONADA",
