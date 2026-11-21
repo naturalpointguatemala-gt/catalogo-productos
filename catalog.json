@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-21T18:25:44.3436757Z",
+    "generatedAt":  "2026-11-21T18:28:02.2752766Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -645,7 +645,7 @@
                        "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
                        "folder":  "General",
                        "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
-                       "stock":  58,
+                       "stock":  57,
                        "offerPrice":  265,
                        "stockLinked":  true
                    },
@@ -661,7 +661,7 @@
                        "name":  "ENZIMAS DE PAPAYA",
                        "folder":  "General",
                        "src":  "images/ENZIMAS DE PAPAYA.png",
-                       "stock":  19,
+                       "stock":  18,
                        "offerPrice":  100,
                        "stockLinked":  true
                    },
