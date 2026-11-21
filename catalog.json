@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-21T19:02:47.3422742Z",
+    "generatedAt":  "2026-11-21T19:13:05.3481001Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -317,7 +317,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  149,
+                       "stock":  148,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -437,7 +437,7 @@
                        "name":  "CITRATO DE MAGNESIO 500MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO 500MG  60 CAPS..jpeg",
-                       "stock":  298,
+                       "stock":  297,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -621,7 +621,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  706,
+                       "stock":  705,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
