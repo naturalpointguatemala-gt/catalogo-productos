@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-21T21:52:52.6376981Z",
+    "generatedAt":  "2026-11-21T21:58:29.3738515Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -549,7 +549,7 @@
                        "name":  "COLÁGENO HIDROLIZADO CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/COLÁGENO HIDROLIZADO CÁPSULAS.jpeg",
-                       "stock":  6,
+                       "stock":  14,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -965,7 +965,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  129,
+                       "stock":  175,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
@@ -1773,7 +1773,7 @@
                        "name":  "VINAGRE DE MANZANA 500MG  90 CAPS.",
                        "folder":  "General",
                        "src":  "images/VINAGRE DE MANZANA 500MG  90 CAPS..jpg",
-                       "stock":  5,
+                       "stock":  18,
                        "offerPrice":  100,
                        "stockLinked":  true
                    },
