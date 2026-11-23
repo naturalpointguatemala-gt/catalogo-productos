@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-23T22:14:25.0277702Z",
+    "generatedAt":  "2026-11-23T22:19:29.8071513Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -685,7 +685,7 @@
                        "name":  "ESPIRULINA",
                        "folder":  "General",
                        "src":  "images/ESPIRULINA.jpeg",
-                       "stock":  18,
+                       "stock":  16,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
@@ -1045,7 +1045,7 @@
                        "name":  "L-CARNITINA CAPSULAS",
                        "folder":  "General",
                        "src":  "images/L-CARNITINA CAPSULAS.jpeg",
-                       "stock":  9,
+                       "stock":  8,
                        "offerPrice":  145,
                        "stockLinked":  true
                    },
@@ -1125,7 +1125,7 @@
                        "name":  "LONGJACK TONGKAT ALI  90 CAPS.  FUTUREBIOTICS",
                        "folder":  "General",
                        "src":  "images/LONGJACK TONGKAT ALI  90 CAPS.  FUTUREBIOTICS.jpeg",
-                       "stock":  3,
+                       "stock":  2,
                        "offerPrice":  220,
                        "stockLinked":  true
                    },
