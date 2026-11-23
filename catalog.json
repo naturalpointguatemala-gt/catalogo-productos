@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-23T18:54:38.7340869Z",
+    "generatedAt":  "2026-11-23T19:01:20.9928199Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -317,7 +317,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  165,
+                       "stock":  164,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -629,7 +629,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  712,
+                       "stock":  711,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -725,7 +725,7 @@
                        "name":  "GINKGO BILOBA",
                        "folder":  "General",
                        "src":  "images/GINKGO BILOBA.png",
-                       "stock":  38,
+                       "stock":  36,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
