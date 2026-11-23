@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-23T21:41:59.4247775Z",
+    "generatedAt":  "2026-11-23T21:45:36.8633660Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -69,7 +69,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  48,
+                       "stock":  47,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -965,7 +965,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  170,
+                       "stock":  171,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
