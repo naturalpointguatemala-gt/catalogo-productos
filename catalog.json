@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-23T18:36:33.1701763Z",
+    "generatedAt":  "2026-11-23T18:45:08.0668274Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -269,7 +269,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1461,
+                       "stock":  -1462,
                        "offerPrice":  0,
                        "stockLinked":  true
                    },
@@ -317,7 +317,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  167,
+                       "stock":  166,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -629,7 +629,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  714,
+                       "stock":  713,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -2093,7 +2093,7 @@
                        "name":  "CREATINA DRAGON 60SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON 60SERVIDAS.jpeg",
-                       "stock":  25,
+                       "stock":  24,
                        "offerPrice":  325,
                        "stockLinked":  true
                    },
