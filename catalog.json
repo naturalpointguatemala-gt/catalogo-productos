@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-23T19:55:25.8764338Z",
+    "generatedAt":  "2026-11-23T20:04:12.7829581Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -653,7 +653,7 @@
                        "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
                        "folder":  "General",
                        "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
-                       "stock":  48,
+                       "stock":  47,
                        "offerPrice":  265,
                        "stockLinked":  true
                    },
@@ -965,7 +965,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  173,
+                       "stock":  171,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
