@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-23T21:33:10.7587456Z",
+    "generatedAt":  "2026-11-23T21:41:59.4247775Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1229,7 +1229,7 @@
                        "name":  "MELENA DE LEON EXTRACTO",
                        "folder":  "General",
                        "src":  "images/MELENA DE LEON EXTRACTO.jpeg",
-                       "stock":  11,
+                       "stock":  10,
                        "offerPrice":  130,
                        "stockLinked":  true
                    },
