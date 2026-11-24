@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-24T21:34:32.3058334Z",
+    "generatedAt":  "2026-11-24T21:43:56.1646417Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -317,7 +317,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  143,
+                       "stock":  142,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -981,7 +981,7 @@
                        "name":  "JABÓN DE ARROZ",
                        "folder":  "General",
                        "src":  "images/JABÓN DE ARROZ.png",
-                       "stock":  12,
+                       "stock":  11,
                        "offerPrice":  50,
                        "stockLinked":  true
                    },
@@ -989,7 +989,7 @@
                        "name":  "JABÓN DE CÚRCUMA",
                        "folder":  "General",
                        "src":  "images/JABÓN DE CÚRCUMA.png",
-                       "stock":  41,
+                       "stock":  40,
                        "offerPrice":  50,
                        "stockLinked":  true
                    },
