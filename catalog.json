@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-24T18:03:24.6032451Z",
+    "generatedAt":  "2026-11-24T18:08:18.2864142Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -317,7 +317,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  161,
+                       "stock":  159,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -653,7 +653,7 @@
                        "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
                        "folder":  "General",
                        "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
-                       "stock":  31,
+                       "stock":  30,
                        "offerPrice":  265,
                        "stockLinked":  true
                    },
