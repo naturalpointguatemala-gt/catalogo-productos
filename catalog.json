@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-24T16:52:20.1215231Z",
+    "generatedAt":  "2026-11-24T16:57:54.4491911Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -317,7 +317,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  171,
+                       "stock":  169,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -629,7 +629,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  704,
+                       "stock":  702,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1101,7 +1101,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  20,
+                       "stock":  19,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -2629,7 +2629,7 @@
                        "name":  "PROTEÍNA KING WHEY SPORT  51 SERVIDAS CHOCOLATE MILK RONNIE COLEMAN",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA KING WHEY SPORT  51 SERVIDAS CHOCOLATE MILK RONNIE COLEMAN.jpeg",
-                       "stock":  11,
+                       "stock":  10,
                        "offerPrice":  565,
                        "stockLinked":  true
                    },
