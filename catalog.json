@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-24T17:03:26.1665779Z",
+    "generatedAt":  "2026-11-24T17:34:17.6444227Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -653,7 +653,7 @@
                        "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
                        "folder":  "General",
                        "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
-                       "stock":  32,
+                       "stock":  31,
                        "offerPrice":  265,
                        "stockLinked":  true
                    },
@@ -685,7 +685,7 @@
                        "name":  "ESPIRULINA",
                        "folder":  "General",
                        "src":  "images/ESPIRULINA.jpeg",
-                       "stock":  16,
+                       "stock":  15,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
@@ -1125,7 +1125,7 @@
                        "name":  "LONGJACK TONGKAT ALI  90 CAPS.  FUTUREBIOTICS",
                        "folder":  "General",
                        "src":  "images/LONGJACK TONGKAT ALI  90 CAPS.  FUTUREBIOTICS.jpeg",
-                       "stock":  1,
+                       "stock":  0,
                        "offerPrice":  220,
                        "stockLinked":  true
                    },
