@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-24T22:49:41.0137827Z",
+    "generatedAt":  "2026-11-24T23:03:05.5220566Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL",
                        "folder":  "General",
                        "src":  "images/AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL.jpeg",
-                       "stock":  98,
+                       "stock":  97,
                        "offerPrice":  195,
                        "stockLinked":  true
                    },
@@ -317,7 +317,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  132,
+                       "stock":  130,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -629,7 +629,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  692,
+                       "stock":  690,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -653,7 +653,7 @@
                        "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
                        "folder":  "General",
                        "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
-                       "stock":  26,
+                       "stock":  25,
                        "offerPrice":  265,
                        "stockLinked":  true
                    },
@@ -965,7 +965,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  171,
+                       "stock":  170,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
