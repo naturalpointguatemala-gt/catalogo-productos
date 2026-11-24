@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-24T19:25:43.9522737Z",
+    "generatedAt":  "2026-11-24T19:31:31.0026551Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -653,7 +653,7 @@
                        "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
                        "folder":  "General",
                        "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
-                       "stock":  29,
+                       "stock":  28,
                        "offerPrice":  265,
                        "stockLinked":  true
                    },
@@ -1029,7 +1029,7 @@
                        "name":  "L-ARGININA 500MG  90 CAPS.",
                        "folder":  "General",
                        "src":  "images/L-ARGININA 500MG  90 CAPS..jpeg",
-                       "stock":  44,
+                       "stock":  43,
                        "offerPrice":  110,
                        "stockLinked":  true
                    },
