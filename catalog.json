@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-24T17:54:53.4054942Z",
+    "generatedAt":  "2026-11-24T18:00:13.5837637Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -533,7 +533,7 @@
                        "name":  "COLÁGENO 6,000MG  290 TABS YOUTHEORY",
                        "folder":  "General",
                        "src":  "images/COLÁGENO 6,000MG  290 TABS YOUTHEORY.jpeg",
-                       "stock":  9,
+                       "stock":  8,
                        "offerPrice":  210,
                        "stockLinked":  true
                    },
@@ -557,7 +557,7 @@
                        "name":  "COLÁGENO PEPTIDOS  1LB VITAWEL",
                        "folder":  "General",
                        "src":  "images/COLÁGENO PEPTIDOS  1LB VITAWEL.jpeg",
-                       "stock":  4,
+                       "stock":  3,
                        "offerPrice":  380,
                        "stockLinked":  true
                    },
