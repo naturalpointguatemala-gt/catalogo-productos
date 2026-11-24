@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-24T18:08:18.2864142Z",
+    "generatedAt":  "2026-11-24T18:15:20.8764414Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -965,7 +965,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  173,
+                       "stock":  172,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
@@ -1869,7 +1869,7 @@
                        "name":  "VITAMINA D3 CON K2",
                        "folder":  "General",
                        "src":  "images/VITAMINA D3 CON K2.jpeg",
-                       "stock":  19,
+                       "stock":  18,
                        "offerPrice":  150,
                        "stockLinked":  true
                    },
