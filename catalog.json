@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-24T19:05:35.3714028Z",
+    "generatedAt":  "2026-11-24T19:09:43.7542707Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1877,7 +1877,7 @@
                        "name":  "VITAMINA E 1000 UI",
                        "folder":  "General",
                        "src":  "images/VITAMINA E 1000 UI.png",
-                       "stock":  6,
+                       "stock":  12,
                        "offerPrice":  180,
                        "stockLinked":  true
                    },
