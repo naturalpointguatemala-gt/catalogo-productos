@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-24T17:37:03.3908289Z",
+    "generatedAt":  "2026-11-24T17:41:19.7868620Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -2490,14 +2490,6 @@
                        "stockLinked":  true
                    },
                    {
-                       "name":  "PRE-ENTRENO RAW BUM ESSENTIALS 30 SERVIDAS MANGO CHAMOY",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO RAW BUM ESSENTIALS 30 SERVIDAS MANGO CHAMOY.jpeg",
-                       "stock":  1,
-                       "offerPrice":  335,
-                       "stockLinked":  true
-                   },
-                   {
                        "name":  "PRE-ENTRENO VENOM INFERNO  20 SERVIDAS PEPINO LIMÓN CHAMOY DRAGON PHARMA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO VENOM INFERNO  20 SERVIDAS PEPINO LIMÓN CHAMOY DRAGON PHARMA.jpeg",
@@ -3013,6 +3005,11 @@
                               "name":  "PRE-ENTRENO RAW BUM ESSENTIALS 30 SERVIDAS BLUE RASPBERRY",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PRE-ENTRENO RAW BUM ESSENTIALS 30 SERVIDAS BLUE RASPBERRY.jpeg"
+                          },
+                          {
+                              "name":  "PRE-ENTRENO RAW BUM ESSENTIALS 30 SERVIDAS MANGO CHAMOY",
+                              "folder":  "Productos sin existencia",
+                              "src":  "images_sin_existencia/PRE-ENTRENO RAW BUM ESSENTIALS 30 SERVIDAS MANGO CHAMOY.jpeg"
                           },
                           {
                               "name":  "PREENTRENO C4 SPORT",
