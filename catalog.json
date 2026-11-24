@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-24T19:50:03.7896511Z",
+    "generatedAt":  "2026-11-24T20:01:50.6946390Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -69,7 +69,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  36,
+                       "stock":  35,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -221,7 +221,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  21,
+                       "stock":  19,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -317,7 +317,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  152,
+                       "stock":  150,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -629,7 +629,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  698,
+                       "stock":  696,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1101,7 +1101,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  18,
+                       "stock":  17,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -2197,7 +2197,7 @@
                        "name":  "CREATINA NUTREX 1KG  200 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 1KG  200 SERVIDAS.jpeg",
-                       "stock":  8,
+                       "stock":  7,
                        "offerPrice":  415,
                        "stockLinked":  true
                    },
