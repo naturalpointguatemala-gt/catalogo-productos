@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-24T18:15:20.8764414Z",
+    "generatedAt":  "2026-11-24T18:26:10.7609678Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -317,7 +317,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  159,
+                       "stock":  156,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -1101,7 +1101,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  19,
+                       "stock":  18,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
