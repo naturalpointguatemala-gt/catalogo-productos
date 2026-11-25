@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-25T21:30:28.0282320Z",
+    "generatedAt":  "2026-11-25T21:38:16.4389310Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -125,7 +125,7 @@
                        "name":  "ALCACHOFA",
                        "folder":  "General",
                        "src":  "images/ALCACHOFA.jpeg",
-                       "stock":  24,
+                       "stock":  23,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
