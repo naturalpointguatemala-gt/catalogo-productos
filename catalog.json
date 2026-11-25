@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-25T17:25:41.7679966Z",
+    "generatedAt":  "2026-11-25T17:46:28.8277745Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -2101,7 +2101,7 @@
                        "name":  "CREATINA DRAGON PHARMA  30 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA  30 SERVIDAS.jpeg",
-                       "stock":  75,
+                       "stock":  74,
                        "offerPrice":  235,
                        "stockLinked":  true
                    },
@@ -2541,7 +2541,7 @@
                        "name":  "PREENTRENO VENOM ESSENTIAL UVA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PREENTRENO VENOM ESSENTIAL UVA.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "offerPrice":  350,
                        "stockLinked":  true
                    },
@@ -2645,7 +2645,7 @@
                        "name":  "PROTEÍNA WHEY PHORM  25 SERVIDAS HORCHATA DRAGON PHARMA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PROTEÍNA WHEY PHORM  25 SERVIDAS HORCHATA DRAGON PHARMA.jpeg",
-                       "stock":  11,
+                       "stock":  10,
                        "offerPrice":  465,
                        "stockLinked":  true
                    }
