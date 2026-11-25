@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-25T19:12:35.8649295Z",
+    "generatedAt":  "2026-11-25T19:19:37.2928594Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -693,7 +693,7 @@
                        "name":  "FENOGRECO",
                        "folder":  "General",
                        "src":  "images/FENOGRECO.png",
-                       "stock":  8,
+                       "stock":  6,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
