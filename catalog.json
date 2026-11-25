@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-25T22:35:12.2506752Z",
+    "generatedAt":  "2026-11-25T22:46:10.9703674Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -181,7 +181,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  144,
+                       "stock":  143,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -445,7 +445,7 @@
                        "name":  "CITRATO DE MAGNESIO 500MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO 500MG  60 CAPS..jpeg",
-                       "stock":  287,
+                       "stock":  286,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -1261,7 +1261,7 @@
                        "name":  "MORINGA 500MG  90 CAPS.",
                        "folder":  "General",
                        "src":  "images/MORINGA 500MG  90 CAPS..jpg",
-                       "stock":  10,
+                       "stock":  8,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -1493,7 +1493,7 @@
                        "name":  "PASIFLORA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/PASIFLORA COMPUESTA.jpeg",
-                       "stock":  9,
+                       "stock":  7,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
