@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-25T18:10:25.1055047Z",
+    "generatedAt":  "2026-11-25T18:45:44.7541401Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -704,6 +704,14 @@
                        "stock":  2,
                        "offerPrice":  350,
                        "stockLinked":  true
+                   },
+                   {
+                       "name":  "Frasco con precio y 150 gramos",
+                       "folder":  "General",
+                       "src":  "images/Frasco con precio y 150 gramos.png",
+                       "stock":  null,
+                       "offerPrice":  null,
+                       "stockLinked":  false
                    },
                    {
                        "name":  "GABA 750MG  240 CAPS NUTRICOST",
@@ -2240,14 +2248,6 @@
                        "stock":  11,
                        "offerPrice":  470,
                        "stockLinked":  true
-                   },
-                   {
-                       "name":  "Frasco con precio y 150 gramos",
-                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
-                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/Frasco con precio y 150 gramos.png",
-                       "stock":  null,
-                       "offerPrice":  null,
-                       "stockLinked":  false
                    },
                    {
                        "name":  "GANADOR DE PESO BULK MUSCLE XL CHOCOLATE",
