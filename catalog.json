@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-25T23:20:11.4215773Z",
+    "generatedAt":  "2026-11-25T23:22:42.9699198Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -69,7 +69,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  25,
+                       "stock":  24,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -541,7 +541,7 @@
                        "name":  "COLÁGENO EN POLVO CON BIOTINA",
                        "folder":  "General",
                        "src":  "images/COLÁGENO EN POLVO CON BIOTINA.jpg",
-                       "stock":  7,
+                       "stock":  6,
                        "offerPrice":  140,
                        "stockLinked":  true
                    },
