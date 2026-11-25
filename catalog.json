@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-25T20:08:56.7327932Z",
+    "generatedAt":  "2026-11-25T20:24:26.0880325Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -317,7 +317,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  167,
+                       "stock":  164,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -629,7 +629,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  709,
+                       "stock":  708,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -653,7 +653,7 @@
                        "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
                        "folder":  "General",
                        "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
-                       "stock":  21,
+                       "stock":  20,
                        "offerPrice":  265,
                        "stockLinked":  true
                    },
@@ -2285,7 +2285,7 @@
                        "name":  "GANADORA DE PESO MUTANT MASS EXTREME 2500  32 SERVIDAS VAINILLA ICE CREAM",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/GANADORA DE PESO MUTANT MASS EXTREME 2500  32 SERVIDAS VAINILLA ICE CREAM.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "offerPrice":  975,
                        "stockLinked":  true
                    },
@@ -2517,7 +2517,7 @@
                        "name":  "PRE-ENTRENO VENOM INFERNO  20 SERVIDAS TAMARINDO CHAMOY DRAGON PHARMA",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/PRE-ENTRENO VENOM INFERNO  20 SERVIDAS TAMARINDO CHAMOY DRAGON PHARMA.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "offerPrice":  350,
                        "stockLinked":  true
                    },
