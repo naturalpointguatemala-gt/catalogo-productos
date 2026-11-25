@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-25T17:46:28.8277745Z",
+    "generatedAt":  "2026-11-25T17:54:49.0138174Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -2240,6 +2240,14 @@
                        "stock":  11,
                        "offerPrice":  470,
                        "stockLinked":  true
+                   },
+                   {
+                       "name":  "Frasco con precio y 150 gramos",
+                       "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
+                       "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/Frasco con precio y 150 gramos.png",
+                       "stock":  null,
+                       "offerPrice":  null,
+                       "stockLinked":  false
                    },
                    {
                        "name":  "GANADOR DE PESO BULK MUSCLE XL CHOCOLATE",
