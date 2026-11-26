@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-26T18:59:59.0600392Z",
+    "generatedAt":  "2026-11-26T19:07:05.5446526Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1741,7 +1741,7 @@
                        "name":  "URO PROBIOTICOS VAGINALES",
                        "folder":  "General",
                        "src":  "images/URO PROBIOTICOS VAGINALES.jpeg",
-                       "stock":  3,
+                       "stock":  2,
                        "offerPrice":  405,
                        "stockLinked":  true
                    },
@@ -1813,7 +1813,7 @@
                        "name":  "VITAMINA B3 (NIACINAMIDA)",
                        "folder":  "General",
                        "src":  "images/VITAMINA B3 (NIACINAMIDA).jpeg",
-                       "stock":  3,
+                       "stock":  2,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
