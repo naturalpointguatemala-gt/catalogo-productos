@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-26T18:49:19.3956587Z",
+    "generatedAt":  "2026-11-26T18:59:59.0600392Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -133,7 +133,7 @@
                        "name":  "ALOE VERA",
                        "folder":  "General",
                        "src":  "images/ALOE VERA.jpeg",
-                       "stock":  10,
+                       "stock":  9,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -181,7 +181,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  141,
+                       "stock":  140,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -221,7 +221,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  15,
+                       "stock":  14,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -317,7 +317,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  131,
+                       "stock":  130,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -445,7 +445,7 @@
                        "name":  "CITRATO DE MAGNESIO 500MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO 500MG  60 CAPS..jpeg",
-                       "stock":  284,
+                       "stock":  283,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
