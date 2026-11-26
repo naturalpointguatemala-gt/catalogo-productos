@@ -1,11 +1,11 @@
 ﻿{
-    "generatedAt":  "2026-11-25T23:45:54.8872351Z",
+    "generatedAt":  "2026-11-26T00:12:46.0376780Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/ABEDUL 400MG  60 CAPS..jpeg",
-                       "stock":  56,
+                       "stock":  55,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -629,7 +629,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  697,
+                       "stock":  696,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
