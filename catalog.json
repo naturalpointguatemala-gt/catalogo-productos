@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-26T23:32:53.9627019Z",
+    "generatedAt":  "2026-11-26T23:39:56.5648885Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -493,7 +493,7 @@
                        "name":  "CLORURO DE MAGNESIO",
                        "folder":  "General",
                        "src":  "images/CLORURO DE MAGNESIO.jpeg",
-                       "stock":  6,
+                       "stock":  5,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
