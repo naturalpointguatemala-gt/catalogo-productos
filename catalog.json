@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-26T19:25:24.2153189Z",
+    "generatedAt":  "2026-11-26T19:36:51.4320086Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -317,7 +317,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  130,
+                       "stock":  128,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -397,7 +397,7 @@
                        "name":  "CENTRUM WOMEN +50",
                        "folder":  "General",
                        "src":  "images/CENTRUM WOMEN +50.jpeg",
-                       "stock":  3,
+                       "stock":  2,
                        "offerPrice":  340,
                        "stockLinked":  true
                    },
@@ -965,7 +965,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  166,
+                       "stock":  165,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
@@ -1941,7 +1941,7 @@
                        "name":  "VITEX",
                        "folder":  "General",
                        "src":  "images/VITEX.png",
-                       "stock":  21,
+                       "stock":  20,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -1989,7 +1989,7 @@
                        "name":  "ZARZA PARRILLA",
                        "folder":  "General",
                        "src":  "images/ZARZA PARRILLA.jpeg",
-                       "stock":  28,
+                       "stock":  27,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
