@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-26T22:32:45.4874090Z",
+    "generatedAt":  "2026-11-26T22:35:57.7193997Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -181,7 +181,7 @@
                        "name":  "ASHWAGANDHA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA.jpeg",
-                       "stock":  138,
+                       "stock":  137,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -317,7 +317,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  117,
+                       "stock":  116,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -445,7 +445,7 @@
                        "name":  "CITRATO DE MAGNESIO 500MG  60 CAPS.",
                        "folder":  "General",
                        "src":  "images/CITRATO DE MAGNESIO 500MG  60 CAPS..jpeg",
-                       "stock":  283,
+                       "stock":  282,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -629,7 +629,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  681,
+                       "stock":  680,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1949,7 +1949,7 @@
                        "name":  "VIU COLÁGENO + CALCIO  300GR KIWI FRESA",
                        "folder":  "General",
                        "src":  "images/VIU COLÁGENO + CALCIO  300GR KIWI FRESA.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "offerPrice":  250,
                        "stockLinked":  true
                    },
