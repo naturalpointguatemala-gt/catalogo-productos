@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-26T16:52:04.8984581Z",
+    "generatedAt":  "2026-11-26T16:54:32.8798858Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1119,6 +1119,14 @@
                        "src":  "images/LIPOSOMAL IMMUNE  120 SOFTGELS CYBER CERIX.jpeg",
                        "stock":  6,
                        "offerPrice":  250,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "LONGJACK TONGKAT ALI  90 CAPS.  FUTUREBIOTICS",
+                       "folder":  "General",
+                       "src":  "images/LONGJACK TONGKAT ALI  90 CAPS.  FUTUREBIOTICS.jpeg",
+                       "stock":  1,
+                       "offerPrice":  220,
                        "stockLinked":  true
                    },
                    {
@@ -2924,11 +2932,6 @@
                               "name":  "LIPO 6 BLACK QUEMADOR DE GRASA ULTRA  60 CAPS NUTREX",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/LIPO 6 BLACK QUEMADOR DE GRASA ULTRA  60 CAPS NUTREX.jpeg"
-                          },
-                          {
-                              "name":  "LONGJACK TONGKAT ALI  90 CAPS.  FUTUREBIOTICS",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/LONGJACK TONGKAT ALI  90 CAPS.  FUTUREBIOTICS.jpeg"
                           },
                           {
                               "name":  "MAGNESIO COMPLEX",
