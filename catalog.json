@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-26T21:49:09.8976242Z",
+    "generatedAt":  "2026-11-26T21:52:49.5101139Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -21,7 +21,7 @@
                        "name":  "ACEITE DE COCO",
                        "folder":  "General",
                        "src":  "images/ACEITE DE COCO.jpeg",
-                       "stock":  6,
+                       "stock":  5,
                        "offerPrice":  300,
                        "stockLinked":  true
                    },
@@ -1325,7 +1325,7 @@
                        "name":  "NIACIN VITAMINA B3 NUTRICOST",
                        "folder":  "General",
                        "src":  "images/NIACIN VITAMINA B3 NUTRICOST.jpeg",
-                       "stock":  2,
+                       "stock":  3,
                        "offerPrice":  240,
                        "stockLinked":  true
                    },
@@ -1813,7 +1813,7 @@
                        "name":  "VITAMINA B3 (NIACINAMIDA)",
                        "folder":  "General",
                        "src":  "images/VITAMINA B3 (NIACINAMIDA).jpeg",
-                       "stock":  3,
+                       "stock":  2,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
