@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-26T19:07:05.5446526Z",
+    "generatedAt":  "2026-11-26T19:15:11.8599494Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL",
                        "folder":  "General",
                        "src":  "images/AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL.jpeg",
-                       "stock":  88,
+                       "stock":  87,
                        "offerPrice":  195,
                        "stockLinked":  true
                    },
@@ -653,7 +653,7 @@
                        "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
                        "folder":  "General",
                        "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
-                       "stock":  179,
+                       "stock":  178,
                        "offerPrice":  265,
                        "stockLinked":  true
                    },
