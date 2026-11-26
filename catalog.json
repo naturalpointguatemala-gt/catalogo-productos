@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-26T19:36:51.4320086Z",
+    "generatedAt":  "2026-11-26T19:44:34.3028250Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -557,7 +557,7 @@
                        "name":  "COLÁGENO PEPTIDOS  1LB VITAWEL",
                        "folder":  "General",
                        "src":  "images/COLÁGENO PEPTIDOS  1LB VITAWEL.jpeg",
-                       "stock":  2,
+                       "stock":  1,
                        "offerPrice":  380,
                        "stockLinked":  true
                    },
@@ -1733,7 +1733,7 @@
                        "name":  "ULTRA OMEGA 3 NOW X 90",
                        "folder":  "General",
                        "src":  "images/ULTRA OMEGA 3 NOW X 90.jpeg",
-                       "stock":  11,
+                       "stock":  10,
                        "offerPrice":  345,
                        "stockLinked":  true
                    },
