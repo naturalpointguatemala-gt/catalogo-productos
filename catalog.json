@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-26T21:39:09.1849756Z",
+    "generatedAt":  "2026-11-26T21:49:09.8976242Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL",
                        "folder":  "General",
                        "src":  "images/AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL.jpeg",
-                       "stock":  86,
+                       "stock":  85,
                        "offerPrice":  195,
                        "stockLinked":  true
                    },
@@ -269,7 +269,7 @@
                        "name":  "CALLO DERMA COMBO",
                        "folder":  "General",
                        "src":  "images/CALLO DERMA COMBO.png",
-                       "stock":  -1466,
+                       "stock":  -1468,
                        "offerPrice":  0,
                        "stockLinked":  true
                    },
