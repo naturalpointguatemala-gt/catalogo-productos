@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-26T22:43:50.0619714Z",
+    "generatedAt":  "2026-11-26T22:45:57.8742857Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1605,7 +1605,7 @@
                        "name":  "RESVERATROL",
                        "folder":  "General",
                        "src":  "images/RESVERATROL.png",
-                       "stock":  36,
+                       "stock":  34,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
