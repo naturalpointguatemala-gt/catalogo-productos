@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-26T17:14:26.7021197Z",
+    "generatedAt":  "2026-11-26T17:22:54.2977211Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -157,7 +157,7 @@
                        "name":  "ASHWAGANDHA AMERICANA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA AMERICANA.jpeg",
-                       "stock":  42,
+                       "stock":  41,
                        "offerPrice":  225,
                        "stockLinked":  true
                    },
@@ -317,7 +317,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  139,
+                       "stock":  138,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -629,7 +629,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  692,
+                       "stock":  691,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -1607,6 +1607,14 @@
                        "src":  "images/RESVERATROL.png",
                        "stock":  36,
                        "offerPrice":  120,
+                       "stockLinked":  true
+                   },
+                   {
+                       "name":  "RHODIOLA",
+                       "folder":  "General",
+                       "src":  "images/RHODIOLA.png",
+                       "stock":  0,
+                       "offerPrice":  80,
                        "stockLinked":  true
                    },
                    {
@@ -3267,11 +3275,6 @@
                               "name":  "PSYCHOTIC GOLD SANDIA",
                               "folder":  "Productos sin existencia",
                               "src":  "images_sin_existencia/PSYCHOTIC GOLD SANDIA.png"
-                          },
-                          {
-                              "name":  "RHODIOLA",
-                              "folder":  "Productos sin existencia",
-                              "src":  "images_sin_existencia/RHODIOLA.png"
                           },
                           {
                               "name":  "SABORIZANTE SIN CALORÍAS CHOCOLATE",
