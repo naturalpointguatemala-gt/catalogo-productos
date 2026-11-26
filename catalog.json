@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-26T19:59:45.0687737Z",
+    "generatedAt":  "2026-11-26T20:03:18.3430089Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -69,7 +69,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  23,
+                       "stock":  22,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
