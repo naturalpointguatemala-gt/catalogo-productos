@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-27T18:23:43.1751422Z",
+    "generatedAt":  "2026-11-27T18:32:18.4689640Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -69,7 +69,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  15,
+                       "stock":  14,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -549,7 +549,7 @@
                        "name":  "COLÁGENO HIDROLIZADO CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/COLÁGENO HIDROLIZADO CÁPSULAS.jpeg",
-                       "stock":  14,
+                       "stock":  13,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -653,7 +653,7 @@
                        "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
                        "folder":  "General",
                        "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
-                       "stock":  163,
+                       "stock":  162,
                        "offerPrice":  265,
                        "stockLinked":  true
                    },
@@ -1669,7 +1669,7 @@
                        "name":  "SHILAJIT ULTRA COMPLEX NP",
                        "folder":  "General",
                        "src":  "images/SHILAJIT ULTRA COMPLEX NP.jpeg",
-                       "stock":  24,
+                       "stock":  23,
                        "offerPrice":  165,
                        "stockLinked":  true
                    },
