@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-27T21:17:50.3235889Z",
+    "generatedAt":  "2026-11-27T21:24:38.8377995Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -1133,7 +1133,7 @@
                        "name":  "LONJACK POINT",
                        "folder":  "General",
                        "src":  "images/LONJACK POINT.jpeg",
-                       "stock":  28,
+                       "stock":  27,
                        "offerPrice":  180,
                        "stockLinked":  true
                    },
@@ -1669,7 +1669,7 @@
                        "name":  "SHILAJIT ULTRA COMPLEX NP",
                        "folder":  "General",
                        "src":  "images/SHILAJIT ULTRA COMPLEX NP.jpeg",
-                       "stock":  23,
+                       "stock":  24,
                        "offerPrice":  165,
                        "stockLinked":  true
                    },
