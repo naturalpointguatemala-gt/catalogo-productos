@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-27T17:42:39.1317485Z",
+    "generatedAt":  "2026-11-27T17:44:10.7264276Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -69,7 +69,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  15,
+                       "stock":  16,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -221,7 +221,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  10,
+                       "stock":  30,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -317,7 +317,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  89,
+                       "stock":  134,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -653,7 +653,7 @@
                        "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
                        "folder":  "General",
                        "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
-                       "stock":  166,
+                       "stock":  168,
                        "offerPrice":  265,
                        "stockLinked":  true
                    },
@@ -1613,7 +1613,7 @@
                        "name":  "RHODIOLA",
                        "folder":  "General",
                        "src":  "images/RHODIOLA.png",
-                       "stock":  0,
+                       "stock":  13,
                        "offerPrice":  80,
                        "stockLinked":  true
                    },
@@ -2221,7 +2221,7 @@
                        "name":  "CREATINA NUTREX 300  60 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 300  60 SERVIDAS.jpeg",
-                       "stock":  2,
+                       "stock":  3,
                        "offerPrice":  275,
                        "stockLinked":  true
                    },
