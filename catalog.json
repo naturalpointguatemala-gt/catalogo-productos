@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-27T19:37:22.0559484Z",
+    "generatedAt":  "2026-11-27T19:44:52.5322370Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -69,7 +69,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  13,
+                       "stock":  12,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -2205,7 +2205,7 @@
                        "name":  "CREATINA NUTREX 150G  30 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 150G  30 SERVIDAS.jpeg",
-                       "stock":  75,
+                       "stock":  73,
                        "offerPrice":  165,
                        "stockLinked":  true
                    },
