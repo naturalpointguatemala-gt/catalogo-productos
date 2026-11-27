@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-27T22:03:10.5842149Z",
+    "generatedAt":  "2026-11-27T22:16:24.1104396Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -221,7 +221,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  28,
+                       "stock":  27,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -965,7 +965,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  162,
+                       "stock":  161,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
@@ -2181,7 +2181,7 @@
                        "name":  "CREATINA MONOHIDRATADA  90 SERVIDAS BIRDMAN",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA MONOHIDRATADA  90 SERVIDAS BIRDMAN.jpeg",
-                       "stock":  7,
+                       "stock":  6,
                        "offerPrice":  390,
                        "stockLinked":  true
                    },
@@ -2205,7 +2205,7 @@
                        "name":  "CREATINA NUTREX 150G  30 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 150G  30 SERVIDAS.jpeg",
-                       "stock":  65,
+                       "stock":  63,
                        "offerPrice":  165,
                        "stockLinked":  true
                    },
