@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-27T00:07:37.3417325Z",
+    "generatedAt":  "2026-11-27T17:27:57.5209592Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -61,7 +61,7 @@
                        "name":  "AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL",
                        "folder":  "General",
                        "src":  "images/AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL.jpeg",
-                       "stock":  83,
+                       "stock":  81,
                        "offerPrice":  195,
                        "stockLinked":  true
                    },
@@ -69,7 +69,7 @@
                        "name":  "AGUAJE COMPUESTO",
                        "folder":  "General",
                        "src":  "images/AGUAJE COMPUESTO.jpeg",
-                       "stock":  19,
+                       "stock":  15,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -221,7 +221,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  12,
+                       "stock":  10,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
@@ -317,7 +317,7 @@
                        "name":  "CARDO MARIANO",
                        "folder":  "General",
                        "src":  "images/CARDO MARIANO.jpeg",
-                       "stock":  102,
+                       "stock":  93,
                        "offerPrice":  75,
                        "stockLinked":  true
                    },
@@ -453,7 +453,7 @@
                        "name":  "CITRATO DE POTASIO",
                        "folder":  "General",
                        "src":  "images/CITRATO DE POTASIO.png",
-                       "stock":  215,
+                       "stock":  213,
                        "offerPrice":  100,
                        "stockLinked":  true
                    },
@@ -629,7 +629,7 @@
                        "name":  "CÚRCUMA CÁPSULAS",
                        "folder":  "General",
                        "src":  "images/CÚRCUMA CÁPSULAS.jpeg",
-                       "stock":  676,
+                       "stock":  670,
                        "offerPrice":  70,
                        "stockLinked":  true
                    },
@@ -653,7 +653,7 @@
                        "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL",
                        "folder":  "General",
                        "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL.jpeg",
-                       "stock":  175,
+                       "stock":  168,
                        "offerPrice":  265,
                        "stockLinked":  true
                    },
@@ -965,7 +965,7 @@
                        "name":  "INOSITOL",
                        "folder":  "General",
                        "src":  "images/INOSITOL.jpeg",
-                       "stock":  165,
+                       "stock":  164,
                        "offerPrice":  120,
                        "stockLinked":  true
                    },
@@ -1101,7 +1101,7 @@
                        "name":  "LINAZA COMPUESTA",
                        "folder":  "General",
                        "src":  "images/LINAZA COMPUESTA.jpeg",
-                       "stock":  13,
+                       "stock":  12,
                        "offerPrice":  160,
                        "stockLinked":  true
                    },
@@ -2109,7 +2109,7 @@
                        "name":  "CREATINA DRAGON PHARMA  30 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA DRAGON PHARMA  30 SERVIDAS.jpeg",
-                       "stock":  72,
+                       "stock":  70,
                        "offerPrice":  235,
                        "stockLinked":  true
                    },
@@ -2205,7 +2205,7 @@
                        "name":  "CREATINA NUTREX 150G  30 SERVIDAS",
                        "folder":  "CATÁLOGO DE SUPLEMENTOS DEPORTIVOS",
                        "src":  "images/CATÁLOGO DE SUPLEMENTOS DEPORTIVOS/CREATINA NUTREX 150G  30 SERVIDAS.jpeg",
-                       "stock":  3,
+                       "stock":  -19,
                        "offerPrice":  165,
                        "stockLinked":  true
                    },
