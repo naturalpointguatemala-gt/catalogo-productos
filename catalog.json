@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-27T21:48:19.0992713Z",
+    "generatedAt":  "2026-11-27T21:52:34.9745833Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS.",
@@ -221,7 +221,7 @@
                        "name":  "BERBERINA",
                        "folder":  "General",
                        "src":  "images/BERBERINA.jpeg",
-                       "stock":  30,
+                       "stock":  28,
                        "offerPrice":  135,
                        "stockLinked":  true
                    },
